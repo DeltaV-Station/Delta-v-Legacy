@@ -1,0 +1,19 @@
+Entries:
+  - author: ZeroDayDaemon
+    changes:
+      - message: Enabled all species types, and added Vulpkanin
+        type: Add
+    id: 1
+    time: '2023-05-09T08:00:00.0000000+00:00'
+  - author: Fireheart
+    changes:
+      - message: Adjusted character name validation
+        type: Tweak
+    id: 2
+    time: '2023-05-11T08:00:00.0000000+00:00'
+  - author: Debug
+    changes:
+      - message: Made the changelog system better
+        type: Add
+    id: 3
+    time: '2023-05-11T08:00:00.0000000+00:00'
