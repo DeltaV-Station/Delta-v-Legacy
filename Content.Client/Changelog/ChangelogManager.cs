@@ -61,7 +61,7 @@ namespace Content.Client.Changelog
 
             MaxTime = changelog.Max(c => c.Time);
 
-            var path = new ResPath($"/changelog_last_seen_{_configManager.GetCVar(CCVars.ServerId)}");
+            var path = new ResPath($"/changelog_last_seen_{_configManager.GetCVar(CCVars.ServerId)}_datetime");
             if(_resource.UserData.TryReadAllText(path, out string? lastReadTimeText))
             {
                 if (Regex.IsMatch(lastReadTimeText,
