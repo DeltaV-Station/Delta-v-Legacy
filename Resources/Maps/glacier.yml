@@ -11286,6 +11286,15 @@ entities:
     - pos: -29.5,46.5
       parent: 1781
       type: Transform
+- proto: BedsheetBrown
+  entities:
+  - uid: 15791
+    components:
+    - pos: -32.5,14.5
+      parent: 1781
+      type: Transform
+    - nextSound: 69.0835081
+      type: EmitSoundOnCollide
 - proto: BedsheetCaptain
   entities:
   - uid: 6336
@@ -70992,7 +71001,7 @@ entities:
   entities:
   - uid: 15774
     components:
-    - pos: -32.517666,14.584096
+    - pos: -31.441662,16.527313
       parent: 1781
       type: Transform
     - nextSound: 4034.5539824
@@ -72518,6 +72527,11 @@ entities:
   - uid: 2457
     components:
     - pos: -31.5,16.5
+      parent: 1781
+      type: Transform
+  - uid: 14448
+    components:
+    - pos: -32.5,14.5
       parent: 1781
       type: Transform
 - proto: MedicalBed
@@ -83744,7 +83758,7 @@ entities:
       type: Transform
     - enabled: False
       type: AmbientSound
-- proto: PoweredlightBlueInterior
+- proto: PoweredLightBlueInterior
   entities:
   - uid: 3200
     components:
@@ -83792,7 +83806,7 @@ entities:
       type: Transform
     - powerLoad: 0
       type: ApcPowerReceiver
-- proto: PoweredlightColoredRed
+- proto: PoweredLightColoredRed
   entities:
   - uid: 1340
     components:
@@ -95086,14 +95100,6 @@ entities:
     components:
     - rot: 3.141592653589793 rad
       pos: -23.5,11.5
-      parent: 1781
-      type: Transform
-    - bodyType: Static
-      type: Physics
-  - uid: 14448
-    components:
-    - rot: 1.5707963267948966 rad
-      pos: -32.5,14.5
       parent: 1781
       type: Transform
     - bodyType: Static
