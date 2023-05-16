@@ -21,7 +21,7 @@
   id: ClothingHandsGlovesRyuzoGauntlets
   name: golden gauntlets
   description: Because sometimes, things just need to be based on your fists.
-  suffix: ADMIN ONLY / DO NOT MAP
+  suffix: ADMIN ONLY, DO NOT MAP
   components:
   - type: Sprite
     sprite: DeltaV/Clothing/Hands/Gloves/ryuzogauntlets.rsi

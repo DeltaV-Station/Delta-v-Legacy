@@ -3,7 +3,7 @@
   id: ClothingOuterCoatRyuzo
   name: Delphic coat
   description: In another universe, The Syndicate are known as the good guys.
-  suffix: ADMIN ONLY / DO NOT MAP
+  suffix: ADMIN ONLY, DO NOT MAP
   components:
   - type: Sprite
     sprite: DeltaV/Clothing/OuterClothing/Coats/ryuzocoat.rsi
