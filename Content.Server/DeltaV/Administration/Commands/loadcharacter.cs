@@ -16,7 +16,7 @@ using Robust.Shared.Prototypes;
 
 namespace Content.Server.Administration.Commands.loadcharacter
 {
-    [AdminCommand(AdminFlags.Debug)]
+    [AdminCommand(AdminFlags.Admin)]
     public sealed class loadcharacter : IConsoleCommand
     {
         [Dependency] private readonly IEntitySystemManager _entitysys = default!;
