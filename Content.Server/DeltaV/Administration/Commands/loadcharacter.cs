@@ -135,11 +135,6 @@ namespace Content.Server.Administration.Commands.loadcharacter
                 var mind = player.ContentData()?.Mind;
                 if (mind == null || mind.UserId == null)
                     return CompletionResult.Empty;
-                _prefs.TryGetCachedPreferences(mind.UserId.Value, out var pref);
-                if (pref == null)
-                {
-                    return CompletionResult.Empty;
-                }
 
                 return CompletionResult.FromHintOptions(_prefs.GetPreferences(mind.UserId.Value).GetCharacterNames(), "Select Character");
             }
