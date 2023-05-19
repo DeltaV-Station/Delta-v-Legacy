@@ -47,6 +47,16 @@
   - type: Speech
     speechSounds: Bass
   - type: Perishable
+  - type: Carriable
+  - type: MovementSpeedModifier
+    baseWalkSpeed : 2.0
+    baseSprintSpeed : 4.0
+  - type: Stamina
+    excess: 95
+  - type: Barotrauma
+    damage:
+      types:
+        Blunt: 0.1
 
 - type: entity
   save: false

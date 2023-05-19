@@ -147,7 +147,7 @@
           type: Dwarf
         damage:
           groups:
-            Brute: -1
+            Brute: -2
       - !type:ChemVomit
         probability: 0.04
         conditions:
