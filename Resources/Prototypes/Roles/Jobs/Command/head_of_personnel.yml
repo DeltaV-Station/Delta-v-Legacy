@@ -17,7 +17,7 @@
       department: Epistemics
       time: 18000
     - !type:DepartmentTimeRequirement
-      department: Service
+      department: Civilian
       time: 10800
     - !type:OverallPlaytimeRequirement
       time: 72000
