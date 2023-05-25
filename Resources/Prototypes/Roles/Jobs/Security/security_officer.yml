@@ -4,8 +4,8 @@
   description: job-description-security
   playTimeTracker: JobSecurityOfficer
   requirements:
-    - !type:RoleTimeRequirement
-      role: SecurityCadet
+    - !type:DepartmentTimeRequirement
+      department: Security
       time: 18000
     - !type:OverallPlaytimeRequirement
       time: 18000
