@@ -8,6 +8,7 @@ using Content.Server.Humanoid.Systems;
 using Content.Server.Mail.Components;
 using Content.Server.Humanoid;
 using Content.Server.Mind.Components;
+using Content.Server.NPC.Components;
 using Content.Server.NPC.Systems;
 using Content.Server.Nuke;
 using Content.Server.Preferences.Managers;
@@ -79,13 +80,17 @@ public sealed class NukeopsRuleSystem : GameRuleSystem<NukeopsRuleComponent>
     private void OnComponentInit(EntityUid uid, NukeOperativeComponent component, ComponentInit args)
     {
         var query = EntityQueryEnumerator<NukeopsRuleComponent, GameRuleComponent>();
+
+        // Begin Nyano-code:
+        // This is so nuclear operatives don't receive mail.
+        // This should be replaced at some point with a system that adds MailReceiver to valid mobs.
+        RemComp<MailReceiverComponent>(uid);
+        // End Nyano-code.
+
         while (query.MoveNext(out var ruleEnt, out var nukeops, out var gameRule))
         {
             if (!GameTicker.IsGameRuleAdded(ruleEnt, gameRule))
                 continue;
-
-
-            RemCompDeferred<MailReceiverComponent>(uid);
 
             // If entity has a prior mind attached, add them to the players list.
             if (!TryComp<MindComponent>(uid, out var mindComponent))
@@ -184,12 +189,16 @@ public sealed class NukeopsRuleSystem : GameRuleSystem<NukeopsRuleComponent>
         // we can only currently guarantee that NT stations are the only station to
         // exist in the base game.
 
-        component.TargetStation = _stationSystem.Stations.FirstOrNull();
+        var eligible = EntityQuery<StationEventEligibleComponent, FactionComponent>()
+            .Where(x =>
+                _faction.IsFactionHostile(component.Faction, x.Item2.Owner, x.Item2))
+            .Select(x => x.Item1.Owner)
+            .ToList();
 
-        if (component.TargetStation == null)
-        {
+        if (!eligible.Any())
             return;
-        }
+
+        component.TargetStation = _random.Pick(eligible);
 
         var filter = Filter.Empty();
         var query = EntityQueryEnumerator<NukeOperativeComponent, ActorComponent>();
@@ -211,13 +220,16 @@ public sealed class NukeopsRuleSystem : GameRuleSystem<NukeopsRuleComponent>
         if (component.WinType == WinType.OpsMajor || component.WinType == WinType.CrewMajor)
             return;
 
-        foreach (var (nuke, nukeTransform) in EntityQuery<NukeComponent, TransformComponent>(true))
+        var nukeQuery = AllEntityQuery<NukeComponent, TransformComponent>();
+        var centcomms = _emergency.GetCentcommMaps();
+
+        while (nukeQuery.MoveNext(out var nuke, out var nukeTransform))
         {
             if (nuke.Status != NukeStatus.ARMED)
                 continue;
 
             // UH OH
-            if (nukeTransform.MapID == _emergency.CentComMap)
+            if (centcomms.Contains(nukeTransform.MapID))
             {
                 component.WinConditions.Add(WinCondition.NukeActiveAtCentCom);
                 SetWinType(uid, WinType.OpsMajor, component);
@@ -263,10 +275,12 @@ public sealed class NukeopsRuleSystem : GameRuleSystem<NukeopsRuleComponent>
         component.WinConditions.Add(WinCondition.SomeNukiesAlive);
 
         var diskAtCentCom = false;
-        foreach (var (_, transform) in EntityManager.EntityQuery<NukeDiskComponent, TransformComponent>())
+        var diskQuery = AllEntityQuery<NukeDiskComponent, TransformComponent>();
+
+        while (diskQuery.MoveNext(out _, out var transform))
         {
             var diskMapId = transform.MapID;
-            diskAtCentCom = _emergency.CentComMap == diskMapId;
+            diskAtCentCom = centcomms.Contains(diskMapId);
 
             // TODO: The target station should be stored, and the nuke disk should store its original station.
             // This is fine for now, because we can assume a single station in base SS14.
