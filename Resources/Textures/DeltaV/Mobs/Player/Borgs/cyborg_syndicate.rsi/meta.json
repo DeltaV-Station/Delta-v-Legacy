@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "size": {
+    "x": 32,
+    "y": 32
+  },
+  "states": [
+    {
+      "name": "robot",
+      "directions": 4
+    },
+    {
+      "name": "glow",
+      "directions": 4
+    },
+    {
+      "name": "robot-flashlight",
+      "directions": 4
+    }
+  ]
+}
