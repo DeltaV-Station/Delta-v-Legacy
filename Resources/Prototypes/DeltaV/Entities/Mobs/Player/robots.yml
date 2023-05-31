@@ -23,7 +23,7 @@
           Base: robot
           BaseUnshaded: glow
         Dead:
-          Base: robot-dead
+          Base: robot
     - type: InnateTool
       tools:
         - id: EnergySword
