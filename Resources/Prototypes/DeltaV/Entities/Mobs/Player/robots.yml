@@ -58,3 +58,4 @@
         - You must maintain the secrecy of any syndicate activities except when doing so would conflict with the First, Second, or Third Law.
     - type: PointLight
       color: green
+    - type: Emagged
