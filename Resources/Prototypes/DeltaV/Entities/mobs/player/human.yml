@@ -1,0 +1,7 @@
+﻿- type: entity
+  noSpawn: true
+  name: Load player character
+  parent: MobHuman
+  id: MobHumanSpawnCharacter
+  components:
+    - type: LoadHumanoidAppearance

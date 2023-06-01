@@ -1,0 +1,18 @@
+﻿- type: entity
+  id: SpawnPointPlayerCharacter
+  name: ghost role spawn point
+  suffix: player character, DO NOT MAP
+  parent: MarkerBase
+  components:
+    - type: GhostRole
+      name: Player character
+      description: Spawn as your currently selected character. Listen to the admins!
+      rules: Listen to the admins.
+    - type: GhostRoleMobSpawner
+      prototype: MobHumanSpawnCharacter
+    - type: Sprite
+      sprite: Markers/jobs.rsi
+      layers:
+        - state: green
+        - sprite: Mobs/Species/Human/parts.rsi
+          state: full
