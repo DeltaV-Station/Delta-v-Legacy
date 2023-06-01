@@ -5,7 +5,7 @@
   productEntity: CyborgBeaconSyndicate
   icon: { sprite: Objects/Devices/communication.rsi, state: old-radio }
   cost:
-    Telecrystal: 40
+    Telecrystal: 65
   categories:
     - UplinkUtility
   conditions:
