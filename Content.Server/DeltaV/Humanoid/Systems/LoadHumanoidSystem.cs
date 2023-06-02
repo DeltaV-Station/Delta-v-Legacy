@@ -24,20 +24,15 @@ public sealed class LoadHumanoidAppearanceSystem : EntitySystem
 
     private void OnPlayerAttached(EntityUid uid, LoadHumanoidAppearanceComponent component, PlayerAttachedEvent args)
     {
+        if ( // Character has no mind, so we cant import their preferences
+            !TryComp<MindComponent>(uid, out var mind) ||
+            mind.Mind?.UserId == null ||
+            // There is already a profile present, if we continue we may delete something unintended
+            !TryComp(uid, out HumanoidAppearanceComponent? humanoid) ||
+            !string.IsNullOrEmpty(humanoid.Initial))
+            return;
 
-        if (!TryComp<MindComponent>(uid, out var mindComponent) || mindComponent.Mind?.UserId == null)
-        {
-            return; // Character has no mind, so we cant import their preferences.
-        }
-
-        if (!TryComp(uid, out HumanoidAppearanceComponent? humanoid) || !string.IsNullOrEmpty(humanoid.Initial))
-        {
-            return; // There is already a profile present, if we continue we may delete something unintended
-        }
-
-
-        var mind = mindComponent.Mind;
-        var character = (HumanoidCharacterProfile) _prefs.GetPreferences(mind.UserId.Value).SelectedCharacter;
+        var character = (HumanoidCharacterProfile) _prefs.GetPreferences(mind.Mind.UserId.Value).SelectedCharacter;
         var coordinates = uid.IsValid()
             ? _entityManager.GetComponent<TransformComponent>(uid).Coordinates
             : _entitySys.GetEntitySystem<GameTicker>().GetObserverSpawnPoint();
@@ -46,7 +41,7 @@ public sealed class LoadHumanoidAppearanceSystem : EntitySystem
             .SpawnPlayerMob(coordinates: coordinates, profile: character, entity: null, job: null, station: null);
 
         RemComp<LoadHumanoidAppearanceComponent>(entity);
-        mind.TransferTo(entity);
+        mind.Mind.TransferTo(entity);
         _entityManager.QueueDeleteEntity(uid);
     }
 }
