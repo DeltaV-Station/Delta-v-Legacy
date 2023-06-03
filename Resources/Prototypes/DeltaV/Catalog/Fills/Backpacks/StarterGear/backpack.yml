@@ -13,8 +13,6 @@
         amount: 1
       - id: WeaponSubMachineGunTypewriter
         amount: 1
-      - id: MagazinePistolSubMachineGun
-        amount: 1
       - id: WeaponPistolViperWood
         amount: 1
       - id: MagazinePistol
