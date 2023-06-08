@@ -25723,7 +25723,7 @@ entities:
     - pos: -8.5,47.5
       parent: 2
       type: Transform
-    - SecondsUntilStateChange: -5537.366
+    - SecondsUntilStateChange: -5549.7227
       state: Opening
       type: Door
   - uid: 3251
@@ -25732,7 +25732,7 @@ entities:
       pos: -8.5,-14.5
       parent: 2
       type: Transform
-    - SecondsUntilStateChange: -4983.2515
+    - SecondsUntilStateChange: -4995.608
       state: Opening
       type: Door
 - proto: Pen
