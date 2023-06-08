@@ -2,18 +2,18 @@
   save: false
   name: Urist McFox
   parent: BaseMobOrganic
-  id: BaseMobHumanoidFox
+  id: BaseMobVulpkanin
   abstract: true
   components:
   - type: HumanoidAppearance
-    species: HumanoidFox
+    species: Vulpkanin
   - type: Hunger
   - type: Thirst
   - type: Icon
-    sprite: Mobs/Species/Reptilian/parts.rsi
+    sprite: DeltaV/Mobs/Species/Reptilian/parts.rsi
     state: full
   - type: Body
-    prototype: HumanoidFox
+    prototype: Vulpkanin
     requiredLegs: 2
   - type: MeleeWeapon
     hidden: true
@@ -37,9 +37,9 @@
   save: false
   name: Urist McHands
   parent: MobHumanDummy
-  id: MobHumanoidFoxDummy
+  id: MobVulpkaninDummy
   noSpawn: true
   description: A dummy vulpkanin meant to be used in character setup.
   components:
   - type: HumanoidAppearance
-    species: HumanoidFox
+    species: Vulpkanin

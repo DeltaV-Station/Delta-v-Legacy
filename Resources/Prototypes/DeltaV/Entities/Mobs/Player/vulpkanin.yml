@@ -1,8 +1,8 @@
 - type: entity
   save: false
   name: Urist McFox
-  parent: BaseMobHumanoidFox
-  id: MobHumanoidFox
+  parent: BaseMobVulpkanin
+  id: MobVulpkanin
   components:
     - type: CombatMode
     - type: InteractionPopup
