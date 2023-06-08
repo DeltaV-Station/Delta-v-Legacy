@@ -7,6 +7,12 @@ marking-WolfTail = Wolf tail (tip)
 
 
 
+marking-FoxEar-vulp_ear = Fox ear (outer)
+marking-FoxEar-vulp_ear_inner = Fox ear (inner)
+marking-FoxEar = Fox ear (inner)
+
+
+
 marking-FoxBelly-vulp_belly-torso = Fox belly
 marking-FoxBelly = Fox belly
 
@@ -15,8 +21,3 @@ marking-FoxSnout = Fox snout
 
 marking-PawSocks-pawsocks = Paw socks
 marking-PawSocks = Paw socks
-
-marking-FoxEar-vulp_ear = Fox ear (outer)
-marking-FoxEar-vulp_ear_inner = Fox ear (inner)
-marking-FoxEar = Fox ear (inner)
-
