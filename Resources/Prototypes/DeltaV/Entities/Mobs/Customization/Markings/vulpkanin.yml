@@ -1,0 +1,59 @@
+# Vulpkanin Tails
+- type: marking
+  id: FoxTail
+  bodyPart: Tail
+  markingCategory: Tail
+  speciesRestriction: [Vulpkanin]
+  sprites:
+    - sprite: DeltaV/Mobs/Customization/vulpkanin_tails.rsi
+      state: vulp_tail
+
+- type: marking
+  id: WolfTail
+  bodyPart: Tail
+  markingCategory: Tail
+  speciesRestriction: [Vulpkanin]
+  sprites:
+    - sprite: DeltaV/Mobs/Customization/vulpkanin_tails.rsi
+      state: wolf_tail
+    - sprite: DeltaV/Mobs/Customization/vulpkanin_tails.rsi
+      state: wolf_tail_inner
+
+# Vulpkanin Markings
+- type: marking
+  id: FoxBelly
+  bodyPart: Chest
+  markingCategory: Chest
+  speciesRestriction: [Vulpkanin]
+  sprites:
+    - sprite: DeltaV/Mobs/Customization/vulpkanin_markings.rsi
+      state: vulp_belly-torso
+
+- type: marking
+  id: FoxSnout
+  bodyPart: Snout
+  markingCategory: Snout
+  speciesRestriction: [Vulpkanin]
+  sprites:
+    - sprite: DeltaV/Mobs/Customization/vulpkanin_markings.rsi
+      state: vulp_face
+
+- type: marking
+  id: PawSocks
+  markingCategory: Overlay
+  bodyPart: RFoot #highest possible layer
+  speciesRestriction: [Vulpkanin]
+  sprites:
+    - sprite: DeltaV/Mobs/Customization/vulpkanin_markings.rsi
+      state: pawsocks
+
+- type: marking
+  id: FoxEar
+  bodyPart: HeadTop
+  markingCategory: HeadTop
+  speciesRestriction: [Vulpkanin]
+  sprites:
+    - sprite: DeltaV/Mobs/Customization/vulpkanin_markings.rsi
+      state: vulp_ear
+    - sprite: DeltaV/Mobs/Customization/vulpkanin_markings.rsi
+      state: vulp_ear_inner
