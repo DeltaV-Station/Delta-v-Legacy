@@ -9,6 +9,24 @@
       state: vulp_tail
 
 - type: marking
+  id: FoxTailAlt
+  bodyPart: Tail
+  markingCategory: Tail
+  speciesRestriction: [Vulpkanin]
+  sprites:
+    - sprite: DeltaV/Mobs/Customization/vulpkanin_tails.rsi
+      state: vulp_tailw_s
+
+- type: marking
+  id: FoxTailWag
+  bodyPart: Tail
+  markingCategory: Tail
+  speciesRestriction: [Vulpkanin]
+  sprites:
+    - sprite: DeltaV/Mobs/Customization/vulpkanin_tails.rsi
+      state: vulp_tailw_s_anim
+
+- type: marking
   id: WolfTail
   bodyPart: Tail
   markingCategory: Tail

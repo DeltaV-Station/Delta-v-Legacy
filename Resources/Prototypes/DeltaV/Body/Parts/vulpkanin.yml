@@ -1,5 +1,3 @@
-# TODO: Add descriptions (many)
-# TODO BODY: Part damage
 - type: entity
   id: PartVulpkanin
   parent: BaseItem
@@ -13,6 +11,8 @@
     containers:
       bodypart: !type:Container
         ents: []
+  - type: DynamicPrice
+    price: 100
   - type: Tag
     tags:
       - Trash
@@ -135,8 +135,6 @@
     partType: Leg
     symmetry: Left
   - type: MovementBodyPart
-    walkSpeed : 3
-    sprintSpeed : 5
 
 - type: entity
   id: RightLegVulpkanin
@@ -154,8 +152,6 @@
     partType: Leg
     symmetry: Right
   - type: MovementBodyPart
-    walkSpeed : 3
-    sprintSpeed : 5
 
 - type: entity
   id: LeftFootVulpkanin

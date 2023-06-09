@@ -11,6 +11,9 @@
       "name": "full"
     },
     {
+      "name": "icon"
+    },
+    {
       "name": "head_f",
       "directions": 4
     },
@@ -56,6 +59,14 @@
     },
     {
       "name": "torso_m",
+      "directions": 4
+    },
+    {
+      "name": "overlay_husk",
+      "directions": 4
+    },
+    {
+      "name": "female_mask",
       "directions": 4
     }
   ]
