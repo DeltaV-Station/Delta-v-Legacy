@@ -1,29 +1,68 @@
 {
   "version": 1,
   "license": "CC-BY-SA-3.0",
-  "copyright": "Taken from Occulus-Eris https://github.com/Occulus-Server/Occulus-Eris",
+  "copyright": "Taken from Paradise https://github.com/ParadiseSS13/Paradise , edited by Floofers",
   "size": {"x": 32, "y": 32},
   "states": [
     {
-      "name": "vulp_tail",
+      "name": "vulp",
       "directions": 4
     },
     {
-      "name": "vulp_tailw_s",
+      "name": "vulp-tip",
       "directions": 4
     },
     {
-      "name": "vulp_tailw_s_anim",
+      "name": "vulp-fade",
+      "directions": 4
+    },
+    {
+      "name": "vulp_alt",
+      "directions": 4
+    },
+    {
+      "name": "vulp_alt-tip",
+      "directions": 4
+    },
+    {
+      "name": "vulp_wag",
       "directions": 4,
       "delays": [[0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2], [0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2], [0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2], [0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2]]
     },
     {
-      "name": "wolf_tail",
+      "name": "vulp_wag-tip",
+      "directions": 4,
+      "delays": [[0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2], [0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2], [0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2], [0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2]]
+    },
+    {
+      "name": "long",
       "directions": 4
     },
     {
-      "name": "wolf_tail_inner",
+      "name": "long-tip",
       "directions": 4
+    },
+    {
+      "name": "fox",
+      "directions": 4
+    },
+    {
+      "name": "fox-tip",
+      "directions": 4
+    },
+    {
+      "name": "fox-fade",
+      "directions": 4
+    },
+    {
+      "name": "fox_wag",
+      "directions": 4,
+      "delays": [[0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2], [0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2], [0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2], [0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2]]
+    },
+    {
+      "name": "fox_wag-tip",
+      "directions": 4,
+      "delays": [[0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2], [0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2], [0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2], [0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2]]
     }
   ]
 }

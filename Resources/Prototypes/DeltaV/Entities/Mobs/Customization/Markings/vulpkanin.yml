@@ -2,42 +2,81 @@
 
 # Tails / Tail Markings
 - type: marking
+  id: VulpTail
+  bodyPart: Tail
+  markingCategory: Tail
+  speciesRestriction: [Vulpkanin]
+  sprites:
+    - sprite: DeltaV/Mobs/Customization/vulpkanin_tails.rsi
+      state: vulp
+    - sprite: DeltaV/Mobs/Customization/vulpkanin_tails.rsi
+      state: vulp-tip
+
+- type: marking
+  id: VulpTailFade
+  bodyPart: Tail
+  markingCategory: Tail
+  speciesRestriction: [Vulpkanin]
+  sprites:
+    - sprite: DeltaV/Mobs/Customization/vulpkanin_tails.rsi
+      state: vulp
+    - sprite: DeltaV/Mobs/Customization/vulpkanin_tails.rsi
+      state: vulp-fade
+
+- type: marking
+  id: VulpTailWag
+  bodyPart: Tail
+  markingCategory: Tail
+  speciesRestriction: [Vulpkanin]
+  sprites:
+    - sprite: DeltaV/Mobs/Customization/vulpkanin_tails.rsi
+      state: vulp_wag
+    - sprite: DeltaV/Mobs/Customization/vulpkanin_tails.rsi
+      state: vulp_wag-tip
+
+- type: marking
+  id: VulpTailAlt
+  bodyPart: Tail
+  markingCategory: Tail
+  speciesRestriction: [Vulpkanin]
+  sprites:
+    - sprite: DeltaV/Mobs/Customization/vulpkanin_tails.rsi
+      state: vulp_alt
+    - sprite: DeltaV/Mobs/Customization/vulpkanin_tails.rsi
+      state: vulp_alt-tip
+
+- type: marking
+  id: LongTail
+  bodyPart: Tail
+  markingCategory: Tail
+  speciesRestriction: [Vulpkanin]
+  sprites:
+    - sprite: DeltaV/Mobs/Customization/vulpkanin_tails.rsi
+      state: long
+    - sprite: DeltaV/Mobs/Customization/vulpkanin_tails.rsi
+      state: long-tip
+
+- type: marking
   id: FoxTail
   bodyPart: Tail
   markingCategory: Tail
   speciesRestriction: [Vulpkanin]
   sprites:
     - sprite: DeltaV/Mobs/Customization/vulpkanin_tails.rsi
-      state: vulp_tail
+      state: fox
+    - sprite: DeltaV/Mobs/Customization/vulpkanin_tails.rsi
+      state: fox-tip
 
 - type: marking
-  id: FoxTailAlt
+  id: FoxTailFade
   bodyPart: Tail
   markingCategory: Tail
   speciesRestriction: [Vulpkanin]
   sprites:
     - sprite: DeltaV/Mobs/Customization/vulpkanin_tails.rsi
-      state: vulp_tailw_s
-
-- type: marking
-  id: FoxTailWag
-  bodyPart: Tail
-  markingCategory: Tail
-  speciesRestriction: [Vulpkanin]
-  sprites:
+      state: fox
     - sprite: DeltaV/Mobs/Customization/vulpkanin_tails.rsi
-      state: vulp_tailw_s_anim
-
-- type: marking
-  id: WolfTail
-  bodyPart: Tail
-  markingCategory: Tail
-  speciesRestriction: [Vulpkanin]
-  sprites:
-    - sprite: DeltaV/Mobs/Customization/vulpkanin_tails.rsi
-      state: wolf_tail
-    - sprite: DeltaV/Mobs/Customization/vulpkanin_tails.rsi
-      state: wolf_tail_inner
+      state: fox-fade
 
 # Ears / Ear Markings
 - type: marking
@@ -46,9 +85,9 @@
   markingCategory: HeadTop
   speciesRestriction: [Vulpkanin]
   sprites:
-    - sprite: DeltaV/Mobs/Customization/vulpkanin_markings.rsi
+    - sprite: DeltaV/Mobs/Customization/vulpkanin_head_markings.rsi
       state: vulp_ear
-    - sprite: DeltaV/Mobs/Customization/vulpkanin_markings.rsi
+    - sprite: DeltaV/Mobs/Customization/vulpkanin_head_markings.rsi
       state: vulp_ear_inner
 
 # Various Markings
@@ -58,7 +97,7 @@
   markingCategory: Chest
   speciesRestriction: [Vulpkanin]
   sprites:
-    - sprite: DeltaV/Mobs/Customization/vulpkanin_markings.rsi
+    - sprite: DeltaV/Mobs/Customization/vulpkanin_body_markings.rsi
       state: vulp_belly-torso
 
 - type: marking
@@ -67,7 +106,7 @@
   markingCategory: Snout
   speciesRestriction: [Vulpkanin]
   sprites:
-    - sprite: DeltaV/Mobs/Customization/vulpkanin_markings.rsi
+    - sprite: DeltaV/Mobs/Customization/vulpkanin_head_markings.rsi
       state: vulp_face
 
 - type: marking
@@ -76,5 +115,5 @@
   bodyPart: RFoot #highest possible layer
   speciesRestriction: [Vulpkanin]
   sprites:
-    - sprite: DeltaV/Mobs/Customization/vulpkanin_markings.rsi
+    - sprite: DeltaV/Mobs/Customization/vulpkanin_body_markings.rsi
       state: pawsocks

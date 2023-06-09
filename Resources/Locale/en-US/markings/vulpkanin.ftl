@@ -1,15 +1,30 @@
-marking-FoxTail-vulp_tail = Fox tail
+marking-VulpTail-vulp = Vulp tail (base)
+marking-VulpTail-vulp-tip = Vulp tail (tip)
+marking-VulpTail = Vulp tail
+
+marking-VulpTailFade-vulp = Vulp tail (base)
+marking-VulpTailFade-vulp-fade = Vulp tail (fade)
+marking-VulpTailFade = Vulp tail (fade)
+
+marking-VulpTailAlt-vulp_alt = Vulp tail (base)
+marking-VulpTailAlt-vulp_alt-tip = Vulp tail (tip)
+marking-VulpTailAlt = Vulp tail (alt)
+
+marking-VulpTailWag-vulp_wag = Vulp tail (base)
+marking-VulpTailWag-vulp_wag-tip = Vulp tail (tip)
+marking-VulpTailWag = Vulp tail (animated)
+
+marking-LongTail-long = Long tail (base)
+marking-LongTail-long-tip = Long tail (tip)
+marking-LongTail = Long tail
+
+marking-FoxTail-fox = Fox tail (base)
+marking-FoxTail-fox-tip = Vulp tail (tip)
 marking-FoxTail = Fox tail
 
-marking-FoxTailAlt-vulp_tailw_s = Fox tail (alt)
-marking-FoxTailAlt = Fox tail (alt)
-
-marking-FoxTailWag-vulp_tailw_s_anim = Fox tail (animated)
-marking-FoxTailWag = Fox tail (animated)
-
-marking-WolfTail-wolf_tail = Wolf tail (base)
-marking-WolfTail-wolf_tail_inner = Wolf tail (tip)
-marking-WolfTail = Wolf tail
+marking-FoxTailFade-fox = Fox tail (base)
+marking-FoxTailFade-fox-fade = fox tail (fade)
+marking-FoxTailFade = fox tail (fade)
 
 
 

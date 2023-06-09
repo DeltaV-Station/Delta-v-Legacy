@@ -45,7 +45,7 @@
     Tail:
       points: 1
       required: true
-      defaultMarkings: [ FoxTail ]
+      defaultMarkings: [ VulpTail ]
     Snout:
       points: 1
       required: true
