@@ -1,4 +1,6 @@
-# Vulpkanin Tails / Tail Markings
+# All the Vulpkanin customization
+
+# Tails / Tail Markings
 - type: marking
   id: FoxTail
   bodyPart: Tail
@@ -37,7 +39,7 @@
     - sprite: DeltaV/Mobs/Customization/vulpkanin_tails.rsi
       state: wolf_tail_inner
 
-# Vulpkanin Ears / Ear Markings
+# Ears / Ear Markings
 - type: marking
   id: FoxEar
   bodyPart: HeadTop
@@ -49,7 +51,7 @@
     - sprite: DeltaV/Mobs/Customization/vulpkanin_markings.rsi
       state: vulp_ear_inner
 
-# Vulpkanin Various Markings
+# Various Markings
 - type: marking
   id: FoxBelly
   bodyPart: Chest

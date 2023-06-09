@@ -1,6 +1,6 @@
 - type: species
   id: Vulpkanin
-  name: Vulpkanin
+  name: species-name-vulpkanin
   roundStart: true
   prototype: MobVulpkanin
   sprites: MobVulpkaninSprites
@@ -8,6 +8,9 @@
   markingLimits: MobVulpkaninMarkingLimits
   dollPrototype: MobVulpkaninDummy
   skinColoration: Hues
+  maleFirstNames: names_vulpkanin_male
+  femaleFirstNames: names_vulpkanin_female
+  lastNames: names_vulpkanin_last
 
 - type: speciesBaseSprites
   id: MobVulpkaninSprites
