@@ -1,0 +1,50 @@
+{
+  "version": 1,
+  "license": "CC-BY-SA-3.0",
+  "copyright": "vulp-sharp and vulp-fade taken from https://github.com/ParadiseSS13/Paradise/ every thing else taken from https://github.com/VOREStation/VOREStation/ edited by Floofers",
+  "size": {"x": 32, "y": 32},
+  "states": [
+    {
+      "name": "vulp",
+      "directions": 4
+    },
+    {
+      "name": "vulp-inner",
+      "directions": 4
+    },
+    {
+      "name": "vulp-fade",
+      "directions": 4
+    },
+    {
+      "name": "vulp-sharp",
+      "directions": 4
+    },
+    {
+      "name": "jackal",
+      "directions": 4
+    },
+    {
+      "name": "jackal-inner",
+      "directions": 4
+    }
+    ,
+    {
+      "name": "terrier",
+      "directions": 4
+    },
+    {
+      "name": "terrier-inner",
+      "directions": 4
+    }
+    ,
+    {
+      "name": "wolf",
+      "directions": 4
+    },
+    {
+      "name": "wolf-inner",
+      "directions": 4
+    }
+  ]
+}

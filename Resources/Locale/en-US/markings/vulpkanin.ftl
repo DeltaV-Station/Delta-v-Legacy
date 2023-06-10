@@ -22,43 +22,60 @@ marking-VulpTailAltTip-vulp_alt = Vulp tail (base)
 marking-VulpTailAltTip-vulp_alt-tip = Vulp tail (tip)
 marking-VulpTailAltTip = Vulp tail (alt, tip)
 
-marking-LongTail-long = Long tail (base)
-marking-LongTail-long-tip = Long tail (tip)
-marking-LongTail = Long tail
+marking-VulpTailLong-long = Long tail (base)
+marking-VulpTailLong-long-tip = Long tail (tip)
+marking-VulpTailLong = Long tail
 
-marking-FoxTail-fox = Fox tail (base)
-marking-FoxTail-fox-fade = Fox tail (fade)
-marking-FoxTail = Fox tail
+marking-VulpTailFox-fox = Fox tail (base)
+marking-VulpTailFox-fox-fade = Fox tail (fade)
+marking-VulpTailFox = Fox tail
 
-marking-FoxTailTip-fox = Fox tail (base)
-marking-FoxTailTip-fox-tip = Fox tail (fade)
-marking-FoxTailTip = Fox tail (tip)
+marking-VulpTailFoxTip-fox = Fox tail (base)
+marking-VulpTailFoxTip-fox-tip = Fox tail (fade)
+marking-VulpTailFoxTip = Fox tail (tip)
 
-marking-FoxTailWag-fox_wag = Fox tail (base)
-marking-FoxTailWag-fox_wag-fade = Fox tail (fade)
-marking-FoxTailWag = Fox tail (animated)
+marking-VulpTailFoxWag-fox_wag = Fox tail (base)
+marking-VulpTailFoxWag-fox_wag-fade = Fox tail (fade)
+marking-VulpTailFoxWag = Fox tail (animated)
 
-marking-FoxTailWagTip-fox_wag = Fox tail (base)
-marking-FoxTailWagTip-fox_wag-tip = Fox tail (tip)
-marking-FoxTailWagTip = Fox tail (animated, tip)
+marking-VulpTailFoxWagTip-fox_wag = Fox tail (base)
+marking-VulpTailFoxWagTip-fox_wag-tip = Fox tail (tip)
+marking-VulpTailFoxWagTip = Fox tail (animated, tip)
 
-marking-BushTail-bushfluff = Bush tail
-marking-BushTail = Bush tail
+marking-VulpTailBushyWag-bushfluff = Bush tail
+marking-VulpTailBushyWag = Bush tail
 
 marking-BushTailWag-bushfluff_wag = Bush tail
 marking-BushTailWag = Bush tail (animated)
 
 
+marking-VulpEar-vulp = Vulp ears (base)
+marking-VulpEar-vulp-inner = Vulp ears (inner)
+marking-VulpEar = Vulp ears
 
-marking-FoxEar-vulp_ear = Fox ear (outer)
-marking-FoxEar-vulp_ear_inner = Fox ear (inner)
-marking-FoxEar = Fox ear
+marking-VulpEarFade-vulp = Vulp ears (base)
+marking-VulpEarFade-vulp-fade = Vulp ears (fade)
+marking-VulpEarFade = Vulp ears (fade)
 
+marking-VulpEarSharp-vulp = Vulp ears (base)
+marking-VulpEarSharp-vulp-sharp = Vulp ears (sharp)
+marking-VulpEarSharp = Vulp ears (sharp)
+
+marking-VulpEarJackal-jackal = Jackal ears (base)
+marking-VulpEarJackal-jackal-inner = Jackal ears (inner)
+marking-VulpEarJackal = Jackal ears
+
+marking-VulpEarTerrier-terrier = Terrier ears (base)
+marking-VulpEarTerrier-terrier-inner = Terrier ears (inner)
+marking-VulpEarTerrier = Terrier ears
+
+marking-VulpEarWolf-wolf = Wolf ears (base)
+marking-VulpEarWolf-wolf-inner = Wolf ears (inner)
+marking-VulpEarWolf = Wolf ears
 
 
 marking-FoxSnout-vulp_face = Fox snout
 marking-FoxSnout = Fox snout
-
 
 
 marking-FoxBelly-vulp_belly-torso = Fox belly
