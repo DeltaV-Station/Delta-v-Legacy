@@ -1,6 +1,6 @@
 - type: entity
   save: false
-  name: Base Vulpkanin
+  name: Urist McVulp
   parent: BaseMobOrganic
   id: BaseMobVulpkanin
   abstract: true
@@ -71,8 +71,10 @@
     prototype: Vulpkanin
     requiredLegs: 2
   - type: MeleeWeapon
+    hidden: true
     soundHit:
-      collection: Punch
+      path: /Audio/Weapons/pierce.ogg
+    angle: 30
     animation: WeaponArcClaw
     damage:
       types:
@@ -81,7 +83,7 @@
   - type: Perishable
   - type: Carriable
   - type: TemperatureProtection
-    coefficient: 0.3
+    coefficient: 0.1
   - type: Thieving
     stealthy: true
     stripTimeReduction: 1

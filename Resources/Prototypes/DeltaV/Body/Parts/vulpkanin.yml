@@ -1,7 +1,9 @@
+# TODO: Add descriptions (many)
+# TODO BODY: Part damage
 - type: entity
   id: PartVulpkanin
   parent: BaseItem
-  name: "fox body part"
+  name: "vulpkanin body part"
   abstract: true
   components:
   - type: Damageable
@@ -19,7 +21,7 @@
 
 - type: entity
   id: TorsoVulpkanin
-  name: "fox torso"
+  name: "vulpkanin torso"
   parent: PartVulpkanin
   components:
   - type: Sprite
@@ -34,7 +36,7 @@
 
 - type: entity
   id: HeadVulpkanin
-  name: "fox head"
+  name: "vulpkanin head"
   parent: PartVulpkanin
   components:
   - type: Sprite
@@ -57,7 +59,7 @@
 
 - type: entity
   id: LeftArmVulpkanin
-  name: "left fox arm"
+  name: "left vulpkanin arm"
   parent: PartVulpkanin
   components:
   - type: Sprite
@@ -73,7 +75,7 @@
 
 - type: entity
   id: RightArmVulpkanin
-  name: "right fox arm"
+  name: "right vulpkanin arm"
   parent: PartVulpkanin
   components:
   - type: Sprite
@@ -89,7 +91,7 @@
 
 - type: entity
   id: LeftHandVulpkanin
-  name: "left fox hand"
+  name: "left vulpkanin hand"
   parent: PartVulpkanin
   components:
   - type: Sprite
@@ -105,7 +107,7 @@
 
 - type: entity
   id: RightHandVulpkanin
-  name: "right fox hand"
+  name: "right vulpkanin hand"
   parent: PartVulpkanin
   components:
   - type: Sprite
@@ -121,7 +123,7 @@
 
 - type: entity
   id: LeftLegVulpkanin
-  name: "left fox leg"
+  name: "left vulpkanin leg"
   parent: PartVulpkanin
   components:
   - type: Sprite
@@ -138,7 +140,7 @@
 
 - type: entity
   id: RightLegVulpkanin
-  name: "right fox leg"
+  name: "right vulpkanin leg"
   parent: PartVulpkanin
   components:
   - type: Sprite
@@ -155,7 +157,7 @@
 
 - type: entity
   id: LeftFootVulpkanin
-  name: "left fox foot"
+  name: "left vulpkanin foot"
   parent: PartVulpkanin
   components:
   - type: Sprite
@@ -171,7 +173,7 @@
 
 - type: entity
   id: RightFootVulpkanin
-  name: "right fox foot"
+  name: "right vulpkanin foot"
   parent: PartVulpkanin
   components:
   - type: Sprite
