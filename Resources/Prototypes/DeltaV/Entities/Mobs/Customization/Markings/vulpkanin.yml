@@ -1,6 +1,6 @@
 # All the Vulpkanin customization
 
-# Tails / Tail Markings
+# Tail Markings
 - type: marking
   id: VulpTail
   bodyPart: Tail
@@ -207,7 +207,7 @@
     - sprite: DeltaV/Mobs/Customization/Vulpkanin/ear_markings.rsi
       state: wolf-inner
 
-# Snout Markings
+# Head Markings (Snout)
 - type: marking
   id: VulpSnoutAlt
   bodyPart: Snout
@@ -261,7 +261,7 @@
     - sprite: DeltaV/Mobs/Customization/Vulpkanin/head_markings.rsi
       state: nose
 
-# Head Markings
+# Head Markings (Head)
 - type: marking
   id: VulpHeadTiger
   bodyPart: Head
@@ -280,21 +280,58 @@
     - sprite: DeltaV/Mobs/Customization/Vulpkanin/head_markings.rsi
       state: tiger_face
 
-# Body Markings
+# Body Markings (Chest)
 - type: marking
-  id: FoxBelly
+  id: VulpBellyCrest
   bodyPart: Chest
   markingCategory: Chest
   speciesRestriction: [Vulpkanin]
   sprites:
     - sprite: DeltaV/Mobs/Customization/Vulpkanin/body_markings.rsi
-      state: vulp_belly-torso
+      state: belly_crest
 
 - type: marking
-  id: PawSocks
+  id: VulpBellyFull
+  bodyPart: Chest
+  markingCategory: Chest
+  speciesRestriction: [Vulpkanin]
+  sprites:
+    - sprite: DeltaV/Mobs/Customization/Vulpkanin/body_markings.rsi
+      state: belly_full
+
+- type: marking
+  id: VulpBellyFox
+  bodyPart: Chest
+  markingCategory: Chest
+  speciesRestriction: [Vulpkanin]
+  sprites:
+    - sprite: DeltaV/Mobs/Customization/Vulpkanin/body_markings.rsi
+      state: belly_fox
+
+# Body Markings (Overlay)
+- type: marking
+  id: VulpBodyPointsCrest
   markingCategory: Overlay
   bodyPart: RFoot #highest possible layer
   speciesRestriction: [Vulpkanin]
   sprites:
     - sprite: DeltaV/Mobs/Customization/Vulpkanin/body_markings.rsi
-      state: pawsocks
+      state: points_crest
+
+- type: marking
+  id: VulpBodyPointsFade
+  markingCategory: Overlay
+  bodyPart: RFoot #highest possible layer
+  speciesRestriction: [Vulpkanin]
+  sprites:
+    - sprite: DeltaV/Mobs/Customization/Vulpkanin/body_markings.rsi
+      state: points_fade
+
+- type: marking
+  id: VulpBodyPointsSharp
+  markingCategory: Overlay
+  bodyPart: RFoot #highest possible layer
+  speciesRestriction: [Vulpkanin]
+  sprites:
+    - sprite: DeltaV/Mobs/Customization/Vulpkanin/body_markings.rsi
+      state: points_sharp

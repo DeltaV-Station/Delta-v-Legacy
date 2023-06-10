@@ -101,8 +101,21 @@ marking-VulpHeadTigerFace-tiger_face = Tiger stripes
 marking-VulpHeadTigerFace = Tiger stripes (face)
 
 
-marking-FoxBelly-vulp_belly-torso = Fox belly
-marking-FoxBelly = Fox belly
+marking-VulpBellyCrest-belly_crest = Belly Crest
+marking-VulpBellyCrest = Belly Crest
 
-marking-PawSocks-pawsocks = Paw socks
-marking-PawSocks = Paw socks
+marking-VulpBellyFull-belly_full = Belly Full
+marking-VulpBellyFull = Belly Full
+
+marking-VulpBellyFox-belly_fox = Belly Fox
+marking-VulpBellyFox = Belly Fox
+
+
+marking-VulpBodyPointsCrest-points_crest = Points Crest
+marking-VulpBodyPointsCrest = Points Crest
+
+marking-VulpBodyPointsFade-points_crest = Points Fade
+marking-VulpBodyPointsFade = Points Fade
+
+marking-VulpBodyPointsSharp-points_crest = Points Sharp
+marking-VulpBodyPointsSharp = Points Sharp

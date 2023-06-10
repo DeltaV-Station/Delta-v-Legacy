@@ -5,11 +5,27 @@
   "size": {"x": 32, "y": 32},
   "states": [
     {
-      "name": "pawsocks",
+      "name": "points_fade",
       "directions": 4
     },
     {
-      "name": "vulp_belly-torso",
+      "name": "points_sharp",
+      "directions": 4
+    },
+    {
+      "name": "points_crest",
+      "directions": 4
+    },
+    {
+      "name": "belly_fox",
+      "directions": 4
+    },
+    {
+      "name": "belly_full",
+      "directions": 4
+    },
+    {
+      "name": "belly_crest",
       "directions": 4
     }
   ]
