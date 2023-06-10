@@ -147,9 +147,9 @@
   markingCategory: HeadTop
   speciesRestriction: [Vulpkanin]
   sprites:
-    - sprite: DeltaV/Mobs/Customization/Vulpkanin/head_markings.rsi
+    - sprite: DeltaV/Mobs/Customization/Vulpkanin/ear_markings.rsi
       state: vulp
-    - sprite: DeltaV/Mobs/Customization/Vulpkanin/head_markings.rsi
+    - sprite: DeltaV/Mobs/Customization/Vulpkanin/ear_markings.rsi
       state: vulp-inner
 
 - type: marking
@@ -158,9 +158,9 @@
   markingCategory: HeadTop
   speciesRestriction: [Vulpkanin]
   sprites:
-    - sprite: DeltaV/Mobs/Customization/Vulpkanin/head_markings.rsi
+    - sprite: DeltaV/Mobs/Customization/Vulpkanin/ear_markings.rsi
       state: vulp
-    - sprite: DeltaV/Mobs/Customization/Vulpkanin/head_markings.rsi
+    - sprite: DeltaV/Mobs/Customization/Vulpkanin/ear_markings.rsi
       state: vulp-fade
 
 - type: marking
@@ -169,9 +169,9 @@
   markingCategory: HeadTop
   speciesRestriction: [Vulpkanin]
   sprites:
-    - sprite: DeltaV/Mobs/Customization/Vulpkanin/head_markings.rsi
+    - sprite: DeltaV/Mobs/Customization/Vulpkanin/ear_markings.rsi
       state: vulp
-    - sprite: DeltaV/Mobs/Customization/Vulpkanin/head_markings.rsi
+    - sprite: DeltaV/Mobs/Customization/Vulpkanin/ear_markings.rsi
       state: vulp-sharp
 
 - type: marking
@@ -180,9 +180,9 @@
   markingCategory: HeadTop
   speciesRestriction: [Vulpkanin]
   sprites:
-    - sprite: DeltaV/Mobs/Customization/Vulpkanin/head_markings.rsi
+    - sprite: DeltaV/Mobs/Customization/Vulpkanin/ear_markings.rsi
       state: jackal
-    - sprite: DeltaV/Mobs/Customization/Vulpkanin/head_markings.rsi
+    - sprite: DeltaV/Mobs/Customization/Vulpkanin/ear_markings.rsi
       state: jackal-inner
 
 - type: marking
@@ -191,9 +191,9 @@
   markingCategory: HeadTop
   speciesRestriction: [Vulpkanin]
   sprites:
-    - sprite: DeltaV/Mobs/Customization/Vulpkanin/head_markings.rsi
+    - sprite: DeltaV/Mobs/Customization/Vulpkanin/ear_markings.rsi
       state: terrier
-    - sprite: DeltaV/Mobs/Customization/Vulpkanin/head_markings.rsi
+    - sprite: DeltaV/Mobs/Customization/Vulpkanin/ear_markings.rsi
       state: terrier-inner
 
 - type: marking
@@ -202,21 +202,83 @@
   markingCategory: HeadTop
   speciesRestriction: [Vulpkanin]
   sprites:
-    - sprite: DeltaV/Mobs/Customization/Vulpkanin/head_markings.rsi
+    - sprite: DeltaV/Mobs/Customization/Vulpkanin/ear_markings.rsi
       state: wolf
-    - sprite: DeltaV/Mobs/Customization/Vulpkanin/head_markings.rsi
+    - sprite: DeltaV/Mobs/Customization/Vulpkanin/ear_markings.rsi
       state: wolf-inner
 
-
-# Face Markings
+# Snout Markings
 - type: marking
-  id: FoxSnout
+  id: VulpSnoutAlt
   bodyPart: Snout
   markingCategory: Snout
   speciesRestriction: [Vulpkanin]
   sprites:
     - sprite: DeltaV/Mobs/Customization/Vulpkanin/head_markings.rsi
-      state: vulp_face
+      state: muzzle_alt
+    - sprite: DeltaV/Mobs/Customization/Vulpkanin/head_markings.rsi
+      state: nose
+
+- type: marking
+  id: VulpSnout
+  bodyPart: Snout
+  markingCategory: Snout
+  speciesRestriction: [Vulpkanin]
+  sprites:
+    - sprite: DeltaV/Mobs/Customization/Vulpkanin/head_markings.rsi
+      state: muzzle
+    - sprite: DeltaV/Mobs/Customization/Vulpkanin/head_markings.rsi
+      state: nose
+
+- type: marking
+  id: VulpSnoutSharp
+  bodyPart: Snout
+  markingCategory: Snout
+  speciesRestriction: [Vulpkanin]
+  sprites:
+    - sprite: DeltaV/Mobs/Customization/Vulpkanin/head_markings.rsi
+      state: muzzle_sharp
+    - sprite: DeltaV/Mobs/Customization/Vulpkanin/head_markings.rsi
+      state: nose
+
+- type: marking
+  id: VulpSnoutFade
+  bodyPart: Snout
+  markingCategory: Snout
+  speciesRestriction: [Vulpkanin]
+  sprites:
+    - sprite: DeltaV/Mobs/Customization/Vulpkanin/head_markings.rsi
+      state: muzzle_fade
+    - sprite: DeltaV/Mobs/Customization/Vulpkanin/head_markings.rsi
+      state: nose
+
+- type: marking
+  id: VulpSnoutNose
+  bodyPart: Snout
+  markingCategory: Snout
+  speciesRestriction: [Vulpkanin]
+  sprites:
+    - sprite: DeltaV/Mobs/Customization/Vulpkanin/head_markings.rsi
+      state: nose
+
+# Head Markings
+- type: marking
+  id: VulpHeadTiger
+  bodyPart: Head
+  markingCategory: Head
+  speciesRestriction: [Vulpkanin]
+  sprites:
+    - sprite: DeltaV/Mobs/Customization/Vulpkanin/head_markings.rsi
+      state: tiger_head
+
+- type: marking
+  id: VulpHeadTigerFace
+  bodyPart: Head
+  markingCategory: Head
+  speciesRestriction: [Vulpkanin]
+  sprites:
+    - sprite: DeltaV/Mobs/Customization/Vulpkanin/head_markings.rsi
+      state: tiger_face
 
 # Body Markings
 - type: marking

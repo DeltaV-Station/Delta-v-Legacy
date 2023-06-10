@@ -27,8 +27,7 @@
     {
       "name": "jackal-inner",
       "directions": 4
-    }
-    ,
+    },
     {
       "name": "terrier",
       "directions": 4
@@ -36,8 +35,7 @@
     {
       "name": "terrier-inner",
       "directions": 4
-    }
-    ,
+    },
     {
       "name": "wolf",
       "directions": 4

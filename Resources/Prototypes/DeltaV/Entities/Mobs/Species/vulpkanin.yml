@@ -32,7 +32,7 @@
         state: l_leg
       - shader: StencilMask
         map: [ "enum.HumanoidVisualLayers.StencilMask" ]
-        sprite: DeltaV/Mobs/Customization/vulpkanin_masking_helpers.rsi
+        sprite: DeltaV/Mobs/Customization/Vulpkanin/masking_helpers.rsi
         state: female_full
         visible: false
       - map: [ "jumpsuit" ]

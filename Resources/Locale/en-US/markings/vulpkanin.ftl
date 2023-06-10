@@ -74,8 +74,31 @@ marking-VulpEarWolf-wolf-inner = Wolf ears (inner)
 marking-VulpEarWolf = Wolf ears
 
 
-marking-FoxSnout-vulp_face = Fox snout
-marking-FoxSnout = Fox snout
+marking-VulpSnoutAlt-muzzle_alt = Muzzle
+marking-VulpSnoutAlt-nose = Nose
+marking-VulpSnoutAlt = Muzzle (alt)
+
+marking-VulpSnout-muzzle = Muzzle
+marking-VulpSnout-nose = Nose
+marking-VulpSnout = Muzzle
+
+marking-VulpSnoutSharp-muzzle_sharp = Muzzle
+marking-VulpSnoutSharp-nose = Nose
+marking-VulpSnoutSharp = Muzzle (sharp)
+
+marking-VulpSnoutFade-muzzle_fade = Muzzle
+marking-VulpSnoutFade-nose = Nose
+marking-VulpSnoutFade = Muzzle (fade)
+
+marking-VulpSnoutNose-nose = Nose
+marking-VulpSnoutNose = Nose
+
+
+marking-VulpHeadTiger-tiger_head = Tiger stripes
+marking-VulpHeadTiger = Tiger stripes (head)
+
+marking-VulpHeadTigerFace-tiger_face = Tiger stripes
+marking-VulpHeadTigerFace = Tiger stripes (face)
 
 
 marking-FoxBelly-vulp_belly-torso = Fox belly
