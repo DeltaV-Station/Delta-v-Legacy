@@ -114,11 +114,38 @@ marking-VulpBellyFox = Belly Fox
 marking-VulpBodyPointsCrest-points_crest = Points Crest
 marking-VulpBodyPointsCrest = Points Crest
 
-marking-VulpBodyPointsFade-points_crest = Points Fade
+marking-VulpBodyPointsFade-points_fade = Points Fade
 marking-VulpBodyPointsFade = Points Fade
 
-marking-VulpBodyPointsSharp-points_crest = Points Sharp
+marking-VulpBodyPointsSharp-points_sharp = Points Sharp
 marking-VulpBodyPointsSharp = Points Sharp
+
+
+marking-VulpPointsFeet-points_feet = Points Feet
+marking-VulpPointsFeet = Points Feet
+
+marking-VulpPointsCrestLegs-points_crest-legs = Points Crest
+marking-VulpPointsCrestLegs = Points Legs Crest
+
+marking-VulpPointsFadeLegs-points_fade-legs = Points Fade
+marking-VulpPointsFadeLegs = Points Legs Fade
+
+marking-VulpPointsSharpLegs-points_sharp-legs = Points Sharp
+marking-VulpPointsSharpLegs = Points Legs Sharp
+
+
+marking-VulpPointsHands-points_hands = Points Hands
+marking-VulpPointsHands = Points Hands
+
+marking-VulpPointsCrestArms-points_crest-arms = Points Crest
+marking-VulpPointsCrestArms = Points Arms Crest
+
+marking-VulpPointsFadeArms-points_fade-arms = Points Fade
+marking-VulpPointsFadeArms = Points Arms Fade
+
+marking-VulpPointsSharpArms-points_sharp-arms = Points Sharp
+marking-VulpPointsSharpArms = Points Arms Sharp
+
 
 marking-VulpHairAdhara = Adhara
 marking-VulpHairAnita = Anita

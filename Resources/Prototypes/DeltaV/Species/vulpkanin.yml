@@ -49,6 +49,12 @@
     Head:
       points: 1
       required: false
+    Legs:
+      points: 1
+      required: false
+    Arms:
+      points: 1
+      required: false
     Snout:
       points: 1
       required: false
@@ -56,6 +62,9 @@
       points: 1
       required: true
       defaultMarkings: [ VulpEar ]
+    Overlay:
+      points: 2
+      required: false
 
 - type: humanoidBaseSprite
   id: MobVulpkaninHead

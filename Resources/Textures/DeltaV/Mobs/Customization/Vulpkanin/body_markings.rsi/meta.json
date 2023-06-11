@@ -27,6 +27,38 @@
     {
       "name": "belly_crest",
       "directions": 4
+    },
+    {
+      "name": "points_hands",
+      "directions": 4
+    },
+    {
+      "name": "points_feet",
+      "directions": 4
+    },
+    {
+      "name": "points_sharp-arms",
+      "directions": 4
+    },
+    {
+      "name": "points_sharp-legs",
+      "directions": 4
+    },
+    {
+      "name": "points_fade-arms",
+      "directions": 4
+    },
+    {
+      "name": "points_fade-legs",
+      "directions": 4
+    },
+    {
+      "name": "points_crest-arms",
+      "directions": 4
+    },
+    {
+      "name": "points_crest-legs",
+      "directions": 4
     }
   ]
 }
