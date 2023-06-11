@@ -1,54 +1,3 @@
-marking-VulpTail-vulp = Vulp tail (base)
-marking-VulpTail-vulp-fade = Vulp tail (fade)
-marking-VulpTail = Vulp tail
-
-marking-VulpTailTip-vulp = Vulp tail (base)
-marking-VulpTailTip-vulp-tip = Vulp tail (tip)
-marking-VulpTailTip = Vulp tail (tip)
-
-marking-VulpTailWag-vulp_wag = Vulp tail (base)
-marking-VulpTailWag-vulp_wag-fade = Vulp tail (fade)
-marking-VulpTailWag = Vulp tail (animated)
-
-marking-VulpTailWagTip-vulp_wag = Vulp tail (base)
-marking-VulpTailWagTip-vulp_wag-tip = Vulp tail (tip)
-marking-VulpTailWagTip = Vulp tail (animated, tip)
-
-marking-VulpTailAlt-vulp_alt = Vulp tail (base)
-marking-VulpTailAlt-vulp_alt-fade = Vulp tail (fade)
-marking-VulpTailAlt = Vulp tail (alt)
-
-marking-VulpTailAltTip-vulp_alt = Vulp tail (base)
-marking-VulpTailAltTip-vulp_alt-tip = Vulp tail (tip)
-marking-VulpTailAltTip = Vulp tail (alt, tip)
-
-marking-VulpTailLong-long = Long tail (base)
-marking-VulpTailLong-long-tip = Long tail (tip)
-marking-VulpTailLong = Long tail
-
-marking-VulpTailFox-fox = Fox tail (base)
-marking-VulpTailFox-fox-fade = Fox tail (fade)
-marking-VulpTailFox = Fox tail
-
-marking-VulpTailFoxTip-fox = Fox tail (base)
-marking-VulpTailFoxTip-fox-tip = Fox tail (fade)
-marking-VulpTailFoxTip = Fox tail (tip)
-
-marking-VulpTailFoxWag-fox_wag = Fox tail (base)
-marking-VulpTailFoxWag-fox_wag-fade = Fox tail (fade)
-marking-VulpTailFoxWag = Fox tail (animated)
-
-marking-VulpTailFoxWagTip-fox_wag = Fox tail (base)
-marking-VulpTailFoxWagTip-fox_wag-tip = Fox tail (tip)
-marking-VulpTailFoxWagTip = Fox tail (animated, tip)
-
-marking-VulpTailBushyWag-bushfluff = Bush tail
-marking-VulpTailBushyWag = Bush tail
-
-marking-BushTailWag-bushfluff_wag = Bush tail
-marking-BushTailWag = Bush tail (animated)
-
-
 marking-VulpEar-vulp = Vulp ears (base)
 marking-VulpEar-vulp-inner = Vulp ears (inner)
 marking-VulpEar = Vulp ears
@@ -101,6 +50,57 @@ marking-VulpHeadTigerFace-tiger_face = Tiger stripes
 marking-VulpHeadTigerFace = Tiger stripes (face)
 
 
+marking-VulpTail-vulp = Vulp tail (base)
+marking-VulpTail-vulp-fade = Vulp tail (fade)
+marking-VulpTail = Vulp tail
+
+marking-VulpTailTip-vulp = Vulp tail (base)
+marking-VulpTailTip-vulp-tip = Vulp tail (tip)
+marking-VulpTailTip = Vulp tail (tip)
+
+marking-VulpTailWag-vulp_wag = Vulp tail (base)
+marking-VulpTailWag-vulp_wag-fade = Vulp tail (fade)
+marking-VulpTailWag = Vulp tail (animated)
+
+marking-VulpTailWagTip-vulp_wag = Vulp tail (base)
+marking-VulpTailWagTip-vulp_wag-tip = Vulp tail (tip)
+marking-VulpTailWagTip = Vulp tail (animated, tip)
+
+marking-VulpTailAlt-vulp_alt = Vulp tail (base)
+marking-VulpTailAlt-vulp_alt-fade = Vulp tail (fade)
+marking-VulpTailAlt = Vulp tail (alt)
+
+marking-VulpTailAltTip-vulp_alt = Vulp tail (base)
+marking-VulpTailAltTip-vulp_alt-tip = Vulp tail (tip)
+marking-VulpTailAltTip = Vulp tail (alt, tip)
+
+marking-VulpTailLong-long = Long tail (base)
+marking-VulpTailLong-long-tip = Long tail (tip)
+marking-VulpTailLong = Long tail
+
+marking-VulpTailFox-fox = Fox tail (base)
+marking-VulpTailFox-fox-fade = Fox tail (fade)
+marking-VulpTailFox = Fox tail
+
+marking-VulpTailFoxTip-fox = Fox tail (base)
+marking-VulpTailFoxTip-fox-tip = Fox tail (fade)
+marking-VulpTailFoxTip = Fox tail (tip)
+
+marking-VulpTailFoxWag-fox_wag = Fox tail (base)
+marking-VulpTailFoxWag-fox_wag-fade = Fox tail (fade)
+marking-VulpTailFoxWag = Fox tail (animated)
+
+marking-VulpTailFoxWagTip-fox_wag = Fox tail (base)
+marking-VulpTailFoxWagTip-fox_wag-tip = Fox tail (tip)
+marking-VulpTailFoxWagTip = Fox tail (animated, tip)
+
+marking-VulpTailBushyWag-bushfluff = Bush tail
+marking-VulpTailBushyWag = Bush tail
+
+marking-BushTailWag-bushfluff_wag = Bush tail
+marking-BushTailWag = Bush tail (animated)
+
+
 marking-VulpBellyCrest-belly_crest = Belly Crest
 marking-VulpBellyCrest = Belly Crest
 
@@ -119,3 +119,25 @@ marking-VulpBodyPointsFade = Points Fade
 
 marking-VulpBodyPointsSharp-points_crest = Points Sharp
 marking-VulpBodyPointsSharp = Points Sharp
+
+marking-VulpHairAdhara = Adhara
+marking-VulpHairAnita = Anita
+marking-VulpHairApollo = Apollo
+marking-VulpHairBelle = Belle
+marking-VulpHairBraided = Braided Hair
+marking-VulpHairBun = Bun
+marking-VulpHairCleanCut = Clean Cut
+marking-VulpHairCurl = Curl
+marking-VulpHairHawk = Hawk
+marking-VulpHairJagged = Jagged
+marking-VulpHairJeremy = Jeremy
+marking-VulpHairKajam = Kajam
+marking-VulpHairKeid = Keid
+marking-VulpHairKleeia = Kleeia
+marking-VulpHairMizar = Mizar
+marking-VulpHairPunkBraided = Punk Braided
+marking-VulpHairRaine = Raine
+marking-VulpHairRough = Rough
+marking-VulpHairShort = Short Hair
+marking-VulpHairShort2 = Short Hair 2
+marking-VulpHairSpike = Spike
