@@ -39,8 +39,6 @@ namespace Content.Server.Ghost.Roles
         [Dependency] private readonly FollowerSystem _followerSystem = default!;
         [Dependency] private readonly TransformSystem _transform = default!;
         [Dependency] private readonly IConfigurationManager _cfg = default!;
-        [Dependency] private readonly IServerPreferencesManager _prefs = default!;
-        [Dependency] private readonly IEntityManager _entityManager = default!;
 
         private uint _nextRoleIdentifier;
         private bool _needsUpdateGhostRoleCount = true;
