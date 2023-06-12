@@ -64,7 +64,6 @@ namespace Content.Server.Ghost.Roles
             SubscribeLocalEvent<GhostRoleComponent, ComponentShutdown>(OnShutdown);
             SubscribeLocalEvent<GhostRoleMobSpawnerComponent, TakeGhostRoleEvent>(OnSpawnerTakeRole);
             SubscribeLocalEvent<GhostTakeoverAvailableComponent, TakeGhostRoleEvent>(OnTakeoverTakeRole);
-            SubscribeLocalEvent<GhostRoleCharacterSpawnerComponent, TakeGhostRoleEvent>(OnSpawnerTakeCharacter);
             _playerManager.PlayerStatusChanged += PlayerStatusChanged;
         }
 
@@ -351,44 +350,6 @@ namespace Content.Server.Ghost.Roles
 
             args.TookRole = true;
         }
-
-        // Delta-V code for custom spawner type, that'll spawn a players currently selected character instead of an entity
-        private void OnSpawnerTakeCharacter(EntityUid uid, GhostRoleCharacterSpawnerComponent component, ref TakeGhostRoleEvent args)
-        {
-            if (!TryComp(uid, out GhostRoleComponent? ghostRole) ||
-                ghostRole.Taken)
-            {
-                args.TookRole = false;
-                return;
-            }
-
-            var character = (HumanoidCharacterProfile) _prefs.GetPreferences(args.Player.UserId).SelectedCharacter;
-
-            var mob = _entityManager.System<StationSpawningSystem>()
-                .SpawnPlayerMob(coordinates: Transform(uid).Coordinates, profile: character, entity: null, job: null, station: null);
-            _transform.AttachToGridOrMap(mob);
-
-            var spawnedEvent = new GhostRoleSpawnerUsedEvent(uid, mob);
-            RaiseLocalEvent(mob, spawnedEvent);
-
-            mob.EnsureComponent<MindComponent>();
-
-            GhostRoleInternalCreateMindAndTransfer(args.Player, uid, mob, ghostRole);
-
-            if (++component.CurrentTakeovers < component.AvailableTakeovers)
-            {
-                args.TookRole = true;
-                return;
-            }
-
-            ghostRole.Taken = true;
-
-            if (component.DeleteOnSpawn)
-                QueueDel(uid);
-
-            args.TookRole = true;
-        }
-        // End of Delta code
 
         private void OnTakeoverTakeRole(EntityUid uid, GhostTakeoverAvailableComponent component, ref TakeGhostRoleEvent args)
         {
