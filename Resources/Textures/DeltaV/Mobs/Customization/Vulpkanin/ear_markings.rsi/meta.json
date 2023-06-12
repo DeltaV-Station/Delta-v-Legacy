@@ -43,6 +43,46 @@
     {
       "name": "wolf-inner",
       "directions": 4
+    },
+    {
+      "name": "fennec",
+      "directions": 4
+    },
+    {
+      "name": "fennec-inner",
+      "directions": 4
+    },
+    {
+      "name": "fox",
+      "directions": 4
+    },
+    {
+      "name": "otie",
+      "directions": 4
+    },
+    {
+      "name": "otie-inner",
+      "directions": 4
+    },
+    {
+      "name": "msai",
+      "directions": 4
+    },
+    {
+      "name": "msai-inner",
+      "directions": 4
+    },
+    {
+      "name": "shock",
+      "directions": 4
+    },
+    {
+      "name": "coyote",
+      "directions": 4
+    },
+    {
+      "name": "dalmatian",
+      "directions": 4
     }
   ]
 }

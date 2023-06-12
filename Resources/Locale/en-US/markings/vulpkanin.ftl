@@ -1,150 +1,210 @@
-marking-VulpEar-vulp = Vulp ears (base)
-marking-VulpEar-vulp-inner = Vulp ears (inner)
-marking-VulpEar = Vulp ears
+marking-VulpEar-vulp = Vulpkanin ears (base)
+marking-VulpEar-vulp-inner = Vulpkanin ears (inner)
+marking-VulpEar = Vulpkanin
 
-marking-VulpEarFade-vulp = Vulp ears (base)
-marking-VulpEarFade-vulp-fade = Vulp ears (fade)
-marking-VulpEarFade = Vulp ears (fade)
+marking-VulpEarFade-vulp = Vulpkanin ears (base)
+marking-VulpEarFade-vulp-fade = Vulpkanin ears (fade)
+marking-VulpEarFade = Vulpkanin (fade)
 
-marking-VulpEarSharp-vulp = Vulp ears (base)
-marking-VulpEarSharp-vulp-sharp = Vulp ears (sharp)
-marking-VulpEarSharp = Vulp ears (sharp)
+marking-VulpEarSharp-vulp = Vulpkanin ears (base)
+marking-VulpEarSharp-vulp-sharp = Vulpkanin ears (sharp)
+marking-VulpEarSharp = Vulpkanin (sharp)
 
 marking-VulpEarJackal-jackal = Jackal ears (base)
 marking-VulpEarJackal-jackal-inner = Jackal ears (inner)
-marking-VulpEarJackal = Jackal ears
+marking-VulpEarJackal = Vulpkanin Jackal
 
 marking-VulpEarTerrier-terrier = Terrier ears (base)
 marking-VulpEarTerrier-terrier-inner = Terrier ears (inner)
-marking-VulpEarTerrier = Terrier ears
+marking-VulpEarTerrier = Vulpkanin Terrier
 
 marking-VulpEarWolf-wolf = Wolf ears (base)
 marking-VulpEarWolf-wolf-inner = Wolf ears (inner)
-marking-VulpEarWolf = Wolf ears
+marking-VulpEarWolf = Vulpkanin Wolf
+
+marking-VulpEarFennec-fennec = Fennec ears (base)
+marking-VulpEarFennec-fennec-inner = Fennec ears (inner)
+marking-VulpEarFennec = Vulpkanin Fennec
+
+marking-VulpEarFox-fox = Fox ears
+marking-VulpEarFox = Vulpkanin Fox
+
+marking-VulpEarOtie-otie = Otie ears (base)
+marking-VulpEarOtie-otie-inner = Otie ears (inner)
+marking-VulpEarOtie = Vulpkanin Otie
+
+marking-VulpEarTajaran-msai = Tajaran ears (base)
+marking-VulpEarTajaran-msai-inner = Tajaran ears (inner)
+marking-VulpEarTajaran = Vulpkanin Tajaran
+
+marking-VulpEarShock-shock = Shock ears
+marking-VulpEarShock = Vulpkanin Shock
+
+marking-VulpEarCoyote-coyote = Coyote ears
+marking-VulpEarCoyote = Vulpkanin Coyote
+
+marking-VulpEarDalmatian-dalmatian = Dalmatian ears
+marking-VulpEarDalmatian = Vulpkanin Dalmatian
 
 
 marking-VulpSnoutAlt-muzzle_alt = Muzzle
 marking-VulpSnoutAlt-nose = Nose
-marking-VulpSnoutAlt = Muzzle (alt)
+marking-VulpSnoutAlt = Vulpkanin Muzzle 2
 
 marking-VulpSnout-muzzle = Muzzle
 marking-VulpSnout-nose = Nose
-marking-VulpSnout = Muzzle
+marking-VulpSnout = Vulpkanin Muzzle
 
 marking-VulpSnoutSharp-muzzle_sharp = Muzzle
 marking-VulpSnoutSharp-nose = Nose
-marking-VulpSnoutSharp = Muzzle (sharp)
+marking-VulpSnoutSharp = Vulpkanin Muzzle (sharp)
 
 marking-VulpSnoutFade-muzzle_fade = Muzzle
 marking-VulpSnoutFade-nose = Nose
-marking-VulpSnoutFade = Muzzle (fade)
+marking-VulpSnoutFade = Vulpkanin Muzzle (fade)
 
 marking-VulpSnoutNose-nose = Nose
-marking-VulpSnoutNose = Nose
+marking-VulpSnoutNose = Vulpkanin Nose
 
 
 marking-VulpHeadTiger-tiger_head = Tiger stripes
-marking-VulpHeadTiger = Tiger stripes (head)
+marking-VulpHeadTiger = Vulpkanin Tiger stripes (head)
 
 marking-VulpHeadTigerFace-tiger_face = Tiger stripes
-marking-VulpHeadTigerFace = Tiger stripes (face)
+marking-VulpHeadTigerFace = Vulpkanin Tiger stripes (face)
 
 
-marking-VulpTail-vulp = Vulp tail (base)
-marking-VulpTail-vulp-fade = Vulp tail (fade)
-marking-VulpTail = Vulp tail
+marking-VulpTail-vulp = Vulpkanin tail (base)
+marking-VulpTail-vulp-fade = Vulpkanin tail (fade)
+marking-VulpTail = Vulpkanin
 
-marking-VulpTailTip-vulp = Vulp tail (base)
-marking-VulpTailTip-vulp-tip = Vulp tail (tip)
-marking-VulpTailTip = Vulp tail (tip)
+marking-VulpTailTip-vulp = Vulpkanin tail (base)
+marking-VulpTailTip-vulp-tip = Vulpkanin tail (tip)
+marking-VulpTailTip = Vulpkanin (tip)
 
-marking-VulpTailWag-vulp_wag = Vulp tail (base)
-marking-VulpTailWag-vulp_wag-fade = Vulp tail (fade)
-marking-VulpTailWag = Vulp tail (animated)
+marking-VulpTailWag-vulp_wag = Vulpkanin tail (base)
+marking-VulpTailWag-vulp_wag-fade = Vulpkanin tail (fade)
+marking-VulpTailWag = Vulpkanin (wag)
 
-marking-VulpTailWagTip-vulp_wag = Vulp tail (base)
-marking-VulpTailWagTip-vulp_wag-tip = Vulp tail (tip)
-marking-VulpTailWagTip = Vulp tail (animated, tip)
+marking-VulpTailWagTip-vulp_wag = Vulpkanin tail (base)
+marking-VulpTailWagTip-vulp_wag-tip = Vulpkanin tail (tip)
+marking-VulpTailWagTip = Vulpkanin (wag, tip)
 
-marking-VulpTailAlt-vulp_alt = Vulp tail (base)
-marking-VulpTailAlt-vulp_alt-fade = Vulp tail (fade)
-marking-VulpTailAlt = Vulp tail (alt)
+marking-VulpTailAlt-vulp_alt = Vulpkanin tail (base)
+marking-VulpTailAlt-vulp_alt-fade = Vulpkanin tail (fade)
+marking-VulpTailAlt = Vulpkanin (alt)
 
-marking-VulpTailAltTip-vulp_alt = Vulp tail (base)
-marking-VulpTailAltTip-vulp_alt-tip = Vulp tail (tip)
-marking-VulpTailAltTip = Vulp tail (alt, tip)
+marking-VulpTailAltTip-vulp_alt = Vulpkanin tail (base)
+marking-VulpTailAltTip-vulp_alt-tip = Vulpkanin tail (tip)
+marking-VulpTailAltTip = Vulpkanin (alt, tip)
 
 marking-VulpTailLong-long = Long tail (base)
 marking-VulpTailLong-long-tip = Long tail (tip)
-marking-VulpTailLong = Long tail
+marking-VulpTailLong = Vulpkanin Long
 
 marking-VulpTailFox-fox = Fox tail (base)
 marking-VulpTailFox-fox-fade = Fox tail (fade)
-marking-VulpTailFox = Fox tail
+marking-VulpTailFox = Vulpkanin Fox
 
 marking-VulpTailFoxTip-fox = Fox tail (base)
 marking-VulpTailFoxTip-fox-tip = Fox tail (fade)
-marking-VulpTailFoxTip = Fox tail (tip)
+marking-VulpTailFoxTip = Vulpkanin Fox (tip)
 
 marking-VulpTailFoxWag-fox_wag = Fox tail (base)
 marking-VulpTailFoxWag-fox_wag-fade = Fox tail (fade)
-marking-VulpTailFoxWag = Fox tail (animated)
+marking-VulpTailFoxWag = Vulpkanin Fox (wag)
 
 marking-VulpTailFoxWagTip-fox_wag = Fox tail (base)
 marking-VulpTailFoxWagTip-fox_wag-tip = Fox tail (tip)
-marking-VulpTailFoxWagTip = Fox tail (animated, tip)
+marking-VulpTailFoxWagTip = Vulpkanin Fox (wag, tip)
 
-marking-VulpTailBushyWag-bushfluff = Bush tail
-marking-VulpTailBushyWag = Bush tail
+marking-VulpTailBushy-bushfluff = Bush tail
+marking-VulpTailBushy = Vulpkanin Bush
 
-marking-BushTailWag-bushfluff_wag = Bush tail
-marking-BushTailWag = Bush tail (animated)
+marking-VulpTailBushyWag-bushfluff_wag = Bush tail
+marking-VulpTailBushyWag = Vulpkanin Bush (wag)
+
+marking-VulpTailCoyoteWag-coyote_wag = Coyote tail
+marking-VulpTailCoyoteWag = Vulpkanin Coyote (wag)
+
+marking-VulpTailCorgiWag-corgi_wag = Crogi tail
+marking-VulpTailCorgiWag = Vulpkanin Corgi (wag)
+
+marking-VulpTailHusky-husky-inner = Husky tail (inner)
+marking-VulpTailHusky-husky-outer = Husky tail (outer)
+marking-VulpTailHusky = Vulpkanin Husky
+
+marking-VulpTailHuskyAlt-husky = Husky tail
+marking-VulpTailHuskyAlt = Vulpkanin Husky (alt)
+
+marking-VulpTailFox2-fox2 = Fox tail
+marking-VulpTailFox2 = Vulpkanin Fox 2
+
+marking-VulpTailFox3-fox3 = Fox tail (base)
+marking-VulpTailFox3-fox3-tip = Fox tail (tip)
+marking-VulpTailFox3 = Vulpkanin Fox 3
+
+marking-VulpTailFennec-fennec = Fennec tail
+marking-VulpTailFennec = Vulpkanin Fennec
+
+marking-VulpTailOtie-otie = Otie tail
+marking-VulpTailOtie = Vulpkanin Otie
+
+marking-VulpTailFluffy-fluffy = Fluffy tail
+marking-VulpTailFluffy = Vulpkanin Fluffy
+
+marking-VulpTailShepherd-shepherd = Shepherd tail (base)
+marking-VulpTailShepherd-shepherd-details = Shepherd tail (details)
+marking-VulpTailShepherd = Vulpkanin Shepherd
+
+marking-VulpTailDalmatianWag-dalmatian_wag = Dalmatian tail
+marking-VulpTailDalmatianWag = Vulpkanin Dalmatian (wag)
 
 
-marking-VulpBellyCrest-belly_crest = Belly Crest
-marking-VulpBellyCrest = Belly Crest
+marking-VulpBellyCrest-belly_crest = Belly
+marking-VulpBellyCrest = Vulpkanin Belly Crest
 
-marking-VulpBellyFull-belly_full = Belly Full
-marking-VulpBellyFull = Belly Full
+marking-VulpBellyFull-belly_full = Belly
+marking-VulpBellyFull = Vulpkanin Belly 1
 
-marking-VulpBellyFox-belly_fox = Belly Fox
-marking-VulpBellyFox = Belly Fox
+marking-VulpBellyFox-belly_fox = Belly
+marking-VulpBellyFox = Vulpkanin Belly 2
 
 
-marking-VulpBodyPointsCrest-points_crest = Points Crest
-marking-VulpBodyPointsCrest = Points Crest
+marking-VulpBodyPointsCrest-points_crest = Points (crest)
+marking-VulpBodyPointsCrest = Vulpkanin Points (crest)
 
-marking-VulpBodyPointsFade-points_fade = Points Fade
-marking-VulpBodyPointsFade = Points Fade
+marking-VulpBodyPointsFade-points_fade = Vulpkanin Points (fade)
+marking-VulpBodyPointsFade = Vulpkanin Points (fade)
 
-marking-VulpBodyPointsSharp-points_sharp = Points Sharp
-marking-VulpBodyPointsSharp = Points Sharp
+marking-VulpBodyPointsSharp-points_sharp = Vulpkanin Points (sharp)
+marking-VulpBodyPointsSharp = Vulpkanin Points (sharp)
 
 
 marking-VulpPointsFeet-points_feet = Points Feet
-marking-VulpPointsFeet = Points Feet
+marking-VulpPointsFeet = Vulpkanin Points Feet
 
-marking-VulpPointsCrestLegs-points_crest-legs = Points Crest
-marking-VulpPointsCrestLegs = Points Legs Crest
+marking-VulpPointsCrestLegs-points_crest-legs = Points (crest)
+marking-VulpPointsCrestLegs = Vulpkanin Points Legs (crest)
 
-marking-VulpPointsFadeLegs-points_fade-legs = Points Fade
-marking-VulpPointsFadeLegs = Points Legs Fade
+marking-VulpPointsFadeLegs-points_fade-legs = Points (fade)
+marking-VulpPointsFadeLegs = Vulpkanin Points Legs (fade)
 
-marking-VulpPointsSharpLegs-points_sharp-legs = Points Sharp
-marking-VulpPointsSharpLegs = Points Legs Sharp
+marking-VulpPointsSharpLegs-points_sharp-legs = Points (sharp)
+marking-VulpPointsSharpLegs = Vulpkanin Points Legs (sharp)
 
 
 marking-VulpPointsHands-points_hands = Points Hands
-marking-VulpPointsHands = Points Hands
+marking-VulpPointsHands = Vulpkanin Points Hands
 
-marking-VulpPointsCrestArms-points_crest-arms = Points Crest
-marking-VulpPointsCrestArms = Points Arms Crest
+marking-VulpPointsCrestArms-points_crest-arms = Points (crest)
+marking-VulpPointsCrestArms = Vulpkanin Points Arms (crest)
 
-marking-VulpPointsFadeArms-points_fade-arms = Points Fade
-marking-VulpPointsFadeArms = Points Arms Fade
+marking-VulpPointsFadeArms-points_fade-arms = Points (fade)
+marking-VulpPointsFadeArms = Vulpkanin Points Arms (fade)
 
-marking-VulpPointsSharpArms-points_sharp-arms = Points Sharp
-marking-VulpPointsSharpArms = Points Arms Sharp
+marking-VulpPointsSharpArms-points_sharp-arms = Points (sharp)
+marking-VulpPointsSharpArms = Vulpkanin Points Arms (sharp)
 
 
 marking-VulpHairAdhara = Adhara
