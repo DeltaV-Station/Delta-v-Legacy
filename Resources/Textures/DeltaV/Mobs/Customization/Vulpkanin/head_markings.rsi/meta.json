@@ -31,6 +31,30 @@
     {
       "name": "muzzle_alt",
       "directions": 4
+    },
+    {
+      "name": "patch",
+      "directions": 4
+    },
+    {
+      "name": "mask",
+      "directions": 4
+    },
+    {
+      "name": "slash",
+      "directions": 4
+    },
+    {
+      "name": "blaze",
+      "directions": 4
+    },
+    {
+      "name": "vulpine",
+      "directions": 4
+    },
+    {
+      "name": "vulpine-lines",
+      "directions": 4
     }
   ]
 }

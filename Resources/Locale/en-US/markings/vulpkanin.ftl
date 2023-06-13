@@ -66,12 +66,35 @@ marking-VulpSnoutFade = Vulpkanin Muzzle (fade)
 marking-VulpSnoutNose-nose = Nose
 marking-VulpSnoutNose = Vulpkanin Nose
 
+marking-VulpSnoutMask-mask = Mask
+marking-VulpSnoutMask-nose = Nose
+marking-VulpSnoutMask = Vulpkanin Mask
+
+marking-VulpSnoutVulpine-vulpine = Vulpine (base)
+marking-VulpSnoutVulpine-vulpine-lines = Vulpine (lines)
+marking-VulpSnoutVulpine = Vulpkanin Vulpine
+
+marking-VulpSnoutSwift-vulpine-lines = Swift
+marking-VulpSnoutSwift = Vulpkanin Swift
+
+marking-VulpSnoutBlaze-blaze = Blaze
+marking-VulpSnoutBlaze = Vulpkanin Blaze
+
+marking-VulpSnoutPatch-patch = Patch
+marking-VulpSnoutPatch = Vulpkanin Patch
+
 
 marking-VulpHeadTiger-tiger_head = Tiger stripes
 marking-VulpHeadTiger = Vulpkanin Tiger stripes (head)
 
 marking-VulpHeadTigerFace-tiger_face = Tiger stripes
 marking-VulpHeadTigerFace = Vulpkanin Tiger stripes (face)
+
+marking-VulpHeadRuff-ruff = Ruff
+marking-VulpHeadRuff = Vulpkanin Ruff
+
+marking-VulpHeadSlash-slash = Slash
+marking-VulpHeadSlash = Vulpkanin Slash
 
 
 marking-VulpTail-vulp = Vulpkanin tail (base)
@@ -227,3 +250,8 @@ marking-VulpHairRough = Rough
 marking-VulpHairShort = Short Hair
 marking-VulpHairShort2 = Short Hair 2
 marking-VulpHairSpike = Spike
+
+marking-VulpFacialHairRuff = Ruff
+marking-VulpFacialHairElder = Elder
+marking-VulpFacialHairElderChin = Elder Chin
+marking-VulpFacialHairKita = Kita
