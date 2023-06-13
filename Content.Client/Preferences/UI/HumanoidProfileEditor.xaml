@@ -149,23 +149,8 @@
                 </BoxContainer>
                 <BoxContainer Orientation="Vertical" Margin="10">
                     <!-- Traits -->
-                    <BoxContainer Orientation="Horizontal">
-                        <Label Text="Available Points: " />
-                        <!-- Keep this value consistent with the Update__Preferences function's default 'points' value or issues will arise. -->
-                        <Label Text="0" Name="TraitPoints" />
-                    </BoxContainer>
-                    <Label Text="" />
-                    <Label Text="Positive" />
                     <ScrollContainer VerticalExpand="True">
-                        <BoxContainer Name="CPTraitsList" Orientation="Vertical" />
-                    </ScrollContainer>
-                    <Label Text="Equal" />
-                    <ScrollContainer VerticalExpand="True">
-                        <BoxContainer Name="CETraitsList" Orientation="Vertical" />
-                    </ScrollContainer>
-                    <Label Text="Negative" />
-                    <ScrollContainer VerticalExpand="True">
-                        <BoxContainer Name="CNTraitsList" Orientation="Vertical" />
+                        <BoxContainer Name="CTraitsList" Orientation="Vertical" />
                     </ScrollContainer>
                 </BoxContainer>
                 <BoxContainer Orientation="Vertical" Margin="10" Name="CLoadoutsTab">

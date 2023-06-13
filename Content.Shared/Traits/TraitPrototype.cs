@@ -28,18 +28,6 @@ namespace Content.Shared.Traits
         public string? Description { get; private set; }
 
         /// <summary>
-        ///     The category type of this trait.
-        /// </summary>
-        [DataField("category")]
-        public string Category = "Equal";
-
-        /// <summary>
-        ///     The point cost of this trait.
-        /// </summary>
-        [DataField("cost")]
-        public int Cost = 0;
-
-        /// <summary>
         ///     Don't apply this trait to entities this whitelist IS NOT valid for.
         /// </summary>
         [DataField("whitelist")]

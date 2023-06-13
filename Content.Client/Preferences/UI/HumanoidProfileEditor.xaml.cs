@@ -74,10 +74,7 @@ namespace Content.Client.Preferences.UI
         private TabContainer _tabContainer => CTabContainer;
         private BoxContainer _jobList => CJobList;
         private BoxContainer _antagList => CAntagList;
-        private Label _traitPoints => TraitPoints;
-        private BoxContainer _ptraitsList => CPTraitsList;
-        private BoxContainer _etraitsList => CETraitsList;
-        private BoxContainer _ntraitsList => CNTraitsList;
+        private BoxContainer _traitsList => CTraitsList;
         private ProgressBar _loadoutPoints => LoadoutPoints;
         private BoxContainer _loadoutsTab => CLoadoutsTab;
         private TabContainer _loadoutsTabs => CLoadoutsTabs;
@@ -532,98 +529,22 @@ namespace Content.Client.Preferences.UI
 
             if (traits.Count > 0)
             {
-                if (_traitPoints.Text == null) return;
-
                 foreach (var trait in traits)
                 {
-                    if (trait.Category == "Positive")
+                    var selector = new TraitPreferenceSelector(trait);
+                    _traitsList.AddChild(selector);
+                    _traitPreferences.Add(selector);
+
+                    selector.PreferenceChanged += preference =>
                     {
-                        var selector = new TraitPreferenceSelector(trait);
-                        _ptraitsList.AddChild(selector);
-                        _traitPreferences.Add(selector);
-
-                        selector.PreferenceChanged += preference =>
-                        {
-                            if (preference == true)
-                            {
-                                var yayornay = true;
-                                var temp = int.Parse(_traitPoints.Text) + trait.Cost;
-
-                                if (temp < 0)
-                                {
-                                    preference = false;
-                                    yayornay = false;
-                                }
-
-                                if (yayornay == true) _traitPoints.Text = (temp).ToString();
-                            }
-                            else if (preference == false)
-                            {
-                                var temp = int.Parse(_traitPoints.Text);
-                                _traitPoints.Text = (temp -= trait.Cost).ToString();
-                            }
-
-                            Profile = Profile?.WithTraitPreference(trait.ID, preference);
-                            IsDirty = true;
-
-                            UpdateTraitPreferences();
-                            RebuildSpriteView();
-                        };
-                    }
-                    else if (trait.Category == "Negative")
-                    {
-                        var selector = new TraitPreferenceSelector(trait);
-                        _ntraitsList.AddChild(selector);
-                        _traitPreferences.Add(selector);
-
-                        selector.PreferenceChanged += preference =>
-                        {
-                            if (preference == true)
-                            {
-                                var temp = int.Parse(_traitPoints.Text);
-                                _traitPoints.Text = (temp += trait.Cost).ToString();
-                            }
-                            else if (preference == false)
-                            {
-                                var yayornay = true;
-                                var temp = int.Parse(_traitPoints.Text) - trait.Cost;
-
-                                if (temp < 0)
-                                {
-                                    preference = true;
-                                    yayornay = false;
-                                }
-
-                                if (yayornay == true) _traitPoints.Text = (temp).ToString();
-                            }
-
-                            Profile = Profile?.WithTraitPreference(trait.ID, preference);
-                            IsDirty = true;
-
-                            UpdateTraitPreferences();
-                            RebuildSpriteView();
-                        };
-                    }
-                    else
-                    {
-                        var selector = new TraitPreferenceSelector(trait);
-                        _etraitsList.AddChild(selector);
-                        _traitPreferences.Add(selector);
-
-                        selector.PreferenceChanged += preference =>
-                        {
-                            Profile = Profile?.WithTraitPreference(trait.ID, preference);
-                            IsDirty = true;
-
-                            UpdateTraitPreferences();
-                            RebuildSpriteView();
-                        };
-                    }
+                        Profile = Profile?.WithTraitPreference(trait.ID, preference);
+                        IsDirty = true;
+                    };
                 }
             }
             else
             {
-                _etraitsList.AddChild(new Label
+                _traitsList.AddChild(new Label
                 {
                     Text = "No traits available :(",
                     FontColorOverride = Color.Gray,
@@ -1533,10 +1454,6 @@ namespace Content.Client.Preferences.UI
 
         private void UpdateTraitPreferences()
         {
-            if (_traitPoints.Text == null) return;
-            int points = 0; // Default value from the xaml, keep these consistent or issues will arise
-            _traitPoints.Text = points.ToString();
-
             foreach (var preferenceSelector in _traitPreferences)
             {
                 var traitId = preferenceSelector.Trait.ID;
@@ -1544,11 +1461,6 @@ namespace Content.Client.Preferences.UI
 
                 preferenceSelector.Preference = preference;
 
-                if (preference == true)
-                {
-                    points += preferenceSelector.Trait.Cost;
-                    _traitPoints.Text = points.ToString();
-                }
             }
         }
 
@@ -1638,7 +1550,7 @@ namespace Content.Client.Preferences.UI
                 Trait = trait;
 
                 _checkBox = new Button {
-                    Text = $"[{trait.Cost}] {Loc.GetString(trait.Name)}",
+                    Text = Loc.GetString(trait.Name),
                     ToggleMode = true
                 };
                 _checkBox.OnToggled += OnCheckBoxToggled;
