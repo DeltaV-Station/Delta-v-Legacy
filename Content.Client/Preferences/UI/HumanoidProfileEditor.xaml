@@ -1,7 +1,7 @@
 <Control xmlns="https://spacestation14.io"
-         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-         xmlns:prefUi="clr-namespace:Content.Client.Preferences.UI"
-         xmlns:humanoid="clr-namespace:Content.Client.Humanoid">
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:prefUi="clr-namespace:Content.Client.Preferences.UI"
+    xmlns:humanoid="clr-namespace:Content.Client.Humanoid">
     <BoxContainer Orientation="Horizontal">
         <!-- Left side -->
         <BoxContainer Orientation="Horizontal" Margin="10 10 10 10">
@@ -157,7 +157,15 @@
                     <Label Text="" />
                     <Label Text="Positive" />
                     <ScrollContainer VerticalExpand="True">
-                        <BoxContainer Name="CTraitsList" Orientation="Vertical" />
+                        <BoxContainer Name="CPTraitsList" Orientation="Vertical" />
+                    </ScrollContainer>
+                    <Label Text="Equal" />
+                    <ScrollContainer VerticalExpand="True">
+                        <BoxContainer Name="CETraitsList" Orientation="Vertical" />
+                    </ScrollContainer>
+                    <Label Text="Negative" />
+                    <ScrollContainer VerticalExpand="True">
+                        <BoxContainer Name="CNTraitsList" Orientation="Vertical" />
                     </ScrollContainer>
                 </BoxContainer>
                 <BoxContainer Orientation="Vertical" Margin="10" Name="CLoadoutsTab">

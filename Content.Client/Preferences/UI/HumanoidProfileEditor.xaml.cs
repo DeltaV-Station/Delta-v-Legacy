@@ -113,8 +113,7 @@ namespace Content.Client.Preferences.UI
 
         public event Action<HumanoidCharacterProfile, int>? OnProfileChanged;
 
-        public HumanoidProfileEditor(IClientPreferencesManager preferencesManager, IPrototypeManager prototypeManager,
-            IEntityManager entityManager, IConfigurationManager configurationManager)
+        public HumanoidProfileEditor(IClientPreferencesManager preferencesManager, IPrototypeManager prototypeManager, IEntityManager entityManager, IConfigurationManager configurationManager)
         {
             RobustXamlLoader.Load(this);
             _random = IoCManager.Resolve<IRobustRandom>();
@@ -278,7 +277,7 @@ namespace Content.Client.Preferences.UI
                 IsDirty = true;
             };
 
-            _hairPicker.OnSlotAdd += delegate()
+            _hairPicker.OnSlotAdd += delegate ()
             {
                 if (Profile is null)
                     return;
@@ -298,7 +297,7 @@ namespace Content.Client.Preferences.UI
                 IsDirty = true;
             };
 
-            _facialHairPicker.OnSlotAdd += delegate()
+            _facialHairPicker.OnSlotAdd += delegate ()
             {
                 if (Profile is null)
                     return;
@@ -372,7 +371,7 @@ namespace Content.Client.Preferences.UI
                 (int) PreferenceUnavailableMode.StayInLobby);
             _preferenceUnavailableButton.AddItem(
                 Loc.GetString("humanoid-profile-editor-preference-unavailable-spawn-as-overflow-button",
-                              ("overflowJob", Loc.GetString(SharedGameTicker.FallbackOverflowJobName))),
+                                ("overflowJob", Loc.GetString(SharedGameTicker.FallbackOverflowJobName))),
                 (int) PreferenceUnavailableMode.SpawnAsOverflow);
 
             _preferenceUnavailableButton.OnItemSelected += args =>
@@ -507,6 +506,7 @@ namespace Content.Client.Preferences.UI
             else
             {
                 _antagList.Margin = new Thickness (0, 0, 0, 10);
+                _antagList.Margin = new Thickness(0, 0, 0, 10);
                 var whitelistLabel = new Label();
                 whitelistLabel.Text = Loc.GetString("roles-antag-not-whitelisted");
                 _antagList.AddChild(whitelistLabel);
@@ -532,13 +532,11 @@ namespace Content.Client.Preferences.UI
 
             if (traits.Count > 0)
             {
+                if (_traitPoints.Text == null) return;
+
                 foreach (var trait in traits)
                 {
-                    var selector = new TraitPreferenceSelector(trait);
-                    _traitsList.AddChild(selector);
-                    _traitPreferences.Add(selector);
-
-                    selector.PreferenceChanged += preference =>
+                    if (trait.Category == "Positive")
                     {
                         var selector = new TraitPreferenceSelector(trait);
                         _ptraitsList.AddChild(selector);
@@ -625,7 +623,7 @@ namespace Content.Client.Preferences.UI
             }
             else
             {
-                _traitsList.AddChild(new Label
+                _etraitsList.AddChild(new Label
                 {
                     Text = "No traits available :(",
                     FontColorOverride = Color.Gray,
@@ -789,6 +787,8 @@ namespace Content.Client.Preferences.UI
             {
                 Sprite = sprite,
                 Scale = (6, 6),
+                Stretch = SpriteView.StretchMode.None,
+                MaxSize = (192, 192),
                 OverrideDirection = Direction.South,
                 VerticalAlignment = VAlignment.Center,
                 SizeFlagsStretchRatio = 1
@@ -799,6 +799,8 @@ namespace Content.Client.Preferences.UI
             {
                 Sprite = sprite,
                 Scale = (6, 6),
+                Stretch = SpriteView.StretchMode.None,
+                MaxSize = (192, 192),
                 OverrideDirection = Direction.East,
                 VerticalAlignment = VAlignment.Center,
                 SizeFlagsStretchRatio = 1
@@ -847,7 +849,6 @@ namespace Content.Client.Preferences.UI
             IsDirty = true;
         }
 
-
         private void OnSkinColorOnValueChanged()
         {
             if (Profile is null) return;
@@ -857,40 +858,40 @@ namespace Content.Client.Preferences.UI
             switch (skin)
             {
                 case HumanoidSkinColor.HumanToned:
-                {
-                    if (!_skinColor.Visible)
                     {
-                        _skinColor.Visible = true;
-                        _rgbSkinColorContainer.Visible = false;
+                        if (!_skinColor.Visible)
+                        {
+                            _skinColor.Visible = true;
+                            _rgbSkinColorContainer.Visible = false;
+                        }
+
+                        var color = SkinColor.HumanSkinTone((int) _skinColor.Value);
+
+                        CMarkings.CurrentSkinColor = color;
+                        Profile = Profile.WithCharacterAppearance(Profile.Appearance.WithSkinColor(color));
+                        break;
                     }
-
-                    var color = SkinColor.HumanSkinTone((int) _skinColor.Value);
-
-                    CMarkings.CurrentSkinColor = color;
-                    Profile = Profile.WithCharacterAppearance(Profile.Appearance.WithSkinColor(color));//
-                    break;
-                }
                 case HumanoidSkinColor.Hues:
-                {
-                    if (!_rgbSkinColorContainer.Visible)
                     {
-                        _skinColor.Visible = false;
-                        _rgbSkinColorContainer.Visible = true;
-                    }
+                        if (!_rgbSkinColorContainer.Visible)
+                        {
+                            _skinColor.Visible = false;
+                            _rgbSkinColorContainer.Visible = true;
+                        }
 
-                    CMarkings.CurrentSkinColor = _rgbSkinColorSelector.Color;
-                    Profile = Profile.WithCharacterAppearance(Profile.Appearance.WithSkinColor(_rgbSkinColorSelector.Color));
-                    break;
-                }
+                        CMarkings.CurrentSkinColor = _rgbSkinColorSelector.Color;
+                        Profile = Profile.WithCharacterAppearance(Profile.Appearance.WithSkinColor(_rgbSkinColorSelector.Color));
+                        break;
+                    }
                 case HumanoidSkinColor.TintedHues:
-                {
-                    if (!_rgbSkinColorContainer.Visible)
                     {
-                        _skinColor.Visible = false;
-                        _rgbSkinColorContainer.Visible = true;
-                    }
+                        if (!_rgbSkinColorContainer.Visible)
+                        {
+                            _skinColor.Visible = false;
+                            _rgbSkinColorContainer.Visible = true;
+                        }
 
-                    var color = SkinColor.TintedHues(_rgbSkinColorSelector.Color);
+                        var color = SkinColor.TintedHues(_rgbSkinColorSelector.Color);
 
                     CMarkings.CurrentSkinColor = color;
                     Profile = Profile.WithCharacterAppearance(Profile.Appearance.WithSkinColor(color));
@@ -938,6 +939,8 @@ namespace Content.Client.Preferences.UI
                 {
                     Sprite = sprite,
                     Scale = (6, 6),
+                    Stretch = SpriteView.StretchMode.None,
+                    MaxSize = (192, 192),
                     OverrideDirection = Direction.South,
                     VerticalAlignment = VAlignment.Center,
                     SizeFlagsStretchRatio = 1
@@ -955,6 +958,8 @@ namespace Content.Client.Preferences.UI
                 {
                     Sprite = sprite,
                     Scale = (6, 6),
+                    Stretch = SpriteView.StretchMode.None,
+                    MaxSize = (192, 192),
                     OverrideDirection = Direction.East,
                     VerticalAlignment = VAlignment.Center,
                     SizeFlagsStretchRatio = 1
@@ -1068,7 +1073,7 @@ namespace Content.Client.Preferences.UI
 
         private void UpdateFlavorTextEdit()
         {
-            if(_flavorTextEdit != null)
+            if (_flavorTextEdit != null)
             {
                 _flavorTextEdit.Text = Profile?.FlavorText ?? "";
             }
@@ -1095,7 +1100,8 @@ namespace Content.Client.Preferences.UI
                 {
                     sexes.Add(sex);
                 }
-            } else
+            }
+            else
             {
                 sexes.Add(Sex.Unsexed);
             }
@@ -1114,49 +1120,48 @@ namespace Content.Client.Preferences.UI
 
         private void UpdateSkinColor()
         {
-            if (Profile == null)
-                return;
+            if (Profile == null) return;
 
             var skin = _prototypeManager.Index<SpeciesPrototype>(Profile.Species).SkinColoration;
 
             switch (skin)
             {
                 case HumanoidSkinColor.HumanToned:
-                {
-                    if (!_skinColor.Visible)
                     {
-                        _skinColor.Visible = true;
-                        _rgbSkinColorContainer.Visible = false;
+                        if (!_skinColor.Visible)
+                        {
+                            _skinColor.Visible = true;
+                            _rgbSkinColorContainer.Visible = false;
+                        }
+
+                        _skinColor.Value = SkinColor.HumanSkinToneFromColor(Profile.Appearance.SkinColor);
+
+                        break;
                     }
-
-                    _skinColor.Value = SkinColor.HumanSkinToneFromColor(Profile.Appearance.SkinColor);
-
-                    break;
-                }
                 case HumanoidSkinColor.Hues:
-                {
-                    if (!_rgbSkinColorContainer.Visible)
                     {
-                        _skinColor.Visible = false;
-                        _rgbSkinColorContainer.Visible = true;
-                    }
+                        if (!_rgbSkinColorContainer.Visible)
+                        {
+                            _skinColor.Visible = false;
+                            _rgbSkinColorContainer.Visible = true;
+                        }
 
-                    // set the RGB values to the direct values otherwise
-                    _rgbSkinColorSelector.Color = Profile.Appearance.SkinColor;
-                    break;
-                }
+                        // set the RGB values to the direct values otherwise
+                        _rgbSkinColorSelector.Color = Profile.Appearance.SkinColor;
+                        break;
+                    }
                 case HumanoidSkinColor.TintedHues:
-                {
-                    if (!_rgbSkinColorContainer.Visible)
                     {
-                        _skinColor.Visible = false;
-                        _rgbSkinColorContainer.Visible = true;
-                    }
+                        if (!_rgbSkinColorContainer.Visible)
+                        {
+                            _skinColor.Visible = false;
+                            _rgbSkinColorContainer.Visible = true;
+                        }
 
-                    // set the RGB values to the direct values otherwise
-                    _rgbSkinColorSelector.Color = Profile.Appearance.SkinColor;
-                    break;
-                }
+                        // set the RGB values to the direct values otherwise
+                        _rgbSkinColorSelector.Color = Profile.Appearance.SkinColor;
+                        break;
+                    }
             }
 
         }
@@ -1447,7 +1452,7 @@ namespace Content.Client.Preferences.UI
                     Text = Loc.GetString("role-timer-locked"),
                     Visible = true,
                     HorizontalAlignment = HAlignment.Center,
-                    StyleClasses = {StyleBase.StyleClassLabelSubText},
+                    StyleClasses = { StyleBase.StyleClassLabelSubText },
                 };
 
                 _lockStripe = new StripeBack()
@@ -1538,6 +1543,12 @@ namespace Content.Client.Preferences.UI
                 var preference = Profile?.TraitPreferences.Contains(traitId) ?? false;
 
                 preferenceSelector.Preference = preference;
+
+                if (preference == true)
+                {
+                    points += preferenceSelector.Trait.Cost;
+                    _traitPoints.Text = points.ToString();
+                }
             }
         }
 
@@ -1567,7 +1578,7 @@ namespace Content.Client.Preferences.UI
         private sealed class AntagPreferenceSelector : Control
         {
             public AntagPrototype Antag { get; }
-            private readonly CheckBox _checkBox;
+            private readonly Button _checkBox;
 
             public bool Preference
             {
@@ -1581,7 +1592,10 @@ namespace Content.Client.Preferences.UI
             {
                 Antag = antag;
 
-                _checkBox = new CheckBox {Text = Loc.GetString(antag.Name)};
+                _checkBox = new Button {
+                    Text = Loc.GetString(antag.Name),
+                    ToggleMode = true
+                };
                 _checkBox.OnToggled += OnCheckBoxToggled;
 
                 if (antag.Description != null)
@@ -1609,7 +1623,7 @@ namespace Content.Client.Preferences.UI
         private sealed class TraitPreferenceSelector : Control
         {
             public TraitPrototype Trait { get; }
-            private readonly CheckBox _checkBox;
+            private readonly Button _checkBox;
 
             public bool Preference
             {
@@ -1623,7 +1637,10 @@ namespace Content.Client.Preferences.UI
             {
                 Trait = trait;
 
-                _checkBox = new CheckBox { Text = $"[{trait.Cost}] {Loc.GetString(trait.Name)}" };
+                _checkBox = new Button {
+                    Text = $"[{trait.Cost}] {Loc.GetString(trait.Name)}",
+                    ToggleMode = true
+                };
                 _checkBox.OnToggled += OnCheckBoxToggled;
 
                 var tooltip = "";
@@ -1681,7 +1698,7 @@ namespace Content.Client.Preferences.UI
         private sealed class LoadoutPreferenceSelector : Control
         {
             public LoadoutPrototype Loadout { get; }
-            private readonly CheckBox _checkBox;
+            private readonly Button _checkBox;
 
             public bool Preference
             {
@@ -1703,15 +1720,18 @@ namespace Content.Client.Preferences.UI
                 {
                     Sprite = sprite,
                     Scale = (1, 1),
+                    Stretch = SpriteView.StretchMode.None,
+                    MaxSize = (32, 32),
                     OverrideDirection = Direction.South,
                     VerticalAlignment = VAlignment.Center,
                     SizeFlagsStretchRatio = 1
                 };
 
-                _checkBox = new CheckBox
+                _checkBox = new Button
                 {
                     Text = $"[{loadout.Cost}] {Loc.GetString(loadout.Name)}",
-                    VerticalAlignment = VAlignment.Center
+                    VerticalAlignment = VAlignment.Center,
+                    ToggleMode = true
                 };
                 _checkBox.OnToggled += OnCheckBoxToggled;
 
