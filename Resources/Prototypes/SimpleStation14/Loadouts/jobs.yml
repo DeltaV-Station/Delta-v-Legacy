@@ -376,8 +376,8 @@
 
 - type: loadout
   id: LoadoutScienceItemTrackerAnomaly
-  name: Anomaly tracker
-  description: "A tracker used for locating anomalies on the station."
+  name: anomaly locator
+  description: "A device designed to aid in the locating of anomalies. Did you check the gas miners?"
   category: Jobs
   cost: 3
   jobWhitelist:
@@ -385,20 +385,7 @@
     - ForensicMantis
     - Cataloguer
     - Scientist
-  item: PinpointerAnomaly
-
-- type: loadout
-  id: LoadoutScienceItemTrackerArtifact
-  name: Artifact tracker
-  description: "A tracker used for locating artifacts on the station."
-  category: Jobs
-  cost: 3
-  jobWhitelist:
-    - Epistemologist
-    - ForensicMantis
-    - Cataloguer
-    - Scientist
-  item: PinpointerArtifact
+  item: AnomalyLocator
 
 
 # Service

@@ -223,11 +223,3 @@
   category: Accessories
   cost: 1
   item: HatBandSkull
-
-- type: loadout
-  id: LoadoutHeadHatBandLightBlue
-  name: Light blue bandana
-  description: A bandana.
-  category: Accessories
-  cost: 1
-  item: HatBandLightBlue
