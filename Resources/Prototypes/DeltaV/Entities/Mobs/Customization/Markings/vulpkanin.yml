@@ -208,9 +208,9 @@
   speciesRestriction: [Vulpkanin]
   sprites:
     - sprite: DeltaV/Mobs/Customization/Vulpkanin/head_markings.rsi
-      state: vulpine-lines
-    - sprite: DeltaV/Mobs/Customization/Vulpkanin/head_markings.rsi
       state: vulpine
+    - sprite: DeltaV/Mobs/Customization/Vulpkanin/head_markings.rsi
+      state: vulpine-lines
 
 - type: marking
   id: VulpSnoutSwift
@@ -229,6 +229,15 @@
   sprites:
     - sprite: DeltaV/Mobs/Customization/Vulpkanin/head_markings.rsi
       state: blaze
+
+- type: marking
+  id: VulpSnoutPatch
+  bodyPart: Snout
+  markingCategory: Snout
+  speciesRestriction: [Vulpkanin]
+  sprites:
+    - sprite: DeltaV/Mobs/Customization/Vulpkanin/head_markings.rsi
+      state: patch
 
 # Head Markings (Head)
 - type: marking
@@ -250,15 +259,6 @@
       state: tiger_face
 
 - type: marking
-  id: VulpHeadPatch
-  bodyPart: Head
-  markingCategory: Head
-  speciesRestriction: [Vulpkanin]
-  sprites:
-    - sprite: DeltaV/Mobs/Customization/Vulpkanin/head_markings.rsi
-      state: patch
-
-- type: marking
   id: VulpHeadSlash
   bodyPart: Head
   markingCategory: Head
@@ -266,15 +266,6 @@
   sprites:
     - sprite: DeltaV/Mobs/Customization/Vulpkanin/head_markings.rsi
       state: slash
-
-- type: marking
-  id: VulpHead
-  bodyPart: Head
-  markingCategory: Head
-  speciesRestriction: [Vulpkanin]
-  sprites:
-    - sprite: DeltaV/Mobs/Customization/Vulpkanin/head_markings.rsi
-      state:
 
 # Tail Markings
 - type: marking

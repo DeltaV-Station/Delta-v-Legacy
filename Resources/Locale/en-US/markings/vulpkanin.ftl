@@ -90,9 +90,6 @@ marking-VulpHeadTiger = Vulpkanin Tiger stripes (head)
 marking-VulpHeadTigerFace-tiger_face = Tiger stripes
 marking-VulpHeadTigerFace = Vulpkanin Tiger stripes (face)
 
-marking-VulpHeadRuff-ruff = Ruff
-marking-VulpHeadRuff = Vulpkanin Ruff
-
 marking-VulpHeadSlash-slash = Slash
 marking-VulpHeadSlash = Vulpkanin Slash
 
