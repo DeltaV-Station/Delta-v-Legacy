@@ -124,26 +124,9 @@ namespace Content.Shared.Preferences
             },
             PreferenceUnavailableMode.SpawnAsOverflow,
             new List<string>(),
+            new List<string>(),
             new List<string>())
         {
-            return new(
-                "John Doe",
-                "",
-                SharedHumanoidAppearanceSystem.DefaultSpecies,
-                18,
-                Sex.Male,
-                Gender.Male,
-                HumanoidCharacterAppearance.Default(),
-                ClothingPreference.Jumpsuit,
-                BackpackPreference.Backpack,
-                new Dictionary<string, JobPriority>
-                {
-                    {SharedGameTicker.FallbackOverflowJob, JobPriority.High}
-                },
-                PreferenceUnavailableMode.SpawnAsOverflow,
-                new List<string>(),
-                new List<string>(),
-                new List<string>());
         }
 
         /// <summary>
