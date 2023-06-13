@@ -350,6 +350,15 @@
       state: bushfluff_wag
 
 - type: marking
+  id: VulpTailCoyote
+  bodyPart: Tail
+  markingCategory: Tail
+  speciesRestriction: [Vulpkanin]
+  sprites:
+    - sprite: DeltaV/Mobs/Customization/Vulpkanin/tail_markings.rsi
+      state: coyote
+
+- type: marking
   id: VulpTailCoyoteWag
   bodyPart: Tail
   markingCategory: Tail
@@ -433,17 +442,6 @@
   sprites:
     - sprite: DeltaV/Mobs/Customization/Vulpkanin/tail_markings.rsi
       state: fluffy
-
-- type: marking
-  id: VulpTailShepherd
-  bodyPart: Tail
-  markingCategory: Tail
-  speciesRestriction: [Vulpkanin]
-  sprites:
-    - sprite: DeltaV/Mobs/Customization/Vulpkanin/tail_markings.rsi
-      state: shepherd
-    - sprite: DeltaV/Mobs/Customization/Vulpkanin/tail_markings.rsi
-      state: shepherd-details
 
 - type: marking
   id: VulpTailDalmatianWag

@@ -124,6 +124,9 @@ marking-VulpTailBushy = Vulpkanin Bush
 marking-VulpTailBushyWag-bushfluff_wag = Bush tail
 marking-VulpTailBushyWag = Vulpkanin Bush (wag)
 
+marking-VulpTailCoyote-coyote = Coyote tail
+marking-VulpTailCoyote = Vulpkanin Coyote
+
 marking-VulpTailCoyoteWag-coyote_wag = Coyote tail
 marking-VulpTailCoyoteWag = Vulpkanin Coyote (wag)
 
@@ -152,10 +155,6 @@ marking-VulpTailOtie = Vulpkanin Otie
 
 marking-VulpTailFluffy-fluffy = Fluffy tail
 marking-VulpTailFluffy = Vulpkanin Fluffy
-
-marking-VulpTailShepherd-shepherd = Shepherd tail (base)
-marking-VulpTailShepherd-shepherd-details = Shepherd tail (details)
-marking-VulpTailShepherd = Vulpkanin Shepherd
 
 marking-VulpTailDalmatianWag-dalmatian_wag = Dalmatian tail
 marking-VulpTailDalmatianWag = Vulpkanin Dalmatian (wag)
