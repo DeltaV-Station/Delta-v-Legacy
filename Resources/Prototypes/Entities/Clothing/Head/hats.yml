@@ -135,8 +135,8 @@
 - type: entity
   parent: ClothingHeadBase
   id: ClothingHeadHatFedoraBrown
-  name: hard-worn fedora
-  description: It's a beat-up fedora.
+  name: brown fedora
+  description: It's a brown fedora.
   components:
   - type: Sprite
     sprite: Clothing/Head/Hats/brownfedora.rsi
@@ -146,8 +146,8 @@
 - type: entity
   parent: ClothingHeadBase
   id: ClothingHeadHatFedoraGrey
-  name: noir fedora
-  description: It's a mysterious fedora.
+  name: grey fedora
+  description: It's a grey fedora.
   components:
   - type: Sprite
     sprite: Clothing/Head/Hats/greyfedora.rsi
@@ -622,3 +622,14 @@
     sprite: Clothing/Head/Hats/hetman_hat.rsi
   - type: Clothing
     sprite: Clothing/Head/Hats/hetman_hat.rsi
+
+- type: entity
+  parent: ClothingHeadBase
+  id: ClothingHeadHatBeretContractor
+  name: contractor's beret
+  description: A black beret with a contractor's company emblem. For contractors that are more inclined towards style than safety.
+  components:
+  - type: Sprite
+    sprite: Clothing/Head/Hats/beret_contractor.rsi
+  - type: Clothing
+    sprite: Clothing/Head/Hats/beret_contractor.rsi
