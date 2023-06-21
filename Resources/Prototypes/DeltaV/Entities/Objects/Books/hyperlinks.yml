@@ -20,7 +20,7 @@
     layers:
     - state: law_space
   - type: HyperlinkBook
-    url: https://wiki.nyanotrasen.moe/view/Space_Law
+    url: https://wiki.nyanotrasen.moe/view/Space_Law_(Delta_V)
 
 - type: entity
   parent: BaseHyperlinkBook
