@@ -31842,9 +31842,6 @@ entities:
     - availableTakeovers: 6
       deleteOnSpawn: False
       type: GhostRoleCharacterSpawner
-    - following:
-      - invalid
-      type: Followed
   - uid: 4060
     components:
     - pos: 0.5,-13.5
