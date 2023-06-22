@@ -270,7 +270,7 @@ reagent-desc-graveyard = For those shifts that never seem to end.
 
 ## Velta o.o
 
-reagent-name-gunmetal = Gunmetal
+reagent-name-gunmetal = gunmetal
 reagent-desc-gunmetal = A controversial drink created by the infamous Solus Cream, the first bartender to serve welding fuel without losing their liquor license.
 
 reagent-name-lemondrop = lemon drop
