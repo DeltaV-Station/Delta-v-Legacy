@@ -37,7 +37,7 @@
 - type: reaction
   id: Daiquiri
   reactants:
-    Rum:
+    DeadRum:
       amount: 5
     JuiceLime:
       amount: 3
