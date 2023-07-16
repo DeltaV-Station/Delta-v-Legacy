@@ -47,7 +47,7 @@ namespace Content.Shared.Chemistry.Reaction
             _reactions = new Dictionary<string, List<ReactionPrototype>>();
 
             var reactions = _prototypeManager.EnumeratePrototypes<ReactionPrototype>();
-            foreach(var reaction in reactions)
+            foreach (var reaction in reactions)
             {
                 CacheReaction(reaction);
             }
