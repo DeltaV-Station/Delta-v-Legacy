@@ -157,7 +157,7 @@
       - !type:HealthChange
         damage:
           types:
-            Asphyxiation: 0.1
+            Asphyxiation: 0.6
         conditions:
         - !type:OrganType
           type: Vampiric
