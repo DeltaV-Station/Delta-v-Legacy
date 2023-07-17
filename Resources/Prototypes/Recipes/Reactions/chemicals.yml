@@ -375,15 +375,15 @@
   id: InactiveBlood
   reactants:
     Hydrogen:
-      amount: 10
-    Carbon:
-      amount: 10
-    Iron:
-      amount: 10
-    Plasma:
       amount: 1
+    Carbon:
+      amount: 1
+    Iron:
+      amount: 1
+    Plasma:
+      amount: 0.1
   products:
-    InactiveBlood: 25
+    InactiveBlood: 2.5
 
 - type: reaction
   id: SyntheticBlood
