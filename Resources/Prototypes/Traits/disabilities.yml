@@ -8,6 +8,33 @@
       - Blindable
   components:
     - type: PermanentBlindness
+ 
+- type: trait
+  id: Stutter
+  name: trait-stutter-name
+  description: trait-stutter-desc
+  components:
+    - type: MinorStutterAccent
+ 
+- type: trait
+  id: German
+  name: trait-german-name
+  description: trait-german-desc
+  components:
+    - type: GermanAccent
+ 
+- type: trait
+  id: Alcoholic
+  name: trait-alcoholic-name
+  description: trait-alcoholic-desc
+  traitGear: DrinkFlaskBar
+  components:
+    - type: Alcoholic
+      minTimeBetweenIncidents: 30
+      maxTimeBetweenIncidents: 80
+      minTimeBetweenDrinks: 180
+      maxTimeBetweenDrinks: 300
+      durationOfIncident: 10
 
 - type: trait
   id: Narcolepsy
@@ -21,6 +48,7 @@
 - type: trait
   id: Pacifist
   name: trait-pacifist-name
+  description: trait-pacifist-desc
   components:
     - type: Pacifist
 

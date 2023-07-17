@@ -1,6 +1,9 @@
 using Content.Shared.Speech.EntitySystems;
 using Content.Shared.StatusEffect;
 using Content.Shared.Traits.Assorted;
+using Robust.Shared.Random;
+using Robust.Shared.Timing;
+using System;
 
 namespace Content.Shared.Drunk;
 
@@ -10,6 +13,8 @@ public abstract class SharedDrunkSystem : EntitySystem
 
     [Dependency] private readonly StatusEffectsSystem _statusEffectsSystem = default!;
     [Dependency] private readonly SharedSlurredSystem _slurredSystem = default!;
+    [Dependency] private readonly IGameTiming _timing = default!;
+    [Dependency] private readonly IRobustRandom _random = default!;
 
     public void TryApplyDrunkenness(EntityUid uid, float boozePower, bool applySlur = true,
         StatusEffectsComponent? status = null)
@@ -19,6 +24,15 @@ public abstract class SharedDrunkSystem : EntitySystem
 
         if (TryComp<LightweightDrunkComponent>(uid, out var trait))
             boozePower *= trait.BoozeStrengthMultiplier;
+
+        if (TryComp<AlcoholicComponent>(uid, out var dependencyTrait))
+        {
+            dependencyTrait.NextIncidentTime = _timing.CurTime +
+                TimeSpan.FromSeconds(_random.NextFloat(dependencyTrait.MinTimeBetweenIncidents,
+                dependencyTrait.MaxTimeBetweenIncidents));
+            dependencyTrait.IncidentSeverityCounter = 0;
+        }
+
 
         if (applySlur)
             _slurredSystem.DoSlur(uid, TimeSpan.FromSeconds(boozePower), status);
