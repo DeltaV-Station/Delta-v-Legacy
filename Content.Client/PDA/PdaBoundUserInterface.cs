@@ -14,6 +14,7 @@ namespace Content.Client.PDA
     public sealed class PdaBoundUserInterface : CartridgeLoaderBoundUserInterface
     {
         [Dependency] private readonly IConfigurationManager _configManager = default!;
+        [Dependency] private readonly IEntityManager _entMan = default!;
 
         [ViewVariables]
         private PdaMenu? _menu;
@@ -61,6 +62,16 @@ namespace Content.Client.PDA
             _menu.AccessRingtoneButton.OnPressed += _ =>
             {
                 SendMessage(new PdaShowRingtoneMessage());
+            };
+
+            _menu.ShowUplinkButton.OnPressed += _ =>
+            {
+                SendMessage(new PdaShowUplinkMessage());
+            };
+
+            _menu.LockUplinkButton.OnPressed += _ =>
+            {
+                SendMessage(new PdaLockUplinkMessage());
             };
 
             _menu.ShowUplinkButton.OnPressed += _ =>
@@ -130,7 +141,7 @@ namespace Content.Client.PDA
 
         private PdaBorderColorComponent? GetBorderColorComponent()
         {
-            return EntMan.GetComponentOrNull<PdaBorderColorComponent>(Owner);
+            return _entMan.GetComponentOrNull<PdaBorderColorComponent>(Owner);
         }
     }
 }
