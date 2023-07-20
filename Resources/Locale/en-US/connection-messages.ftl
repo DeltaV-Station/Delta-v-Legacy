@@ -1,4 +1,4 @@
-﻿whitelist-not-whitelisted = Delta-v requires whitelisting above {$num} players. Connect to the Discord at www.delta-v.org
+whitelist-not-whitelisted = Delta-v requires whitelisting above {$num} players. Connect to the Discord at www.delta-v.org
 whitelist-end-round-kick = Non-whitelisted players are automatically kicked at round end. To apply for whitelisting, connect to the Discord at www.delta-v.org
 
 command-whitelistadd-description = Adds the player with the given username to the server whitelist.
