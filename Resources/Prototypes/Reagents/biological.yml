@@ -166,7 +166,8 @@
           type: Vampiric
         reagent: Water
         amount: 0.15
-
+        
+- type: reagent
   id: Fat
   name: reagent-name-fat
   group: Biological
