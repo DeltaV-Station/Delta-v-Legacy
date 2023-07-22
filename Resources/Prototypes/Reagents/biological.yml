@@ -166,6 +166,9 @@
           type: Vampiric
         reagent: Water
         amount: 0.15
+  plantMetabolism:
+  - !type:PlantAdjustWater
+    amount: 0.5
         
 - type: reagent
   id: Fat
