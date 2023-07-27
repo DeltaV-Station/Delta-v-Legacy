@@ -1,4 +1,4 @@
-﻿## Species Names
+## Species Names
 
 species-name-human = Unmutated Human
 species-name-dwarf = Dwarf
@@ -10,3 +10,4 @@ species-name-arachne = Arachne
 species-name-diona = Diona
 species-name-moth = Moth
 species-name-vulpkanin = Vulpkanin
+species-name-ipc = IPC
