@@ -2,7 +2,7 @@
   speciesRestriction: [IPC]
   id: RobotAntennaTv
   bodyPart: Hair
-  markingCategory: Hair
+  markingCategory: HeadTop
   sprites:
     - sprite: SimpleStation14/Mobs/Customization/ipc_antenna.rsi
       state: ipc_antenna_tv
@@ -11,7 +11,7 @@
   speciesRestriction: [IPC]
   id: RobotAntennaTesla
   bodyPart: Hair
-  markingCategory: Hair
+  markingCategory: HeadTop
   sprites:
     - sprite: SimpleStation14/Mobs/Customization/ipc_antenna.rsi
       state: ipc_antenna_tesla
@@ -38,7 +38,7 @@
   speciesRestriction: [IPC]
   id: RobotAntennaCyberhead
   bodyPart: Hair
-  markingCategory: Hair
+  markingCategory: HeadTop
   sprites:
     - sprite: SimpleStation14/Mobs/Customization/ipc_antenna.rsi
       state: ipc_antenna_cyberhead
@@ -56,7 +56,7 @@
   speciesRestriction: [IPC]
   id: RobotAntennaAntlers
   bodyPart: Hair
-  markingCategory: Hair
+  markingCategory: HeadTop
   sprites:
     - sprite: SimpleStation14/Mobs/Customization/ipc_antenna.rsi
       state: ipc_antenna_antlers
@@ -65,7 +65,7 @@
   speciesRestriction: [IPC]
   id: RobotAntennaDroneeyes
   bodyPart: Hair
-  markingCategory: Hair
+  markingCategory: HeadTop
   sprites:
     - sprite: SimpleStation14/Mobs/Customization/ipc_antenna.rsi
       state: ipc_antenna_droneeyes
@@ -74,7 +74,7 @@
   speciesRestriction: [IPC]
   id: RobotAntennaCrowned
   bodyPart: Hair
-  markingCategory: Hair
+  markingCategory: HeadTop
   sprites:
     - sprite: SimpleStation14/Mobs/Customization/ipc_antenna.rsi
       state: ipc_antenna_crowned
@@ -83,7 +83,7 @@
   speciesRestriction: [IPC]
   id: RobotAntennaTowers
   bodyPart: Hair
-  markingCategory: Hair
+  markingCategory: HeadTop
   sprites:
     - sprite: SimpleStation14/Mobs/Customization/ipc_antenna.rsi
       state: ipc_antenna_towers

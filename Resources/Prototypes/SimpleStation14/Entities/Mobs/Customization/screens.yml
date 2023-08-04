@@ -2,7 +2,7 @@
   speciesRestriction: [IPC]
   id: ScreenStatic
   bodyPart: FacialHair
-  markingCategory: FacialHair
+  markingCategory: Head
   sprites:
     - sprite: SimpleStation14/Mobs/Customization/ipc_screens.rsi
       state: ipc_screen_static
@@ -11,7 +11,7 @@
   speciesRestriction: [IPC]
   id: ScreenBlue
   bodyPart: FacialHair
-  markingCategory: FacialHair
+  markingCategory: Head
   sprites:
     - sprite: SimpleStation14/Mobs/Customization/ipc_screens.rsi
       state: ipc_screen_blue
@@ -20,7 +20,7 @@
   speciesRestriction: [IPC]
   id: ScreenBreakout
   bodyPart: FacialHair
-  markingCategory: FacialHair
+  markingCategory: Head
   sprites:
     - sprite: SimpleStation14/Mobs/Customization/ipc_screens.rsi
       state: ipc_screen_breakout
@@ -29,7 +29,7 @@
   speciesRestriction: [IPC]
   id: ScreenEight
   bodyPart: FacialHair
-  markingCategory: FacialHair
+  markingCategory: Head
   sprites:
     - sprite: SimpleStation14/Mobs/Customization/ipc_screens.rsi
       state: ipc_screen_eight
@@ -38,7 +38,7 @@
   speciesRestriction: [IPC]
   id: ScreenGoggles
   bodyPart: FacialHair
-  markingCategory: FacialHair
+  markingCategory: Head
   sprites:
     - sprite: SimpleStation14/Mobs/Customization/ipc_screens.rsi
       state: ipc_screen_goggles
@@ -47,7 +47,7 @@
   speciesRestriction: [IPC]
   id: ScreenExclaim
   bodyPart: FacialHair
-  markingCategory: FacialHair
+  markingCategory: Head
   sprites:
     - sprite: SimpleStation14/Mobs/Customization/ipc_screens.rsi
       state: ipc_screen_exclaim
@@ -56,7 +56,7 @@
   speciesRestriction: [IPC]
   id: ScreenHeart
   bodyPart: FacialHair
-  markingCategory: FacialHair
+  markingCategory: Head
   sprites:
     - sprite: SimpleStation14/Mobs/Customization/ipc_screens.rsi
       state: ipc_screen_heart
@@ -65,7 +65,7 @@
   speciesRestriction: [IPC]
   id: ScreenMonoeye
   bodyPart: FacialHair
-  markingCategory: FacialHair
+  markingCategory: Head
   sprites:
     - sprite: SimpleStation14/Mobs/Customization/ipc_screens.rsi
       state: ipc_screen_monoeye
@@ -74,7 +74,7 @@
   speciesRestriction: [IPC]
   id: ScreenNature
   bodyPart: FacialHair
-  markingCategory: FacialHair
+  markingCategory: Head
   sprites:
     - sprite: SimpleStation14/Mobs/Customization/ipc_screens.rsi
       state: ipc_screen_nature
@@ -83,7 +83,7 @@
   speciesRestriction: [IPC]
   id: ScreenOrange
   bodyPart: FacialHair
-  markingCategory: FacialHair
+  markingCategory: Head
   sprites:
     - sprite: SimpleStation14/Mobs/Customization/ipc_screens.rsi
       state: ipc_screen_orange
@@ -92,7 +92,7 @@
   speciesRestriction: [IPC]
   id: ScreenPink
   bodyPart: FacialHair
-  markingCategory: FacialHair
+  markingCategory: Head
   sprites:
     - sprite: SimpleStation14/Mobs/Customization/ipc_screens.rsi
       state: ipc_screen_pink
@@ -101,7 +101,7 @@
   speciesRestriction: [IPC]
   id: ScreenQuestion
   bodyPart: FacialHair
-  markingCategory: FacialHair
+  markingCategory: Head
   sprites:
     - sprite: SimpleStation14/Mobs/Customization/ipc_screens.rsi
       state: ipc_screen_question
@@ -110,7 +110,7 @@
   speciesRestriction: [IPC]
   id: ScreenShower
   bodyPart: FacialHair
-  markingCategory: FacialHair
+  markingCategory: Head
   sprites:
     - sprite: SimpleStation14/Mobs/Customization/ipc_screens.rsi
       state: ipc_screen_shower
@@ -119,7 +119,7 @@
   speciesRestriction: [IPC]
   id: ScreenYellow
   bodyPart: FacialHair
-  markingCategory: FacialHair
+  markingCategory: Head
   sprites:
     - sprite: SimpleStation14/Mobs/Customization/ipc_screens.rsi
       state: ipc_screen_yellow
@@ -128,7 +128,7 @@
   speciesRestriction: [IPC]
   id: ScreenScroll
   bodyPart: FacialHair
-  markingCategory: FacialHair
+  markingCategory: Head
   sprites:
     - sprite: SimpleStation14/Mobs/Customization/ipc_screens.rsi
       state: ipc_screen_scroll
@@ -137,7 +137,7 @@
   speciesRestriction: [IPC]
   id: ScreenConsole
   bodyPart: FacialHair
-  markingCategory: FacialHair
+  markingCategory: Head
   sprites:
     - sprite: SimpleStation14/Mobs/Customization/ipc_screens.rsi
       state: ipc_screen_console
@@ -146,7 +146,7 @@
   speciesRestriction: [IPC]
   id: ScreenRgb
   bodyPart: FacialHair
-  markingCategory: FacialHair
+  markingCategory: Head
   sprites:
     - sprite: SimpleStation14/Mobs/Customization/ipc_screens.rsi
       state: ipc_screen_rgb
@@ -155,7 +155,7 @@
   speciesRestriction: [IPC]
   id: ScreenGlider
   bodyPart: FacialHair
-  markingCategory: FacialHair
+  markingCategory: Head
   sprites:
     - sprite: SimpleStation14/Mobs/Customization/ipc_screens.rsi
       state: ipc_screen_glider
@@ -164,7 +164,7 @@
   speciesRestriction: [IPC]
   id: ScreenRainbowhoriz
   bodyPart: FacialHair
-  markingCategory: FacialHair
+  markingCategory: Head
   sprites:
     - sprite: SimpleStation14/Mobs/Customization/ipc_screens.rsi
       state: ipc_screen_rainbowhoriz
@@ -173,7 +173,7 @@
   speciesRestriction: [IPC]
   id: ScreenBsod
   bodyPart: FacialHair
-  markingCategory: FacialHair
+  markingCategory: Head
   sprites:
     - sprite: SimpleStation14/Mobs/Customization/ipc_screens.rsi
       state: ipc_screen_bsod
@@ -182,7 +182,7 @@
   speciesRestriction: [IPC]
   id: ScreenRedtext
   bodyPart: FacialHair
-  markingCategory: FacialHair
+  markingCategory: Head
   sprites:
     - sprite: SimpleStation14/Mobs/Customization/ipc_screens.rsi
       state: ipc_screen_redtext
@@ -191,7 +191,7 @@
   speciesRestriction: [IPC]
   id: ScreenSinewave
   bodyPart: FacialHair
-  markingCategory: FacialHair
+  markingCategory: Head
   sprites:
     - sprite: SimpleStation14/Mobs/Customization/ipc_screens.rsi
       state: ipc_screen_sinewave
@@ -200,7 +200,7 @@
   speciesRestriction: [IPC]
   id: ScreenSquarewave
   bodyPart: FacialHair
-  markingCategory: FacialHair
+  markingCategory: Head
   sprites:
     - sprite: SimpleStation14/Mobs/Customization/ipc_screens.rsi
       state: ipc_screen_squarewave
@@ -209,7 +209,7 @@
   speciesRestriction: [IPC]
   id: ScreenEcgwave
   bodyPart: FacialHair
-  markingCategory: FacialHair
+  markingCategory: Head
   sprites:
     - sprite: SimpleStation14/Mobs/Customization/ipc_screens.rsi
       state: ipc_screen_ecgwave
@@ -218,7 +218,7 @@
   speciesRestriction: [IPC]
   id: ScreenEyes
   bodyPart: FacialHair
-  markingCategory: FacialHair
+  markingCategory: Head
   sprites:
     - sprite: SimpleStation14/Mobs/Customization/ipc_screens.rsi
       state: ipc_screen_eyes
@@ -227,7 +227,7 @@
   speciesRestriction: [IPC]
   id: ScreenEyestall
   bodyPart: FacialHair
-  markingCategory: FacialHair
+  markingCategory: Head
   sprites:
     - sprite: SimpleStation14/Mobs/Customization/ipc_screens.rsi
       state: ipc_screen_eyestall
@@ -236,7 +236,7 @@
   speciesRestriction: [IPC]
   id: ScreenEyesangry
   bodyPart: FacialHair
-  markingCategory: FacialHair
+  markingCategory: Head
   sprites:
     - sprite: SimpleStation14/Mobs/Customization/ipc_screens.rsi
       state: ipc_screen_eyesangry
@@ -245,7 +245,7 @@
   speciesRestriction: [IPC]
   id: ScreenLoading
   bodyPart: FacialHair
-  markingCategory: FacialHair
+  markingCategory: Head
   sprites:
     - sprite: SimpleStation14/Mobs/Customization/ipc_screens.rsi
       state: ipc_screen_loading
@@ -254,7 +254,7 @@
   speciesRestriction: [IPC]
   id: ScreenWindowsxp
   bodyPart: FacialHair
-  markingCategory: FacialHair
+  markingCategory: Head
   sprites:
     - sprite: SimpleStation14/Mobs/Customization/ipc_screens.rsi
       state: ipc_screen_windowsxp
@@ -263,7 +263,7 @@
   speciesRestriction: [IPC]
   id: ScreenTetris
   bodyPart: FacialHair
-  markingCategory: FacialHair
+  markingCategory: Head
   sprites:
     - sprite: SimpleStation14/Mobs/Customization/ipc_screens.rsi
       state: ipc_screen_tetris
@@ -272,7 +272,7 @@
   speciesRestriction: [IPC]
   id: ScreenTv
   bodyPart: FacialHair
-  markingCategory: FacialHair
+  markingCategory: Head
   sprites:
     - sprite: SimpleStation14/Mobs/Customization/ipc_screens.rsi
       state: ipc_screen_tv
@@ -281,7 +281,7 @@
   speciesRestriction: [IPC]
   id: ScreenTextdrop
   bodyPart: FacialHair
-  markingCategory: FacialHair
+  markingCategory: Head
   sprites:
     - sprite: SimpleStation14/Mobs/Customization/ipc_screens.rsi
       state: ipc_screen_textdrop
@@ -290,7 +290,7 @@
   speciesRestriction: [IPC]
   id: ScreenStars
   bodyPart: FacialHair
-  markingCategory: FacialHair
+  markingCategory: Head
   sprites:
     - sprite: SimpleStation14/Mobs/Customization/ipc_screens.rsi
       state: ipc_screen_stars
@@ -299,7 +299,7 @@
   speciesRestriction: [IPC]
   id: ScreenRainbowdiag
   bodyPart: FacialHair
-  markingCategory: FacialHair
+  markingCategory: Head
   sprites:
     - sprite: SimpleStation14/Mobs/Customization/ipc_screens.rsi
       state: ipc_screen_rainbowdiag
@@ -308,7 +308,7 @@
   speciesRestriction: [IPC]
   id: ScreenBlank
   bodyPart: FacialHair
-  markingCategory: FacialHair
+  markingCategory: Head
   sprites:
     - sprite: SimpleStation14/Mobs/Customization/ipc_screens.rsi
       state: ipc_screen_blank
@@ -317,7 +317,7 @@
   speciesRestriction: [IPC]
   id: ScreenSmile
   bodyPart: FacialHair
-  markingCategory: FacialHair
+  markingCategory: Head
   sprites:
     - sprite: SimpleStation14/Mobs/Customization/ipc_screens.rsi
       state: ipc_screen_smile
@@ -326,7 +326,7 @@
   speciesRestriction: [IPC]
   id: ScreenFrown
   bodyPart: FacialHair
-  markingCategory: FacialHair
+  markingCategory: Head
   sprites:
     - sprite: SimpleStation14/Mobs/Customization/ipc_screens.rsi
       state: ipc_screen_frown
@@ -335,7 +335,7 @@
   speciesRestriction: [IPC]
   id: ScreenRing
   bodyPart: FacialHair
-  markingCategory: FacialHair
+  markingCategory: Head
   sprites:
     - sprite: SimpleStation14/Mobs/Customization/ipc_screens.rsi
       state: ipc_screen_ring
@@ -344,7 +344,7 @@
   speciesRestriction: [IPC]
   id: ScreenL
   bodyPart: FacialHair
-  markingCategory: FacialHair
+  markingCategory: Head
   sprites:
     - sprite: SimpleStation14/Mobs/Customization/ipc_screens.rsi
       state: ipc_screen_l
