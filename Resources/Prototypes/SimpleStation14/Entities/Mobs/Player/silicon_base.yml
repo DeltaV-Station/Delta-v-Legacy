@@ -178,7 +178,7 @@
       doAfterDelay: 32
     - type: Bloodstream
       damageBleedModifiers: BloodlossIPC
-      bloodReagent: Water
+      bloodReagent: MotorOil
       bleedReductionAmount: 0
       bloodMaxVolume: 500
       chemicalMaxVolume: 0
@@ -188,10 +188,10 @@
       maxBleedAmount: 14
       bloodlossDamage:
         types:
-          Burn: 1.5
+          Heat: 1.5
       bloodlossHealDamage:
         types:
-          Burn: 0
+          Heat: 0
     - type: Flammable
       fireSpread: true
       canResistFire: true
@@ -340,8 +340,8 @@
         Brute:
           sprite: Mobs/Effects/brute_damage.rsi
           color: "#DD8822"
-        Burn:
-          sprite: Mobs/Effects/burn_damage.rsi
+        #Burn:
+        #  sprite: Mobs/Effects/burn_damage.rsi
     # Organs
     - type: IdExaminable
     - type: HealthExaminable

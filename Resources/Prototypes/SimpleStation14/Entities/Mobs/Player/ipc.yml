@@ -84,6 +84,8 @@
   - type: MovementSpeedModifier
     baseWalkSpeed: 3
     baseSprintSpeed: 3
+  - type: Bloodstream
+    bloodReagent: MotorOil
 
 
 - type: entity
