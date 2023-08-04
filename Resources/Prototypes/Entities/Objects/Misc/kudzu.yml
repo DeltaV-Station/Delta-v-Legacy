@@ -70,6 +70,7 @@
               Heat: 10
     - type: AtmosExposed
     - type: Kudzu
+      spreadChance: 0.3
     - type: GrowingKudzu
       growthTickChance: 0.3
     - type: SlowContacts
@@ -141,6 +142,9 @@
         tags:
         - Flesh
     - type: Kudzu
+      spreadChance: 0.3
+    - type: GrowingKudzu
+      growthTickChance: 0.5
     - type: EdgeSpreader
     - type: NodeContainer
       nodes:
