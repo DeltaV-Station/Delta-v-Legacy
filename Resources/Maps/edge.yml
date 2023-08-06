@@ -5509,6 +5509,7 @@ entities:
             4: 1024
           -4,-22:
             0: 28687
+            4: 272
           -3,-22:
             0: 11823
             4: 192
@@ -5534,6 +5535,7 @@ entities:
             4: 800
           -5,-22:
             0: 59535
+            4: 1088
           0,-16:
             0: 60330
           0,-15:
@@ -7508,12 +7510,6 @@ entities:
     - pos: -3.5,28.5
       parent: 2
       type: Transform
-  - uid: 14513
-    components:
-    - rot: 1.5707963267948966 rad
-      pos: 22.5,-4.5
-      parent: 2
-      type: Transform
 - proto: AirlockDetectiveLocked
   entities:
   - uid: 10922
@@ -8354,6 +8350,13 @@ entities:
   - uid: 2964
     components:
     - pos: 21.5,-42.5
+      parent: 2
+      type: Transform
+- proto: AirlockHeadOfPersonnelLocked
+  entities:
+  - uid: 2338
+    components:
+    - pos: 22.5,-4.5
       parent: 2
       type: Transform
 - proto: AirlockHeadOfSecurityGlassLocked
@@ -80930,6 +80933,20 @@ entities:
     - pos: 23.304926,26.475252
       parent: 2
       type: Transform
+- proto: MaterialCloth
+  entities:
+  - uid: 16729
+    components:
+    - pos: 17.418104,-4.325712
+      parent: 2
+      type: Transform
+- proto: MaterialDurathread
+  entities:
+  - uid: 16728
+    components:
+    - pos: 17.74102,-4.6280055
+      parent: 2
+      type: Transform
 - proto: MaterialReclaimer
   entities:
   - uid: 2012
@@ -82531,12 +82548,6 @@ entities:
       type: Transform
 - proto: PosterLegitPDAAd
   entities:
-  - uid: 2338
-    components:
-    - rot: 1.5707963267948966 rad
-      pos: 27.5,-9.5
-      parent: 2
-      type: Transform
   - uid: 12681
     components:
     - pos: 21.5,-2.5
@@ -86446,6 +86457,11 @@ entities:
     - pos: -47.5,43.5
       parent: 2
       type: Transform
+  - uid: 16727
+    components:
+    - pos: 17.5,-4.5
+      parent: 2
+      type: Transform
 - proto: RadiationCollector
   entities:
   - uid: 2415
@@ -86972,6 +86988,11 @@ entities:
     - pos: -51.5,29.5
       parent: 2
       type: Transform
+  - uid: 16730
+    components:
+    - pos: 20.5,-7.5
+      parent: 2
+      type: Transform
 - proto: RandomPosterAny
   entities:
   - uid: 767
@@ -87200,6 +87221,11 @@ entities:
   - uid: 14084
     components:
     - pos: -6.5,-2.5
+      parent: 2
+      type: Transform
+  - uid: 14513
+    components:
+    - pos: 27.5,-10.5
       parent: 2
       type: Transform
   - uid: 15555
@@ -98131,6 +98157,13 @@ entities:
         - 3149
         - 6730
       type: DeviceLinkSource
+- proto: UniformPrinter
+  entities:
+  - uid: 16726
+    components:
+    - pos: 17.5,-5.5
+      parent: 2
+      type: Transform
 - proto: UniformScrubsColorBlue
   entities:
   - uid: 4566
