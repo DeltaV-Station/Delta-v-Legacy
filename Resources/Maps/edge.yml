@@ -3329,8 +3329,8 @@ entities:
             925: 24,26
             926: 25,26
             2643: 26,24
-            2645: 26,26
-            2650: 26,25
+            2644: 26,26
+            2645: 26,25
         - node:
             cleanable: True
             color: '#52B4E996'
@@ -73025,8 +73025,6 @@ entities:
     - pos: 32.5,23.5
       parent: 2
       type: Transform
-    - enabled: False
-      type: AmbientSound
     - color: '#FF4400FF'
       type: AtmosPipeColor
   - uid: 11934
@@ -79558,6 +79556,28 @@ entities:
     - pos: 26.511513,-37.440815
       parent: 2
       type: Transform
+- proto: HandLabeler
+  entities:
+  - uid: 16491
+    components:
+    - pos: 16.669746,10.387273
+      parent: 2
+      type: Transform
+  - uid: 16740
+    components:
+    - pos: 8.404963,9.404304
+      parent: 2
+      type: Transform
+  - uid: 16741
+    components:
+    - pos: 4.6529,-3.9162235
+      parent: 2
+      type: Transform
+  - uid: 16742
+    components:
+    - pos: 12.324071,-10.753526
+      parent: 2
+      type: Transform
 - proto: HatSpawner
   entities:
   - uid: 9587
@@ -85542,6 +85562,8 @@ entities:
       pos: 34.5,27.5
       parent: 2
       type: Transform
+    - enabled: False
+      type: AmbientSound
   - uid: 10059
     components:
     - rot: 1.5707963267948966 rad
@@ -87371,6 +87393,11 @@ entities:
   - uid: 16593
     components:
     - pos: -6.5,2.5
+      parent: 2
+      type: Transform
+  - uid: 16743
+    components:
+    - pos: 8.5,-1.5
       parent: 2
       type: Transform
 - proto: RandomSoap
