@@ -122,6 +122,9 @@
       1: 0.20
       0: 0.00
   - type: SiliconDownOnDead
+  - type: GuideHelp
+    guides:
+    - Robotics
 
 - type: entity
   parent: MobSiliconBase
