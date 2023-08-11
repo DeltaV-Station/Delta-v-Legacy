@@ -1,5 +1,9 @@
 # Chat window radio wrap (prefix and postfix)
+<<<<<<< HEAD
+chat-radio-message-wrap = [color={$color}]{$channel} {$name} says: "{$message}"[/color]
+=======
 chat-radio-message-wrap = [color={$color}]{$channel} [bold]{$name}[/bold] says, "{$message}"[/color]
+>>>>>>> 598ba2aa70 (Chat rich text tweaks)
 
 examine-headset-default-channel = Use {$prefix} for the default channel ([color={$color}]{$channel}[/color]).
 
@@ -13,6 +17,7 @@ chat-radio-security = Security
 chat-radio-service = Service
 chat-radio-supply = Supply
 chat-radio-syndicate = Syndicate
+chat-radio-binary = Binary
 
 # not headset but whatever
 chat-radio-handheld = Handheld
