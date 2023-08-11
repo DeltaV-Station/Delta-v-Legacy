@@ -159,6 +159,13 @@
   completetime: 2
   materials:
     Steel: 20
+    
+- type: latheRecipe
+  id: ShellShotgunSlug
+  result: ShellShotgunSlug
+  completetime: 2
+  materials:
+    Steel: 30
 
 - type: latheRecipe
   id: CartridgeMagnum
