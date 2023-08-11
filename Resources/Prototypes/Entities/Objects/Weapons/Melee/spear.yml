@@ -105,7 +105,7 @@
       types:
         Piercing: 18
   - type: Item
-    size: 25
+    size: 40
   - type: Clothing
     quickEquip: false
     slots:
@@ -184,7 +184,7 @@
       types:
         Piercing: 21
   - type: Item
-    size: 25
+    size: 40
   - type: Clothing
     quickEquip: false
     slots:
