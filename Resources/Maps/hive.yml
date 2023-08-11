@@ -58988,18 +58988,27 @@ entities:
       pos: -20.5,16.5
       parent: 1
       type: Transform
+    - links:
+      - 3560
+      type: DeviceLinkSink
   - uid: 3558
     components:
     - rot: -1.5707963267948966 rad
       pos: -21.5,16.5
       parent: 1
       type: Transform
+    - links:
+      - 3560
+      type: DeviceLinkSink
   - uid: 3559
     components:
     - rot: -1.5707963267948966 rad
       pos: -22.5,16.5
       parent: 1
       type: Transform
+    - links:
+      - 3560
+      type: DeviceLinkSink
   - uid: 6678
     components:
     - rot: 1.5707963267948966 rad
@@ -146363,13 +146372,34 @@ entities:
         - Left: Forward
         - Right: Reverse
         - Middle: Off
+        3557:
+        - Left: Forward
+        - Right: Reverse
+        - Middle: Off
+        3558:
+        - Left: Forward
+        - Right: Reverse
+        - Middle: Off
+        3559:
+        - Left: Forward
+        - Right: Reverse
+        - Middle: Off
       registeredSinks:
         Left:
         - 3555
+        - 3557
+        - 3558
+        - 3559
         Right:
         - 3555
+        - 3557
+        - 3558
+        - 3559
         Middle:
         - 3555
+        - 3557
+        - 3558
+        - 3559
       type: DeviceLinkSource
   - uid: 6849
     components:
