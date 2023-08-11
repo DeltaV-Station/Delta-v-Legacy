@@ -321,3 +321,17 @@ Entries:
         in the Discord.
   id: 43
   time: '2023-08-08T05:19:44.0000000+00:00'
+- author: leonardo-dabepis
+  changes:
+    - type: Add
+      message: Added a new lobby art image- "A Bad Shift" by DEminerDG
+    - type: Tweak
+      message: Added signatures to the Oracle and Revenant lobby arts.
+  id: 44
+  time: '2023-08-10T18:25:25.0000000+00:00'
+- author: Colin-Tel
+  changes:
+    - type: Fix
+      message: Fixed bug where evac wouldn't reach Centcomm on Edge Station.
+  id: 45
+  time: '2023-08-10T21:44:50.0000000+00:00'
