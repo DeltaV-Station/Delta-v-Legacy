@@ -168,10 +168,10 @@
     - type: MeleeWeapon
       damage:
         types:
-          Blunt: 6
+          Blunt: 5
           Structural: 4
           Caustic: 1
-          Poison: 4
+          Poison: 2
     - type: GhostRole
       makeSentient: true
       name: ghost-role-information-slimes-name
@@ -199,7 +199,7 @@
     - type: MeleeWeapon
       damage:
         types:
-          Blunt: 6
+          Blunt: 5
           Structural: 4
           Caustic: 1
           Poison: 4
@@ -226,10 +226,10 @@
     - type: MeleeWeapon
       damage:
         types:
-          Blunt: 6
+          Blunt: 5
           Structural: 4
           Caustic: 1
-          Cellular: 3
+          Cellular: 2
     - type: GhostRole
       makeSentient: true
       name: ghost-role-information-slimes-name
@@ -257,10 +257,10 @@
     - type: MeleeWeapon
       damage:
         types:
-          Blunt: 6
+          Blunt: 5
           Structural: 4
           Caustic: 1
-          Cellular: 3
+          Cellular: 2
     - type: GhostRole
       makeSentient: true
       name: ghost-role-information-slimes-name
