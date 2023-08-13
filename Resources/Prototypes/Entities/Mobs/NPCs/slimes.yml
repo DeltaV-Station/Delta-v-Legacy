@@ -103,9 +103,9 @@
     animation: WeaponArcPunch
     damage:
       types:
-        Blunt: 6
+        Blunt: 5
         Structural: 4
-        Caustic: 4
+        Caustic: 3
   - type: InteractionPopup
     successChance: 0.5
     interactSuccessString: petting-success-slimes
@@ -202,7 +202,7 @@
           Blunt: 5
           Structural: 4
           Caustic: 1
-          Poison: 4
+          Poison: 2
     - type: GhostRole
       makeSentient: true
       name: ghost-role-information-slimes-name
