@@ -29,12 +29,3 @@
   - type: Clothing
     sprite: Nyanotrasen/Clothing/Mask/mask_oni_red.rsi
 
-- type: entity
-  parent: ClothingMaskPullableBase
-  id: felinidcone
-  name: pet recovery cone
-  components:
-  - type: Sprite #temp sprites, for now, i update them in a bit
-    sprite: Nyanotrasen/Clothing/Mask/cone.rsi
-  - type: Clothing
-    sprite: Nyanotrasen/Clothing/Mask/cone.rsi
