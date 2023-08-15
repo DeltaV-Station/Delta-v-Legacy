@@ -143,7 +143,6 @@
         density: 3500
         layer:
         - WallLayer
-        
 - type: entity
   parent: BaseRock
   id: FloraRockSolid01
