@@ -1,4 +1,4 @@
-﻿- type: entity
+- type: entity
   abstract: true
   parent: BaseItem
   id: GasTankBase
@@ -92,6 +92,33 @@
     sprite: Objects/Tanks/red.rsi
   - type: Clothing
     sprite: Objects/Tanks/red.rsi
+
+- type: entity
+  parent: OxygenTank
+  id: EmergencyNitrogenTank
+  name: emergency nitrogen tank
+  description: An easily portable tank for emergencies. Contains very little nitrogen, rated for survival use only.
+  components:
+  - type: Sprite
+    sprite: Objects/Tanks/emergency_red.rsi
+  - type: Item
+    size: 10
+    sprite: Objects/Tanks/emergency_red.rsi
+    slots:
+    - Pocket
+    - Belt
+    - Suit Storage
+  - type: MeleeWeapon
+    damage:
+      types:
+        Blunt: 5
+  - type: PhysicalComposition
+    materialComposition:
+      Steel: 100
+# I've tried to look into it and I can't see why setting the emergency nitrogen tank to
+# type: clothing
+# type: gas tank similarly to the emergency o2 tank breaks it.
+# this is the cleanest I could do - Danger!Revolution!
 
 - type: entity
   parent: OxygenTank
