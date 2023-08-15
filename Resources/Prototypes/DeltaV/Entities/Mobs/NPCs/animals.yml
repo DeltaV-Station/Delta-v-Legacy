@@ -37,7 +37,7 @@
       Alive:
         Base: capybara
       Critical:
-        Base: capybara_dead
+        Base: capybara_crit
       Dead:
         Base: capybara_dead
   - type: Butcherable
