@@ -178,7 +178,7 @@
       doAfterDelay: 32
     - type: Bloodstream
       damageBleedModifiers: BloodlossIPC
-      bloodReagent: MotorOil
+      bloodReagent: Water
       bleedReductionAmount: 0
       bloodMaxVolume: 500
       chemicalMaxVolume: 0

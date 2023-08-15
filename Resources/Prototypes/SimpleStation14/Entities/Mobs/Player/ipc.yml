@@ -85,8 +85,6 @@
     baseWalkSpeed: 3
     baseSprintSpeed: 3
   - type: Stamina
-  - type: Bloodstream
-    bloodReagent: MotorOil
 
 
 - type: entity
