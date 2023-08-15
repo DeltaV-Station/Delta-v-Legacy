@@ -1,4 +1,4 @@
-- type: vendingMachineInventory
+s- type: vendingMachineInventory
   id: MediDrobeInventory
   startingInventory:
     ClothingBackpackDuffelMedical: 4
@@ -20,9 +20,4 @@
     ClothingOuterHospitalGown: 5
     UniformScrubsColorGreen: 4
     UniformScrubsColorBlue: 4
-    UniformScrubsColorWhite: 4
-    UniformScrubsColorBlack: 4
-    UniformScrubsColorPink: 4
-    UniformScrubsColorRainbow: 4
-   contrabandInventory:
-    UniformScrubsColorSyndicate: 1
+    UniformScrubsColorPurple: 4
