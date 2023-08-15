@@ -1,4 +1,4 @@
-s- type: vendingMachineInventory
+- type: vendingMachineInventory
   id: MediDrobeInventory
   startingInventory:
     ClothingBackpackDuffelMedical: 4
