@@ -7,7 +7,6 @@
     ClothingUniformJumpsuitParamedic: 4
     ClothingUniformJumpskirtParamedic: 4
     ClothingHeadNurseHat: 4
-    ClothingUniformJumpskirtNurse: 4
     ClothingOuterCoatLab: 4
     ClothingShoesColorWhite: 4
     ClothingHandsGlovesLatex: 4
@@ -18,3 +17,12 @@
     ClothingHeadHatParamedicsoft: 2
     ClothingHeadHelmetVoidParamed: 1
     ClothingOuterHardsuitVoidParamed: 1
+    ClothingOuterHospitalGown: 5
+    UniformScrubsColorGreen: 4
+    UniformScrubsColorBlue: 4
+    UniformScrubsColorWhite: 4
+    UniformScrubsColorBlack: 4
+    UniformScrubsColorPink: 4
+    UniformScrubsColorRainbow: 4
+   contrabandInventory:
+    UniformScrubsColorSyndicate: 1
