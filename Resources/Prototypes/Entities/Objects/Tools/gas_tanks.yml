@@ -104,6 +104,13 @@
   - type: Item
     size: 10
     sprite: Objects/Tanks/emergency_red.rsi
+#  - type: GasTank
+#  - outputPressure: 21.3
+#    air:
+#      volume: 2
+#      temprature: 293.15
+#  - type: Clothing
+#    sprite: Objects/Tanks/emergency_red.rsi
     slots:
     - Pocket
     - Belt
@@ -115,11 +122,9 @@
   - type: PhysicalComposition
     materialComposition:
       Steel: 100
-# I've tried to look into it and I can't see why setting the emergency nitrogen tank to
-# type: clothing
-# type: gas tank similarly to the emergency o2 tank breaks it.
-# this is the cleanest I could do - Danger!Revolution!
-
+# for whatever reason, using the same code as the emergency oxygen tank causes the game to never launch, using only the Clothing tag it, at least boots.
+# I don't know enough to know why it's happening, however me and taro_varne's best guess was that the ID being too similar causes the game to pull both the items?
+# this means that the emergency nitro tank CANNOT be worn on the belt, for some reason, but it's the best I am able to do.
 - type: entity
   parent: OxygenTank
   id: EmergencyOxygenTank
