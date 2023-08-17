@@ -1172,7 +1172,7 @@
   forcedColoring: true
   speciesRestriction: [Moth]
   sprites:
-  - sprite: Nyanotrasen/Mobs/Customization/_markings/jungle.rsi
+  - sprite: Nyanotrasen/Mobs/Customization/moth_markings/jungle.rsi
     state: chest
 
 - type: marking
