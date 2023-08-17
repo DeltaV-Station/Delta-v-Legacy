@@ -19,16 +19,16 @@
     - type: Clickable
     - type: Damageable
       damageContainer: Inorganic
-    # - type: Bloodstream # This is left commented out because it's not necessary for a robot, but you may want it.
-    #   bloodReagent: MotorOil
-    #   bloodlossDamage:
-    #     types:
-    #       Bloodloss:
-    #         1
-    #   bloodlossHealDamage:
-    #     types:
-    #       Bloodloss:
-    #         -0.25
+      damageModifierSet: Metallic
+    - type: Bloodstream
+      bloodlossDamage:
+        types:
+          Bloodloss:
+           1
+      bloodlossHealDamage:
+        types:
+          Bloodloss:
+            -1
     - type: InteractionOutline
     - type: Fixtures
       fixtures:
@@ -176,16 +176,10 @@
     - type: Repairable
       fuelcost: 60
       doAfterDelay: 32
-    - type: Bloodstream
-      damageBleedModifiers: BloodlossIPC
+    - type: Bloodstream #Bleeding damage and modifiers will be set to default like the rest of species so that way i dont break my head balancing it.
       bloodReagent: Water
-      bleedReductionAmount: 0
-      bloodMaxVolume: 500
+      bloodMaxVolume: 300
       chemicalMaxVolume: 0
-      bleedPuddleThreshold: 3
-      bleedRefreshAmount: 0
-      bloodLossThreshold: 0
-      maxBleedAmount: 14
       bloodlossDamage:
         types:
           Heat: 1.5
