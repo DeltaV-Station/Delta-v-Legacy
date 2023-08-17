@@ -220,6 +220,8 @@
       - UniformPrinterMachineCircuitboard
       - VaccinatorMachineCircuitboard
       - WallmountGeneratorAPUElectronics
+      - IndustrialChargerCircuitboard
+      - ChargingPadCircuitboard
       - WallmountGeneratorElectronics
       - WallmountSubstationElectronics
   - type: MaterialStorage

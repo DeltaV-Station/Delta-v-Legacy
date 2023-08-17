@@ -181,6 +181,8 @@
       - WeaponCrusherDagger
       - WeaponProtoKineticAccelerator
       - WelderIndustrialAdvanced
+      - IndustrialChargerCircuitboard
+      - ChargingPadCircuitboard
       # BEGIN: machine parts
       - AdvancedCapacitorStockPart
       - AdvancedMatterBinStockPart

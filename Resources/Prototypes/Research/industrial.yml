@@ -51,6 +51,8 @@
   recipeUnlocks:
   # - ProtolatheMachineCircuitboard
   # - AutolatheMachineCircuitboard
+  - IndustrialChargerCircuitboard
+  - ChargingPadCircuitboard
   - CircuitImprinterMachineCircuitboard
   - MaterialReclaimerMachineCircuitboard
 

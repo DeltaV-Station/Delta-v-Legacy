@@ -45,3 +45,19 @@
   materials:
     Steel: 70
     Glass: 25
+
+- type: latheRecipe
+  id: IndustrialChargerCircuitboard
+  result: IndustrialChargerCircuitboard
+  completetime: 5
+  materials:
+    Steel: 200
+    Glass: 250
+
+- type: latheRecipe
+  id: ChargingPadCircuitboard
+  result: ChargingPadCircuitboard
+  completetime: 5
+  materials:
+    Steel: 200
+    Glass: 250
