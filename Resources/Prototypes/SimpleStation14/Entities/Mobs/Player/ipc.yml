@@ -85,6 +85,11 @@
     baseWalkSpeed: 3
     baseSprintSpeed: 3
   - type: Stamina
+  - type: InteractionPopup
+    successChance: 1
+    interactSuccessString: hugging-success-generic
+    interactSuccessSound: /Audio/Effects/thudswoosh.ogg
+    messagePerceivedByOthers: hugging-success-generic-others
 
 
 - type: entity
