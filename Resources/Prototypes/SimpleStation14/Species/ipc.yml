@@ -42,10 +42,17 @@
 
 - type: markingPoints
   id: MobIPCMarkingLimits
+  onlyWhitelisted: true
   points:
+    Hair:
+      points: 0
+      required: false
+    FacialHair:
+      points: 0
+      required: false
     Head:
       points: 1
-      required: false
+      required: true
     HeadTop:
       points: 1
       required: true
