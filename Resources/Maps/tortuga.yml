@@ -138,7 +138,7 @@ entities:
           tiles: YQAAAGEAAABhAAAAYQAAAGEAAABhAAAAYQAAAGEAAABhAAAAYQAAAA8AAAAPAAAADwAAAA8AAAAPAAAADwAAAGEAAABhAAAAYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGEAAAAPAAAADwAAAA8AAAAPAAAADwAAAA8AAABhAAAAYQAAAGEAAAAAAAAAYQAAAGEAAABhAAAAYQAAAGEAAABhAAAAYQAAAGEAAAA9AAAAPQAAAA8AAAA9AAAAUQAAAGEAAABhAAAAAAAAAD0AAAAYAAACGAAAABgAAAFhAAAAGAAAARgAAAFhAAAAVAAAAVQAAAFUAAABVAAAA2EAAABhAAAAYQAAAAAAAAA9AAAAGAAAARgAAAAYAAAAYQAAABgAAAAYAAACYQAAAFQAAANUAAADVAAAAFQAAAJhAAAAYQAAAGEAAAAAAAAAYQAAABgAAABhAAAAYQAAAGEAAAAYAAABGAAAAWEAAABUAAACVAAAAlQAAANUAAAAUQAAAGEAAABhAAAAAAAAAGEAAAAYAAACGAAAAxgAAAIYAAABGAAAARgAAANhAAAAYQAAAD0AAABUAAADPQAAAGEAAABhAAAAYQAAAAAAAAA9AAAAGAAAAhgAAAAYAAABGAAAAxgAAAEYAAABGAAAAlQAAABUAAAAVAAAAFQAAABhAAAAYQAAAGEAAAAAAAAAPQAAABgAAAEYAAABGAAAABgAAAAYAAABGAAAAj0AAABUAAAAVAAAA1QAAAFUAAABUQAAAGEAAABhAAAAAAAAAGEAAAAYAAABGAAAAhgAAAMYAAABGAAAABgAAANhAAAAVAAAA1QAAAFUAAABVAAAA2EAAABhAAAAYQAAAAAAAABhAAAAYQAAAD0AAAA9AAAAPQAAAD0AAABhAAAAYQAAAFQAAANUAAABVAAAA1QAAABhAAAAYQAAAGEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGEAAABhAAAAYQAAAFEAAABhAAAAYQAAAGEAAABhAAAAYQAAAGEAAABhAAAAYQAAAGEAAABhAAAAYQAAAGEAAABhAAAANQAAADUAAABRAAAANQAAAGEAAABhAAAAYQAAAGEAAABhAAAAYQAAAGEAAABhAAAAYQAAAGEAAABhAAAAYQAAAGEAAABhAAAAYQAAAGEAAABhAAAAYQAAAGEAAABhAAAAYQAAAGEAAABhAAAAYQAAAGEAAABhAAAAYQAAAGEAAABhAAAAYQAAAGEAAABhAAAAYQAAAGEAAABhAAAAYQAAAGEAAABhAAAAYQAAAGEAAABhAAAAYQAAAGEAAAA1AAAAYQAAAGEAAABhAAAAYQAAAA==
         -5,0:
           ind: -5,0
-          tiles: YQAAAGEAAABhAAAAYQAAAGEAAABhAAAARwAAAEcAAAJHAAADYQAAAA8AAAAPAAAADwAAAA8AAAA9AAAAVAAAA2EAAAA9AAAAPQAAAD0AAAA9AAAAPQAAAEcAAANHAAABRwAAAWEAAAAPAAAADwAAAA8AAAAPAAAAPQAAAFQAAANhAAAAPQAAAEcAAAJHAAADRwAAAD0AAABHAAADRwAAA0cAAAFhAAAADwAAAA8AAAAPAAAADwAAAEcAAAJUAAABYQAAAD0AAABHAAADRwAAAkcAAAI9AAAARwAAAUcAAAFHAAADYQAAAA8AAAAPAAAADwAAAA8AAAA9AAAAVAAAAGEAAAA9AAAARwAAA0cAAANHAAABPQAAAEcAAABHAAAARwAAAmEAAAAPAAAADwAAAA8AAAAPAAAAPQAAAFQAAAJhAAAAPQAAAD0AAAA9AAAAPQAAAD0AAABHAAABRwAAAEcAAABhAAAADwAAAA8AAAAPAAAADwAAAD0AAABUAAADYQAAAGEAAAA9AAAAPQAAAGEAAABhAAAAPQAAAFQAAAE9AAAAYQAAAD0AAAA9AAAAPQAAAD0AAABhAAAAPQAAAFQAAANUAAAAVAAAA1QAAAFUAAADPQAAAFQAAAJUAAACVAAAAlQAAABUAAABVAAAAlQAAANUAAABPQAAAFQAAABUAAACVAAAAlQAAAFUAAAAVAAAA1QAAAFUAAABVAAAA1QAAAJUAAACVAAAAFQAAABUAAAAVAAAAVQAAABUAAAAYQAAAGEAAABhAAAAYQAAAGEAAABhAAAAYQAAAEcAAAI9AAAAYQAAAGEAAABUAAAAYQAAAGEAAABhAAAAVAAAAGEAAAAYAAADGAAAABgAAAAYAAABGAAAAxgAAAAYAAABGAAAAWEAAABUAAADVAAAA1QAAAFUAAACPQAAAFQAAAJhAAAAGAAAAhgAAAEYAAAAGAAAABgAAAMYAAABGAAAAxgAAANUAAABVAAAAVQAAANUAAACVAAAAVQAAAJUAAACYQAAABgAAAIYAAADGAAAARgAAAIYAAAAGAAAARgAAAIYAAADYQAAAFQAAABUAAACVAAAAlQAAAFhAAAAVAAAAGEAAAAYAAAAGAAAARgAAAIYAAABGAAAAxgAAAMYAAACGAAAAmEAAABhAAAAYQAAAGEAAABhAAAAYQAAAD0AAABhAAAAGAAAAxgAAAEYAAAAGAAAARgAAAMYAAABGAAAARgAAAA9AAAAPwAAAD8AAAA/AAAAPwAAAD8AAAA/AAAAYQAAABgAAAIYAAAAGAAAAxgAAAAYAAACGAAAADUAAAAYAAABPQAAAD8AAAA/AAAAPwAAAD8AAAA/AAAAPwAAAA==
+          tiles: YQAAAGEAAABhAAAAYQAAAGEAAABhAAAARwAAAEcAAAJHAAADYQAAAA8AAAAPAAAADwAAAA8AAAA9AAAAVAAAA2EAAAA9AAAAPQAAAD0AAAA9AAAAPQAAAEcAAANHAAABRwAAAWEAAAAPAAAADwAAAA8AAAAPAAAAPQAAAFQAAANhAAAAPQAAAEcAAAJHAAADRwAAAD0AAABHAAADRwAAA0cAAAFhAAAADwAAAA8AAAAPAAAADwAAAEcAAAJUAAABYQAAAD0AAABHAAADRwAAAkcAAAI9AAAARwAAAUcAAAFHAAADYQAAAA8AAAAPAAAADwAAAA8AAAA9AAAAVAAAAGEAAAA9AAAARwAAA0cAAANHAAABPQAAAEcAAABHAAAARwAAAmEAAAAPAAAADwAAAA8AAAAPAAAAPQAAAFQAAAJhAAAAPQAAAD0AAAA9AAAAPQAAAD0AAABHAAABRwAAAEcAAABhAAAADwAAAA8AAAAPAAAADwAAAD0AAABUAAADYQAAAGEAAAA9AAAAPQAAAGEAAABhAAAAPQAAAFQAAAE9AAAAYQAAAD0AAAA9AAAAPQAAAD0AAABhAAAAPQAAAFQAAANUAAAAVAAAA1QAAAFUAAADPQAAAFQAAAJUAAACVAAAAlQAAABUAAABVAAAAlQAAANUAAABPQAAAFQAAABUAAACVAAAAlQAAAFUAAAAVAAAA1QAAAFUAAABVAAAA1QAAAJUAAACVAAAAFQAAABUAAAAVAAAAVQAAABUAAAAYQAAAGEAAABhAAAAYQAAAGEAAABhAAAAYQAAAEcAAAI9AAAAYQAAAGEAAABUAAAAYQAAAGEAAABhAAAAVAAAAGEAAAAYAAADGAAAABgAAAAYAAABGAAAAxgAAAAYAAAAGAAAAGEAAABUAAADVAAAA1QAAAFUAAACPQAAAFQAAAJhAAAAGAAAAhgAAAEYAAAAGAAAABgAAAMYAAABGAAAABgAAABUAAABVAAAAVQAAANUAAACVAAAAVQAAAJUAAACYQAAABgAAAIYAAADGAAAARgAAAIYAAAAGAAAARgAAAAYAAAAYQAAAFQAAABUAAACVAAAAlQAAAFhAAAAVAAAAGEAAAAYAAAAGAAAARgAAAIYAAABGAAAAxgAAAMYAAAAGAAAAGEAAABhAAAAYQAAAGEAAABhAAAAYQAAAD0AAABhAAAAGAAAAxgAAAEYAAAAGAAAARgAAAMYAAABGAAAARgAAAA9AAAAPwAAAD8AAAA/AAAAPwAAAD8AAAA/AAAAYQAAABgAAAIYAAAAGAAAAxgAAAAYAAACGAAAADUAAAAYAAABPQAAAD8AAAA/AAAAPwAAAD8AAAA/AAAAPwAAAA==
         -5,1:
           ind: -5,1
           tiles: YQAAABgAAAEYAAADGAAAAhgAAAIYAAADNQAAADUAAAA1AAAAPQAAAD8AAAA/AAAAPwAAAD8AAAA/AAAAPwAAAGEAAABhAAAAYQAAAGEAAABHAAABYQAAAGEAAABhAAAAYQAAAGEAAABhAAAAYQAAAGEAAABhAAAAYQAAAGEAAABhAAAAYQAAAGEAAABhAAAAYQAAAGEAAABhAAAAYQAAAGEAAABhAAAAYQAAAGEAAABhAAAAYQAAAGEAAABhAAAAYQAAAGEAAABhAAAAYQAAAGEAAABhAAAAYQAAAGEAAABhAAAAYQAAAGEAAABhAAAAUQAAAFEAAABRAAAAUQAAAFEAAABRAAAAUQAAAGEAAABhAAAAYQAAAGEAAABhAAAAYQAAAGEAAABhAAAAYQAAAGEAAABhAAAAYQAAAFEAAABRAAAAUQAAAFEAAABhAAAAAAAAAGAAAABhAAAAXgAAAF4AAANeAAABXgAAAF4AAAJeAAADXgAAA2EAAABhAAAAPQAAAD0AAAA9AAAAYQAAAAAAAABgAAAAPQAAAF4AAAJeAAACXgAAA14AAAJeAAAAXgAAA14AAANhAAAAGAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAYAAAAD0AAABeAAAAXgAAAl4AAANeAAADXgAAAV4AAABeAAADYQAAABgAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAGAAAAA9AAAAXgAAAF4AAANeAAACXgAAAF4AAABeAAAAXgAAAWEAAAAYAAADAAAAAAAAAAAAAAAAAAAAAAAAAABgAAAAPQAAAF4AAABeAAAAXgAAAF4AAABeAAADXgAAAV4AAABhAAAAXgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAYAAAAD0AAABeAAAAXgAAAl4AAAJeAAADXgAAAl4AAABeAAAAXgAAAV4AAAEAAAAAAAAAAAAAAAAAAAAAAAAAAGAAAABhAAAAXgAAAF4AAAFeAAABXgAAA14AAAFeAAAAXgAAA14AAANeAAADAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAYQAAAGEAAABhAAAAYQAAAGEAAABhAAAAYQAAAGEAAABeAAADXgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGEAAABhAAAAYQAAAGEAAABhAAAAYQAAAGEAAABhAAAAYQAAAGEAAABgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABhAAAAYQAAAGEAAABhAAAAYQAAAGEAAABhAAAAYQAAAF4AAAJeAAADAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAYQAAAGEAAAA9AAAAYQAAAGEAAABhAAAAYQAAAGEAAABeAAACXgAAAQ==
@@ -432,7 +432,8 @@ entities:
           tiles: AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGAAAABhAAAAYQAAAFIAAABSAAAAUgAAAGEAAABhAAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABgAAAAYQAAAF8AAANfAAABXwAAAV8AAAJfAAAAYQAAAGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAYAAAAGEAAABfAAADXwAAAl8AAABfAAAAXwAAAmEAAABgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGAAAABhAAAAXwAAAF8AAABfAAADXwAAAF8AAAFhAAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABgAAAAYQAAAGEAAABhAAAAYQAAAGEAAABhAAAAYQAAAGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAYAAAAGAAAABhAAAAYQAAAGEAAABhAAAAYQAAAGEAAABgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGAAAABgAAAAYQAAAGEAAABhAAAAYQAAAGEAAABhAAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABgAAAAYAAAAGAAAABgAAAAYAAAAGAAAABgAAAAYAAAAGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAAAAAAAGAAAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGAAAAAAAAAAPAAAAAAAAABgAAAAAAAAADwAAAAAAAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABgAAAAAAAAADwAAABgAAAAYAAAAGAAAAA8AAAAAAAAAGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAYAAAAAAAAAA8AAAAAAAAAGAAAAAAAAAAPAAAAAAAAABgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAYAAAAGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGAAAABgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGAAAABgAAAAYAAAAGAAAABgAAAAYAAAAGAAAABgAAAAYAAAAA==
       type: MapGrid
     - type: Broadphase
-    - angularDamping: 0.05
+    - bodyStatus: InAir
+      angularDamping: 0.05
       linearDamping: 0.05
       fixedRotation: False
       bodyType: Dynamic
@@ -10465,7 +10466,8 @@ entities:
             2: 1
             0: 65534
           -4,4:
-            0: 65535
+            0: 65519
+            1: 16
           -4,5:
             0: 65535
           -4,6:
@@ -16433,69 +16435,33 @@ entities:
     - pos: -25.5,78.5
       parent: 33
       type: Transform
-    - inputs:
-        Open:
-        - port: Timer
-          uid: 12511
-        Close:
-        - port: Start
-          uid: 12511
-        Toggle: []
-        AutoClose:
-        - port: Timer
-          uid: 12511
-      type: SignalReceiver
+    - links:
+      - 12511
+      type: DeviceLinkSink
   - uid: 5721
     components:
     - pos: -25.5,81.5
       parent: 33
       type: Transform
-    - inputs:
-        Open:
-        - port: Timer
-          uid: 27889
-        Close:
-        - port: Start
-          uid: 27889
-        Toggle: []
-        AutoClose:
-        - port: Timer
-          uid: 27889
-      type: SignalReceiver
+    - links:
+      - 27889
+      type: DeviceLinkSink
   - uid: 5722
     components:
     - pos: -25.5,84.5
       parent: 33
       type: Transform
-    - inputs:
-        Open:
-        - port: Timer
-          uid: 27888
-        Close:
-        - port: Start
-          uid: 27888
-        Toggle: []
-        AutoClose:
-        - port: Timer
-          uid: 27888
-      type: SignalReceiver
+    - links:
+      - 27888
+      type: DeviceLinkSink
   - uid: 5723
     components:
     - pos: -25.5,87.5
       parent: 33
       type: Transform
-    - inputs:
-        Open:
-        - port: Timer
-          uid: 27886
-        Close:
-        - port: Start
-          uid: 27886
-        Toggle: []
-        AutoClose:
-        - port: Timer
-          uid: 27886
-      type: SignalReceiver
+    - links:
+      - 27886
+      type: DeviceLinkSink
   - uid: 6127
     components:
     - pos: -20.5,84.5
@@ -18939,6 +18905,13 @@ entities:
     - pos: -46.692753,67.458015
       parent: 33
       type: Transform
+- proto: BeachBall
+  entities:
+  - uid: 24243
+    components:
+    - pos: -93.42318,-15.432499
+      parent: 33
+      type: Transform
 - proto: Beaker
   entities:
   - uid: 5389
@@ -19380,35 +19353,23 @@ entities:
     - pos: 38.5,-14.5
       parent: 33
       type: Transform
-    - inputs:
-        Open:
-        - port: On
-          uid: 2769
-        Close:
-        - port: Off
-          uid: 2769
-        Toggle: []
-      type: SignalReceiver
+    - links:
+      - 2769
+      type: DeviceLinkSink
   - uid: 221
     components:
     - pos: 38.5,-10.5
       parent: 33
       type: Transform
-    - inputs:
-        Open:
-        - port: On
-          uid: 2769
-        Close:
-        - port: Off
-          uid: 2769
-        Toggle: []
-      type: SignalReceiver
+    - links:
+      - 2769
+      type: DeviceLinkSink
   - uid: 496
     components:
     - pos: 51.5,81.5
       parent: 33
       type: Transform
-    - SecondsUntilStateChange: -710256.2
+    - SecondsUntilStateChange: -721367.2
       state: Closing
       type: Door
     - enabled: False
@@ -19417,21 +19378,15 @@ entities:
       type: Physics
     - airBlocked: False
       type: Airtight
-    - inputs:
-        Open:
-        - port: On
-          uid: 10204
-        Close:
-        - port: Off
-          uid: 10204
-        Toggle: []
-      type: SignalReceiver
+    - links:
+      - 10204
+      type: DeviceLinkSink
   - uid: 530
     components:
     - pos: 48.5,12.5
       parent: 33
       type: Transform
-    - SecondsUntilStateChange: -342576.22
+    - SecondsUntilStateChange: -353687.25
       state: Closing
       type: Door
     - enabled: False
@@ -19440,113 +19395,65 @@ entities:
       type: Physics
     - airBlocked: False
       type: Airtight
-    - inputs:
-        Open:
-        - port: On
-          uid: 406
-        - port: On
-          uid: 25993
-        Close:
-        - port: Off
-          uid: 406
-        - port: Off
-          uid: 25993
-        Toggle: []
-      type: SignalReceiver
+    - links:
+      - 406
+      - 25993
+      type: DeviceLinkSink
   - uid: 3452
     components:
     - pos: -72.5,31.5
       parent: 33
       type: Transform
-    - inputs:
-        Open:
-        - port: On
-          uid: 3444
-        Close:
-        - port: Off
-          uid: 3444
-        Toggle: []
-      type: SignalReceiver
+    - links:
+      - 3444
+      type: DeviceLinkSink
   - uid: 5398
     components:
     - pos: -83.5,-22.5
       parent: 33
       type: Transform
-    - inputs:
-        Open:
-        - port: On
-          uid: 1800
-        - port: On
-          uid: 2428
-        Close:
-        - port: Off
-          uid: 1800
-        - port: Off
-          uid: 2428
-        Toggle: []
-      type: SignalReceiver
+    - links:
+      - 1800
+      - 2428
+      type: DeviceLinkSink
   - uid: 5702
     components:
     - pos: -27.5,-45.5
       parent: 33
       type: Transform
-    - inputs:
-        Open:
-        - port: On
-          uid: 15196
-        Close:
-        - port: Off
-          uid: 15196
-        Toggle: []
-      type: SignalReceiver
+    - links:
+      - 15196
+      type: DeviceLinkSink
   - uid: 11147
     components:
     - pos: -2.5,-45.5
       parent: 33
       type: Transform
-    - inputs:
-        Open:
-        - port: On
-          uid: 15092
-        Close:
-        - port: Off
-          uid: 15092
-        Toggle: []
-      type: SignalReceiver
+    - links:
+      - 15092
+      type: DeviceLinkSink
   - uid: 11254
     components:
     - pos: -3.5,-45.5
       parent: 33
       type: Transform
-    - inputs:
-        Open:
-        - port: On
-          uid: 15092
-        Close:
-        - port: Off
-          uid: 15092
-        Toggle: []
-      type: SignalReceiver
+    - links:
+      - 15092
+      type: DeviceLinkSink
   - uid: 11288
     components:
     - pos: -28.5,-45.5
       parent: 33
       type: Transform
-    - inputs:
-        Open:
-        - port: On
-          uid: 15196
-        Close:
-        - port: Off
-          uid: 15196
-        Toggle: []
-      type: SignalReceiver
+    - links:
+      - 15196
+      type: DeviceLinkSink
   - uid: 17949
     components:
     - pos: -15.5,101.5
       parent: 33
       type: Transform
-    - SecondsUntilStateChange: -621484.8
+    - SecondsUntilStateChange: -632595.8
       state: Closing
       type: Door
     - enabled: False
@@ -19555,21 +19462,15 @@ entities:
       type: Physics
     - airBlocked: False
       type: Airtight
-    - inputs:
-        Open:
-        - port: On
-          uid: 838
-        Close:
-        - port: Off
-          uid: 838
-        Toggle: []
-      type: SignalReceiver
+    - links:
+      - 838
+      type: DeviceLinkSink
   - uid: 17950
     components:
     - pos: -15.5,104.5
       parent: 33
       type: Transform
-    - SecondsUntilStateChange: -621481.56
+    - SecondsUntilStateChange: -632592.56
       state: Closing
       type: Door
     - enabled: False
@@ -19578,21 +19479,15 @@ entities:
       type: Physics
     - airBlocked: False
       type: Airtight
-    - inputs:
-        Open:
-        - port: On
-          uid: 17948
-        Close:
-        - port: Off
-          uid: 17948
-        Toggle: []
-      type: SignalReceiver
+    - links:
+      - 17948
+      type: DeviceLinkSink
   - uid: 18091
     components:
     - pos: -52.5,-50.5
       parent: 33
       type: Transform
-    - SecondsUntilStateChange: -618381.4
+    - SecondsUntilStateChange: -629492.4
       state: Closing
       type: Door
     - enabled: False
@@ -19601,21 +19496,15 @@ entities:
       type: Physics
     - airBlocked: False
       type: Airtight
-    - inputs:
-        Open:
-        - port: On
-          uid: 18121
-        Close:
-        - port: Off
-          uid: 18121
-        Toggle: []
-      type: SignalReceiver
+    - links:
+      - 18121
+      type: DeviceLinkSink
   - uid: 18092
     components:
     - pos: -52.5,-51.5
       parent: 33
       type: Transform
-    - SecondsUntilStateChange: -618381.4
+    - SecondsUntilStateChange: -629492.4
       state: Closing
       type: Door
     - enabled: False
@@ -19624,21 +19513,15 @@ entities:
       type: Physics
     - airBlocked: False
       type: Airtight
-    - inputs:
-        Open:
-        - port: On
-          uid: 18121
-        Close:
-        - port: Off
-          uid: 18121
-        Toggle: []
-      type: SignalReceiver
+    - links:
+      - 18121
+      type: DeviceLinkSink
   - uid: 25986
     components:
     - pos: 53.5,12.5
       parent: 33
       type: Transform
-    - SecondsUntilStateChange: -342576.22
+    - SecondsUntilStateChange: -353687.25
       state: Closing
       type: Door
     - enabled: False
@@ -19647,47 +19530,26 @@ entities:
       type: Physics
     - airBlocked: False
       type: Airtight
-    - inputs:
-        Open:
-        - port: On
-          uid: 406
-        - port: On
-          uid: 25993
-        Close:
-        - port: Off
-          uid: 406
-        - port: Off
-          uid: 25993
-        Toggle: []
-      type: SignalReceiver
+    - links:
+      - 406
+      - 25993
+      type: DeviceLinkSink
   - uid: 27395
     components:
     - pos: 62.5,4.5
       parent: 33
       type: Transform
-    - inputs:
-        Open:
-        - port: On
-          uid: 27396
-        Close:
-        - port: Off
-          uid: 27396
-        Toggle: []
-      type: SignalReceiver
+    - links:
+      - 27396
+      type: DeviceLinkSink
   - uid: 27875
     components:
     - pos: 58.5,4.5
       parent: 33
       type: Transform
-    - inputs:
-        Open:
-        - port: On
-          uid: 27396
-        Close:
-        - port: Off
-          uid: 27396
-        Toggle: []
-      type: SignalReceiver
+    - links:
+      - 27396
+      type: DeviceLinkSink
 - proto: BlastDoorOpen
   entities:
   - uid: 925
@@ -19695,57 +19557,33 @@ entities:
     - pos: -18.5,56.5
       parent: 33
       type: Transform
-    - inputs:
-        Open:
-        - port: On
-          uid: 27313
-        Close:
-        - port: Off
-          uid: 27313
-        Toggle: []
-      type: SignalReceiver
+    - links:
+      - 27313
+      type: DeviceLinkSink
   - uid: 926
     components:
     - pos: -19.5,56.5
       parent: 33
       type: Transform
-    - inputs:
-        Open:
-        - port: On
-          uid: 27313
-        Close:
-        - port: Off
-          uid: 27313
-        Toggle: []
-      type: SignalReceiver
+    - links:
+      - 27313
+      type: DeviceLinkSink
   - uid: 927
     components:
     - pos: -21.5,56.5
       parent: 33
       type: Transform
-    - inputs:
-        Open:
-        - port: On
-          uid: 27313
-        Close:
-        - port: Off
-          uid: 27313
-        Toggle: []
-      type: SignalReceiver
+    - links:
+      - 27313
+      type: DeviceLinkSink
   - uid: 928
     components:
     - pos: -20.5,56.5
       parent: 33
       type: Transform
-    - inputs:
-        Open:
-        - port: On
-          uid: 27313
-        Close:
-        - port: Off
-          uid: 27313
-        Toggle: []
-      type: SignalReceiver
+    - links:
+      - 27313
+      type: DeviceLinkSink
 - proto: BlockGameArcade
   entities:
   - uid: 26769
@@ -20922,16 +20760,12 @@ entities:
       pos: -25.5,76.5
       parent: 33
       type: Transform
-    - outputs:
-        Start:
-        - port: Close
-          uid: 3735
-        Timer:
-        - port: Open
-          uid: 3735
-        - port: AutoClose
-          uid: 3735
-      type: SignalTransmitter
+    - linkedPorts:
+        3735:
+        - Start: Close
+        - Timer: Open
+        - Timer: AutoClose
+      type: DeviceLinkSource
   - uid: 27886
     components:
     - name: cell D timer
@@ -20940,16 +20774,12 @@ entities:
       pos: -25.5,85.5
       parent: 33
       type: Transform
-    - outputs:
-        Start:
-        - port: Close
-          uid: 5723
-        Timer:
-        - port: Open
-          uid: 5723
-        - port: AutoClose
-          uid: 5723
-      type: SignalTransmitter
+    - linkedPorts:
+        5723:
+        - Start: Close
+        - Timer: Open
+        - Timer: AutoClose
+      type: DeviceLinkSource
   - uid: 27888
     components:
     - name: cell C timer
@@ -20958,16 +20788,12 @@ entities:
       pos: -25.5,82.5
       parent: 33
       type: Transform
-    - outputs:
-        Start:
-        - port: Close
-          uid: 5722
-        Timer:
-        - port: Open
-          uid: 5722
-        - port: AutoClose
-          uid: 5722
-      type: SignalTransmitter
+    - linkedPorts:
+        5722:
+        - Start: Close
+        - Timer: Open
+        - Timer: AutoClose
+      type: DeviceLinkSource
   - uid: 27889
     components:
     - name: Cell B timer
@@ -20976,16 +20802,12 @@ entities:
       pos: -25.5,79.5
       parent: 33
       type: Transform
-    - outputs:
-        Start:
-        - port: Close
-          uid: 5721
-        Timer:
-        - port: Open
-          uid: 5721
-        - port: AutoClose
-          uid: 5721
-      type: SignalTransmitter
+    - linkedPorts:
+        5721:
+        - Start: Close
+        - Timer: Open
+        - Timer: AutoClose
+      type: DeviceLinkSource
 - proto: BrokenBottle
   entities:
   - uid: 24408
@@ -61805,13 +61627,6 @@ entities:
     - pos: 25.46337,53.66722
       parent: 33
       type: Transform
-- proto: ClothingEyesGlassesBeer
-  entities:
-  - uid: 24329
-    components:
-    - pos: 20.445683,34.45576
-      parent: 33
-      type: Transform
 - proto: ClothingEyesGlassesMeson
   entities:
   - uid: 18218
@@ -61861,6 +61676,13 @@ entities:
   - uid: 27372
     components:
     - pos: -76.47195,-7.268279
+      parent: 33
+      type: Transform
+- proto: ClothingEyesHudBeer
+  entities:
+  - uid: 24329
+    components:
+    - pos: 20.445683,34.45576
       parent: 33
       type: Transform
 - proto: ClothingHandsGlovesBoxingBlue
@@ -62430,18 +62252,6 @@ entities:
     - pos: -25.40561,6.641692
       parent: 33
       type: Transform
-- proto: ClothingHeadHelmetVoidParamed
-  entities:
-  - uid: 18544
-    components:
-    - pos: -61.488415,15.633649
-      parent: 33
-      type: Transform
-  - uid: 18545
-    components:
-    - pos: -61.467583,14.559986
-      parent: 33
-      type: Transform
 - proto: ClothingHeadHoodMystic
   entities:
   - uid: 17238
@@ -62667,6 +62477,13 @@ entities:
     - pos: -50.4973,13.025493
       parent: 33
       type: Transform
+- proto: ClothingOuterArmorBasic
+  entities:
+  - uid: 24451
+    components:
+    - pos: -86.55123,-82.614944
+      parent: 33
+      type: Transform
 - proto: ClothingOuterCardborg
   entities:
   - uid: 10717
@@ -62701,18 +62518,6 @@ entities:
   - uid: 18131
     components:
     - pos: -51.564835,-28.330528
-      parent: 33
-      type: Transform
-- proto: ClothingOuterHardsuitVoidParamed
-  entities:
-  - uid: 18542
-    components:
-    - pos: -61.44675,14.580834
-      parent: 33
-      type: Transform
-  - uid: 18543
-    components:
-    - pos: -61.488415,15.623225
       parent: 33
       type: Transform
 - proto: ClothingOuterPlagueSuit
@@ -62801,13 +62606,6 @@ entities:
   - uid: 24441
     components:
     - pos: 11.33778,-34.65636
-      parent: 33
-      type: Transform
-- proto: ClothingOuterVestKevlar
-  entities:
-  - uid: 24451
-    components:
-    - pos: -86.55123,-82.614944
       parent: 33
       type: Transform
 - proto: ClothingOuterVestValet
@@ -63395,22 +63193,12 @@ entities:
       pos: -79.5,-8.5
       parent: 33
       type: Transform
-    - outputs:
-        ArtifactAnalyzerSender:
-        - port: ArtifactAnalyzerReceiver
-          uid: 25490
-      type: SignalTransmitter
   - uid: 5392
     components:
     - rot: 1.5707963267948966 rad
       pos: -79.5,-12.5
       parent: 33
       type: Transform
-    - outputs:
-        ArtifactAnalyzerSender:
-        - port: ArtifactAnalyzerReceiver
-          uid: 17746
-      type: SignalTransmitter
 - proto: ComputerBroken
   entities:
   - uid: 17960
@@ -63434,14 +63222,12 @@ entities:
       pos: -69.5,10.5
       parent: 33
       type: Transform
-    - outputs:
-        MedicalScannerSender:
-        - port: MedicalScannerReceiver
-          uid: 1711
-        CloningPodSender:
-        - port: CloningPodReceiver
-          uid: 2878
-      type: SignalTransmitter
+    - linkedPorts:
+        2878:
+        - CloningPodSender: CloningPodReceiver
+        1711:
+        - MedicalScannerSender: MedicalScannerReceiver
+      type: DeviceLinkSource
 - proto: ComputerComms
   entities:
   - uid: 46
@@ -63573,6 +63359,20 @@ entities:
     components:
     - rot: -1.5707963267948966 rad
       pos: -41.5,32.5
+      parent: 33
+      type: Transform
+- proto: ComputerMassMedia
+  entities:
+  - uid: 24687
+    components:
+    - rot: 1.5707963267948966 rad
+      pos: 9.5,18.5
+      parent: 33
+      type: Transform
+  - uid: 24688
+    components:
+    - rot: 1.5707963267948966 rad
+      pos: 9.5,13.5
       parent: 33
       type: Transform
 - proto: ComputerMedicalRecords
@@ -63809,47 +63609,27 @@ entities:
       pos: 35.5,-13.5
       parent: 33
       type: Transform
-    - inputs:
-        Reverse:
-        - port: Right
-          uid: 13054
-        Forward:
-        - port: Left
-          uid: 13054
-        Off:
-        - port: Middle
-          uid: 13054
-      type: SignalReceiver
+    - links:
+      - 13054
+      type: DeviceLinkSink
   - uid: 165
     components:
     - rot: -1.5707963267948966 rad
       pos: 17.5,-14.5
       parent: 33
       type: Transform
-    - inputs:
-        Reverse: []
-        Forward:
-        - port: On
-          uid: 28276
-        Off:
-        - port: Off
-          uid: 28276
-      type: SignalReceiver
+    - links:
+      - 28276
+      type: DeviceLinkSink
   - uid: 171
     components:
     - rot: -1.5707963267948966 rad
       pos: 18.5,-14.5
       parent: 33
       type: Transform
-    - inputs:
-        Reverse: []
-        Forward:
-        - port: On
-          uid: 28276
-        Off:
-        - port: Off
-          uid: 28276
-      type: SignalReceiver
+    - links:
+      - 28276
+      type: DeviceLinkSink
   - uid: 200
     components:
     - rot: -1.5707963267948966 rad
@@ -63862,293 +63642,141 @@ entities:
       pos: 53.5,12.5
       parent: 33
       type: Transform
-    - inputs:
-        Reverse:
-        - port: Right
-          uid: 10719
-        - port: Right
-          uid: 27354
-        Forward:
-        - port: Left
-          uid: 10719
-        - port: Left
-          uid: 27354
-        Off:
-        - port: Middle
-          uid: 10719
-        - port: Middle
-          uid: 27354
-      type: SignalReceiver
+    - links:
+      - 10719
+      - 27354
+      type: DeviceLinkSink
   - uid: 431
     components:
     - rot: -1.5707963267948966 rad
       pos: 51.5,12.5
       parent: 33
       type: Transform
-    - inputs:
-        Reverse:
-        - port: Right
-          uid: 10719
-        - port: Right
-          uid: 27354
-        Forward:
-        - port: Left
-          uid: 10719
-        - port: Left
-          uid: 27354
-        Off:
-        - port: Middle
-          uid: 10719
-        - port: Middle
-          uid: 27354
-      type: SignalReceiver
+    - links:
+      - 10719
+      - 27354
+      type: DeviceLinkSink
   - uid: 432
     components:
     - rot: -1.5707963267948966 rad
       pos: 52.5,12.5
       parent: 33
       type: Transform
-    - inputs:
-        Reverse:
-        - port: Right
-          uid: 10719
-        - port: Right
-          uid: 27354
-        Forward:
-        - port: Left
-          uid: 10719
-        - port: Left
-          uid: 27354
-        Off:
-        - port: Middle
-          uid: 10719
-        - port: Middle
-          uid: 27354
-      type: SignalReceiver
+    - links:
+      - 10719
+      - 27354
+      type: DeviceLinkSink
   - uid: 433
     components:
     - rot: -1.5707963267948966 rad
       pos: 50.5,12.5
       parent: 33
       type: Transform
-    - inputs:
-        Reverse:
-        - port: Right
-          uid: 10719
-        - port: Right
-          uid: 27354
-        Forward:
-        - port: Left
-          uid: 10719
-        - port: Left
-          uid: 27354
-        Off:
-        - port: Middle
-          uid: 10719
-        - port: Middle
-          uid: 27354
-      type: SignalReceiver
+    - links:
+      - 10719
+      - 27354
+      type: DeviceLinkSink
   - uid: 609
     components:
     - rot: -1.5707963267948966 rad
       pos: 46.5,12.5
       parent: 33
       type: Transform
-    - inputs:
-        Reverse:
-        - port: Right
-          uid: 10719
-        - port: Right
-          uid: 27354
-        Forward:
-        - port: Left
-          uid: 10719
-        - port: Left
-          uid: 27354
-        Off:
-        - port: Middle
-          uid: 10719
-        - port: Middle
-          uid: 27354
-      type: SignalReceiver
+    - links:
+      - 10719
+      - 27354
+      type: DeviceLinkSink
   - uid: 611
     components:
     - rot: -1.5707963267948966 rad
       pos: 47.5,12.5
       parent: 33
       type: Transform
-    - inputs:
-        Reverse:
-        - port: Right
-          uid: 10719
-        - port: Right
-          uid: 27354
-        Forward:
-        - port: Left
-          uid: 10719
-        - port: Left
-          uid: 27354
-        Off:
-        - port: Middle
-          uid: 10719
-        - port: Middle
-          uid: 27354
-      type: SignalReceiver
+    - links:
+      - 10719
+      - 27354
+      type: DeviceLinkSink
   - uid: 612
     components:
     - rot: -1.5707963267948966 rad
       pos: 48.5,12.5
       parent: 33
       type: Transform
-    - inputs:
-        Reverse:
-        - port: Right
-          uid: 10719
-        - port: Right
-          uid: 27354
-        Forward:
-        - port: Left
-          uid: 10719
-        - port: Left
-          uid: 27354
-        Off:
-        - port: Middle
-          uid: 10719
-        - port: Middle
-          uid: 27354
-      type: SignalReceiver
+    - links:
+      - 10719
+      - 27354
+      type: DeviceLinkSink
   - uid: 613
     components:
     - rot: -1.5707963267948966 rad
       pos: 49.5,12.5
       parent: 33
       type: Transform
-    - inputs:
-        Reverse:
-        - port: Right
-          uid: 10719
-        - port: Right
-          uid: 27354
-        Forward:
-        - port: Left
-          uid: 10719
-        - port: Left
-          uid: 27354
-        Off:
-        - port: Middle
-          uid: 10719
-        - port: Middle
-          uid: 27354
-      type: SignalReceiver
+    - links:
+      - 10719
+      - 27354
+      type: DeviceLinkSink
   - uid: 750
     components:
     - pos: 36.5,-12.5
       parent: 33
       type: Transform
-    - inputs:
-        Reverse:
-        - port: Right
-          uid: 13054
-        Forward:
-        - port: Left
-          uid: 13054
-        Off:
-        - port: Middle
-          uid: 13054
-      type: SignalReceiver
+    - links:
+      - 13054
+      type: DeviceLinkSink
   - uid: 788
     components:
     - rot: 3.141592653589793 rad
       pos: 34.5,-13.5
       parent: 33
       type: Transform
-    - inputs:
-        Reverse:
-        - port: Right
-          uid: 13054
-        Forward:
-        - port: Left
-          uid: 13054
-        Off:
-        - port: Middle
-          uid: 13054
-      type: SignalReceiver
+    - links:
+      - 13054
+      type: DeviceLinkSink
   - uid: 842
     components:
     - rot: -1.5707963267948966 rad
       pos: 16.5,-14.5
       parent: 33
       type: Transform
-    - inputs:
-        Reverse: []
-        Forward:
-        - port: On
-          uid: 28276
-        Off:
-        - port: Off
-          uid: 28276
-      type: SignalReceiver
+    - links:
+      - 28276
+      type: DeviceLinkSink
   - uid: 1312
     components:
     - rot: -1.5707963267948966 rad
       pos: -6.5,24.5
       parent: 33
       type: Transform
-    - inputs:
-        Reverse: []
-        Forward:
-        - port: On
-          uid: 27317
-        Off:
-        - port: Off
-          uid: 27317
-      type: SignalReceiver
+    - links:
+      - 27317
+      type: DeviceLinkSink
   - uid: 1408
     components:
     - rot: -1.5707963267948966 rad
       pos: -8.5,24.5
       parent: 33
       type: Transform
-    - inputs:
-        Reverse: []
-        Forward:
-        - port: On
-          uid: 27317
-        Off:
-        - port: Off
-          uid: 27317
-      type: SignalReceiver
+    - links:
+      - 27317
+      type: DeviceLinkSink
   - uid: 2614
     components:
     - rot: -1.5707963267948966 rad
       pos: 14.5,-14.5
       parent: 33
       type: Transform
-    - inputs:
-        Reverse: []
-        Forward:
-        - port: On
-          uid: 28276
-        Off:
-        - port: Off
-          uid: 28276
-      type: SignalReceiver
+    - links:
+      - 28276
+      type: DeviceLinkSink
   - uid: 2633
     components:
     - pos: 36.5,-11.5
       parent: 33
       type: Transform
-    - inputs:
-        Reverse:
-        - port: Right
-          uid: 13054
-        Forward:
-        - port: Left
-          uid: 13054
-        Off:
-        - port: Middle
-          uid: 13054
-      type: SignalReceiver
+    - links:
+      - 13054
+      type: DeviceLinkSink
   - uid: 2681
     components:
     - rot: 1.5707963267948966 rad
@@ -64161,79 +63789,45 @@ entities:
       pos: 34.5,-12.5
       parent: 33
       type: Transform
-    - inputs:
-        Reverse:
-        - port: Right
-          uid: 13054
-        Forward:
-        - port: Left
-          uid: 13054
-        Off:
-        - port: Middle
-          uid: 13054
-      type: SignalReceiver
+    - links:
+      - 13054
+      type: DeviceLinkSink
   - uid: 2788
     components:
     - rot: 1.5707963267948966 rad
       pos: 34.5,-11.5
       parent: 33
       type: Transform
-    - inputs:
-        Reverse:
-        - port: Right
-          uid: 13054
-        Forward:
-        - port: Left
-          uid: 13054
-        Off:
-        - port: Middle
-          uid: 13054
-      type: SignalReceiver
+    - links:
+      - 13054
+      type: DeviceLinkSink
   - uid: 2827
     components:
     - rot: -1.5707963267948966 rad
       pos: 15.5,-14.5
       parent: 33
       type: Transform
-    - inputs:
-        Reverse: []
-        Forward:
-        - port: On
-          uid: 28276
-        Off:
-        - port: Off
-          uid: 28276
-      type: SignalReceiver
+    - links:
+      - 28276
+      type: DeviceLinkSink
   - uid: 2985
     components:
     - rot: 3.141592653589793 rad
       pos: -9.5,25.5
       parent: 33
       type: Transform
-    - inputs:
-        Reverse: []
-        Forward:
-        - port: On
-          uid: 27317
-        Off:
-        - port: Off
-          uid: 27317
-      type: SignalReceiver
+    - links:
+      - 27317
+      type: DeviceLinkSink
   - uid: 2991
     components:
     - rot: 1.5707963267948966 rad
       pos: -8.5,26.5
       parent: 33
       type: Transform
-    - inputs:
-        Reverse: []
-        Forward:
-        - port: On
-          uid: 27317
-        Off:
-        - port: Off
-          uid: 27317
-      type: SignalReceiver
+    - links:
+      - 27317
+      type: DeviceLinkSink
     - type: ActiveConveyor
   - uid: 3016
     components:
@@ -64241,89 +63835,53 @@ entities:
       pos: -5.5,24.5
       parent: 33
       type: Transform
-    - inputs:
-        Reverse: []
-        Forward:
-        - port: On
-          uid: 27317
-        Off:
-        - port: Off
-          uid: 27317
-      type: SignalReceiver
+    - links:
+      - 27317
+      type: DeviceLinkSink
   - uid: 3053
     components:
     - pos: -4.5,26.5
       parent: 33
       type: Transform
-    - inputs:
-        Reverse: []
-        Forward:
-        - port: On
-          uid: 27317
-        Off:
-        - port: Off
-          uid: 27317
-      type: SignalReceiver
+    - links:
+      - 27317
+      type: DeviceLinkSink
   - uid: 3063
     components:
     - rot: 1.5707963267948966 rad
       pos: -6.5,26.5
       parent: 33
       type: Transform
-    - inputs:
-        Reverse: []
-        Forward:
-        - port: On
-          uid: 27317
-        Off:
-        - port: Off
-          uid: 27317
-      type: SignalReceiver
+    - links:
+      - 27317
+      type: DeviceLinkSink
   - uid: 3070
     components:
     - rot: 1.5707963267948966 rad
       pos: -5.5,26.5
       parent: 33
       type: Transform
-    - inputs:
-        Reverse: []
-        Forward:
-        - port: On
-          uid: 27317
-        Off:
-        - port: Off
-          uid: 27317
-      type: SignalReceiver
+    - links:
+      - 27317
+      type: DeviceLinkSink
   - uid: 3072
     components:
     - rot: -1.5707963267948966 rad
       pos: -4.5,24.5
       parent: 33
       type: Transform
-    - inputs:
-        Reverse: []
-        Forward:
-        - port: On
-          uid: 27317
-        Off:
-        - port: Off
-          uid: 27317
-      type: SignalReceiver
+    - links:
+      - 27317
+      type: DeviceLinkSink
   - uid: 3143
     components:
     - rot: 1.5707963267948966 rad
       pos: -9.5,26.5
       parent: 33
       type: Transform
-    - inputs:
-        Reverse: []
-        Forward:
-        - port: On
-          uid: 27317
-        Off:
-        - port: Off
-          uid: 27317
-      type: SignalReceiver
+    - links:
+      - 27317
+      type: DeviceLinkSink
     - type: ActiveConveyor
   - uid: 5693
     components:
@@ -64331,402 +63889,213 @@ entities:
       pos: -9.5,24.5
       parent: 33
       type: Transform
-    - inputs:
-        Reverse: []
-        Forward:
-        - port: On
-          uid: 27317
-        Off:
-        - port: Off
-          uid: 27317
-      type: SignalReceiver
+    - links:
+      - 27317
+      type: DeviceLinkSink
   - uid: 7063
     components:
     - rot: -1.5707963267948966 rad
       pos: -7.5,24.5
       parent: 33
       type: Transform
-    - inputs:
-        Reverse: []
-        Forward:
-        - port: On
-          uid: 27317
-        Off:
-        - port: Off
-          uid: 27317
-      type: SignalReceiver
+    - links:
+      - 27317
+      type: DeviceLinkSink
   - uid: 8070
     components:
     - pos: -4.5,25.5
       parent: 33
       type: Transform
-    - inputs:
-        Reverse: []
-        Forward:
-        - port: On
-          uid: 27317
-        Off:
-        - port: Off
-          uid: 27317
-      type: SignalReceiver
+    - links:
+      - 27317
+      type: DeviceLinkSink
   - uid: 8071
     components:
     - rot: 1.5707963267948966 rad
       pos: -7.5,26.5
       parent: 33
       type: Transform
-    - inputs:
-        Reverse: []
-        Forward:
-        - port: On
-          uid: 27317
-        Off:
-        - port: Off
-          uid: 27317
-      type: SignalReceiver
+    - links:
+      - 27317
+      type: DeviceLinkSink
   - uid: 9769
     components:
     - rot: 3.141592653589793 rad
       pos: 7.5,68.5
       parent: 33
       type: Transform
-    - inputs:
-        Reverse:
-        - port: Right
-          uid: 10965
-        Forward:
-        - port: Left
-          uid: 10965
-        Off:
-        - port: Middle
-          uid: 10965
-      type: SignalReceiver
+    - links:
+      - 10965
+      type: DeviceLinkSink
   - uid: 9793
     components:
     - rot: 3.141592653589793 rad
       pos: 7.5,67.5
       parent: 33
       type: Transform
-    - inputs:
-        Reverse:
-        - port: Right
-          uid: 10965
-        Forward:
-        - port: Left
-          uid: 10965
-        Off:
-        - port: Middle
-          uid: 10965
-      type: SignalReceiver
+    - links:
+      - 10965
+      type: DeviceLinkSink
   - uid: 9857
     components:
     - pos: 12.5,67.5
       parent: 33
       type: Transform
-    - inputs:
-        Reverse:
-        - port: Right
-          uid: 10965
-        Forward:
-        - port: Left
-          uid: 10965
-        Off:
-        - port: Middle
-          uid: 10965
-      type: SignalReceiver
+    - links:
+      - 10965
+      type: DeviceLinkSink
   - uid: 9858
     components:
     - pos: 12.5,68.5
       parent: 33
       type: Transform
-    - inputs:
-        Reverse:
-        - port: Right
-          uid: 10965
-        Forward:
-        - port: Left
-          uid: 10965
-        Off:
-        - port: Middle
-          uid: 10965
-      type: SignalReceiver
+    - links:
+      - 10965
+      type: DeviceLinkSink
   - uid: 9859
     components:
     - pos: 12.5,69.5
       parent: 33
       type: Transform
-    - inputs:
-        Reverse:
-        - port: Right
-          uid: 10965
-        Forward:
-        - port: Left
-          uid: 10965
-        Off:
-        - port: Middle
-          uid: 10965
-      type: SignalReceiver
+    - links:
+      - 10965
+      type: DeviceLinkSink
   - uid: 9860
     components:
     - rot: 1.5707963267948966 rad
       pos: 11.5,69.5
       parent: 33
       type: Transform
-    - inputs:
-        Reverse:
-        - port: Right
-          uid: 10965
-        Forward:
-        - port: Left
-          uid: 10965
-        Off:
-        - port: Middle
-          uid: 10965
-      type: SignalReceiver
+    - links:
+      - 10965
+      type: DeviceLinkSink
   - uid: 9861
     components:
     - rot: 1.5707963267948966 rad
       pos: 10.5,69.5
       parent: 33
       type: Transform
-    - inputs:
-        Reverse:
-        - port: Right
-          uid: 10965
-        Forward:
-        - port: Left
-          uid: 10965
-        Off:
-        - port: Middle
-          uid: 10965
-      type: SignalReceiver
+    - links:
+      - 10965
+      type: DeviceLinkSink
   - uid: 9862
     components:
     - rot: 1.5707963267948966 rad
       pos: 9.5,69.5
       parent: 33
       type: Transform
-    - inputs:
-        Reverse:
-        - port: Right
-          uid: 10965
-        Forward:
-        - port: Left
-          uid: 10965
-        Off:
-        - port: Middle
-          uid: 10965
-      type: SignalReceiver
+    - links:
+      - 10965
+      type: DeviceLinkSink
   - uid: 9863
     components:
     - rot: 1.5707963267948966 rad
       pos: 8.5,69.5
       parent: 33
       type: Transform
-    - inputs:
-        Reverse:
-        - port: Right
-          uid: 10965
-        Forward:
-        - port: Left
-          uid: 10965
-        Off:
-        - port: Middle
-          uid: 10965
-      type: SignalReceiver
+    - links:
+      - 10965
+      type: DeviceLinkSink
   - uid: 10193
     components:
     - rot: 1.5707963267948966 rad
       pos: 7.5,69.5
       parent: 33
       type: Transform
-    - inputs:
-        Reverse:
-        - port: Right
-          uid: 10965
-        Forward:
-        - port: Left
-          uid: 10965
-        Off:
-        - port: Middle
-          uid: 10965
-      type: SignalReceiver
+    - links:
+      - 10965
+      type: DeviceLinkSink
   - uid: 13052
     components:
     - rot: 1.5707963267948966 rad
       pos: 35.5,-11.5
       parent: 33
       type: Transform
-    - inputs:
-        Reverse:
-        - port: Right
-          uid: 13054
-        Forward:
-        - port: Left
-          uid: 13054
-        Off:
-        - port: Middle
-          uid: 13054
-      type: SignalReceiver
+    - links:
+      - 13054
+      type: DeviceLinkSink
   - uid: 13053
     components:
     - rot: -1.5707963267948966 rad
       pos: 36.5,-13.5
       parent: 33
       type: Transform
-    - inputs:
-        Reverse:
-        - port: Right
-          uid: 13054
-        Forward:
-        - port: Left
-          uid: 13054
-        Off:
-        - port: Middle
-          uid: 13054
-      type: SignalReceiver
+    - links:
+      - 13054
+      type: DeviceLinkSink
   - uid: 13055
     components:
     - rot: -1.5707963267948966 rad
       pos: 54.5,12.5
       parent: 33
       type: Transform
-    - inputs:
-        Reverse:
-        - port: Right
-          uid: 10719
-        - port: Right
-          uid: 27354
-        Forward:
-        - port: Left
-          uid: 10719
-        - port: Left
-          uid: 27354
-        Off:
-        - port: Middle
-          uid: 10719
-        - port: Middle
-          uid: 27354
-      type: SignalReceiver
+    - links:
+      - 10719
+      - 27354
+      type: DeviceLinkSink
   - uid: 17927
     components:
     - rot: 3.141592653589793 rad
       pos: -15.5,99.5
       parent: 33
       type: Transform
-    - inputs:
-        Reverse:
-        - port: Right
-          uid: 17938
-        Forward:
-        - port: Left
-          uid: 17938
-        Off:
-        - port: Middle
-          uid: 17938
-      type: SignalReceiver
+    - links:
+      - 17938
+      type: DeviceLinkSink
   - uid: 17928
     components:
     - rot: 3.141592653589793 rad
       pos: -15.5,100.5
       parent: 33
       type: Transform
-    - inputs:
-        Reverse:
-        - port: Right
-          uid: 17938
-        Forward:
-        - port: Left
-          uid: 17938
-        Off:
-        - port: Middle
-          uid: 17938
-      type: SignalReceiver
+    - links:
+      - 17938
+      type: DeviceLinkSink
   - uid: 17929
     components:
     - rot: 3.141592653589793 rad
       pos: -15.5,101.5
       parent: 33
       type: Transform
-    - inputs:
-        Reverse:
-        - port: Right
-          uid: 17938
-        Forward:
-        - port: Left
-          uid: 17938
-        Off:
-        - port: Middle
-          uid: 17938
-      type: SignalReceiver
+    - links:
+      - 17938
+      type: DeviceLinkSink
   - uid: 17930
     components:
     - rot: 3.141592653589793 rad
       pos: -15.5,102.5
       parent: 33
       type: Transform
-    - inputs:
-        Reverse:
-        - port: Right
-          uid: 17938
-        Forward:
-        - port: Left
-          uid: 17938
-        Off:
-        - port: Middle
-          uid: 17938
-      type: SignalReceiver
+    - links:
+      - 17938
+      type: DeviceLinkSink
   - uid: 17945
     components:
     - rot: 3.141592653589793 rad
       pos: -15.5,103.5
       parent: 33
       type: Transform
-    - inputs:
-        Reverse:
-        - port: Right
-          uid: 17938
-        Forward:
-        - port: Left
-          uid: 17938
-        Off:
-        - port: Middle
-          uid: 17938
-      type: SignalReceiver
+    - links:
+      - 17938
+      type: DeviceLinkSink
   - uid: 17946
     components:
     - rot: 3.141592653589793 rad
       pos: -15.5,104.5
       parent: 33
       type: Transform
-    - inputs:
-        Reverse:
-        - port: Right
-          uid: 17938
-        Forward:
-        - port: Left
-          uid: 17938
-        Off:
-        - port: Middle
-          uid: 17938
-      type: SignalReceiver
+    - links:
+      - 17938
+      type: DeviceLinkSink
   - uid: 17951
     components:
     - rot: 3.141592653589793 rad
       pos: -15.5,105.5
       parent: 33
       type: Transform
-    - inputs:
-        Reverse:
-        - port: Right
-          uid: 17938
-        Forward:
-        - port: Left
-          uid: 17938
-        Off:
-        - port: Middle
-          uid: 17938
-      type: SignalReceiver
+    - links:
+      - 17938
+      type: DeviceLinkSink
     - type: ActiveConveyor
   - uid: 27393
     components:
@@ -64734,58 +64103,34 @@ entities:
       pos: 58.5,5.5
       parent: 33
       type: Transform
-    - inputs:
-        Reverse: []
-        Forward:
-        - port: On
-          uid: 27396
-        Off:
-        - port: Off
-          uid: 27396
-      type: SignalReceiver
+    - links:
+      - 27396
+      type: DeviceLinkSink
   - uid: 27401
     components:
     - rot: 3.141592653589793 rad
       pos: 58.5,4.5
       parent: 33
       type: Transform
-    - inputs:
-        Reverse: []
-        Forward:
-        - port: On
-          uid: 27396
-        Off:
-        - port: Off
-          uid: 27396
-      type: SignalReceiver
+    - links:
+      - 27396
+      type: DeviceLinkSink
   - uid: 27876
     components:
     - pos: 62.5,4.5
       parent: 33
       type: Transform
-    - inputs:
-        Reverse: []
-        Forward:
-        - port: On
-          uid: 27396
-        Off:
-        - port: Off
-          uid: 27396
-      type: SignalReceiver
+    - links:
+      - 27396
+      type: DeviceLinkSink
   - uid: 27877
     components:
     - pos: 62.5,5.5
       parent: 33
       type: Transform
-    - inputs:
-        Reverse: []
-        Forward:
-        - port: On
-          uid: 27396
-        Off:
-        - port: Off
-          uid: 27396
-      type: SignalReceiver
+    - links:
+      - 27396
+      type: DeviceLinkSink
 - proto: CrateArtifactContainer
   entities:
   - uid: 4634
@@ -65619,6 +64964,13 @@ entities:
         - 0
         - 0
       type: EntityStorage
+- proto: CrateFunPirate
+  entities:
+  - uid: 24245
+    components:
+    - pos: -91.5,-19.5
+      parent: 33
+      type: Transform
 - proto: CrateFunPlushie
   entities:
   - uid: 24389
@@ -66197,6 +65549,52 @@ entities:
         - 0
         - 0
       type: EntityStorage
+- proto: CrateStoneGrave
+  entities:
+  - uid: 24247
+    components:
+    - pos: -40.5,119.5
+      parent: 33
+      type: Transform
+- proto: CrateToyBox
+  entities:
+  - uid: 18631
+    components:
+    - pos: -15.5,17.5
+      parent: 33
+      type: Transform
+    - air:
+        volume: 200
+        immutable: False
+        temperature: 293.1496
+        moles:
+        - 1.7459903
+        - 6.568249
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+      type: EntityStorage
+    - containers:
+        entity_storage: !type:Container
+          showEnts: False
+          occludes: True
+          ents:
+          - 23652
+          - 22110
+          - 22109
+          - 24241
+        paper_label: !type:ContainerSlot
+          showEnts: False
+          occludes: True
+          ent: null
+      type: ContainerContainer
 - proto: CrateVendingMachineRestockBoozeFilled
   entities:
   - uid: 19497
@@ -67256,6 +66654,28 @@ entities:
       pos: -4.5,54.5
       parent: 33
       type: Transform
+  - uid: 28591
+    components:
+    - pos: -19.5,64.5
+      parent: 33
+      type: Transform
+  - uid: 28592
+    components:
+    - rot: -1.5707963267948966 rad
+      pos: -19.5,62.5
+      parent: 33
+      type: Transform
+  - uid: 28594
+    components:
+    - rot: 1.5707963267948966 rad
+      pos: -39.5,35.5
+      parent: 33
+      type: Transform
+  - uid: 28595
+    components:
+    - pos: -37.5,35.5
+      parent: 33
+      type: Transform
 - proto: DisposalJunction
   entities:
   - uid: 11511
@@ -67423,6 +66843,11 @@ entities:
       pos: -20.5,51.5
       parent: 33
       type: Transform
+  - uid: 11593
+    components:
+    - pos: -20.5,62.5
+      parent: 33
+      type: Transform
   - uid: 11640
     components:
     - rot: 3.141592653589793 rad
@@ -67433,6 +66858,12 @@ entities:
     components:
     - rot: 3.141592653589793 rad
       pos: -29.5,46.5
+      parent: 33
+      type: Transform
+  - uid: 11720
+    components:
+    - rot: 1.5707963267948966 rad
+      pos: -37.5,34.5
       parent: 33
       type: Transform
   - uid: 11738
@@ -68011,19 +67442,9 @@ entities:
     - pos: -20.5,65.5
       parent: 33
       type: Transform
-  - uid: 11591
-    components:
-    - pos: -20.5,64.5
-      parent: 33
-      type: Transform
   - uid: 11592
     components:
     - pos: -20.5,63.5
-      parent: 33
-      type: Transform
-  - uid: 11593
-    components:
-    - pos: -20.5,62.5
       parent: 33
       type: Transform
   - uid: 11594
@@ -68601,22 +68022,10 @@ entities:
       pos: -40.5,34.5
       parent: 33
       type: Transform
-  - uid: 11720
-    components:
-    - rot: 1.5707963267948966 rad
-      pos: -39.5,34.5
-      parent: 33
-      type: Transform
   - uid: 11721
     components:
     - rot: 1.5707963267948966 rad
       pos: -38.5,34.5
-      parent: 33
-      type: Transform
-  - uid: 11722
-    components:
-    - rot: 1.5707963267948966 rad
-      pos: -37.5,34.5
       parent: 33
       type: Transform
   - uid: 11723
@@ -73686,6 +73095,18 @@ entities:
       pos: 26.5,22.5
       parent: 33
       type: Transform
+  - uid: 28593
+    components:
+    - rot: 3.141592653589793 rad
+      pos: -19.5,63.5
+      parent: 33
+      type: Transform
+  - uid: 28596
+    components:
+    - rot: -1.5707963267948966 rad
+      pos: -38.5,35.5
+      parent: 33
+      type: Transform
 - proto: DisposalRouter
   entities:
   - uid: 9776
@@ -74659,6 +74080,18 @@ entities:
       type: Transform
 - proto: DisposalYJunction
   entities:
+  - uid: 11591
+    components:
+    - rot: 1.5707963267948966 rad
+      pos: -20.5,64.5
+      parent: 33
+      type: Transform
+  - uid: 11722
+    components:
+    - rot: 3.141592653589793 rad
+      pos: -39.5,34.5
+      parent: 33
+      type: Transform
   - uid: 11766
     components:
     - rot: 3.141592653589793 rad
@@ -75627,11 +75060,6 @@ entities:
     - pos: -48.610134,8.538559
       parent: 33
       type: Transform
-  - uid: 6144
-    components:
-    - pos: -18.51011,88.65179
-      parent: 33
-      type: Transform
   - uid: 15954
     components:
     - pos: -65.4599,16.558054
@@ -75640,6 +75068,11 @@ entities:
   - uid: 18503
     components:
     - pos: -65.51198,16.808228
+      parent: 33
+      type: Transform
+  - uid: 24246
+    components:
+    - pos: -18.233425,88.54084
       parent: 33
       type: Transform
 - proto: DrinkWhiskeyColaGlass
@@ -131682,14 +131115,22 @@ entities:
       type: Transform
   - uid: 18548
     components:
-    - pos: -61.519665,15.654496
-      parent: 33
+    - flags: InContainer
+      type: MetaData
+    - parent: 1874
       type: Transform
+    - canCollide: False
+      type: Physics
+    - type: InsideEntityStorage
   - uid: 18549
     components:
-    - pos: -61.478,14.62253
-      parent: 33
+    - flags: InContainer
+      type: MetaData
+    - parent: 18545
       type: Transform
+    - canCollide: False
+      type: Physics
+    - type: InsideEntityStorage
 - proto: JetpackSecurityFilled
   entities:
   - uid: 3265
@@ -132298,6 +131739,13 @@ entities:
       pos: -49.349335,-8.072285
       parent: 33
       type: Transform
+- proto: LampInterrogator
+  entities:
+  - uid: 24244
+    components:
+    - pos: -18.650093,88.80144
+      parent: 33
+      type: Transform
 - proto: LandMineExplosive
   entities:
   - uid: 24362
@@ -132327,9 +131775,9 @@ entities:
       type: Transform
 - proto: lantern
   entities:
-  - uid: 24247
+  - uid: 17767
     components:
-    - pos: -71.45646,-35.500282
+    - pos: -71.32847,-35.125885
       parent: 33
       type: Transform
   - uid: 27717
@@ -133070,11 +132518,6 @@ entities:
     - pos: -61.5,6.5
       parent: 33
       type: Transform
-  - uid: 1874
-    components:
-    - pos: -61.5,7.5
-      parent: 33
-      type: Transform
   - uid: 1875
     components:
     - pos: -57.5,5.5
@@ -133105,6 +132548,11 @@ entities:
     - pos: -60.5,5.5
       parent: 33
       type: Transform
+  - uid: 18543
+    components:
+    - pos: -61.5,7.5
+      parent: 33
+      type: Transform
 - proto: LockerMystagogueFilled
   entities:
   - uid: 16563
@@ -133112,6 +132560,32 @@ entities:
     - pos: -59.5,-26.5
       parent: 33
       type: Transform
+- proto: LockerParamedicFilled
+  entities:
+  - uid: 1874
+    components:
+    - pos: -61.5,15.5
+      parent: 33
+      type: Transform
+    - containers:
+        entity_storage: !type:Container
+          showEnts: False
+          occludes: True
+          ents:
+          - 18548
+      type: ContainerContainer
+  - uid: 18545
+    components:
+    - pos: -61.5,14.5
+      parent: 33
+      type: Transform
+    - containers:
+        entity_storage: !type:Container
+          showEnts: False
+          occludes: True
+          ents:
+          - 18549
+      type: ContainerContainer
 - proto: LockerQuarterMasterFilled
   entities:
   - uid: 2956
@@ -133399,21 +132873,11 @@ entities:
     - pos: -83.5,-13.5
       parent: 33
       type: Transform
-    - inputs:
-        ArtifactAnalyzerReceiver:
-        - port: ArtifactAnalyzerSender
-          uid: 5392
-      type: SignalReceiver
   - uid: 25490
     components:
     - pos: -83.5,-7.5
       parent: 33
       type: Transform
-    - inputs:
-        ArtifactAnalyzerReceiver:
-        - port: ArtifactAnalyzerSender
-          uid: 4681
-      type: SignalReceiver
 - proto: MachineFrame
   entities:
   - uid: 11302
@@ -133658,6 +133122,88 @@ entities:
   - uid: 18280
     components:
     - pos: 36.5,-7.5
+      parent: 33
+      type: Transform
+- proto: MaintenancePlantSpawner
+  entities:
+  - uid: 24689
+    components:
+    - pos: -2.5,-42.5
+      parent: 33
+      type: Transform
+  - uid: 24690
+    components:
+    - pos: -56.5,-38.5
+      parent: 33
+      type: Transform
+  - uid: 24691
+    components:
+    - pos: -97.5,-80.5
+      parent: 33
+      type: Transform
+  - uid: 24692
+    components:
+    - pos: -92.5,-25.5
+      parent: 33
+      type: Transform
+  - uid: 24759
+    components:
+    - pos: -95.5,18.5
+      parent: 33
+      type: Transform
+  - uid: 25306
+    components:
+    - pos: -86.5,22.5
+      parent: 33
+      type: Transform
+  - uid: 25307
+    components:
+    - pos: -95.5,24.5
+      parent: 33
+      type: Transform
+  - uid: 27243
+    components:
+    - pos: -77.5,16.5
+      parent: 33
+      type: Transform
+  - uid: 27288
+    components:
+    - pos: -6.5,87.5
+      parent: 33
+      type: Transform
+  - uid: 27406
+    components:
+    - pos: -5.5,87.5
+      parent: 33
+      type: Transform
+  - uid: 27416
+    components:
+    - pos: -39.5,97.5
+      parent: 33
+      type: Transform
+  - uid: 27449
+    components:
+    - pos: -44.5,105.5
+      parent: 33
+      type: Transform
+  - uid: 27466
+    components:
+    - pos: -31.5,111.5
+      parent: 33
+      type: Transform
+  - uid: 27671
+    components:
+    - pos: 11.5,67.5
+      parent: 33
+      type: Transform
+  - uid: 27672
+    components:
+    - pos: 30.5,-2.5
+      parent: 33
+      type: Transform
+  - uid: 27781
+    components:
+    - pos: 33.5,-14.5
       parent: 33
       type: Transform
 - proto: MaintenanceToolSpawner
@@ -134073,11 +133619,9 @@ entities:
     - pos: -67.5,10.5
       parent: 33
       type: Transform
-    - inputs:
-        MedicalScannerReceiver:
-        - port: MedicalScannerSender
-          uid: 3970
-      type: SignalReceiver
+    - links:
+      - 3970
+      type: DeviceLinkSink
 - proto: MedicalTechFab
   entities:
   - uid: 4091
@@ -134238,11 +133782,9 @@ entities:
     - pos: -68.5,9.5
       parent: 33
       type: Transform
-    - inputs:
-        CloningPodReceiver:
-        - port: CloningPodSender
-          uid: 3970
-      type: SignalReceiver
+    - links:
+      - 3970
+      type: DeviceLinkSink
 - proto: MetempsychoticMachineCircuitboard
   entities:
   - uid: 5436
@@ -142068,21 +141610,6 @@ entities:
           - Quantity: 20
             ReagentId: Ipecac
       type: SolutionContainerManager
-  - uid: 17767
-    components:
-    - pos: 22.381853,74.63155
-      parent: 33
-      type: Transform
-    - solutions:
-        food:
-          temperature: 293.15
-          canMix: False
-          canReact: True
-          maxVol: 25
-          reagents:
-          - Quantity: 20
-            ReagentId: Codeine
-      type: SolutionContainerManager
   - uid: 17768
     components:
     - flags: InContainer
@@ -142375,6 +141902,35 @@ entities:
       pos: -58.5,-5.5
       parent: 33
       type: Transform
+- proto: PlasticBanana
+  entities:
+  - uid: 22109
+    components:
+    - flags: InContainer
+      type: MetaData
+    - parent: 18631
+      type: Transform
+    - canCollide: False
+      type: Physics
+    - type: InsideEntityStorage
+  - uid: 22110
+    components:
+    - flags: InContainer
+      type: MetaData
+    - parent: 18631
+      type: Transform
+    - canCollide: False
+      type: Physics
+    - type: InsideEntityStorage
+  - uid: 23652
+    components:
+    - flags: InContainer
+      type: MetaData
+    - parent: 18631
+      type: Transform
+    - canCollide: False
+      type: Physics
+    - type: InsideEntityStorage
 - proto: PlasticFlapsAirtightClear
   entities:
   - uid: 577
@@ -143932,15 +143488,9 @@ entities:
       type: Transform
     - powerLoad: 0
       type: ApcPowerReceiver
-    - inputs:
-        On:
-        - port: On
-          uid: 5211
-        Off:
-        - port: Off
-          uid: 5211
-        Toggle: []
-      type: SignalReceiver
+    - links:
+      - 5211
+      type: DeviceLinkSink
   - uid: 1545
     components:
     - rot: 1.5707963267948966 rad
@@ -144233,15 +143783,9 @@ entities:
       type: Transform
     - powerLoad: 0
       type: ApcPowerReceiver
-    - inputs:
-        On:
-        - port: On
-          uid: 10403
-        Off:
-        - port: Off
-          uid: 10403
-        Toggle: []
-      type: SignalReceiver
+    - links:
+      - 10403
+      type: DeviceLinkSink
   - uid: 10493
     components:
     - rot: 1.5707963267948966 rad
@@ -144719,15 +144263,9 @@ entities:
       type: Transform
     - powerLoad: 0
       type: ApcPowerReceiver
-    - inputs:
-        On:
-        - port: On
-          uid: 10404
-        Off:
-        - port: Off
-          uid: 10404
-        Toggle: []
-      type: SignalReceiver
+    - links:
+      - 10404
+      type: DeviceLinkSink
   - uid: 12502
     components:
     - rot: 3.141592653589793 rad
@@ -144736,15 +144274,9 @@ entities:
       type: Transform
     - powerLoad: 0
       type: ApcPowerReceiver
-    - inputs:
-        On:
-        - port: On
-          uid: 10404
-        Off:
-        - port: Off
-          uid: 10404
-        Toggle: []
-      type: SignalReceiver
+    - links:
+      - 10404
+      type: DeviceLinkSink
   - uid: 12503
     components:
     - rot: 3.141592653589793 rad
@@ -144753,15 +144285,9 @@ entities:
       type: Transform
     - powerLoad: 0
       type: ApcPowerReceiver
-    - inputs:
-        On:
-        - port: On
-          uid: 10404
-        Off:
-        - port: Off
-          uid: 10404
-        Toggle: []
-      type: SignalReceiver
+    - links:
+      - 10404
+      type: DeviceLinkSink
   - uid: 12504
     components:
     - pos: -50.5,78.5
@@ -144769,15 +144295,9 @@ entities:
       type: Transform
     - powerLoad: 0
       type: ApcPowerReceiver
-    - inputs:
-        On:
-        - port: On
-          uid: 10404
-        Off:
-        - port: Off
-          uid: 10404
-        Toggle: []
-      type: SignalReceiver
+    - links:
+      - 10404
+      type: DeviceLinkSink
   - uid: 12505
     components:
     - rot: 3.141592653589793 rad
@@ -145149,15 +144669,9 @@ entities:
       type: Transform
     - powerLoad: 0
       type: ApcPowerReceiver
-    - inputs:
-        On:
-        - port: On
-          uid: 12451
-        Off:
-        - port: Off
-          uid: 12451
-        Toggle: []
-      type: SignalReceiver
+    - links:
+      - 12451
+      type: DeviceLinkSink
   - uid: 12610
     components:
     - rot: 1.5707963267948966 rad
@@ -145230,15 +144744,9 @@ entities:
       type: Transform
     - powerLoad: 0
       type: ApcPowerReceiver
-    - inputs:
-        On:
-        - port: On
-          uid: 12465
-        Off:
-        - port: Off
-          uid: 12465
-        Toggle: []
-      type: SignalReceiver
+    - links:
+      - 12465
+      type: DeviceLinkSink
   - uid: 12633
     components:
     - rot: 3.141592653589793 rad
@@ -145416,15 +144924,9 @@ entities:
       type: Transform
     - powerLoad: 0
       type: ApcPowerReceiver
-    - inputs:
-        On:
-        - port: On
-          uid: 12478
-        Off:
-        - port: Off
-          uid: 12478
-        Toggle: []
-      type: SignalReceiver
+    - links:
+      - 12478
+      type: DeviceLinkSink
   - uid: 12701
     components:
     - rot: -1.5707963267948966 rad
@@ -145433,15 +144935,9 @@ entities:
       type: Transform
     - powerLoad: 0
       type: ApcPowerReceiver
-    - inputs:
-        On:
-        - port: On
-          uid: 12487
-        Off:
-        - port: Off
-          uid: 12487
-        Toggle: []
-      type: SignalReceiver
+    - links:
+      - 12487
+      type: DeviceLinkSink
   - uid: 12702
     components:
     - rot: -1.5707963267948966 rad
@@ -145450,15 +144946,9 @@ entities:
       type: Transform
     - powerLoad: 0
       type: ApcPowerReceiver
-    - inputs:
-        On:
-        - port: On
-          uid: 12485
-        Off:
-        - port: Off
-          uid: 12485
-        Toggle: []
-      type: SignalReceiver
+    - links:
+      - 12485
+      type: DeviceLinkSink
   - uid: 12705
     components:
     - pos: -14.5,13.5
@@ -145466,15 +144956,9 @@ entities:
       type: Transform
     - powerLoad: 0
       type: ApcPowerReceiver
-    - inputs:
-        On:
-        - port: On
-          uid: 12420
-        Off:
-        - port: Off
-          uid: 12420
-        Toggle: []
-      type: SignalReceiver
+    - links:
+      - 12420
+      type: DeviceLinkSink
   - uid: 12706
     components:
     - rot: 1.5707963267948966 rad
@@ -145483,15 +144967,9 @@ entities:
       type: Transform
     - powerLoad: 0
       type: ApcPowerReceiver
-    - inputs:
-        On:
-        - port: On
-          uid: 12423
-        Off:
-        - port: Off
-          uid: 12423
-        Toggle: []
-      type: SignalReceiver
+    - links:
+      - 12423
+      type: DeviceLinkSink
   - uid: 12707
     components:
     - rot: 1.5707963267948966 rad
@@ -145500,15 +144978,9 @@ entities:
       type: Transform
     - powerLoad: 0
       type: ApcPowerReceiver
-    - inputs:
-        On:
-        - port: On
-          uid: 9296
-        Off:
-        - port: Off
-          uid: 9296
-        Toggle: []
-      type: SignalReceiver
+    - links:
+      - 9296
+      type: DeviceLinkSink
   - uid: 12717
     components:
     - pos: -36.5,30.5
@@ -145610,15 +145082,9 @@ entities:
       type: Transform
     - powerLoad: 0
       type: ApcPowerReceiver
-    - inputs:
-        On:
-        - port: On
-          uid: 10405
-        Off:
-        - port: Off
-          uid: 10405
-        Toggle: []
-      type: SignalReceiver
+    - links:
+      - 10405
+      type: DeviceLinkSink
   - uid: 12733
     components:
     - rot: 3.141592653589793 rad
@@ -145789,15 +145255,9 @@ entities:
       type: Transform
     - powerLoad: 0
       type: ApcPowerReceiver
-    - inputs:
-        On:
-        - port: On
-          uid: 12509
-        Off:
-        - port: Off
-          uid: 12509
-        Toggle: []
-      type: SignalReceiver
+    - links:
+      - 12509
+      type: DeviceLinkSink
   - uid: 12803
     components:
     - rot: -1.5707963267948966 rad
@@ -145876,15 +145336,9 @@ entities:
       type: Transform
     - powerLoad: 0
       type: ApcPowerReceiver
-    - inputs:
-        On:
-        - port: On
-          uid: 12526
-        Off:
-        - port: Off
-          uid: 12526
-        Toggle: []
-      type: SignalReceiver
+    - links:
+      - 12526
+      type: DeviceLinkSink
   - uid: 12841
     components:
     - rot: 1.5707963267948966 rad
@@ -146033,15 +145487,9 @@ entities:
       type: Transform
     - powerLoad: 0
       type: ApcPowerReceiver
-    - inputs:
-        On:
-        - port: On
-          uid: 10402
-        Off:
-        - port: Off
-          uid: 10402
-        Toggle: []
-      type: SignalReceiver
+    - links:
+      - 10402
+      type: DeviceLinkSink
   - uid: 12985
     components:
     - rot: 3.141592653589793 rad
@@ -146143,15 +145591,9 @@ entities:
       type: Transform
     - powerLoad: 0
       type: ApcPowerReceiver
-    - inputs:
-        On:
-        - port: On
-          uid: 12712
-        Off:
-        - port: Off
-          uid: 12712
-        Toggle: []
-      type: SignalReceiver
+    - links:
+      - 12712
+      type: DeviceLinkSink
   - uid: 17587
     components:
     - rot: 3.141592653589793 rad
@@ -146320,15 +145762,9 @@ entities:
       type: Transform
     - powerLoad: 0
       type: ApcPowerReceiver
-    - inputs:
-        On:
-        - port: On
-          uid: 12847
-        Off:
-        - port: Off
-          uid: 12847
-        Toggle: []
-      type: SignalReceiver
+    - links:
+      - 12847
+      type: DeviceLinkSink
   - uid: 27919
     components:
     - pos: 13.5,6.5
@@ -147247,15 +146683,9 @@ entities:
       type: Transform
     - powerLoad: 0
       type: ApcPowerReceiver
-    - inputs:
-        On:
-        - port: On
-          uid: 12428
-        Off:
-        - port: Off
-          uid: 12428
-        Toggle: []
-      type: SignalReceiver
+    - links:
+      - 12428
+      type: DeviceLinkSink
   - uid: 4075
     components:
     - rot: 3.141592653589793 rad
@@ -147324,15 +146754,9 @@ entities:
       type: Transform
     - powerLoad: 0
       type: ApcPowerReceiver
-    - inputs:
-        On:
-        - port: On
-          uid: 12547
-        Off:
-        - port: Off
-          uid: 12547
-        Toggle: []
-      type: SignalReceiver
+    - links:
+      - 12547
+      type: DeviceLinkSink
   - uid: 12572
     components:
     - rot: -1.5707963267948966 rad
@@ -147349,15 +146773,9 @@ entities:
       type: Transform
     - powerLoad: 0
       type: ApcPowerReceiver
-    - inputs:
-        On:
-        - port: On
-          uid: 10408
-        Off:
-        - port: Off
-          uid: 10408
-        Toggle: []
-      type: SignalReceiver
+    - links:
+      - 10408
+      type: DeviceLinkSink
   - uid: 12579
     components:
     - rot: 1.5707963267948966 rad
@@ -147435,15 +146853,9 @@ entities:
       type: Transform
     - powerLoad: 0
       type: ApcPowerReceiver
-    - inputs:
-        On:
-        - port: On
-          uid: 3881
-        Off:
-        - port: Off
-          uid: 3881
-        Toggle: []
-      type: SignalReceiver
+    - links:
+      - 3881
+      type: DeviceLinkSink
   - uid: 13524
     components:
     - rot: 1.5707963267948966 rad
@@ -147496,15 +146908,9 @@ entities:
       type: Transform
     - powerLoad: 0
       type: ApcPowerReceiver
-    - inputs:
-        On:
-        - port: On
-          uid: 10406
-        Off:
-        - port: Off
-          uid: 10406
-        Toggle: []
-      type: SignalReceiver
+    - links:
+      - 10406
+      type: DeviceLinkSink
   - uid: 18513
     components:
     - rot: 1.5707963267948966 rad
@@ -147513,15 +146919,9 @@ entities:
       type: Transform
     - powerLoad: 0
       type: ApcPowerReceiver
-    - inputs:
-        On:
-        - port: On
-          uid: 10406
-        Off:
-        - port: Off
-          uid: 10406
-        Toggle: []
-      type: SignalReceiver
+    - links:
+      - 10406
+      type: DeviceLinkSink
   - uid: 18514
     components:
     - pos: -93.5,26.5
@@ -147552,15 +146952,9 @@ entities:
       type: Transform
     - powerLoad: 0
       type: ApcPowerReceiver
-    - inputs:
-        On:
-        - port: On
-          uid: 10406
-        Off:
-        - port: Off
-          uid: 10406
-        Toggle: []
-      type: SignalReceiver
+    - links:
+      - 10406
+      type: DeviceLinkSink
   - uid: 18532
     components:
     - rot: 1.5707963267948966 rad
@@ -147622,15 +147016,9 @@ entities:
       type: Transform
     - powerLoad: 0
       type: ApcPowerReceiver
-    - inputs:
-        On:
-        - port: On
-          uid: 28185
-        Off:
-        - port: Off
-          uid: 28185
-        Toggle: []
-      type: SignalReceiver
+    - links:
+      - 28185
+      type: DeviceLinkSink
 - proto: PoweredSmallLightEmpty
   entities:
   - uid: 5194
@@ -147666,15 +147054,9 @@ entities:
       type: Transform
     - powerLoad: 0
       type: ApcPowerReceiver
-    - inputs:
-        On:
-        - port: On
-          uid: 10406
-        Off:
-        - port: Off
-          uid: 10406
-        Toggle: []
-      type: SignalReceiver
+    - links:
+      - 10406
+      type: DeviceLinkSink
   - uid: 18578
     components:
     - rot: -1.5707963267948966 rad
@@ -148277,11 +147659,6 @@ entities:
     - pos: -21.5,43.5
       parent: 33
       type: Transform
-  - uid: 3908
-    components:
-    - pos: -61.5,15.5
-      parent: 33
-      type: Transform
   - uid: 4168
     components:
     - pos: -78.5,-28.5
@@ -148596,11 +147973,6 @@ entities:
   - uid: 10334
     components:
     - pos: -55.5,-22.5
-      parent: 33
-      type: Transform
-  - uid: 10757
-    components:
-    - pos: -61.5,14.5
       parent: 33
       type: Transform
   - uid: 10971
@@ -156625,11 +155997,6 @@ entities:
       pos: -33.80342,71.219795
       parent: 33
       type: Transform
-    - outputs:
-        Pressed:
-        - port: Trigger
-          uid: 25343
-      type: SignalTransmitter
 - proto: ResearchAndDevelopmentServer
   entities:
   - uid: 1821
@@ -157782,11 +157149,6 @@ entities:
       pos: -33.59509,71.17809
       parent: 33
       type: Transform
-    - inputs:
-        Trigger:
-        - port: Pressed
-          uid: 27714
-      type: SignalReceiver
 - proto: ShogiBoard
   entities:
   - uid: 22925
@@ -157839,7 +157201,7 @@ entities:
     - pos: -38.5,31.5
       parent: 33
       type: Transform
-    - SecondsUntilStateChange: -711560.94
+    - SecondsUntilStateChange: -722671.94
       state: Opening
       type: Door
     - canCollide: True
@@ -157848,21 +157210,15 @@ entities:
       type: Occluder
     - airBlocked: True
       type: Airtight
-    - inputs:
-        Open:
-        - port: On
-          uid: 3319
-        Close:
-        - port: Off
-          uid: 3319
-        Toggle: []
-      type: SignalReceiver
+    - links:
+      - 3319
+      type: DeviceLinkSink
   - uid: 8527
     components:
     - pos: -33.5,17.5
       parent: 33
       type: Transform
-    - SecondsUntilStateChange: -764180.94
+    - SecondsUntilStateChange: -775291.94
       state: Opening
       type: Door
     - canCollide: True
@@ -157871,21 +157227,15 @@ entities:
       type: Occluder
     - airBlocked: True
       type: Airtight
-    - inputs:
-        Open:
-        - port: On
-          uid: 8530
-        Close:
-        - port: Off
-          uid: 8530
-        Toggle: []
-      type: SignalReceiver
+    - links:
+      - 8530
+      type: DeviceLinkSink
   - uid: 8528
     components:
     - pos: -32.5,17.5
       parent: 33
       type: Transform
-    - SecondsUntilStateChange: -764180.94
+    - SecondsUntilStateChange: -775291.94
       state: Opening
       type: Door
     - canCollide: True
@@ -157894,21 +157244,15 @@ entities:
       type: Occluder
     - airBlocked: True
       type: Airtight
-    - inputs:
-        Open:
-        - port: On
-          uid: 8530
-        Close:
-        - port: Off
-          uid: 8530
-        Toggle: []
-      type: SignalReceiver
+    - links:
+      - 8530
+      type: DeviceLinkSink
   - uid: 8529
     components:
     - pos: -31.5,17.5
       parent: 33
       type: Transform
-    - SecondsUntilStateChange: -764180.94
+    - SecondsUntilStateChange: -775291.94
       state: Opening
       type: Door
     - canCollide: True
@@ -157917,21 +157261,15 @@ entities:
       type: Occluder
     - airBlocked: True
       type: Airtight
-    - inputs:
-        Open:
-        - port: On
-          uid: 8530
-        Close:
-        - port: Off
-          uid: 8530
-        Toggle: []
-      type: SignalReceiver
+    - links:
+      - 8530
+      type: DeviceLinkSink
   - uid: 8902
     components:
     - pos: 40.5,20.5
       parent: 33
       type: Transform
-    - SecondsUntilStateChange: -710270.8
+    - SecondsUntilStateChange: -721381.8
       state: Opening
       type: Door
     - canCollide: True
@@ -157940,21 +157278,15 @@ entities:
       type: Occluder
     - airBlocked: True
       type: Airtight
-    - inputs:
-        Open:
-        - port: On
-          uid: 8907
-        Close:
-        - port: Off
-          uid: 8907
-        Toggle: []
-      type: SignalReceiver
+    - links:
+      - 8907
+      type: DeviceLinkSink
   - uid: 8903
     components:
     - pos: 41.5,20.5
       parent: 33
       type: Transform
-    - SecondsUntilStateChange: -710270.8
+    - SecondsUntilStateChange: -721381.8
       state: Opening
       type: Door
     - canCollide: True
@@ -157963,21 +157295,15 @@ entities:
       type: Occluder
     - airBlocked: True
       type: Airtight
-    - inputs:
-        Open:
-        - port: On
-          uid: 8907
-        Close:
-        - port: Off
-          uid: 8907
-        Toggle: []
-      type: SignalReceiver
+    - links:
+      - 8907
+      type: DeviceLinkSink
   - uid: 8904
     components:
     - pos: 42.5,20.5
       parent: 33
       type: Transform
-    - SecondsUntilStateChange: -710270.8
+    - SecondsUntilStateChange: -721381.8
       state: Opening
       type: Door
     - canCollide: True
@@ -157986,21 +157312,15 @@ entities:
       type: Occluder
     - airBlocked: True
       type: Airtight
-    - inputs:
-        Open:
-        - port: On
-          uid: 8907
-        Close:
-        - port: Off
-          uid: 8907
-        Toggle: []
-      type: SignalReceiver
+    - links:
+      - 8907
+      type: DeviceLinkSink
   - uid: 8905
     components:
     - pos: 38.5,20.5
       parent: 33
       type: Transform
-    - SecondsUntilStateChange: -710270.8
+    - SecondsUntilStateChange: -721381.8
       state: Opening
       type: Door
     - canCollide: True
@@ -158009,21 +157329,15 @@ entities:
       type: Occluder
     - airBlocked: True
       type: Airtight
-    - inputs:
-        Open:
-        - port: On
-          uid: 8907
-        Close:
-        - port: Off
-          uid: 8907
-        Toggle: []
-      type: SignalReceiver
+    - links:
+      - 8907
+      type: DeviceLinkSink
   - uid: 8906
     components:
     - pos: 36.5,20.5
       parent: 33
       type: Transform
-    - SecondsUntilStateChange: -710270.8
+    - SecondsUntilStateChange: -721381.8
       state: Opening
       type: Door
     - canCollide: True
@@ -158032,21 +157346,15 @@ entities:
       type: Occluder
     - airBlocked: True
       type: Airtight
-    - inputs:
-        Open:
-        - port: On
-          uid: 8907
-        Close:
-        - port: Off
-          uid: 8907
-        Toggle: []
-      type: SignalReceiver
+    - links:
+      - 8907
+      type: DeviceLinkSink
   - uid: 9293
     components:
     - pos: -36.5,35.5
       parent: 33
       type: Transform
-    - SecondsUntilStateChange: -711560.94
+    - SecondsUntilStateChange: -722671.94
       state: Opening
       type: Door
     - canCollide: True
@@ -158055,21 +157363,15 @@ entities:
       type: Occluder
     - airBlocked: True
       type: Airtight
-    - inputs:
-        Open:
-        - port: On
-          uid: 3319
-        Close:
-        - port: Off
-          uid: 3319
-        Toggle: []
-      type: SignalReceiver
+    - links:
+      - 3319
+      type: DeviceLinkSink
   - uid: 9294
     components:
     - pos: -36.5,33.5
       parent: 33
       type: Transform
-    - SecondsUntilStateChange: -711560.94
+    - SecondsUntilStateChange: -722671.94
       state: Opening
       type: Door
     - canCollide: True
@@ -158078,21 +157380,15 @@ entities:
       type: Occluder
     - airBlocked: True
       type: Airtight
-    - inputs:
-        Open:
-        - port: On
-          uid: 3319
-        Close:
-        - port: Off
-          uid: 3319
-        Toggle: []
-      type: SignalReceiver
+    - links:
+      - 3319
+      type: DeviceLinkSink
   - uid: 9295
     components:
     - pos: -36.5,32.5
       parent: 33
       type: Transform
-    - SecondsUntilStateChange: -711560.94
+    - SecondsUntilStateChange: -722671.94
       state: Opening
       type: Door
     - canCollide: True
@@ -158101,21 +157397,15 @@ entities:
       type: Occluder
     - airBlocked: True
       type: Airtight
-    - inputs:
-        Open:
-        - port: On
-          uid: 3319
-        Close:
-        - port: Off
-          uid: 3319
-        Toggle: []
-      type: SignalReceiver
+    - links:
+      - 3319
+      type: DeviceLinkSink
   - uid: 10675
     components:
     - pos: -84.5,8.5
       parent: 33
       type: Transform
-    - SecondsUntilStateChange: -737669.1
+    - SecondsUntilStateChange: -748780.1
       state: Opening
       type: Door
     - canCollide: True
@@ -158124,21 +157414,15 @@ entities:
       type: Occluder
     - airBlocked: True
       type: Airtight
-    - inputs:
-        Open:
-        - port: On
-          uid: 5504
-        Close:
-        - port: Off
-          uid: 5504
-        Toggle: []
-      type: SignalReceiver
+    - links:
+      - 5504
+      type: DeviceLinkSink
   - uid: 10819
     components:
     - pos: -34.5,31.5
       parent: 33
       type: Transform
-    - SecondsUntilStateChange: -711560.94
+    - SecondsUntilStateChange: -722671.94
       state: Opening
       type: Door
     - canCollide: True
@@ -158147,21 +157431,15 @@ entities:
       type: Occluder
     - airBlocked: True
       type: Airtight
-    - inputs:
-        Open:
-        - port: On
-          uid: 3319
-        Close:
-        - port: Off
-          uid: 3319
-        Toggle: []
-      type: SignalReceiver
+    - links:
+      - 3319
+      type: DeviceLinkSink
   - uid: 10820
     components:
     - pos: -35.5,31.5
       parent: 33
       type: Transform
-    - SecondsUntilStateChange: -711560.94
+    - SecondsUntilStateChange: -722671.94
       state: Opening
       type: Door
     - canCollide: True
@@ -158170,21 +157448,15 @@ entities:
       type: Occluder
     - airBlocked: True
       type: Airtight
-    - inputs:
-        Open:
-        - port: On
-          uid: 3319
-        Close:
-        - port: Off
-          uid: 3319
-        Toggle: []
-      type: SignalReceiver
+    - links:
+      - 3319
+      type: DeviceLinkSink
   - uid: 10821
     components:
     - pos: -33.5,31.5
       parent: 33
       type: Transform
-    - SecondsUntilStateChange: -711560.94
+    - SecondsUntilStateChange: -722671.94
       state: Opening
       type: Door
     - canCollide: True
@@ -158193,21 +157465,15 @@ entities:
       type: Occluder
     - airBlocked: True
       type: Airtight
-    - inputs:
-        Open:
-        - port: On
-          uid: 3319
-        Close:
-        - port: Off
-          uid: 3319
-        Toggle: []
-      type: SignalReceiver
+    - links:
+      - 3319
+      type: DeviceLinkSink
   - uid: 10822
     components:
     - pos: -33.5,29.5
       parent: 33
       type: Transform
-    - SecondsUntilStateChange: -711560.94
+    - SecondsUntilStateChange: -722671.94
       state: Opening
       type: Door
     - canCollide: True
@@ -158216,21 +157482,15 @@ entities:
       type: Occluder
     - airBlocked: True
       type: Airtight
-    - inputs:
-        Open:
-        - port: On
-          uid: 3319
-        Close:
-        - port: Off
-          uid: 3319
-        Toggle: []
-      type: SignalReceiver
+    - links:
+      - 3319
+      type: DeviceLinkSink
   - uid: 10823
     components:
     - pos: -33.5,28.5
       parent: 33
       type: Transform
-    - SecondsUntilStateChange: -711560.94
+    - SecondsUntilStateChange: -722671.94
       state: Opening
       type: Door
     - canCollide: True
@@ -158239,21 +157499,15 @@ entities:
       type: Occluder
     - airBlocked: True
       type: Airtight
-    - inputs:
-        Open:
-        - port: On
-          uid: 3319
-        Close:
-        - port: Off
-          uid: 3319
-        Toggle: []
-      type: SignalReceiver
+    - links:
+      - 3319
+      type: DeviceLinkSink
   - uid: 10824
     components:
     - pos: -33.5,30.5
       parent: 33
       type: Transform
-    - SecondsUntilStateChange: -711560.94
+    - SecondsUntilStateChange: -722671.94
       state: Opening
       type: Door
     - canCollide: True
@@ -158262,21 +157516,15 @@ entities:
       type: Occluder
     - airBlocked: True
       type: Airtight
-    - inputs:
-        Open:
-        - port: On
-          uid: 3319
-        Close:
-        - port: Off
-          uid: 3319
-        Toggle: []
-      type: SignalReceiver
+    - links:
+      - 3319
+      type: DeviceLinkSink
   - uid: 10928
     components:
     - pos: -37.5,31.5
       parent: 33
       type: Transform
-    - SecondsUntilStateChange: -711560.94
+    - SecondsUntilStateChange: -722671.94
       state: Opening
       type: Door
     - canCollide: True
@@ -158285,21 +157533,15 @@ entities:
       type: Occluder
     - airBlocked: True
       type: Airtight
-    - inputs:
-        Open:
-        - port: On
-          uid: 3319
-        Close:
-        - port: Off
-          uid: 3319
-        Toggle: []
-      type: SignalReceiver
+    - links:
+      - 3319
+      type: DeviceLinkSink
   - uid: 10929
     components:
     - pos: -36.5,34.5
       parent: 33
       type: Transform
-    - SecondsUntilStateChange: -711560.94
+    - SecondsUntilStateChange: -722671.94
       state: Opening
       type: Door
     - canCollide: True
@@ -158308,21 +157550,15 @@ entities:
       type: Occluder
     - airBlocked: True
       type: Airtight
-    - inputs:
-        Open:
-        - port: On
-          uid: 3319
-        Close:
-        - port: Off
-          uid: 3319
-        Toggle: []
-      type: SignalReceiver
+    - links:
+      - 3319
+      type: DeviceLinkSink
   - uid: 10930
     components:
     - pos: -39.5,31.5
       parent: 33
       type: Transform
-    - SecondsUntilStateChange: -711560.94
+    - SecondsUntilStateChange: -722671.94
       state: Opening
       type: Door
     - canCollide: True
@@ -158331,21 +157567,15 @@ entities:
       type: Occluder
     - airBlocked: True
       type: Airtight
-    - inputs:
-        Open:
-        - port: On
-          uid: 3319
-        Close:
-        - port: Off
-          uid: 3319
-        Toggle: []
-      type: SignalReceiver
+    - links:
+      - 3319
+      type: DeviceLinkSink
   - uid: 25456
     components:
     - pos: -16.5,71.5
       parent: 33
       type: Transform
-    - SecondsUntilStateChange: -461600.7
+    - SecondsUntilStateChange: -472711.72
       state: Opening
       type: Door
     - canCollide: True
@@ -158354,21 +157584,15 @@ entities:
       type: Occluder
     - airBlocked: True
       type: Airtight
-    - inputs:
-        Open:
-        - port: On
-          uid: 27353
-        Close:
-        - port: Off
-          uid: 27353
-        Toggle: []
-      type: SignalReceiver
+    - links:
+      - 27353
+      type: DeviceLinkSink
   - uid: 25457
     components:
     - pos: -17.5,71.5
       parent: 33
       type: Transform
-    - SecondsUntilStateChange: -461600.7
+    - SecondsUntilStateChange: -472711.72
       state: Opening
       type: Door
     - canCollide: True
@@ -158377,21 +157601,15 @@ entities:
       type: Occluder
     - airBlocked: True
       type: Airtight
-    - inputs:
-        Open:
-        - port: On
-          uid: 27353
-        Close:
-        - port: Off
-          uid: 27353
-        Toggle: []
-      type: SignalReceiver
+    - links:
+      - 27353
+      type: DeviceLinkSink
   - uid: 25461
     components:
     - pos: -20.5,74.5
       parent: 33
       type: Transform
-    - SecondsUntilStateChange: -461600.7
+    - SecondsUntilStateChange: -472711.72
       state: Opening
       type: Door
     - canCollide: True
@@ -158400,21 +157618,15 @@ entities:
       type: Occluder
     - airBlocked: True
       type: Airtight
-    - inputs:
-        Open:
-        - port: On
-          uid: 27353
-        Close:
-        - port: Off
-          uid: 27353
-        Toggle: []
-      type: SignalReceiver
+    - links:
+      - 27353
+      type: DeviceLinkSink
   - uid: 25462
     components:
     - pos: -19.5,71.5
       parent: 33
       type: Transform
-    - SecondsUntilStateChange: -461600.7
+    - SecondsUntilStateChange: -472711.72
       state: Opening
       type: Door
     - canCollide: True
@@ -158423,21 +157635,15 @@ entities:
       type: Occluder
     - airBlocked: True
       type: Airtight
-    - inputs:
-        Open:
-        - port: On
-          uid: 27353
-        Close:
-        - port: Off
-          uid: 27353
-        Toggle: []
-      type: SignalReceiver
+    - links:
+      - 27353
+      type: DeviceLinkSink
   - uid: 25463
     components:
     - pos: -27.5,69.5
       parent: 33
       type: Transform
-    - SecondsUntilStateChange: -461618.97
+    - SecondsUntilStateChange: -472730
       state: Opening
       type: Door
     - canCollide: True
@@ -158446,21 +157652,15 @@ entities:
       type: Occluder
     - airBlocked: True
       type: Airtight
-    - inputs:
-        Open:
-        - port: On
-          uid: 25470
-        Close:
-        - port: Off
-          uid: 25470
-        Toggle: []
-      type: SignalReceiver
+    - links:
+      - 25470
+      type: DeviceLinkSink
   - uid: 25464
     components:
     - pos: -27.5,68.5
       parent: 33
       type: Transform
-    - SecondsUntilStateChange: -461618.97
+    - SecondsUntilStateChange: -472730
       state: Opening
       type: Door
     - canCollide: True
@@ -158469,21 +157669,15 @@ entities:
       type: Occluder
     - airBlocked: True
       type: Airtight
-    - inputs:
-        Open:
-        - port: On
-          uid: 25470
-        Close:
-        - port: Off
-          uid: 25470
-        Toggle: []
-      type: SignalReceiver
+    - links:
+      - 25470
+      type: DeviceLinkSink
   - uid: 25465
     components:
     - pos: -27.5,67.5
       parent: 33
       type: Transform
-    - SecondsUntilStateChange: -461618.97
+    - SecondsUntilStateChange: -472730
       state: Opening
       type: Door
     - canCollide: True
@@ -158492,21 +157686,15 @@ entities:
       type: Occluder
     - airBlocked: True
       type: Airtight
-    - inputs:
-        Open:
-        - port: On
-          uid: 25470
-        Close:
-        - port: Off
-          uid: 25470
-        Toggle: []
-      type: SignalReceiver
+    - links:
+      - 25470
+      type: DeviceLinkSink
   - uid: 25466
     components:
     - pos: -27.5,66.5
       parent: 33
       type: Transform
-    - SecondsUntilStateChange: -461618.97
+    - SecondsUntilStateChange: -472730
       state: Opening
       type: Door
     - canCollide: True
@@ -158515,21 +157703,15 @@ entities:
       type: Occluder
     - airBlocked: True
       type: Airtight
-    - inputs:
-        Open:
-        - port: On
-          uid: 25470
-        Close:
-        - port: Off
-          uid: 25470
-        Toggle: []
-      type: SignalReceiver
+    - links:
+      - 25470
+      type: DeviceLinkSink
   - uid: 25467
     components:
     - pos: -20.5,73.5
       parent: 33
       type: Transform
-    - SecondsUntilStateChange: -461600.7
+    - SecondsUntilStateChange: -472711.72
       state: Opening
       type: Door
     - canCollide: True
@@ -158538,21 +157720,15 @@ entities:
       type: Occluder
     - airBlocked: True
       type: Airtight
-    - inputs:
-        Open:
-        - port: On
-          uid: 27353
-        Close:
-        - port: Off
-          uid: 27353
-        Toggle: []
-      type: SignalReceiver
+    - links:
+      - 27353
+      type: DeviceLinkSink
   - uid: 25468
     components:
     - pos: -20.5,72.5
       parent: 33
       type: Transform
-    - SecondsUntilStateChange: -461600.7
+    - SecondsUntilStateChange: -472711.72
       state: Opening
       type: Door
     - canCollide: True
@@ -158561,15 +157737,9 @@ entities:
       type: Occluder
     - airBlocked: True
       type: Airtight
-    - inputs:
-        Open:
-        - port: On
-          uid: 27353
-        Close:
-        - port: Off
-          uid: 27353
-        Toggle: []
-      type: SignalReceiver
+    - links:
+      - 27353
+      type: DeviceLinkSink
 - proto: ShuttersRadiation
   entities:
   - uid: 694
@@ -158577,29 +157747,17 @@ entities:
     - pos: -67.5,-14.5
       parent: 33
       type: Transform
-    - inputs:
-        Open:
-        - port: On
-          uid: 690
-        Close:
-        - port: Off
-          uid: 690
-        Toggle: []
-      type: SignalReceiver
+    - links:
+      - 690
+      type: DeviceLinkSink
   - uid: 695
     components:
     - pos: -69.5,-14.5
       parent: 33
       type: Transform
-    - inputs:
-        Open:
-        - port: On
-          uid: 690
-        Close:
-        - port: Off
-          uid: 690
-        Toggle: []
-      type: SignalReceiver
+    - links:
+      - 690
+      type: DeviceLinkSink
   - uid: 5533
     components:
     - pos: -70.5,-15.5
@@ -158609,20 +157767,14 @@ entities:
       type: Occluder
     - canCollide: False
       type: Physics
-    - SecondsUntilStateChange: -341599.34
+    - SecondsUntilStateChange: -352710.38
       state: Closing
       type: Door
     - airBlocked: False
       type: Airtight
-    - inputs:
-        Open:
-        - port: On
-          uid: 24223
-        Close:
-        - port: Off
-          uid: 24223
-        Toggle: []
-      type: SignalReceiver
+    - links:
+      - 24223
+      type: DeviceLinkSink
   - uid: 5534
     components:
     - pos: -68.5,-14.5
@@ -158632,20 +157784,14 @@ entities:
       type: Occluder
     - canCollide: False
       type: Physics
-    - SecondsUntilStateChange: -341587.3
+    - SecondsUntilStateChange: -352698.34
       state: Closing
       type: Door
     - airBlocked: False
       type: Airtight
-    - inputs:
-        Open:
-        - port: On
-          uid: 690
-        Close:
-        - port: Off
-          uid: 690
-        Toggle: []
-      type: SignalReceiver
+    - links:
+      - 690
+      type: DeviceLinkSink
   - uid: 5535
     components:
     - pos: -70.5,-16.5
@@ -158655,20 +157801,14 @@ entities:
       type: Occluder
     - canCollide: False
       type: Physics
-    - SecondsUntilStateChange: -341599.34
+    - SecondsUntilStateChange: -352710.38
       state: Closing
       type: Door
     - airBlocked: False
       type: Airtight
-    - inputs:
-        Open:
-        - port: On
-          uid: 24223
-        Close:
-        - port: Off
-          uid: 24223
-        Toggle: []
-      type: SignalReceiver
+    - links:
+      - 24223
+      type: DeviceLinkSink
   - uid: 18090
     components:
     - pos: -52.5,-49.5
@@ -158678,20 +157818,14 @@ entities:
       type: Occluder
     - canCollide: False
       type: Physics
-    - SecondsUntilStateChange: -618387.3
+    - SecondsUntilStateChange: -629498.3
       state: Closing
       type: Door
     - airBlocked: False
       type: Airtight
-    - inputs:
-        Open:
-        - port: On
-          uid: 18122
-        Close:
-        - port: Off
-          uid: 18122
-        Toggle: []
-      type: SignalReceiver
+    - links:
+      - 18122
+      type: DeviceLinkSink
   - uid: 18093
     components:
     - pos: -52.5,-52.5
@@ -158701,20 +157835,14 @@ entities:
       type: Occluder
     - canCollide: False
       type: Physics
-    - SecondsUntilStateChange: -618387.3
+    - SecondsUntilStateChange: -629498.3
       state: Closing
       type: Door
     - airBlocked: False
       type: Airtight
-    - inputs:
-        Open:
-        - port: On
-          uid: 18122
-        Close:
-        - port: Off
-          uid: 18122
-        Toggle: []
-      type: SignalReceiver
+    - links:
+      - 18122
+      type: DeviceLinkSink
   - uid: 18094
     components:
     - pos: -54.5,-54.5
@@ -158724,20 +157852,14 @@ entities:
       type: Occluder
     - canCollide: False
       type: Physics
-    - SecondsUntilStateChange: -618387.3
+    - SecondsUntilStateChange: -629498.3
       state: Closing
       type: Door
     - airBlocked: False
       type: Airtight
-    - inputs:
-        Open:
-        - port: On
-          uid: 18122
-        Close:
-        - port: Off
-          uid: 18122
-        Toggle: []
-      type: SignalReceiver
+    - links:
+      - 18122
+      type: DeviceLinkSink
   - uid: 18095
     components:
     - pos: -55.5,-54.5
@@ -158747,20 +157869,14 @@ entities:
       type: Occluder
     - canCollide: False
       type: Physics
-    - SecondsUntilStateChange: -618387.3
+    - SecondsUntilStateChange: -629498.3
       state: Closing
       type: Door
     - airBlocked: False
       type: Airtight
-    - inputs:
-        Open:
-        - port: On
-          uid: 18122
-        Close:
-        - port: Off
-          uid: 18122
-        Toggle: []
-      type: SignalReceiver
+    - links:
+      - 18122
+      type: DeviceLinkSink
   - uid: 18099
     components:
     - pos: -55.5,-47.5
@@ -158770,20 +157886,14 @@ entities:
       type: Occluder
     - canCollide: False
       type: Physics
-    - SecondsUntilStateChange: -618387.3
+    - SecondsUntilStateChange: -629498.3
       state: Closing
       type: Door
     - airBlocked: False
       type: Airtight
-    - inputs:
-        Open:
-        - port: On
-          uid: 18122
-        Close:
-        - port: Off
-          uid: 18122
-        Toggle: []
-      type: SignalReceiver
+    - links:
+      - 18122
+      type: DeviceLinkSink
   - uid: 18100
     components:
     - pos: -54.5,-47.5
@@ -158793,20 +157903,14 @@ entities:
       type: Occluder
     - canCollide: False
       type: Physics
-    - SecondsUntilStateChange: -618387.3
+    - SecondsUntilStateChange: -629498.3
       state: Closing
       type: Door
     - airBlocked: False
       type: Airtight
-    - inputs:
-        Open:
-        - port: On
-          uid: 18122
-        Close:
-        - port: Off
-          uid: 18122
-        Toggle: []
-      type: SignalReceiver
+    - links:
+      - 18122
+      type: DeviceLinkSink
 - proto: ShuttersRadiationOpen
   entities:
   - uid: 18096
@@ -158814,7 +157918,7 @@ entities:
     - pos: -56.5,-52.5
       parent: 33
       type: Transform
-    - SecondsUntilStateChange: -618372.5
+    - SecondsUntilStateChange: -629483.5
       state: Opening
       type: Door
     - enabled: True
@@ -158823,21 +157927,15 @@ entities:
       type: Physics
     - airBlocked: True
       type: Airtight
-    - inputs:
-        Open:
-        - port: On
-          uid: 18123
-        Close:
-        - port: Off
-          uid: 18123
-        Toggle: []
-      type: SignalReceiver
+    - links:
+      - 18123
+      type: DeviceLinkSink
   - uid: 18097
     components:
     - pos: -56.5,-51.5
       parent: 33
       type: Transform
-    - SecondsUntilStateChange: -618372.5
+    - SecondsUntilStateChange: -629483.5
       state: Opening
       type: Door
     - enabled: True
@@ -158846,21 +157944,15 @@ entities:
       type: Physics
     - airBlocked: True
       type: Airtight
-    - inputs:
-        Open:
-        - port: On
-          uid: 18123
-        Close:
-        - port: Off
-          uid: 18123
-        Toggle: []
-      type: SignalReceiver
+    - links:
+      - 18123
+      type: DeviceLinkSink
   - uid: 18098
     components:
     - pos: -56.5,-50.5
       parent: 33
       type: Transform
-    - SecondsUntilStateChange: -618372.5
+    - SecondsUntilStateChange: -629483.5
       state: Opening
       type: Door
     - enabled: True
@@ -158869,15 +157961,9 @@ entities:
       type: Physics
     - airBlocked: True
       type: Airtight
-    - inputs:
-        Open:
-        - port: On
-          uid: 18123
-        Close:
-        - port: Off
-          uid: 18123
-        Toggle: []
-      type: SignalReceiver
+    - links:
+      - 18123
+      type: DeviceLinkSink
 - proto: ShuttersWindow
   entities:
   - uid: 244
@@ -158887,20 +157973,14 @@ entities:
       type: Transform
     - canCollide: False
       type: Physics
-    - SecondsUntilStateChange: -710813.75
+    - SecondsUntilStateChange: -721924.75
       state: Closing
       type: Door
     - airBlocked: False
       type: Airtight
-    - inputs:
-        Open:
-        - port: On
-          uid: 4182
-        Close:
-        - port: Off
-          uid: 4182
-        Toggle: []
-      type: SignalReceiver
+    - links:
+      - 4182
+      type: DeviceLinkSink
   - uid: 366
     components:
     - pos: 30.5,9.5
@@ -158908,20 +157988,14 @@ entities:
       type: Transform
     - canCollide: False
       type: Physics
-    - SecondsUntilStateChange: -710615.7
+    - SecondsUntilStateChange: -721726.7
       state: Closing
       type: Door
     - airBlocked: False
       type: Airtight
-    - inputs:
-        Open:
-        - port: On
-          uid: 10926
-        Close:
-        - port: Off
-          uid: 10926
-        Toggle: []
-      type: SignalReceiver
+    - links:
+      - 10926
+      type: DeviceLinkSink
   - uid: 367
     components:
     - pos: 30.5,8.5
@@ -158929,20 +158003,14 @@ entities:
       type: Transform
     - canCollide: False
       type: Physics
-    - SecondsUntilStateChange: -710615.7
+    - SecondsUntilStateChange: -721726.7
       state: Closing
       type: Door
     - airBlocked: False
       type: Airtight
-    - inputs:
-        Open:
-        - port: On
-          uid: 10926
-        Close:
-        - port: Off
-          uid: 10926
-        Toggle: []
-      type: SignalReceiver
+    - links:
+      - 10926
+      type: DeviceLinkSink
   - uid: 368
     components:
     - pos: 26.5,10.5
@@ -158950,20 +158018,14 @@ entities:
       type: Transform
     - canCollide: False
       type: Physics
-    - SecondsUntilStateChange: -710637.7
+    - SecondsUntilStateChange: -721748.7
       state: Closing
       type: Door
     - airBlocked: False
       type: Airtight
-    - inputs:
-        Open:
-        - port: On
-          uid: 9955
-        Close:
-        - port: Off
-          uid: 9955
-        Toggle: []
-      type: SignalReceiver
+    - links:
+      - 9955
+      type: DeviceLinkSink
   - uid: 369
     components:
     - pos: 27.5,10.5
@@ -158971,20 +158033,14 @@ entities:
       type: Transform
     - canCollide: False
       type: Physics
-    - SecondsUntilStateChange: -710637.7
+    - SecondsUntilStateChange: -721748.7
       state: Closing
       type: Door
     - airBlocked: False
       type: Airtight
-    - inputs:
-        Open:
-        - port: On
-          uid: 9955
-        Close:
-        - port: Off
-          uid: 9955
-        Toggle: []
-      type: SignalReceiver
+    - links:
+      - 9955
+      type: DeviceLinkSink
   - uid: 862
     components:
     - pos: 26.5,-5.5
@@ -158992,20 +158048,14 @@ entities:
       type: Transform
     - canCollide: False
       type: Physics
-    - SecondsUntilStateChange: -710813.75
+    - SecondsUntilStateChange: -721924.75
       state: Closing
       type: Door
     - airBlocked: False
       type: Airtight
-    - inputs:
-        Open:
-        - port: On
-          uid: 4182
-        Close:
-        - port: Off
-          uid: 4182
-        Toggle: []
-      type: SignalReceiver
+    - links:
+      - 4182
+      type: DeviceLinkSink
   - uid: 7170
     components:
     - pos: 58.5,23.5
@@ -159013,20 +158063,14 @@ entities:
       type: Transform
     - canCollide: False
       type: Physics
-    - SecondsUntilStateChange: -355364.94
+    - SecondsUntilStateChange: -366475.97
       state: Closing
       type: Door
     - airBlocked: False
       type: Airtight
-    - inputs:
-        Open:
-        - port: On
-          uid: 6698
-        Close:
-        - port: Off
-          uid: 6698
-        Toggle: []
-      type: SignalReceiver
+    - links:
+      - 6698
+      type: DeviceLinkSink
   - uid: 7177
     components:
     - pos: 58.5,24.5
@@ -159034,20 +158078,14 @@ entities:
       type: Transform
     - canCollide: False
       type: Physics
-    - SecondsUntilStateChange: -355364.94
+    - SecondsUntilStateChange: -366475.97
       state: Closing
       type: Door
     - airBlocked: False
       type: Airtight
-    - inputs:
-        Open:
-        - port: On
-          uid: 6698
-        Close:
-        - port: Off
-          uid: 6698
-        Toggle: []
-      type: SignalReceiver
+    - links:
+      - 6698
+      type: DeviceLinkSink
   - uid: 24997
     components:
     - pos: 64.5,28.5
@@ -159055,24 +158093,15 @@ entities:
       type: Transform
     - canCollide: False
       type: Physics
-    - SecondsUntilStateChange: -380144.44
+    - SecondsUntilStateChange: -391255.47
       state: Closing
       type: Door
     - airBlocked: False
       type: Airtight
-    - inputs:
-        Open:
-        - port: On
-          uid: 4750
-        - port: On
-          uid: 5424
-        Close:
-        - port: Off
-          uid: 4750
-        - port: Off
-          uid: 5424
-        Toggle: []
-      type: SignalReceiver
+    - links:
+      - 4750
+      - 5424
+      type: DeviceLinkSink
   - uid: 24998
     components:
     - pos: 64.5,27.5
@@ -159080,66 +158109,39 @@ entities:
       type: Transform
     - canCollide: False
       type: Physics
-    - SecondsUntilStateChange: -380144.44
+    - SecondsUntilStateChange: -391255.47
       state: Closing
       type: Door
     - airBlocked: False
       type: Airtight
-    - inputs:
-        Open:
-        - port: On
-          uid: 4750
-        - port: On
-          uid: 5424
-        Close:
-        - port: Off
-          uid: 4750
-        - port: Off
-          uid: 5424
-        Toggle: []
-      type: SignalReceiver
+    - links:
+      - 4750
+      - 5424
+      type: DeviceLinkSink
   - uid: 27397
     components:
     - pos: 61.5,7.5
       parent: 33
       type: Transform
-    - inputs:
-        Open:
-        - port: On
-          uid: 6043
-        Close:
-        - port: Off
-          uid: 6043
-        Toggle: []
-      type: SignalReceiver
+    - links:
+      - 6043
+      type: DeviceLinkSink
   - uid: 27398
     components:
     - pos: 60.5,7.5
       parent: 33
       type: Transform
-    - inputs:
-        Open:
-        - port: On
-          uid: 6043
-        Close:
-        - port: Off
-          uid: 6043
-        Toggle: []
-      type: SignalReceiver
+    - links:
+      - 6043
+      type: DeviceLinkSink
   - uid: 27399
     components:
     - pos: 59.5,7.5
       parent: 33
       type: Transform
-    - inputs:
-        Open:
-        - port: On
-          uid: 6043
-        Close:
-        - port: Off
-          uid: 6043
-        Toggle: []
-      type: SignalReceiver
+    - links:
+      - 6043
+      type: DeviceLinkSink
 - proto: SignalSwitchDirectional
   entities:
   - uid: 406
@@ -159148,18 +158150,14 @@ entities:
       pos: 53.5,14.5
       parent: 33
       type: Transform
-    - outputs:
-        On:
-        - port: Open
-          uid: 25986
-        - port: Open
-          uid: 530
-        Off:
-        - port: Close
-          uid: 25986
-        - port: Close
-          uid: 530
-      type: SignalTransmitter
+    - linkedPorts:
+        25986:
+        - On: Open
+        - Off: Close
+        530:
+        - On: Open
+        - Off: Close
+      type: DeviceLinkSource
     - type: ItemCooldown
   - uid: 690
     components:
@@ -159167,88 +158165,62 @@ entities:
       pos: -66.5,-14.5
       parent: 33
       type: Transform
-    - outputs:
-        On:
-        - port: Open
-          uid: 694
-        - port: Open
-          uid: 5534
-        - port: Open
-          uid: 695
-        Off:
-        - port: Close
-          uid: 694
-        - port: Close
-          uid: 5534
-        - port: Close
-          uid: 695
-      type: SignalTransmitter
+    - linkedPorts:
+        694:
+        - On: Open
+        - Off: Close
+        5534:
+        - On: Open
+        - Off: Close
+        695:
+        - On: Open
+        - Off: Close
+      type: DeviceLinkSource
   - uid: 838
     components:
     - pos: -16.5,101.5
       parent: 33
       type: Transform
-    - outputs:
-        On:
-        - port: Open
-          uid: 17949
-        Off:
-        - port: Close
-          uid: 17949
-      type: SignalTransmitter
+    - linkedPorts:
+        17949:
+        - On: Open
+        - Off: Close
+      type: DeviceLinkSource
   - uid: 1800
     components:
     - rot: 1.5707963267948966 rad
       pos: -81.5,-21.5
       parent: 33
       type: Transform
-    - outputs:
-        On:
-        - port: Open
-          uid: 5398
-        - port: Open
-          uid: 5057
-        Off:
-        - port: Close
-          uid: 5398
-        - port: Close
-          uid: 5057
-      type: SignalTransmitter
+    - linkedPorts:
+        5398:
+        - On: Open
+        - Off: Close
+      type: DeviceLinkSource
   - uid: 2428
     components:
     - rot: 3.141592653589793 rad
       pos: -81.5,-16.5
       parent: 33
       type: Transform
-    - outputs:
-        On:
-        - port: Open
-          uid: 5398
-        - port: Open
-          uid: 5057
-        Off:
-        - port: Close
-          uid: 5398
-        - port: Close
-          uid: 5057
-      type: SignalTransmitter
+    - linkedPorts:
+        5398:
+        - On: Open
+        - Off: Close
+      type: DeviceLinkSource
   - uid: 2769
     components:
     - pos: 36.5,-9.5
       parent: 33
       type: Transform
-    - outputs:
-        On:
-        - port: Open
-          uid: 221
-        - port: Open
-          uid: 159
-        Off:
-        - port: Close
-          uid: 221
-        - port: Close
-          uid: 159
-      type: SignalTransmitter
+    - linkedPorts:
+        221:
+        - On: Open
+        - Off: Close
+        159:
+        - On: Open
+        - Off: Close
+      type: DeviceLinkSource
   - uid: 3319
     components:
     - pos: -36.5,31.5
@@ -159256,154 +158228,118 @@ entities:
       type: Transform
     - state: True
       type: SignalSwitch
-    - outputs:
-        On:
-        - port: Open
-          uid: 9295
-        - port: Open
-          uid: 9294
-        - port: Open
-          uid: 9293
-        - port: Open
-          uid: 10929
-        - port: Open
-          uid: 10928
-        - port: Open
-          uid: 307
-        - port: Open
-          uid: 10930
-        - port: Open
-          uid: 10820
-        - port: Open
-          uid: 10819
-        - port: Open
-          uid: 10821
-        - port: Open
-          uid: 10824
-        - port: Open
-          uid: 10822
-        - port: Open
-          uid: 10823
-        Off:
-        - port: Close
-          uid: 9295
-        - port: Close
-          uid: 9294
-        - port: Close
-          uid: 9293
-        - port: Close
-          uid: 10929
-        - port: Close
-          uid: 10928
-        - port: Close
-          uid: 307
-        - port: Close
-          uid: 10930
-        - port: Close
-          uid: 10820
-        - port: Close
-          uid: 10819
-        - port: Close
-          uid: 10821
-        - port: Close
-          uid: 10824
-        - port: Close
-          uid: 10822
-        - port: Close
-          uid: 10823
-      type: SignalTransmitter
+    - linkedPorts:
+        9295:
+        - On: Open
+        - Off: Close
+        9294:
+        - On: Open
+        - Off: Close
+        9293:
+        - On: Open
+        - Off: Close
+        10929:
+        - On: Open
+        - Off: Close
+        10928:
+        - On: Open
+        - Off: Close
+        307:
+        - On: Open
+        - Off: Close
+        10930:
+        - On: Open
+        - Off: Close
+        10820:
+        - On: Open
+        - Off: Close
+        10819:
+        - On: Open
+        - Off: Close
+        10821:
+        - On: Open
+        - Off: Close
+        10824:
+        - On: Open
+        - Off: Close
+        10822:
+        - On: Open
+        - Off: Close
+        10823:
+        - On: Open
+        - Off: Close
+      type: DeviceLinkSource
   - uid: 3444
     components:
     - pos: -70.5,31.5
       parent: 33
       type: Transform
-    - outputs:
-        On:
-        - port: Open
-          uid: 3452
-        Off:
-        - port: Close
-          uid: 3452
-      type: SignalTransmitter
+    - linkedPorts:
+        3452:
+        - On: Open
+        - Off: Close
+      type: DeviceLinkSource
   - uid: 3881
     components:
     - rot: 3.141592653589793 rad
       pos: 27.5,-27.5
       parent: 33
       type: Transform
-    - outputs:
-        On:
-        - port: On
-          uid: 13030
-        Off:
-        - port: Off
-          uid: 13030
-      type: SignalTransmitter
+    - linkedPorts:
+        13030:
+        - On: On
+        - Off: Off
+      type: DeviceLinkSource
   - uid: 4182
     components:
     - pos: 24.5,-5.5
       parent: 33
       type: Transform
-    - outputs:
-        On:
-        - port: Open
-          uid: 244
-        - port: Open
-          uid: 862
-        Off:
-        - port: Close
-          uid: 244
-        - port: Close
-          uid: 862
-      type: SignalTransmitter
+    - linkedPorts:
+        244:
+        - On: Open
+        - Off: Close
+        862:
+        - On: Open
+        - Off: Close
+      type: DeviceLinkSource
   - uid: 4750
     components:
     - pos: 63.5,26.5
       parent: 33
       type: Transform
-    - outputs:
-        On:
-        - port: Open
-          uid: 24998
-        - port: Open
-          uid: 24997
-        Off:
-        - port: Close
-          uid: 24998
-        - port: Close
-          uid: 24997
-      type: SignalTransmitter
+    - linkedPorts:
+        24998:
+        - On: Open
+        - Off: Close
+        24997:
+        - On: Open
+        - Off: Close
+      type: DeviceLinkSource
   - uid: 5211
     components:
     - pos: -45.5,-17.5
       parent: 33
       type: Transform
-    - outputs:
-        On:
-        - port: On
-          uid: 1486
-        Off:
-        - port: Off
-          uid: 1486
-      type: SignalTransmitter
+    - linkedPorts:
+        1486:
+        - On: On
+        - Off: Off
+      type: DeviceLinkSource
   - uid: 5424
     components:
     - rot: 1.5707963267948966 rad
       pos: 64.5,29.5
       parent: 33
       type: Transform
-    - outputs:
-        On:
-        - port: Open
-          uid: 24997
-        - port: Open
-          uid: 24998
-        Off:
-        - port: Close
-          uid: 24997
-        - port: Close
-          uid: 24998
-      type: SignalTransmitter
+    - linkedPorts:
+        24997:
+        - On: Open
+        - Off: Close
+        24998:
+        - On: Open
+        - Off: Close
+      type: DeviceLinkSource
   - uid: 5504
     components:
     - rot: 1.5707963267948966 rad
@@ -159412,53 +158348,41 @@ entities:
       type: Transform
     - state: True
       type: SignalSwitch
-    - outputs:
-        On:
-        - port: Open
-          uid: 10675
-        Off:
-        - port: Close
-          uid: 10675
-      type: SignalTransmitter
+    - linkedPorts:
+        10675:
+        - On: Open
+        - Off: Close
+      type: DeviceLinkSource
   - uid: 6043
     components:
     - rot: 3.141592653589793 rad
       pos: 58.5,7.5
       parent: 33
       type: Transform
-    - outputs:
-        On:
-        - port: Open
-          uid: 27399
-        - port: Open
-          uid: 27398
-        - port: Open
-          uid: 27397
-        Off:
-        - port: Close
-          uid: 27399
-        - port: Close
-          uid: 27398
-        - port: Close
-          uid: 27397
-      type: SignalTransmitter
+    - linkedPorts:
+        27399:
+        - On: Open
+        - Off: Close
+        27398:
+        - On: Open
+        - Off: Close
+        27397:
+        - On: Open
+        - Off: Close
+      type: DeviceLinkSource
   - uid: 6698
     components:
     - pos: 58.5,22.5
       parent: 33
       type: Transform
-    - outputs:
-        On:
-        - port: Open
-          uid: 7170
-        - port: Open
-          uid: 7177
-        Off:
-        - port: Close
-          uid: 7170
-        - port: Close
-          uid: 7177
-      type: SignalTransmitter
+    - linkedPorts:
+        7170:
+        - On: Open
+        - Off: Close
+        7177:
+        - On: Open
+        - Off: Close
+      type: DeviceLinkSource
   - uid: 8530
     components:
     - rot: 3.141592653589793 rad
@@ -159467,22 +158391,17 @@ entities:
       type: Transform
     - state: True
       type: SignalSwitch
-    - outputs:
-        On:
-        - port: Open
-          uid: 8527
-        - port: Open
-          uid: 8528
-        - port: Open
-          uid: 8529
-        Off:
-        - port: Close
-          uid: 8527
-        - port: Close
-          uid: 8528
-        - port: Close
-          uid: 8529
-      type: SignalTransmitter
+    - linkedPorts:
+        8527:
+        - On: Open
+        - Off: Close
+        8528:
+        - On: Open
+        - Off: Close
+        8529:
+        - On: Open
+        - Off: Close
+      type: DeviceLinkSource
   - uid: 8907
     components:
     - rot: -1.5707963267948966 rad
@@ -159491,102 +158410,79 @@ entities:
       type: Transform
     - state: True
       type: SignalSwitch
-    - outputs:
-        On:
-        - port: Open
-          uid: 8904
-        - port: Open
-          uid: 8903
-        - port: Open
-          uid: 8902
-        - port: Open
-          uid: 8905
-        - port: Open
-          uid: 8906
-        Off:
-        - port: Close
-          uid: 8904
-        - port: Close
-          uid: 8903
-        - port: Close
-          uid: 8902
-        - port: Close
-          uid: 8905
-        - port: Close
-          uid: 8906
-      type: SignalTransmitter
+    - linkedPorts:
+        8904:
+        - On: Open
+        - Off: Close
+        8903:
+        - On: Open
+        - Off: Close
+        8902:
+        - On: Open
+        - Off: Close
+        8905:
+        - On: Open
+        - Off: Close
+        8906:
+        - On: Open
+        - Off: Close
+      type: DeviceLinkSource
   - uid: 9296
     components:
     - rot: 1.5707963267948966 rad
       pos: -16.5,8.5
       parent: 33
       type: Transform
-    - outputs:
-        On:
-        - port: On
-          uid: 12707
-        Off:
-        - port: Off
-          uid: 12707
-      type: SignalTransmitter
+    - linkedPorts:
+        12707:
+        - On: On
+        - Off: Off
+      type: DeviceLinkSource
   - uid: 9955
     components:
     - pos: 28.5,10.5
       parent: 33
       type: Transform
-    - outputs:
-        On:
-        - port: Open
-          uid: 368
-        - port: Open
-          uid: 369
-        Off:
-        - port: Close
-          uid: 368
-        - port: Close
-          uid: 369
-      type: SignalTransmitter
+    - linkedPorts:
+        368:
+        - On: Open
+        - Off: Close
+        369:
+        - On: Open
+        - Off: Close
+      type: DeviceLinkSource
   - uid: 10204
     components:
     - pos: 54.5,74.5
       parent: 33
       type: Transform
-    - outputs:
-        On:
-        - port: Open
-          uid: 496
-        Off:
-        - port: Close
-          uid: 496
-      type: SignalTransmitter
+    - linkedPorts:
+        496:
+        - On: Open
+        - Off: Close
+      type: DeviceLinkSource
   - uid: 10402
     components:
     - rot: -1.5707963267948966 rad
       pos: 12.5,28.5
       parent: 33
       type: Transform
-    - outputs:
-        On:
-        - port: On
-          uid: 12971
-        Off:
-        - port: Off
-          uid: 12971
-      type: SignalTransmitter
+    - linkedPorts:
+        12971:
+        - On: On
+        - Off: Off
+      type: DeviceLinkSource
   - uid: 10403
     components:
     - rot: 1.5707963267948966 rad
       pos: 44.5,18.5
       parent: 33
       type: Transform
-    - outputs:
-        On:
-        - port: On
-          uid: 10294
-        Off:
-        - port: Off
-          uid: 10294
-      type: SignalTransmitter
+    - linkedPorts:
+        10294:
+        - On: On
+        - Off: Off
+      type: DeviceLinkSource
   - uid: 10404
     components:
     - name: Lights Out
@@ -159595,321 +158491,249 @@ entities:
       pos: -40.5,72.5
       parent: 33
       type: Transform
-    - outputs:
-        On:
-        - port: On
-          uid: 12502
-        - port: On
-          uid: 12501
-        - port: On
-          uid: 12504
-        - port: On
-          uid: 12503
-        Off:
-        - port: Off
-          uid: 12502
-        - port: Off
-          uid: 12501
-        - port: Off
-          uid: 12504
-        - port: Off
-          uid: 12503
-      type: SignalTransmitter
+    - linkedPorts:
+        12502:
+        - On: On
+        - Off: Off
+        12501:
+        - On: On
+        - Off: Off
+        12504:
+        - On: On
+        - Off: Off
+        12503:
+        - On: On
+        - Off: Off
+      type: DeviceLinkSource
   - uid: 10405
     components:
     - rot: 3.141592653589793 rad
       pos: -60.5,33.5
       parent: 33
       type: Transform
-    - outputs:
-        On:
-        - port: On
-          uid: 12731
-        Off:
-        - port: Off
-          uid: 12731
-      type: SignalTransmitter
+    - linkedPorts:
+        12731:
+        - On: On
+        - Off: Off
+      type: DeviceLinkSource
   - uid: 10406
     components:
     - rot: 3.141592653589793 rad
       pos: -92.5,23.5
       parent: 33
       type: Transform
-    - outputs:
-        On:
-        - port: On
-          uid: 18513
-        - port: On
-          uid: 18512
-        - port: On
-          uid: 18518
-        - port: On
-          uid: 18517
-        Off:
-        - port: Off
-          uid: 18513
-        - port: Off
-          uid: 18512
-        - port: Off
-          uid: 18518
-        - port: Off
-          uid: 18517
-      type: SignalTransmitter
+    - linkedPorts:
+        18513:
+        - On: On
+        - Off: Off
+        18512:
+        - On: On
+        - Off: Off
+        18518:
+        - On: On
+        - Off: Off
+        18517:
+        - On: On
+        - Off: Off
+      type: DeviceLinkSource
   - uid: 10408
     components:
     - pos: -48.5,-20.5
       parent: 33
       type: Transform
-    - outputs:
-        On:
-        - port: On
-          uid: 12574
-        Off:
-        - port: Off
-          uid: 12574
-      type: SignalTransmitter
+    - linkedPorts:
+        12574:
+        - On: On
+        - Off: Off
+      type: DeviceLinkSource
   - uid: 10926
     components:
     - pos: 31.5,10.5
       parent: 33
       type: Transform
-    - outputs:
-        On:
-        - port: Open
-          uid: 366
-        - port: Open
-          uid: 367
-        Off:
-        - port: Close
-          uid: 366
-        - port: Close
-          uid: 367
-      type: SignalTransmitter
+    - linkedPorts:
+        366:
+        - On: Open
+        - Off: Close
+        367:
+        - On: Open
+        - Off: Close
+      type: DeviceLinkSource
   - uid: 12420
     components:
     - rot: 1.5707963267948966 rad
       pos: -16.5,11.5
       parent: 33
       type: Transform
-    - outputs:
-        On:
-        - port: On
-          uid: 12705
-        Off:
-        - port: Off
-          uid: 12705
-      type: SignalTransmitter
+    - linkedPorts:
+        12705:
+        - On: On
+        - Off: Off
+      type: DeviceLinkSource
   - uid: 12423
     components:
     - rot: 1.5707963267948966 rad
       pos: -16.5,16.5
       parent: 33
       type: Transform
-    - outputs:
-        On:
-        - port: On
-          uid: 12706
-        Off:
-        - port: Off
-          uid: 12706
-      type: SignalTransmitter
+    - linkedPorts:
+        12706:
+        - On: On
+        - Off: Off
+      type: DeviceLinkSource
   - uid: 12428
     components:
     - rot: 3.141592653589793 rad
       pos: 27.5,-25.5
       parent: 33
       type: Transform
-    - outputs:
-        On:
-        - port: On
-          uid: 3880
-        Off:
-        - port: Off
-          uid: 3880
-      type: SignalTransmitter
+    - linkedPorts:
+        3880:
+        - On: On
+        - Off: Off
+      type: DeviceLinkSource
   - uid: 12451
     components:
     - rot: -1.5707963267948966 rad
       pos: -70.5,-34.5
       parent: 33
       type: Transform
-    - outputs:
-        On:
-        - port: On
-          uid: 12598
-        Off:
-        - port: Off
-          uid: 12598
-      type: SignalTransmitter
+    - linkedPorts:
+        12598:
+        - On: On
+        - Off: Off
+      type: DeviceLinkSource
   - uid: 12465
     components:
     - rot: 3.141592653589793 rad
       pos: -89.5,2.5
       parent: 33
       type: Transform
-    - outputs:
-        On:
-        - port: On
-          uid: 12632
-        Off:
-        - port: Off
-          uid: 12632
-      type: SignalTransmitter
+    - linkedPorts:
+        12632:
+        - On: On
+        - Off: Off
+      type: DeviceLinkSource
   - uid: 12478
     components:
     - pos: -32.5,8.5
       parent: 33
       type: Transform
-    - outputs:
-        On:
-        - port: On
-          uid: 12698
-        Off:
-        - port: Off
-          uid: 12698
-      type: SignalTransmitter
+    - linkedPorts:
+        12698:
+        - On: On
+        - Off: Off
+      type: DeviceLinkSource
   - uid: 12485
     components:
     - rot: 3.141592653589793 rad
       pos: -18.5,16.5
       parent: 33
       type: Transform
-    - outputs:
-        On:
-        - port: On
-          uid: 12702
-        Off:
-        - port: Off
-          uid: 12702
-      type: SignalTransmitter
+    - linkedPorts:
+        12702:
+        - On: On
+        - Off: Off
+      type: DeviceLinkSource
   - uid: 12487
     components:
     - pos: -18.5,8.5
       parent: 33
       type: Transform
-    - outputs:
-        On:
-        - port: On
-          uid: 12701
-        Off:
-        - port: Off
-          uid: 12701
-      type: SignalTransmitter
+    - linkedPorts:
+        12701:
+        - On: On
+        - Off: Off
+      type: DeviceLinkSource
   - uid: 12509
     components:
     - rot: 3.141592653589793 rad
       pos: -14.5,72.5
       parent: 33
       type: Transform
-    - outputs:
-        On:
-        - port: On
-          uid: 12800
-        Off:
-        - port: Off
-          uid: 12800
-      type: SignalTransmitter
+    - linkedPorts:
+        12800:
+        - On: On
+        - Off: Off
+      type: DeviceLinkSource
   - uid: 12526
     components:
     - pos: -33.5,66.5
       parent: 33
       type: Transform
-    - outputs:
-        On:
-        - port: On
-          uid: 12839
-        Off:
-        - port: Off
-          uid: 12839
-      type: SignalTransmitter
+    - linkedPorts:
+        12839:
+        - On: On
+        - Off: Off
+      type: DeviceLinkSource
   - uid: 12547
     components:
     - pos: 29.5,41.5
       parent: 33
       type: Transform
-    - outputs:
-        On:
-        - port: On
-          uid: 12544
-        Off:
-        - port: Off
-          uid: 12544
-      type: SignalTransmitter
+    - linkedPorts:
+        12544:
+        - On: On
+        - Off: Off
+      type: DeviceLinkSource
   - uid: 12712
     components:
     - rot: 3.141592653589793 rad
       pos: -102.5,1.5
       parent: 33
       type: Transform
-    - outputs:
-        On:
-        - port: On
-          uid: 17472
-        Off:
-        - port: Off
-          uid: 17472
-      type: SignalTransmitter
+    - linkedPorts:
+        17472:
+        - On: On
+        - Off: Off
+      type: DeviceLinkSource
   - uid: 12847
     components:
     - rot: -1.5707963267948966 rad
       pos: -56.5,-26.5
       parent: 33
       type: Transform
-    - outputs:
-        On:
-        - port: On
-          uid: 27552
-        Off:
-        - port: Off
-          uid: 27552
-      type: SignalTransmitter
+    - linkedPorts:
+        27552:
+        - On: On
+        - Off: Off
+      type: DeviceLinkSource
   - uid: 15092
     components:
     - pos: -5.5,-41.5
       parent: 33
       type: Transform
-    - outputs:
-        On:
-        - port: Open
-          uid: 11254
-        - port: Open
-          uid: 11147
-        Off:
-        - port: Close
-          uid: 11254
-        - port: Close
-          uid: 11147
-      type: SignalTransmitter
+    - linkedPorts:
+        11254:
+        - On: Open
+        - Off: Close
+        11147:
+        - On: Open
+        - Off: Close
+      type: DeviceLinkSource
   - uid: 15196
     components:
     - pos: -25.5,-41.5
       parent: 33
       type: Transform
-    - outputs:
-        On:
-        - port: Open
-          uid: 5702
-        - port: Open
-          uid: 11288
-        Off:
-        - port: Close
-          uid: 5702
-        - port: Close
-          uid: 11288
-      type: SignalTransmitter
+    - linkedPorts:
+        5702:
+        - On: Open
+        - Off: Close
+        11288:
+        - On: Open
+        - Off: Close
+      type: DeviceLinkSource
   - uid: 17948
     components:
     - pos: -14.5,101.5
       parent: 33
       type: Transform
-    - outputs:
-        On:
-        - port: Open
-          uid: 17950
-        Off:
-        - port: Close
-          uid: 17950
-      type: SignalTransmitter
+    - linkedPorts:
+        17950:
+        - On: Open
+        - Off: Close
+      type: DeviceLinkSource
   - uid: 18121
     components:
     - name: blast door signal switch
@@ -159918,18 +158742,14 @@ entities:
       pos: -56.5,-53.5
       parent: 33
       type: Transform
-    - outputs:
-        On:
-        - port: Open
-          uid: 18092
-        - port: Open
-          uid: 18091
-        Off:
-        - port: Close
-          uid: 18092
-        - port: Close
-          uid: 18091
-      type: SignalTransmitter
+    - linkedPorts:
+        18092:
+        - On: Open
+        - Off: Close
+        18091:
+        - On: Open
+        - Off: Close
+      type: DeviceLinkSource
   - uid: 18122
     components:
     - name: external shutters signal switch
@@ -159938,34 +158758,26 @@ entities:
       pos: -56.5,-54.5
       parent: 33
       type: Transform
-    - outputs:
-        On:
-        - port: Open
-          uid: 18095
-        - port: Open
-          uid: 18094
-        - port: Open
-          uid: 18093
-        - port: Open
-          uid: 18090
-        - port: Open
-          uid: 18100
-        - port: Open
-          uid: 18099
-        Off:
-        - port: Close
-          uid: 18095
-        - port: Close
-          uid: 18094
-        - port: Close
-          uid: 18093
-        - port: Close
-          uid: 18090
-        - port: Close
-          uid: 18100
-        - port: Close
-          uid: 18099
-      type: SignalTransmitter
+    - linkedPorts:
+        18095:
+        - On: Open
+        - Off: Close
+        18094:
+        - On: Open
+        - Off: Close
+        18093:
+        - On: Open
+        - Off: Close
+        18090:
+        - On: Open
+        - Off: Close
+        18100:
+        - On: Open
+        - Off: Close
+        18099:
+        - On: Open
+        - Off: Close
+      type: DeviceLinkSource
   - uid: 18123
     components:
     - name: internal shutters signal switch
@@ -159976,40 +158788,31 @@ entities:
       type: Transform
     - state: True
       type: SignalSwitch
-    - outputs:
-        On:
-        - port: Open
-          uid: 18096
-        - port: Open
-          uid: 18097
-        - port: Open
-          uid: 18098
-        Off:
-        - port: Close
-          uid: 18096
-        - port: Close
-          uid: 18097
-        - port: Close
-          uid: 18098
-      type: SignalTransmitter
+    - linkedPorts:
+        18096:
+        - On: Open
+        - Off: Close
+        18097:
+        - On: Open
+        - Off: Close
+        18098:
+        - On: Open
+        - Off: Close
+      type: DeviceLinkSource
   - uid: 24223
     components:
     - rot: 1.5707963267948966 rad
       pos: -70.5,-13.5
       parent: 33
       type: Transform
-    - outputs:
-        On:
-        - port: Open
-          uid: 5533
-        - port: Open
-          uid: 5535
-        Off:
-        - port: Close
-          uid: 5533
-        - port: Close
-          uid: 5535
-      type: SignalTransmitter
+    - linkedPorts:
+        5533:
+        - On: Open
+        - Off: Close
+        5535:
+        - On: Open
+        - Off: Close
+      type: DeviceLinkSource
   - uid: 25470
     components:
     - rot: 3.141592653589793 rad
@@ -160018,214 +158821,163 @@ entities:
       type: Transform
     - state: True
       type: SignalSwitch
-    - outputs:
-        On:
-        - port: Open
-          uid: 25466
-        - port: Open
-          uid: 25465
-        - port: Open
-          uid: 25464
-        - port: Open
-          uid: 25463
-        Off:
-        - port: Close
-          uid: 25466
-        - port: Close
-          uid: 25465
-        - port: Close
-          uid: 25464
-        - port: Close
-          uid: 25463
-      type: SignalTransmitter
+    - linkedPorts:
+        25466:
+        - On: Open
+        - Off: Close
+        25465:
+        - On: Open
+        - Off: Close
+        25464:
+        - On: Open
+        - Off: Close
+        25463:
+        - On: Open
+        - Off: Close
+      type: DeviceLinkSource
   - uid: 25993
     components:
     - rot: -1.5707963267948966 rad
       pos: 48.5,14.5
       parent: 33
       type: Transform
-    - outputs:
-        On:
-        - port: Open
-          uid: 530
-        - port: Open
-          uid: 25986
-        Off:
-        - port: Close
-          uid: 530
-        - port: Close
-          uid: 25986
-      type: SignalTransmitter
+    - linkedPorts:
+        530:
+        - On: Open
+        - Off: Close
+        25986:
+        - On: Open
+        - Off: Close
+      type: DeviceLinkSource
   - uid: 27313
     components:
     - rot: -1.5707963267948966 rad
       pos: -22.5,58.5
       parent: 33
       type: Transform
-    - outputs:
-        On:
-        - port: Open
-          uid: 927
-        - port: Open
-          uid: 928
-        - port: Open
-          uid: 926
-        - port: Open
-          uid: 925
-        Off:
-        - port: Close
-          uid: 927
-        - port: Close
-          uid: 928
-        - port: Close
-          uid: 926
-        - port: Close
-          uid: 925
-      type: SignalTransmitter
+    - linkedPorts:
+        927:
+        - On: Open
+        - Off: Close
+        928:
+        - On: Open
+        - Off: Close
+        926:
+        - On: Open
+        - Off: Close
+        925:
+        - On: Open
+        - Off: Close
+      type: DeviceLinkSource
   - uid: 27317
     components:
     - pos: -5.5,30.5
       parent: 33
       type: Transform
-    - outputs:
-        On:
-        - port: Forward
-          uid: 3143
-        - port: Forward
-          uid: 2991
-        - port: Forward
-          uid: 8071
-        - port: Forward
-          uid: 3063
-        - port: Forward
-          uid: 3070
-        - port: Forward
-          uid: 3053
-        - port: Forward
-          uid: 8070
-        - port: Forward
-          uid: 3072
-        - port: Forward
-          uid: 3016
-        - port: Forward
-          uid: 1312
-        - port: Forward
-          uid: 7063
-        - port: Forward
-          uid: 1408
-        - port: Forward
-          uid: 5693
-        - port: Forward
-          uid: 2985
-        Off:
-        - port: Off
-          uid: 3143
-        - port: Off
-          uid: 2991
-        - port: Off
-          uid: 8071
-        - port: Off
-          uid: 3063
-        - port: Off
-          uid: 3070
-        - port: Off
-          uid: 3053
-        - port: Off
-          uid: 8070
-        - port: Off
-          uid: 3072
-        - port: Off
-          uid: 3016
-        - port: Off
-          uid: 1312
-        - port: Off
-          uid: 7063
-        - port: Off
-          uid: 1408
-        - port: Off
-          uid: 5693
-        - port: Off
-          uid: 2985
-      type: SignalTransmitter
+    - linkedPorts:
+        3143:
+        - On: Forward
+        - Off: Off
+        2991:
+        - On: Forward
+        - Off: Off
+        8071:
+        - On: Forward
+        - Off: Off
+        3063:
+        - On: Forward
+        - Off: Off
+        3070:
+        - On: Forward
+        - Off: Off
+        3053:
+        - On: Forward
+        - Off: Off
+        8070:
+        - On: Forward
+        - Off: Off
+        3072:
+        - On: Forward
+        - Off: Off
+        3016:
+        - On: Forward
+        - Off: Off
+        1312:
+        - On: Forward
+        - Off: Off
+        7063:
+        - On: Forward
+        - Off: Off
+        1408:
+        - On: Forward
+        - Off: Off
+        5693:
+        - On: Forward
+        - Off: Off
+        2985:
+        - On: Forward
+        - Off: Off
+      type: DeviceLinkSource
   - uid: 27353
     components:
     - pos: -18.5,76.5
       parent: 33
       type: Transform
-    - outputs:
-        On:
-        - port: Open
-          uid: 25461
-        - port: Open
-          uid: 25467
-        - port: Open
-          uid: 25468
-        - port: Open
-          uid: 25462
-        - port: Open
-          uid: 25457
-        - port: Open
-          uid: 25456
-        Off:
-        - port: Close
-          uid: 25461
-        - port: Close
-          uid: 25467
-        - port: Close
-          uid: 25468
-        - port: Close
-          uid: 25462
-        - port: Close
-          uid: 25457
-        - port: Close
-          uid: 25456
-      type: SignalTransmitter
+    - linkedPorts:
+        25461:
+        - On: Open
+        - Off: Close
+        25467:
+        - On: Open
+        - Off: Close
+        25468:
+        - On: Open
+        - Off: Close
+        25462:
+        - On: Open
+        - Off: Close
+        25457:
+        - On: Open
+        - Off: Close
+        25456:
+        - On: Open
+        - Off: Close
+      type: DeviceLinkSource
   - uid: 27396
     components:
     - pos: 62.5,7.5
       parent: 33
       type: Transform
-    - outputs:
-        On:
-        - port: Forward
-          uid: 27877
-        - port: Open
-          uid: 27395
-        - port: Forward
-          uid: 27876
-        - port: Forward
-          uid: 27393
-        - port: Open
-          uid: 27875
-        - port: Forward
-          uid: 27401
-        Off:
-        - port: Off
-          uid: 27877
-        - port: Close
-          uid: 27395
-        - port: Off
-          uid: 27876
-        - port: Off
-          uid: 27393
-        - port: Close
-          uid: 27875
-        - port: Off
-          uid: 27401
-      type: SignalTransmitter
+    - linkedPorts:
+        27877:
+        - On: Forward
+        - Off: Off
+        27395:
+        - On: Open
+        - Off: Close
+        27876:
+        - On: Forward
+        - Off: Off
+        27393:
+        - On: Forward
+        - Off: Off
+        27875:
+        - On: Open
+        - Off: Close
+        27401:
+        - On: Forward
+        - Off: Off
+      type: DeviceLinkSource
   - uid: 28185
     components:
     - pos: -101.5,-75.5
       parent: 33
       type: Transform
-    - outputs:
-        On:
-        - port: On
-          uid: 28184
-        Off:
-        - port: Off
-          uid: 28184
-      type: SignalTransmitter
+    - linkedPorts:
+        28184:
+        - On: On
+        - Off: Off
+      type: DeviceLinkSource
   - uid: 28275
     components:
     - rot: 1.5707963267948966 rad
@@ -160238,30 +158990,23 @@ entities:
       pos: 15.5,-13.5
       parent: 33
       type: Transform
-    - outputs:
-        On:
-        - port: Forward
-          uid: 171
-        - port: Forward
-          uid: 165
-        - port: Forward
-          uid: 842
-        - port: Forward
-          uid: 2827
-        - port: Forward
-          uid: 2614
-        Off:
-        - port: Off
-          uid: 171
-        - port: Off
-          uid: 165
-        - port: Off
-          uid: 842
-        - port: Off
-          uid: 2827
-        - port: Off
-          uid: 2614
-      type: SignalTransmitter
+    - linkedPorts:
+        171:
+        - On: Forward
+        - Off: Off
+        165:
+        - On: Forward
+        - Off: Off
+        842:
+        - On: Forward
+        - Off: Off
+        2827:
+        - On: Forward
+        - Off: Off
+        2614:
+        - On: Forward
+        - Off: Off
+      type: DeviceLinkSource
 - proto: SignAnomaly
   entities:
   - uid: 24173
@@ -163512,6 +162257,13 @@ entities:
     - pos: -87.52413,9.760233
       parent: 33
       type: Transform
+- proto: SpacemenFigureSpawner
+  entities:
+  - uid: 18542
+    components:
+    - pos: -71.5,-35.5
+      parent: 33
+      type: Transform
 - proto: SpaceTickSpawner
   entities:
   - uid: 9611
@@ -163547,6 +162299,23 @@ entities:
   - uid: 17010
     components:
     - pos: 11.5,64.5
+      parent: 33
+      type: Transform
+- proto: SpawnMobButterfly
+  entities:
+  - uid: 6144
+    components:
+    - pos: -11.5,11.5
+      parent: 33
+      type: Transform
+  - uid: 18555
+    components:
+    - pos: -5.5,17.5
+      parent: 33
+      type: Transform
+  - uid: 18560
+    components:
+    - pos: 3.5,16.5
       parent: 33
       type: Transform
 - proto: SpawnMobCat
@@ -163632,6 +162401,13 @@ entities:
   - uid: 18557
     components:
     - pos: -40.5,12.5
+      parent: 33
+      type: Transform
+- proto: SpawnMobMonkeyPunpun
+  entities:
+  - uid: 3908
+    components:
+    - pos: 10.5,26.5
       parent: 33
       type: Transform
 - proto: SpawnMobMouse
@@ -164212,14 +162988,19 @@ entities:
       type: Transform
 - proto: SpawnPointParamedic
   entities:
-  - uid: 22109
+  - uid: 10757
     components:
-    - pos: -58.5,7.5
+    - pos: -60.5,14.5
       parent: 33
       type: Transform
-  - uid: 22110
+  - uid: 18538
     components:
-    - pos: -59.5,7.5
+    - pos: -60.5,16.5
+      parent: 33
+      type: Transform
+  - uid: 18540
+    components:
+    - pos: -60.5,15.5
       parent: 33
       type: Transform
 - proto: SpawnPointPrisoner
@@ -164970,6 +163751,13 @@ entities:
   - uid: 20866
     components:
     - pos: -80.5,12.5
+      parent: 33
+      type: Transform
+- proto: StrangePill
+  entities:
+  - uid: 18544
+    components:
+    - pos: 22.3931,74.5525
       parent: 33
       type: Transform
 - proto: Stunbaton
@@ -171402,7 +170190,7 @@ entities:
     - pos: -45.74955,-30.25453
       parent: 33
       type: Transform
-- proto: ToyAssistant
+- proto: ToyFigurinePassenger
   entities:
   - uid: 24463
     components:
@@ -171529,65 +170317,44 @@ entities:
     - pos: 54.5,14.5
       parent: 33
       type: Transform
-    - outputs:
-        Left:
-        - port: Forward
-          uid: 13055
-        - port: Forward
-          uid: 407
-        - port: Forward
-          uid: 432
-        - port: Forward
-          uid: 431
-        - port: Forward
-          uid: 433
-        - port: Forward
-          uid: 613
-        - port: Forward
-          uid: 612
-        - port: Forward
-          uid: 611
-        - port: Forward
-          uid: 609
-        Right:
-        - port: Reverse
-          uid: 13055
-        - port: Reverse
-          uid: 407
-        - port: Reverse
-          uid: 432
-        - port: Reverse
-          uid: 431
-        - port: Reverse
-          uid: 433
-        - port: Reverse
-          uid: 613
-        - port: Reverse
-          uid: 612
-        - port: Reverse
-          uid: 611
-        - port: Reverse
-          uid: 609
-        Middle:
-        - port: Off
-          uid: 13055
-        - port: Off
-          uid: 407
-        - port: Off
-          uid: 432
-        - port: Off
-          uid: 431
-        - port: Off
-          uid: 433
-        - port: Off
-          uid: 613
-        - port: Off
-          uid: 612
-        - port: Off
-          uid: 611
-        - port: Off
-          uid: 609
-      type: SignalTransmitter
+    - linkedPorts:
+        13055:
+        - Left: Forward
+        - Right: Reverse
+        - Middle: Off
+        407:
+        - Left: Forward
+        - Right: Reverse
+        - Middle: Off
+        432:
+        - Left: Forward
+        - Right: Reverse
+        - Middle: Off
+        431:
+        - Left: Forward
+        - Right: Reverse
+        - Middle: Off
+        433:
+        - Left: Forward
+        - Right: Reverse
+        - Middle: Off
+        613:
+        - Left: Forward
+        - Right: Reverse
+        - Middle: Off
+        612:
+        - Left: Forward
+        - Right: Reverse
+        - Middle: Off
+        611:
+        - Left: Forward
+        - Right: Reverse
+        - Middle: Off
+        609:
+        - Left: Forward
+        - Right: Reverse
+        - Middle: Off
+      type: DeviceLinkSource
   - uid: 10965
     components:
     - pos: 11.5,68.5
@@ -171600,79 +170367,47 @@ entities:
         - Left: Forward
         - Right: Reverse
         - Middle: Off
-      registeredSinks:
-        Left:
-        - 9856
-        Right:
-        - 9856
-        Middle:
-        - 9856
+        9793:
+        - Left: Forward
+        - Right: Reverse
+        - Middle: Off
+        9769:
+        - Left: Forward
+        - Right: Reverse
+        - Middle: Off
+        9863:
+        - Left: Forward
+        - Right: Reverse
+        - Middle: Off
+        9862:
+        - Left: Forward
+        - Right: Reverse
+        - Middle: Off
+        9861:
+        - Left: Forward
+        - Right: Reverse
+        - Middle: Off
+        9860:
+        - Left: Forward
+        - Right: Reverse
+        - Middle: Off
+        9859:
+        - Left: Forward
+        - Right: Reverse
+        - Middle: Off
+        9858:
+        - Left: Forward
+        - Right: Reverse
+        - Middle: Off
+        9857:
+        - Left: Forward
+        - Right: Reverse
+        - Middle: Off
+        10193:
+        - Left: Forward
+        - Right: Reverse
+        - Middle: Off
       type: DeviceLinkSource
-    - outputs:
-        Left:
-        - port: Forward
-          uid: 9793
-        - port: Forward
-          uid: 9769
-        - port: Forward
-          uid: 9863
-        - port: Forward
-          uid: 9862
-        - port: Forward
-          uid: 9861
-        - port: Forward
-          uid: 9860
-        - port: Forward
-          uid: 9859
-        - port: Forward
-          uid: 9858
-        - port: Forward
-          uid: 9857
-        - port: Forward
-          uid: 10193
-        Right:
-        - port: Reverse
-          uid: 9793
-        - port: Reverse
-          uid: 9769
-        - port: Reverse
-          uid: 9863
-        - port: Reverse
-          uid: 9862
-        - port: Reverse
-          uid: 9861
-        - port: Reverse
-          uid: 9860
-        - port: Reverse
-          uid: 9859
-        - port: Reverse
-          uid: 9858
-        - port: Reverse
-          uid: 9857
-        - port: Reverse
-          uid: 10193
-        Middle:
-        - port: Off
-          uid: 9793
-        - port: Off
-          uid: 9769
-        - port: Off
-          uid: 9863
-        - port: Off
-          uid: 9862
-        - port: Off
-          uid: 9861
-        - port: Off
-          uid: 9860
-        - port: Off
-          uid: 9859
-        - port: Off
-          uid: 9858
-        - port: Off
-          uid: 9857
-        - port: Off
-          uid: 10193
-      type: SignalTransmitter
   - uid: 13054
     components:
     - pos: 33.5,-12.5
@@ -171680,176 +170415,119 @@ entities:
       type: Transform
     - nextSignalLeft: True
       type: TwoWayLever
-    - outputs:
-        Left:
-        - port: Forward
-          uid: 2788
-        - port: Forward
-          uid: 13052
-        - port: Forward
-          uid: 2633
-        - port: Forward
-          uid: 750
-        - port: Forward
-          uid: 13053
-        - port: Forward
-          uid: 160
-        - port: Forward
-          uid: 788
-        - port: Forward
-          uid: 2738
-        Right:
-        - port: Reverse
-          uid: 2788
-        - port: Reverse
-          uid: 13052
-        - port: Reverse
-          uid: 2633
-        - port: Reverse
-          uid: 750
-        - port: Reverse
-          uid: 13053
-        - port: Reverse
-          uid: 160
-        - port: Reverse
-          uid: 788
-        - port: Reverse
-          uid: 2738
-        Middle:
-        - port: Off
-          uid: 2788
-        - port: Off
-          uid: 13052
-        - port: Off
-          uid: 2633
-        - port: Off
-          uid: 750
-        - port: Off
-          uid: 13053
-        - port: Off
-          uid: 160
-        - port: Off
-          uid: 788
-        - port: Off
-          uid: 2738
-      type: SignalTransmitter
+    - linkedPorts:
+        2788:
+        - Left: Forward
+        - Right: Reverse
+        - Middle: Off
+        13052:
+        - Left: Forward
+        - Right: Reverse
+        - Middle: Off
+        2633:
+        - Left: Forward
+        - Right: Reverse
+        - Middle: Off
+        750:
+        - Left: Forward
+        - Right: Reverse
+        - Middle: Off
+        13053:
+        - Left: Forward
+        - Right: Reverse
+        - Middle: Off
+        160:
+        - Left: Forward
+        - Right: Reverse
+        - Middle: Off
+        788:
+        - Left: Forward
+        - Right: Reverse
+        - Middle: Off
+        2738:
+        - Left: Forward
+        - Right: Reverse
+        - Middle: Off
+      type: DeviceLinkSource
     - type: ItemCooldown
   - uid: 17938
     components:
     - pos: -14.5,100.5
       parent: 33
       type: Transform
-    - outputs:
-        Left:
-        - port: Forward
-          uid: 17927
-        - port: Forward
-          uid: 17928
-        - port: Forward
-          uid: 17929
-        - port: Forward
-          uid: 17930
-        - port: Forward
-          uid: 17945
-        - port: Forward
-          uid: 17946
-        - port: Forward
-          uid: 17951
-        Right:
-        - port: Reverse
-          uid: 17927
-        - port: Reverse
-          uid: 17928
-        - port: Reverse
-          uid: 17929
-        - port: Reverse
-          uid: 17930
-        - port: Reverse
-          uid: 17945
-        - port: Reverse
-          uid: 17946
-        - port: Reverse
-          uid: 17951
-        Middle:
-        - port: Off
-          uid: 17927
-        - port: Off
-          uid: 17928
-        - port: Off
-          uid: 17929
-        - port: Off
-          uid: 17930
-        - port: Off
-          uid: 17945
-        - port: Off
-          uid: 17946
-        - port: Off
-          uid: 17951
-      type: SignalTransmitter
+    - linkedPorts:
+        17927:
+        - Left: Forward
+        - Right: Reverse
+        - Middle: Off
+        17928:
+        - Left: Forward
+        - Right: Reverse
+        - Middle: Off
+        17929:
+        - Left: Forward
+        - Right: Reverse
+        - Middle: Off
+        17930:
+        - Left: Forward
+        - Right: Reverse
+        - Middle: Off
+        17945:
+        - Left: Forward
+        - Right: Reverse
+        - Middle: Off
+        17946:
+        - Left: Forward
+        - Right: Reverse
+        - Middle: Off
+        17951:
+        - Left: Forward
+        - Right: Reverse
+        - Middle: Off
+      type: DeviceLinkSource
   - uid: 27354
     components:
     - pos: 46.5,13.5
       parent: 33
       type: Transform
-    - outputs:
-        Left:
-        - port: Forward
-          uid: 609
-        - port: Forward
-          uid: 611
-        - port: Forward
-          uid: 612
-        - port: Forward
-          uid: 613
-        - port: Forward
-          uid: 433
-        - port: Forward
-          uid: 431
-        - port: Forward
-          uid: 432
-        - port: Forward
-          uid: 407
-        - port: Forward
-          uid: 13055
-        Right:
-        - port: Reverse
-          uid: 609
-        - port: Reverse
-          uid: 611
-        - port: Reverse
-          uid: 612
-        - port: Reverse
-          uid: 613
-        - port: Reverse
-          uid: 433
-        - port: Reverse
-          uid: 431
-        - port: Reverse
-          uid: 432
-        - port: Reverse
-          uid: 407
-        - port: Reverse
-          uid: 13055
-        Middle:
-        - port: Off
-          uid: 609
-        - port: Off
-          uid: 611
-        - port: Off
-          uid: 612
-        - port: Off
-          uid: 613
-        - port: Off
-          uid: 433
-        - port: Off
-          uid: 431
-        - port: Off
-          uid: 432
-        - port: Off
-          uid: 407
-        - port: Off
-          uid: 13055
-      type: SignalTransmitter
+    - linkedPorts:
+        609:
+        - Left: Forward
+        - Right: Reverse
+        - Middle: Off
+        611:
+        - Left: Forward
+        - Right: Reverse
+        - Middle: Off
+        612:
+        - Left: Forward
+        - Right: Reverse
+        - Middle: Off
+        613:
+        - Left: Forward
+        - Right: Reverse
+        - Middle: Off
+        433:
+        - Left: Forward
+        - Right: Reverse
+        - Middle: Off
+        431:
+        - Left: Forward
+        - Right: Reverse
+        - Middle: Off
+        432:
+        - Left: Forward
+        - Right: Reverse
+        - Middle: Off
+        407:
+        - Left: Forward
+        - Right: Reverse
+        - Middle: Off
+        13055:
+        - Left: Forward
+        - Right: Reverse
+        - Middle: Off
+      type: DeviceLinkSource
 - proto: UnfinishedMachineFrame
   entities:
   - uid: 17189
@@ -189914,7 +188592,7 @@ entities:
     - pos: -61.5,17.5
       parent: 33
       type: Transform
-  - uid: 18538
+  - uid: 24242
     components:
     - pos: -61.5,16.5
       parent: 33
@@ -190867,6 +189545,17 @@ entities:
       pos: -48.400703,80.55256
       parent: 33
       type: Transform
+- proto: WhoopieCushion
+  entities:
+  - uid: 24241
+    components:
+    - flags: InContainer
+      type: MetaData
+    - parent: 18631
+      type: Transform
+    - canCollide: False
+      type: Physics
+    - type: InsideEntityStorage
 - proto: Windoor
   entities:
   - uid: 5756
@@ -190911,26 +189600,6 @@ entities:
       pos: 7.5,84.5
       parent: 33
       type: Transform
-- proto: WindoorArmoryLocked
-  entities:
-  - uid: 9780
-    components:
-    - rot: -1.5707963267948966 rad
-      pos: -0.5,69.5
-      parent: 33
-      type: Transform
-  - uid: 9782
-    components:
-    - rot: -1.5707963267948966 rad
-      pos: -0.5,70.5
-      parent: 33
-      type: Transform
-  - uid: 18562
-    components:
-    - rot: -1.5707963267948966 rad
-      pos: -0.5,67.5
-      parent: 33
-      type: Transform
 - proto: WindoorBarLocked
   entities:
   - uid: 2298
@@ -190957,98 +189626,12 @@ entities:
       pos: -13.5,-22.5
       parent: 33
       type: Transform
-- proto: WindoorBrigLocked
-  entities:
-  - uid: 2920
-    components:
-    - rot: 1.5707963267948966 rad
-      pos: -26.5,30.5
-      parent: 33
-      type: Transform
 - proto: WindoorChapelLocked
   entities:
   - uid: 27870
     components:
     - rot: -1.5707963267948966 rad
       pos: -37.5,-12.5
-      parent: 33
-      type: Transform
-- proto: WindoorChemistryLocked
-  entities:
-  - uid: 1927
-    components:
-    - rot: -1.5707963267948966 rad
-      pos: -49.5,6.5
-      parent: 33
-      type: Transform
-  - uid: 12660
-    components:
-    - pos: 15.5,11.5
-      parent: 33
-      type: Transform
-- proto: WindoorCommandLocked
-  entities:
-  - uid: 2666
-    components:
-    - rot: -1.5707963267948966 rad
-      pos: -28.5,11.5
-      parent: 33
-      type: Transform
-  - uid: 2667
-    components:
-    - rot: -1.5707963267948966 rad
-      pos: -28.5,10.5
-      parent: 33
-      type: Transform
-  - uid: 4440
-    components:
-    - rot: 3.141592653589793 rad
-      pos: -61.5,-18.5
-      parent: 33
-      type: Transform
-  - uid: 4453
-    components:
-    - rot: 3.141592653589793 rad
-      pos: -60.5,-18.5
-      parent: 33
-      type: Transform
-  - uid: 4569
-    components:
-    - rot: 3.141592653589793 rad
-      pos: -57.5,-18.5
-      parent: 33
-      type: Transform
-  - uid: 16552
-    components:
-    - rot: 3.141592653589793 rad
-      pos: -58.5,-18.5
-      parent: 33
-      type: Transform
-  - uid: 24768
-    components:
-    - rot: 1.5707963267948966 rad
-      pos: -53.5,30.5
-      parent: 33
-      type: Transform
-- proto: WindoorEngineeringLocked
-  entities:
-  - uid: 651
-    components:
-    - rot: 1.5707963267948966 rad
-      pos: 29.5,21.5
-      parent: 33
-      type: Transform
-  - uid: 16859
-    components:
-    - pos: -20.5,-0.5
-      parent: 33
-      type: Transform
-- proto: WindoorExternalLocked
-  entities:
-  - uid: 23823
-    components:
-    - rot: 3.141592653589793 rad
-      pos: -98.5,-31.5
       parent: 33
       type: Transform
 - proto: WindoorHydroponicsLocked
@@ -191063,88 +189646,6 @@ entities:
     components:
     - rot: -1.5707963267948966 rad
       pos: -15.5,34.5
-      parent: 33
-      type: Transform
-- proto: WindoorMedicalLocked
-  entities:
-  - uid: 1709
-    components:
-    - rot: -1.5707963267948966 rad
-      pos: 13.5,9.5
-      parent: 33
-      type: Transform
-  - uid: 3840
-    components:
-    - rot: 3.141592653589793 rad
-      pos: -43.5,13.5
-      parent: 33
-      type: Transform
-  - uid: 3841
-    components:
-    - rot: 3.141592653589793 rad
-      pos: -41.5,13.5
-      parent: 33
-      type: Transform
-  - uid: 3937
-    components:
-    - rot: 3.141592653589793 rad
-      pos: -68.5,9.5
-      parent: 33
-      type: Transform
-  - uid: 4336
-    components:
-    - rot: -1.5707963267948966 rad
-      pos: -67.5,1.5
-      parent: 33
-      type: Transform
-  - uid: 4344
-    components:
-    - rot: -1.5707963267948966 rad
-      pos: -67.5,4.5
-      parent: 33
-      type: Transform
-- proto: WindoorScienceLocked
-  entities:
-  - uid: 4521
-    components:
-    - pos: -65.5,-4.5
-      parent: 33
-      type: Transform
-  - uid: 4561
-    components:
-    - rot: -1.5707963267948966 rad
-      pos: -80.5,-13.5
-      parent: 33
-      type: Transform
-  - uid: 4562
-    components:
-    - rot: -1.5707963267948966 rad
-      pos: -80.5,-7.5
-      parent: 33
-      type: Transform
-  - uid: 5057
-    components:
-    - rot: -1.5707963267948966 rad
-      pos: -82.5,-19.5
-      parent: 33
-      type: Transform
-    - inputs:
-        Open:
-        - port: On
-          uid: 2428
-        - port: On
-          uid: 1800
-        Close:
-        - port: Off
-          uid: 2428
-        - port: Off
-          uid: 1800
-        Toggle: []
-      type: SignalReceiver
-  - uid: 27300
-    components:
-    - rot: 1.5707963267948966 rad
-      pos: -58.5,-6.5
       parent: 33
       type: Transform
 - proto: WindoorSecure
@@ -191359,6 +189860,34 @@ entities:
       pos: -98.5,-74.5
       parent: 33
       type: Transform
+- proto: WindoorSecureArmoryLocked
+  entities:
+  - uid: 9780
+    components:
+    - rot: -1.5707963267948966 rad
+      pos: -0.5,69.5
+      parent: 33
+      type: Transform
+  - uid: 9782
+    components:
+    - rot: -1.5707963267948966 rad
+      pos: -0.5,70.5
+      parent: 33
+      type: Transform
+  - uid: 18562
+    components:
+    - rot: -1.5707963267948966 rad
+      pos: -0.5,67.5
+      parent: 33
+      type: Transform
+- proto: WindoorSecureBrigLocked
+  entities:
+  - uid: 2920
+    components:
+    - rot: 1.5707963267948966 rad
+      pos: -26.5,30.5
+      parent: 33
+      type: Transform
 - proto: WindoorSecureCargoLocked
   entities:
   - uid: 85
@@ -191380,6 +189909,84 @@ entities:
   - uid: 13001
     components:
     - pos: 31.5,-21.5
+      parent: 33
+      type: Transform
+- proto: WindoorSecureChemistryLocked
+  entities:
+  - uid: 1927
+    components:
+    - rot: -1.5707963267948966 rad
+      pos: -49.5,6.5
+      parent: 33
+      type: Transform
+  - uid: 12660
+    components:
+    - pos: 15.5,11.5
+      parent: 33
+      type: Transform
+- proto: WindoorSecureCommandLocked
+  entities:
+  - uid: 2666
+    components:
+    - rot: -1.5707963267948966 rad
+      pos: -28.5,11.5
+      parent: 33
+      type: Transform
+  - uid: 2667
+    components:
+    - rot: -1.5707963267948966 rad
+      pos: -28.5,10.5
+      parent: 33
+      type: Transform
+  - uid: 4440
+    components:
+    - rot: 3.141592653589793 rad
+      pos: -61.5,-18.5
+      parent: 33
+      type: Transform
+  - uid: 4453
+    components:
+    - rot: 3.141592653589793 rad
+      pos: -60.5,-18.5
+      parent: 33
+      type: Transform
+  - uid: 4569
+    components:
+    - rot: 3.141592653589793 rad
+      pos: -57.5,-18.5
+      parent: 33
+      type: Transform
+  - uid: 16552
+    components:
+    - rot: 3.141592653589793 rad
+      pos: -58.5,-18.5
+      parent: 33
+      type: Transform
+  - uid: 24768
+    components:
+    - rot: 1.5707963267948966 rad
+      pos: -53.5,30.5
+      parent: 33
+      type: Transform
+- proto: WindoorSecureEngineeringLocked
+  entities:
+  - uid: 651
+    components:
+    - rot: 1.5707963267948966 rad
+      pos: 29.5,21.5
+      parent: 33
+      type: Transform
+  - uid: 16859
+    components:
+    - pos: -20.5,-0.5
+      parent: 33
+      type: Transform
+- proto: WindoorSecureExternalLocked
+  entities:
+  - uid: 23823
+    components:
+    - rot: 3.141592653589793 rad
+      pos: -98.5,-31.5
       parent: 33
       type: Transform
 - proto: WindoorSecureKitchenLocked
@@ -191420,6 +190027,44 @@ entities:
       pos: -0.5,25.5
       parent: 33
       type: Transform
+- proto: WindoorSecureMedicalLocked
+  entities:
+  - uid: 1709
+    components:
+    - rot: -1.5707963267948966 rad
+      pos: 13.5,9.5
+      parent: 33
+      type: Transform
+  - uid: 3840
+    components:
+    - rot: 3.141592653589793 rad
+      pos: -43.5,13.5
+      parent: 33
+      type: Transform
+  - uid: 3841
+    components:
+    - rot: 3.141592653589793 rad
+      pos: -41.5,13.5
+      parent: 33
+      type: Transform
+  - uid: 3937
+    components:
+    - rot: 3.141592653589793 rad
+      pos: -68.5,9.5
+      parent: 33
+      type: Transform
+  - uid: 4336
+    components:
+    - rot: -1.5707963267948966 rad
+      pos: -67.5,1.5
+      parent: 33
+      type: Transform
+  - uid: 4344
+    components:
+    - rot: -1.5707963267948966 rad
+      pos: -67.5,4.5
+      parent: 33
+      type: Transform
 - proto: WindoorSecureSalvageLocked
   entities:
   - uid: 650
@@ -191428,7 +190073,38 @@ entities:
       pos: 29.5,13.5
       parent: 33
       type: Transform
-- proto: WindoorSecurityLocked
+- proto: WindoorSecureScienceLocked
+  entities:
+  - uid: 4521
+    components:
+    - pos: -65.5,-4.5
+      parent: 33
+      type: Transform
+  - uid: 4561
+    components:
+    - rot: -1.5707963267948966 rad
+      pos: -80.5,-13.5
+      parent: 33
+      type: Transform
+  - uid: 4562
+    components:
+    - rot: -1.5707963267948966 rad
+      pos: -80.5,-7.5
+      parent: 33
+      type: Transform
+  - uid: 5057
+    components:
+    - rot: -1.5707963267948966 rad
+      pos: -82.5,-19.5
+      parent: 33
+      type: Transform
+  - uid: 27300
+    components:
+    - rot: 1.5707963267948966 rad
+      pos: -58.5,-6.5
+      parent: 33
+      type: Transform
+- proto: WindoorSecureSecurityLocked
   entities:
   - uid: 28
     components:
