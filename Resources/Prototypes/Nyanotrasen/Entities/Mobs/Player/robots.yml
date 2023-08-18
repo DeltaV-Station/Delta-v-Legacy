@@ -187,6 +187,7 @@
   - type: TypingIndicator
     proto: robot
   - type: Battery
+    startingCharge: 50000
     maxCharge: 50000
   - type: Silicon
     entityType: enum.SiliconType.Player
