@@ -1,0 +1,30 @@
+- type: entity
+  name: Adjutant
+  parent: BaseWeaponShotgun
+  id: WeaponShotgunAdjutant
+  description: a experimental CQC Shotgun
+  components:
+  - type: Sprite
+    sprite: DeltaV\Objects\Weapons\Guns\Shotguns\Adjutant.rsi
+  - type: Clothing
+    sprite: DeltaV\Objects\Weapons\Guns\Shotguns\Adjutant.rsi
+  - type: Item
+    size: 35
+  - type: Gun
+    fireRate: 1.5
+    selectedMode: SemiAuto
+    availableModes:
+    - SemiAuto
+    soundGunshot:
+      path: /Audio/Weapons/Guns/Gunshots/shotgun.ogg
+    soundEmpty:
+      path: /Audio/Weapons/Guns/Empty/empty.ogg
+  - type: BallisticAmmoProvider
+    autoCycle: true
+    whitelist:
+      tags:
+      - ShellShotgun
+    capacity: 6
+    proto: ShellShotgun
+    soundInsert:
+      path: /Audio/Weapons/Guns/MagIn/shotgun_insert.ogg
