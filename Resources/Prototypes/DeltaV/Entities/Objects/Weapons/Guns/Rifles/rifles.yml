@@ -2,7 +2,7 @@
   name: Vulcan
   parent: BaseWeaponRifle
   id: WeaponVulcanRifle
-  description: A old rifle used in the corprate freedom wars, a rare and powerful weapon of war
+  description: One of the first firearms modified for space usage, used to punch holes in cargonia "combat mechs"
   components:
   - type: Sprite
     sprite: DeltaV\Objects\Weapons\Guns\Rifles\vulcan.rsi
@@ -46,3 +46,4 @@
   - type: Appearance
   - type: Clothing
     sprite: DeltaV\Objects\Weapons\Guns\Rifles\vulcan.rsi
+    
