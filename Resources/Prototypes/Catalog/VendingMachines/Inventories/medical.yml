@@ -2,6 +2,7 @@
   id: NanoMedPlusInventory
   startingInventory:
     HandheldHealthAnalyzer: 3
+    ClothingEyesHudMedical: 3
     Brutepack: 5
     Ointment: 5
     Bloodpack: 5
