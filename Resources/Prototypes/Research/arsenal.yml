@@ -13,6 +13,7 @@
   - WeaponProtoKineticAccelerator
   - WeaponCrusher
   - WeaponCrusherDagger
+  - WeaponCrusherGlaive
 
 - type: technology
   id: DraconicMunitions
