@@ -40,7 +40,7 @@ If you have any questions about these rules, please use the admin help (ahelp) m
    - Specific players who were antagonists in previous rounds must not be treated differently because of it.
    - [color=#ff0000]Do not stream the current round to the Delta-V Discord.[/color]
 
-[color=#a4885c]5.[/color] If a player dies and is brought back by cloning/metempsychosis, you don't have amnesia, but you do forget the last five minutes leading to your death and cannot describe who or what killed you. Players that are revived by using a defibrillator CAN recall what killed them and do not have any forgetfulness about what happened while they were alive. [color=#ff0000]Please report players who violate this rule.[/color]
+[color=#a4885c]5.[/color] If a player dies and is brought back, you don't have amnesia, but you do forget the last five minutes leading to your death and cannot describe who or what killed you. Players that are revived by using a defibrillator CAN recall what killed them and do not have any forgetfulness about what happened while they were alive. [color=#ff0000]Please report players who violate this rule.[/color]
 
 [color=#a4885c]6.[/color] All constructed/summoned beings that have laws are bound by those laws and must abide by them.
     - If a being has a master, they MUST follow their master's orders.
