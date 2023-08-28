@@ -86,7 +86,7 @@ entities:
           tiles: YAAAAGAAAABgAAAAYAAAAGEAAABhAAAAYQAAAGEAAABhAAAAYQAAAGEAAABUAAABVAAAAlQAAAFUAAABVAAAA2EAAABhAAAAYQAAAGAAAABhAAAAYQAAAGEAAABhAAAAVAAAAlQAAANhAAAAYQAAADcAAAA3AAAAYQAAAGEAAABBAAAAQQAAAGEAAABgAAAAYQAAAGEAAABhAAAAYQAAAFQAAABUAAACVAAAAmEAAABUAAAAVAAAAmEAAAA3AAAARAAAAEMAAABhAAAAYAAAAGEAAABhAAAAYQAAAGEAAABUAAAAVAAAAFQAAANhAAAAVAAAAlQAAAJhAAAANwAAAEEAAABBAAAAYQAAAGAAAABhAAAAYQAAAGEAAABhAAAAVAAAAFQAAAJUAAAAYQAAAFQAAAFUAAAAYQAAADcAAABhAAAAYQAAAGEAAABgAAAAYQAAAGEAAABhAAAAYQAAAFQAAANUAAADVAAAAjcAAABUAAAAVAAAA2EAAAA3AAAAYAAAAGAAAABgAAAAYAAAAGEAAABhAAAAYQAAAGEAAABUAAABVAAAAlQAAAFhAAAAVAAAAVQAAAFhAAAAYQAAAGAAAABgAAAAYAAAAGEAAABhAAAAYQAAAGEAAABhAAAAYQAAAGEAAABhAAAAYQAAAFQAAANUAAADYQAAAFQAAAFhAAAAYQAAAGEAAABhAAAAYQAAAGEAAABhAAAAXgAAAl4AAABeAAAAXgAAAGEAAABUAAABVAAAAGEAAABUAAADYQAAAGEAAABhAAAAYQAAAGEAAABhAAAAYQAAAF4AAAFeAAADXgAAAV4AAAM3AAAAVAAAAFQAAAA3AAAAVAAAAmEAAABhAAAAUwAAAlMAAABhAAAAYQAAAGEAAABeAAADXgAAAl4AAAJeAAAAYQAAAFQAAAJUAAAAYQAAAFQAAABhAAAAYQAAAGEAAABhAAAAYQAAAGEAAABhAAAAXgAAAF4AAAJeAAAAXgAAAmEAAABhAAAAUgAAAGEAAABhAAAAUgAAAGEAAABhAAAAYQAAAGEAAABhAAAAYQAAAGEAAABhAAAAYQAAAGEAAABhAAAAYQAAAGEAAABhAAAAYQAAAF4AAAJeAAACXgAAAGEAAABhAAAAYQAAAGEAAABhAAAAYQAAAGEAAABhAAAAYQAAAGEAAABhAAAAYQAAAGEAAAAoAAAAXgAAA14AAAJhAAAAYQAAAGEAAABhAAAAYQAAAGEAAABhAAAAYQAAAGEAAABhAAAAYQAAAGEAAABhAAAAXgAAAygAAANeAAADYQAAAGEAAABhAAAAYQAAAGEAAABhAAAAYQAAAGEAAABhAAAAYQAAAGEAAABhAAAAYQAAAA==
         1,1:
           ind: 1,1
-          tiles: VAAAAFQAAANUAAABVAAAADcAAABUAAAAVAAAAVQAAABhAAAAVAAAAVQAAABUAAADVAAAA2EAAABeAAACXgAAAGEAAAA3AAAAYQAAAGEAAABhAAAAVAAAAVQAAAFUAAABYQAAAGEAAAA3AAAAYQAAAGEAAABhAAAAYQAAAFIAAAA3AAAANwAAADcAAAA3AAAAYQAAAFQAAAJUAAABVAAAAmEAAAAYAAABGAAAAxgAAAAYAAABGAAAA2EAAABhAAAANwAAAGEAAAA3AAAANwAAAGEAAABUAAAAVAAAAVQAAAA3AAAAGAAAAhgAAAAYAAADGAAAARgAAANSAAAAYQAAAGEAAAA9AAAAYQAAADcAAABhAAAAYQAAADcAAABhAAAAYQAAABgAAAIYAAACGAAAAhgAAAAYAAADYQAAAGEAAAA3AAAANwAAADcAAAA3AAAAYQAAAFQAAAFUAAACVAAAAGEAAAAYAAACGAAAAxgAAAAYAAAAGAAAAGEAAABhAAAAYQAAAGEAAABhAAAAYQAAAGEAAABUAAAAVAAAAFQAAAA3AAAAGAAAABgAAAAYAAABGAAAAhgAAABhAAAAYQAAAFQAAAFUAAABYQAAAFQAAAJUAAAAVAAAAVQAAAFUAAADYQAAAGEAAABhAAAAYQAAAGEAAABhAAAAYQAAAGEAAABUAAACVAAAAmEAAABUAAACVAAAAVQAAAFUAAACVAAAA1QAAAJUAAAAVAAAAWEAAABhAAAAYQAAAGEAAABhAAAAVAAAA1QAAANhAAAAVAAAA1QAAAFUAAABVAAAAlQAAANUAAADVAAAAlQAAAJhAAAAYQAAAGEAAABhAAAAYQAAAFQAAAJUAAABYQAAAFQAAABUAAABVAAAAVQAAABUAAABVAAAAFQAAANUAAAAYQAAAFIAAABhAAAAYQAAAGEAAABhAAAAYQAAAGEAAABhAAAAUgAAAGEAAABhAAAAYQAAAGEAAABhAAAAYQAAAGEAAABhAAAAYQAAAGEAAABhAAAAYQAAAGEAAABhAAAAYQAAAFMAAABhAAAAYQAAAGEAAABhAAAAYQAAAGEAAABhAAAAYQAAAGEAAABhAAAAYQAAAGEAAABhAAAAYQAAAGEAAABhAAAAYQAAAGEAAABhAAAAYQAAAGEAAABhAAAAYQAAAFMAAANTAAACYQAAAGEAAABhAAAAYQAAAGEAAABhAAAAYQAAAFIAAABhAAAAYQAAAGEAAABhAAAAYQAAAGEAAABhAAAAYQAAAGEAAAAAAAAAYQAAAGEAAAAAAAAAYQAAACgAAAAoAAADKAAAAWEAAABgAAAAAAAAAAAAAABgAAAAYAAAAGAAAABgAAAAYAAAAA==
+          tiles: VAAAAFQAAANUAAABVAAAADcAAABUAAAAVAAAAVQAAABhAAAAVAAAAVQAAABUAAADVAAAA2EAAABeAAACXgAAAGEAAAA3AAAAYQAAAGEAAABhAAAAVAAAAVQAAAFUAAABYQAAAGEAAAA3AAAAYQAAAGEAAABhAAAAYQAAAFIAAAA3AAAANwAAADcAAAA3AAAAYQAAAFQAAAJUAAABVAAAAmEAAAAYAAABGAAAAxgAAAAYAAABGAAAA2EAAABhAAAANwAAAGEAAAA3AAAANwAAAGEAAABUAAAAVAAAAVQAAAA3AAAAGAAAAhgAAAAYAAADGAAAARgAAANSAAAAYQAAAGEAAABhAAAAYQAAADcAAABhAAAAYQAAADcAAABhAAAAYQAAABgAAAIYAAACGAAAAhgAAAAYAAADYQAAAGEAAAA3AAAANwAAADcAAAA3AAAAYQAAAFQAAAFUAAACVAAAAGEAAAAYAAACGAAAAxgAAAAYAAAAGAAAAGEAAABhAAAAYQAAAGEAAABhAAAAYQAAAGEAAABUAAAAVAAAAFQAAAA3AAAAGAAAABgAAAAYAAABGAAAAhgAAABhAAAAYQAAAFQAAAFUAAABYQAAAFQAAAJUAAAAVAAAAVQAAAFUAAADYQAAAGEAAABhAAAAYQAAAGEAAABhAAAAYQAAAGEAAABUAAACVAAAAmEAAABUAAACVAAAAVQAAAFUAAACVAAAA1QAAAJUAAAAVAAAAWEAAABhAAAAYQAAAGEAAABhAAAAVAAAA1QAAANhAAAAVAAAA1QAAAFUAAABVAAAAlQAAANUAAADVAAAAlQAAAJhAAAAYQAAAGEAAABhAAAAYQAAAFQAAAJUAAABYQAAAFQAAABUAAABVAAAAVQAAABUAAABVAAAAFQAAANUAAAAYQAAAFIAAABhAAAAYQAAAGEAAABhAAAAYQAAAGEAAABhAAAAUgAAAGEAAABhAAAAYQAAAGEAAABhAAAAYQAAAGEAAABhAAAAYQAAAGEAAABhAAAAYQAAAGEAAABhAAAAYQAAAFMAAABhAAAAYQAAAGEAAABhAAAAYQAAAGEAAABhAAAAYQAAAGEAAABhAAAAYQAAAGEAAABhAAAAYQAAAGEAAABhAAAAYQAAAGEAAABhAAAAYQAAAGEAAABhAAAAYQAAAFMAAANTAAACYQAAAGEAAABhAAAAYQAAAGEAAABhAAAAYQAAAFIAAABhAAAAYQAAAGEAAABhAAAAYQAAAGEAAABhAAAAYQAAAGEAAAAAAAAAYQAAAGEAAAAAAAAAYQAAACgAAAAoAAADKAAAAWEAAABgAAAAAAAAAAAAAABgAAAAYAAAAGAAAABgAAAAYAAAAA==
         1,-2:
           ind: 1,-2
           tiles: XgAAAl8AAAJhAAAAYQAAAGEAAABhAAAAPQAAAGEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAF4AAAJfAAADYQAAAGEAAABhAAAAYQAAAD0AAABhAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABeAAAAXwAAA2EAAABhAAAAYQAAAGEAAAA9AAAAYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAXgAAAF4AAABhAAAAYQAAAGEAAABRAAAAPQAAAGEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGEAAABhAAAAYQAAAFEAAABRAAAAUQAAAD0AAABhAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA1AAAAPQAAAD0AAAA9AAAAPQAAAD0AAAA9AAAAYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAANQAAAD0AAABhAAAAUQAAAFEAAABRAAAAUQAAAGEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD0AAAA9AAAAYQAAAGEAAABhAAAAYQAAAFEAAABhAAAAAAAAAAAAAAAAAAAAAAAAAGEAAABhAAAAUgAAAGEAAABhAAAAYQAAAGEAAAA1AAAANQAAAGEAAABRAAAAYQAAAGEAAABhAAAAYQAAAGEAAABhAAAARwAAAkcAAANHAAACUwAAA1MAAANhAAAAYQAAAGEAAAA1AAAAYQAAAGEAAABhAAAAYQAAAGEAAABhAAAARwAAAUcAAAJHAAABRwAAA2EAAABhAAAAYQAAAGEAAABhAAAAYQAAAGEAAABhAAAAYQAAAGEAAABhAAAAYQAAAEcAAAEoAAACRwAAACgAAABhAAAAYQAAAGEAAABSAAAAYQAAAGEAAABhAAAAYQAAAGEAAABhAAAAYQAAAGEAAABHAAABRwAAACgAAANHAAAAYQAAAGEAAABhAAAAYQAAAFEAAABRAAAAUQAAAFEAAABRAAAAYQAAAGEAAABhAAAARwAAAygAAAJHAAAAKAAAAWEAAABSAAAAYQAAAGEAAABRAAAAUQAAAFEAAABRAAAAUQAAAGEAAABhAAAAYQAAAEcAAABHAAABRwAAAkcAAAFhAAAAYQAAAFMAAAFhAAAAYQAAAGEAAABhAAAAYQAAAGEAAAA1AAAAYQAAAGEAAABhAAAAUQAAAGEAAABhAAAAYQAAAGEAAABTAAACYQAAAEcAAANHAAACRwAAAWEAAAAoAAABRwAAAEcAAANHAAACRwAAASgAAANHAAAAYQAAAA==
@@ -10211,6 +10211,11 @@ entities:
     - pos: -28.796272,3.7424812
       parent: 2
       type: Transform
+  - uid: 4490
+    components:
+    - pos: 15.66956,20.960335
+      parent: 2
+      type: Transform
   - uid: 6582
     components:
     - pos: -35.777054,27.882532
@@ -10223,9 +10228,19 @@ entities:
       type: Transform
   - uid: 15395
     components:
-    - pos: 19.388617,21.29707
+    - pos: 19.67959,20.592115
       parent: 2
       type: Transform
+    - solutions:
+        beaker:
+          temperature: 293.15
+          canMix: True
+          canReact: True
+          maxVol: 50
+          reagents:
+          - Quantity: 50
+            ReagentId: Cryoxadone
+      type: SolutionContainerManager
 - proto: Bed
   entities:
   - uid: 250
@@ -16062,14 +16077,7 @@ entities:
       type: Transform
   - uid: 9087
     components:
-    - pos: 17.5,19.5
-      parent: 2
-      type: Transform
-    - enabled: True
-      type: AmbientSound
-  - uid: 9089
-    components:
-    - pos: 17.5,20.5
+    - pos: 18.5,18.5
       parent: 2
       type: Transform
   - uid: 9091
@@ -22831,6 +22839,11 @@ entities:
       type: Transform
     - enabled: True
       type: AmbientSound
+  - uid: 15310
+    components:
+    - pos: 16.5,18.5
+      parent: 2
+      type: Transform
   - uid: 15354
     components:
     - pos: -47.5,43.5
@@ -23185,6 +23198,51 @@ entities:
       type: Transform
     - enabled: True
       type: AmbientSound
+  - uid: 17022
+    components:
+    - pos: 19.5,19.5
+      parent: 2
+      type: Transform
+  - uid: 17023
+    components:
+    - pos: 19.5,20.5
+      parent: 2
+      type: Transform
+  - uid: 17024
+    components:
+    - pos: 19.5,21.5
+      parent: 2
+      type: Transform
+  - uid: 17025
+    components:
+    - pos: 18.5,21.5
+      parent: 2
+      type: Transform
+  - uid: 17026
+    components:
+    - pos: 17.5,21.5
+      parent: 2
+      type: Transform
+  - uid: 17027
+    components:
+    - pos: 16.5,21.5
+      parent: 2
+      type: Transform
+  - uid: 17028
+    components:
+    - pos: 15.5,21.5
+      parent: 2
+      type: Transform
+  - uid: 17029
+    components:
+    - pos: 15.5,20.5
+      parent: 2
+      type: Transform
+  - uid: 17030
+    components:
+    - pos: 15.5,19.5
+      parent: 2
+      type: Transform
 - proto: CableApcStack
   entities:
   - uid: 2720
@@ -39469,6 +39527,11 @@ entities:
     - pos: -46.5,0.5
       parent: 2
       type: Transform
+  - uid: 16950
+    components:
+    - pos: 17.5,20.5
+      parent: 2
+      type: Transform
   - uid: 16955
     components:
     - pos: 17.5,19.5
@@ -40813,11 +40876,6 @@ entities:
       type: SolutionContainerManager
 - proto: ChemistryHotplate
   entities:
-  - uid: 15310
-    components:
-    - pos: 19.5,20.5
-      parent: 2
-      type: Transform
   - uid: 16953
     components:
     - pos: 16.5,10.5
@@ -48646,14 +48704,14 @@ entities:
     - pos: -19.54627,6.510217
       parent: 2
       type: Transform
+  - uid: 4486
+    components:
+    - pos: 15.466989,20.498625
+      parent: 2
+      type: Transform
   - uid: 5350
     components:
     - pos: -35.433304,27.757446
-      parent: 2
-      type: Transform
-  - uid: 15387
-    components:
-    - pos: 19.544867,20.906445
       parent: 2
       type: Transform
 - proto: ElectricGuitarInstrument
@@ -52221,9 +52279,9 @@ entities:
     - pos: -8.691249,-43.411953
       parent: 2
       type: Transform
-  - uid: 13140
+  - uid: 17031
     components:
-    - pos: 15.471379,20.626635
+    - pos: 19.619722,21.18556
       parent: 2
       type: Transform
 - proto: GasFilter
@@ -52322,6 +52380,7 @@ entities:
       type: Transform
     - inletTwoConcentration: 0.78
       inletOneConcentration: 0.22
+      targetPressure: 1000
       type: GasMixer
     - color: '#0000FFFF'
       type: AtmosPipeColor
@@ -52600,17 +52659,23 @@ entities:
       pos: 15.5,20.5
       parent: 2
       type: Transform
+    - color: '#00FFFFFF'
+      type: AtmosPipeColor
   - uid: 4473
     components:
     - pos: 19.5,20.5
       parent: 2
       type: Transform
+    - color: '#00FFFFFF'
+      type: AtmosPipeColor
   - uid: 4474
     components:
     - rot: -1.5707963267948966 rad
       pos: 19.5,19.5
       parent: 2
       type: Transform
+    - color: '#00FFFFFF'
+      type: AtmosPipeColor
   - uid: 4480
     components:
     - rot: -1.5707963267948966 rad
@@ -67086,6 +67151,16 @@ entities:
       type: AtmosPipeColor
     - enabled: True
       type: AmbientSound
+  - uid: 15273
+    components:
+    - rot: -1.5707963267948966 rad
+      pos: 17.5,20.5
+      parent: 2
+      type: Transform
+    - color: '#00FFFFFF'
+      type: AtmosPipeColor
+    - enabled: True
+      type: AmbientSound
   - uid: 15274
     components:
     - rot: 3.141592653589793 rad
@@ -68844,6 +68919,8 @@ entities:
       pos: 18.5,20.5
       parent: 2
       type: Transform
+    - color: '#00FFFFFF'
+      type: AtmosPipeColor
     - enabled: True
       type: AmbientSound
   - uid: 675
@@ -69008,6 +69085,8 @@ entities:
       pos: 15.5,19.5
       parent: 2
       type: Transform
+    - color: '#00FFFFFF'
+      type: AtmosPipeColor
   - uid: 4469
     components:
     - rot: 3.141592653589793 rad
@@ -69022,6 +69101,8 @@ entities:
       pos: 16.5,20.5
       parent: 2
       type: Transform
+    - color: '#00FFFFFF'
+      type: AtmosPipeColor
     - enabled: True
       type: AmbientSound
   - uid: 4476
@@ -69029,6 +69110,8 @@ entities:
     - pos: 17.5,19.5
       parent: 2
       type: Transform
+    - color: '#00FFFFFF'
+      type: AtmosPipeColor
     - enabled: True
       type: AmbientSound
   - uid: 4482
@@ -71496,23 +71579,31 @@ entities:
     - pos: -2.5,-38.5
       parent: 2
       type: Transform
+    - targetPressure: 4500
+      type: GasPressurePump
   - uid: 1948
     components:
     - rot: 3.141592653589793 rad
       pos: -1.5,-38.5
       parent: 2
       type: Transform
+    - targetPressure: 4500
+      type: GasPressurePump
   - uid: 2238
     components:
     - rot: 3.141592653589793 rad
       pos: -3.5,-38.5
       parent: 2
       type: Transform
+    - targetPressure: 4500
+      type: GasPressurePump
   - uid: 2242
     components:
     - pos: -7.5,-37.5
       parent: 2
       type: Transform
+    - targetPressure: 4500
+      type: GasPressurePump
     - color: '#F64400FF'
       type: AtmosPipeColor
   - uid: 2272
@@ -71530,6 +71621,8 @@ entities:
     - pos: -0.5,-38.5
       parent: 2
       type: Transform
+    - targetPressure: 4500
+      type: GasPressurePump
   - uid: 2600
     components:
     - rot: -1.5707963267948966 rad
@@ -71566,12 +71659,6 @@ entities:
       pos: 2.5,-48.5
       parent: 2
       type: Transform
-  - uid: 4486
-    components:
-    - rot: -1.5707963267948966 rad
-      pos: 17.5,20.5
-      parent: 2
-      type: Transform
   - uid: 6321
     components:
     - rot: -1.5707963267948966 rad
@@ -71594,6 +71681,8 @@ entities:
       pos: 17.5,18.5
       parent: 2
       type: Transform
+    - targetPressure: 34.45
+      type: GasPressurePump
     - color: '#0066FFFF'
       type: AtmosPipeColor
 - proto: GasRecycler
@@ -71637,6 +71726,8 @@ entities:
       pos: 15.5,18.5
       parent: 2
       type: Transform
+    - color: '#00FFFFFF'
+      type: AtmosPipeColor
   - uid: 16732
     components:
     - rot: 1.5707963267948966 rad
@@ -80953,6 +81044,11 @@ entities:
     - pos: 16.646406,11.096404
       parent: 2
       type: Transform
+  - uid: 15387
+    components:
+    - pos: 19.420631,21.73208
+      parent: 2
+      type: Transform
   - uid: 16741
     components:
     - pos: 4.6529,-3.9162235
@@ -81613,6 +81709,23 @@ entities:
       type: Transform
 - proto: Jug
   entities:
+  - uid: 2290
+    components:
+    - name: jug (hydrogen)
+      type: MetaData
+    - pos: 15.368045,21.754807
+      parent: 2
+      type: Transform
+    - solutions:
+        beaker:
+          temperature: 293.15
+          canMix: True
+          canReact: True
+          maxVol: 200
+          reagents:
+          - Quantity: 200
+            ReagentId: Hydrogen
+      type: SolutionContainerManager
   - uid: 16952
     components:
     - name: jug (oxygen)
@@ -81701,11 +81814,6 @@ entities:
   - uid: 1199
     components:
     - pos: -19.5,7.5
-      parent: 2
-      type: Transform
-  - uid: 2290
-    components:
-    - pos: 15.5,21.5
       parent: 2
       type: Transform
   - uid: 3121
@@ -81825,14 +81933,9 @@ entities:
     - pos: -28.754606,3.898841
       parent: 2
       type: Transform
-  - uid: 4490
+  - uid: 9089
     components:
-    - pos: 19.554941,21.577219
-      parent: 2
-      type: Transform
-  - uid: 15273
-    components:
-    - pos: 19.725298,21.329311
+    - pos: 15.320686,21.09547
       parent: 2
       type: Transform
 - proto: LauncherCreamPie
@@ -83304,6 +83407,53 @@ entities:
     - pos: -20.671059,41.71369
       parent: 2
       type: Transform
+  - uid: 13140
+    components:
+    - name: cryogenics brief
+      type: MetaData
+    - pos: 19.32648,20.608814
+      parent: 2
+      type: Transform
+    - stampState: paper_stamp-centcom
+      stampedBy:
+      - CentCom
+      content: >-
+        --- Cryogenics brief ---
+
+
+        1. Set the freezer to 100K and make sure it is on.
+
+        2. Set the filters to filter out waste gases (Carbon Dioxide, Nitrous Oxide)
+
+        3. Make sure input pump is set to ~35 kPa and turn it on. (DO NOT set it to 101 kPa, you will overpressurize the pod and harm the occupant)
+
+        4. Use the gas analyzer on the cryo pod(s) to make sure it is at a safe pressure (around 101 kPa) and that the temperature is around 100K.
+
+        5. The pod is now ready for patients. 
+
+
+        6. Make sure patients are not wearing insulative clothing when entering, as it will impede the healing process.
+
+        7. Have the occupant enter the pod (either voluntarily or drag them in).
+
+        8. Put a container in the pod with whatever drug(s) you are going to administer to the patient. The drugs will gradually enter their bloodstream until the beaker runs out.
+
+
+        To remain frugal with your medicines, it is advised that you calculate the amount you want to heal and how much drug to administer *before* placing the drug mixture in the pod. You may find out you wasted 100u of cryoxadone when you could have used only 50u.
+
+
+        Monitoring cryogenics patients
+
+
+        * The pod has a built-in health analyzer, you can use it to monitor the status of the occupant.
+
+
+        * If the patient is taking brute damage, it is a result of improper pressure. Take the occupant out immediately and use a gas analyzer on the pod to diagnose the problem and adjust pressure accordingly.
+        	   - To raise pressure in the pod, increase the pump pressure. It takes less than a minute for the new pressure to normalize in the pod, so be cautious not to overpressure.
+        	   - To lower pressure in the pod, turn off the gas pump and use the waste gas filters to evacuate oxygen and nitrogen. Make sure the gas pump is at a safe pressure, then turn it on again.
+
+        * If the patient is taking burn damage, they have spent too long in the pod. Take the occupant out immediately and ensure they warm up.
+      type: Paper
   - uid: 15198
     components:
     - pos: -20.530434,41.573067
@@ -99760,11 +99910,6 @@ entities:
   - uid: 2877
     components:
     - pos: -8.222499,-43.547462
-      parent: 2
-      type: Transform
-  - uid: 16950
-    components:
-    - pos: 15.797272,20.993198
       parent: 2
       type: Transform
 - proto: TromboneInstrument
