@@ -15,6 +15,11 @@ mail-penalty-expired = DELIVERY PAST DUE. CARGO BANK ACCOUNT PENALIZED BY {$cred
 mail-item-name-unaddressed = mail
 mail-item-name-addressed = mail ({$recipient})
 
+mail-teleporter-desc = The next batch of mail will be teleported in {$timeLeft ->
+    [1] one second.
+    *[other] {$timeLeft} seconds.
+}
+
 command-mailto-description = Queue a parcel to be delivered to an entity. Example usage: `mailto 1234 5678 false false`. The target container's contents will be transferred to an actual mail parcel.
 command-mailto-help = Usage: {$command} <recipient entityUid> <container entityUid> [is-fragile: true or false] [is-priority: true or false]
 command-mailto-no-mailreceiver = Target recipient entity does not have a {$requiredComponent}.
