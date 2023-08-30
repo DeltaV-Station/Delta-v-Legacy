@@ -21,7 +21,6 @@ using Content.Server.Mail.Components;
 using Content.Server.Mind;
 using Content.Server.Nutrition.Components;
 using Content.Server.Popups;
-using Content.Server.Power.Components;
 using Content.Server.Station.Systems;
 using Content.Server.Spawners.EntitySystems;
 using Content.Shared.Access.Components;
@@ -83,25 +82,6 @@ namespace Content.Server.Mail
             SubscribeLocalEvent<MailComponent, DamageChangedEvent>(OnDamage);
             SubscribeLocalEvent<MailComponent, BreakageEventArgs>(OnBreak);
             SubscribeLocalEvent<MailComponent, GotEmaggedEvent>(OnMailEmagged);
-        }
-
-        public override void Update(float frameTime)
-        {
-            base.Update(frameTime);
-            foreach (var mailTeleporter in EntityQuery<MailTeleporterComponent>())
-            {
-                if (TryComp<ApcPowerReceiverComponent>(mailTeleporter.Owner, out var power) && !power.Powered)
-                    return;
-
-                mailTeleporter.Accumulator += frameTime;
-
-                if (mailTeleporter.Accumulator < mailTeleporter.TeleportInterval.TotalSeconds)
-                    continue;
-
-                mailTeleporter.Accumulator -= (float) mailTeleporter.TeleportInterval.TotalSeconds;
-
-                SpawnMail(mailTeleporter.Owner, mailTeleporter);
-            }
         }
 
         /// <summary>
