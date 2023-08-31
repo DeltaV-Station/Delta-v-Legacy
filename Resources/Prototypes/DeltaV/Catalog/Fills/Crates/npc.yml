@@ -1,0 +1,7 @@
+- type: entity
+  id: CrateNPCCapybara
+  parent: CrateLivestock
+  components:
+  - type: StorageFill
+    contents:
+      - id: MobCapybara

@@ -53,3 +53,78 @@
   - type: Grammar
     attributes:
       gender: epicene
+
+- type: entity
+  name: orange cat
+  parent: SimpleMobBase
+  id: MobCatOrange
+  description: Feline pet, very funny. Hates Wednesdays.
+  components:
+  - type: Sprite
+    drawdepth: Mobs
+    sprite: DeltaV/Mobs/Animals/orange_cat.rsi
+    layers:
+    - map: ["enum.DamageStateVisualLayers.Base"]
+      state: orange
+  - type: Physics
+  - type: Fixtures
+    fixtures:
+      fix1:
+        shape:
+          !type:PhysShapeCircle
+          radius: 0.35
+        density: 250
+        mask:
+        - MobMask
+        layer:
+        - MobLayer
+  - type: MeleeWeapon
+    hidden: true
+    soundHit:
+        path: /Audio/Effects/bite.ogg
+    angle: 0
+    animation: WeaponArcBite
+    damage:
+      types:
+        Slash: 2
+        Piercing: 5
+  - type: Appearance
+  - type: Inventory
+    speciesId: catorange
+    templateId: catorange
+  - type: InventorySlots
+  - type: Strippable
+  - type: UserInterface
+    interfaces:
+    - key: enum.StrippingUiKey.Key
+      type: StrippableBoundUserInterface
+  - type: DamageStateVisuals
+    states:
+      Alive:
+        Base: orange
+      Critical:
+        Base: orange_crit
+      Dead:
+        Base: orange_dead
+  - type: Butcherable
+    spawned:
+    - id: FoodMeat
+      amount: 3
+  - type: ReplacementAccent
+    accent: cat
+  - type: InteractionPopup
+    successChance: 0.7
+    interactSuccessString: petting-success-cat
+    interactFailureString: petting-failure-generic
+    interactSuccessSound:
+      path: /Audio/Animals/cat_meow.ogg
+  - type: Grammar
+    attributes:
+      gender: epicene
+  - type: MobPrice
+    price: 200
+  - type: HTN
+    rootTask: SimpleHostileCompound
+  - type: NpcFactionMember
+    factions:
+    - Cat
