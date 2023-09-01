@@ -343,3 +343,48 @@ Entries:
         reclaimer class shuttles, you may find one on a station near you.
   id: 46
   time: '2023-08-16T03:41:39.0000000+00:00'
+- author: Colin-Tel
+  changes:
+    - type: Tweak
+      message: Edge Station is now outfitted with new Chemistry equipment.
+  id: 47
+  time: '2023-08-25T18:59:55.0000000+00:00'
+- author: leonardo-dabepis
+  changes:
+    - type: Add
+      message: Added palm trees, new clothing items, capybara.
+  id: 48
+  time: '2023-08-25T19:11:49.0000000+00:00'
+- author: Colin-Tel
+  changes:
+    - type: Tweak
+      message: >-
+        Updated the rules to specify changes to players revived with
+        defibrillators.
+  id: 49
+  time: '2023-08-26T21:22:57.0000000+00:00'
+- author: Colin-Tel
+  changes:
+    - type: Fix
+      message: >-
+        Edge Station's cryogenics lab has been overhauled, and the station's
+        permanent filthy spots are no longer permanent.
+  id: 50
+  time: '2023-08-28T16:01:55.0000000+00:00'
+- author: Colin-Tel
+  changes:
+    - type: Add
+      message: >-
+        Central Command has updated their automated announcement system with a
+        new announcer.
+  id: 51
+  time: '2023-08-28T16:04:39.0000000+00:00'
+- author: Jerryaqua
+  changes:
+    - type: Add
+      message: >-
+        A old Battle rifle was taken out of storage and is being sent to Staions
+        to help refill the armory at a lower cost. A new high-tech shotgun is
+        also being sent out as well.
+  id: 52
+  time: '2023-08-31T12:38:01.0000000+00:00'
