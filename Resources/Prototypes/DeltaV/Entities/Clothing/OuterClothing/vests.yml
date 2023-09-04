@@ -37,23 +37,3 @@
         Heat: 0.9
   - type: ExplosionResistance
     damageCoefficient: 0.9
-
-- type: entity
-  parent: ClothingOuterStorageBase 
-  id: ClothingOuterVestReconVest
-  name: GALPOL recon vest
-  description: a special vest givien to GALPOL recon units, made mainly for melee defence, the badge is built in
-  components:
-  - type: Sprite
-    sprite: DeltaV/Clothing/OuterClothing/Vests/galpol_recon_vest.rsi
-  - type: Clothing
-    sprite: DeltaV/Clothing/OuterClothing/Vests/galpol_recon_vest.rsi
-  - type: Armor
-    modifiers:
-      coefficients:
-        Blunt: 0.5 
-        Slash: 0.5
-        Piercing: 0.6
-  - type: ExplosionResistance
-    damageCoefficient: 0.9
-    
