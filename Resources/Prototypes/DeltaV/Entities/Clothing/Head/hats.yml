@@ -69,3 +69,31 @@
     damage:
       types:
         Slash: 8
+        
+- type: entity
+  parent: ClothingHeadBase
+  id: ClothingHeadGALPOLCommanderBeret
+  name: GALPOL Commander Beret
+  description: a armored Beret, made for high ranking GALPOL commanders, shown via two stripes 
+  components:
+  - type: Sprite
+    sprite: DeltaV/Clothing/Head/Hats/glapol_commander_beret.rsi
+  - type: Clothing
+    sprite: DeltaV/Clothing/Head/Hats/glapol_commander_beret.rsi
+  - type: Armor
+    modifiers:
+      coefficients:
+        Blunt: 0.8
+        Slash: 0.8
+    
+- type: entity
+  parent: ClothingHeadBase
+  id: ClothingHeadGALPOLGuardBeret
+  name: GALPOL Guard Beret
+  description: a normal Beret, nothing too fancy for a guard
+  components:
+  - type: Sprite
+    sprite: DeltaV/Clothing/Head/Hats/glapol_guard_beret.rsi
+  - type: Clothing
+    sprite: DeltaV/Clothing/Head/Hats/glapol_guard_beret.rsi
+    
