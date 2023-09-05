@@ -239,7 +239,6 @@
 - type: randomHumanoidSettings
   id: ERTEngineerGamma
   parent: ERTEngineerAmber
-  suffix: Amber
   components:
     - type: GhostRole
       name: ghost-role-information-ert-engineer-name
