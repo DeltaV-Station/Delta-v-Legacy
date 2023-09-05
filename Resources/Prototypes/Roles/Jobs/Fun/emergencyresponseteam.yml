@@ -230,7 +230,7 @@
     suitstorage: OxygenTankFilled
     id: ERTLeaderPDA
     ears: ClothingHeadsetAltCentCom
-    belt: ClothingBeltMedicalAdvanced
+    belt: ClothingBeltMilitaryWebbingMedAdvanced
     pocket1: HandheldHealthAnalyzer
     pocket2: Flare
     
@@ -247,7 +247,7 @@
     suitstorage: OxygenTankFilled
     id: ERTLeaderPDA
     ears: ClothingHeadsetAltCentCom
-    belt: ClothingBeltMedicalAdvanced
+    belt: ClothingBeltMilitaryWebbingMedAdvanced
     pocket1: HandheldHealthAnalyzer
     pocket2: Flare
    

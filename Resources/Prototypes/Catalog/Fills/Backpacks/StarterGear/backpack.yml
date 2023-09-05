@@ -239,7 +239,7 @@
       contents:
         - id: BoxSurvival
         - id: WeaponDisabler
-        - id: TrashBag
+
         - id: BoxLightMixed
         - id: LightReplacer
         - id: Soap
@@ -336,7 +336,6 @@
         - id: WeaponLaserGun
         - id: HydroponicsToolScythe
         - id: AdvMopItem
-        - id: TrashBag
         - id: LightReplacer
         - id: BoxLightMixed
         - id: BoxSurvival
@@ -382,7 +381,6 @@
         - id: WeaponSniperHristov
         - id: MagazineBoxAntiMaterielBig
         - id: WeaponXrayCannon
-        - id: StorageImplant
         - id: Stunbaton
         - id: MedicatedSuture
         - id: Bola
@@ -399,7 +397,6 @@
         - id: WeaponDisabler
         - id: MedicatedSuture
    
-        
 - type: entity
   noSpawn: true
   parent: ClothingBackpackHolding
