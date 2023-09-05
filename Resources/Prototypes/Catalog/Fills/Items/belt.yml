@@ -180,7 +180,7 @@
   components:
   - type: StorageFill
     contents:
-    - id: MedicatedSutures
+    - id: MedicatedSuture
       amount: 3
     - id: RegenerativeMesh
       amount: 1

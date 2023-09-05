@@ -276,8 +276,8 @@
         - id: WeaponDisabler
         - id: WeaponLaserGun
         - id: WeaponSubMachineGunVector
-        - id: BaseMagazineMagnumSubMachineGun
-        - id: BaseMagazineMagnumSubMachineGun
+        - id: MagazineMagnumSubMachineGun
+        - id: MagazineMagnumSubMachineGun
         - id: Flash
         - id: CombatKnife
         - id: BoxHandcuff
@@ -311,7 +311,7 @@
   components:
     - type: StorageFill
       contents:
-        - id: StunBaton
+        - id: Stunbaton
         - id: BoxSurvivalEngineering
         - id: trayScanner
         - id: RCD
