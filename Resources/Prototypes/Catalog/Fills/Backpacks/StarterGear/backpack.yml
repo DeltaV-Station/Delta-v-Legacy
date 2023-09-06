@@ -386,6 +386,9 @@
         - id: Bola
         - id: BoxHandcuff
         - id: BoxFlashbang
+        - id: WeaponSubMachineGunVector
+        - id: MagazineMagnumSubMachineGun
+        - id: MagazineMagnumSubMachineGun
         - id: C4
         - id: C4
         - id: C4
