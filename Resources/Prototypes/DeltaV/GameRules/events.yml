@@ -9,7 +9,7 @@
       path: /Audio/Announcements/aliens.ogg
     earliestStart: 20
     minimumPlayers: 15
-    weight: 5
+    weight: 4
     duration: 60
   - type: VentCrittersRule
     entries:
@@ -24,13 +24,13 @@
       maxAmount: 10
     - id: MobXenoRunner
       amount: 4
-      maxAmount: 8
+      maxAmount: 10
     - id: MobXenoPraetorian
       amount: 4
-      maxAmount: 8
+      maxAmount: 10
     - id: MobXenoRavager
       amount: 4
-      maxAmount: 8
+      maxAmount: 10
     - id: MobXenoQueen
       amount: 2
-      maxAmount: 4
+      maxAmount: 6
