@@ -20,7 +20,7 @@
 - type: entity
   parent: BasePlushie
   id: ToySiobhan
-  name: shivs toy
+  name: siobhan toy
   description: Nearly as fluffy as the real Shivs!
   components:
   - type: Sprite
