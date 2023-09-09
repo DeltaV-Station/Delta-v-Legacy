@@ -1,7 +1,7 @@
 - type: entity
   parent: BasePlushie
   id: ToyRenault
-  name: rennie toy
+  name: renault toy
   description: Almost as cute and adorable as the real Renault!
   components:
   - type: Sprite
