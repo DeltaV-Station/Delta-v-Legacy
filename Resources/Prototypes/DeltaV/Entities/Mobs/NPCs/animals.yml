@@ -58,7 +58,7 @@
   name: fox
   parent: SimpleMobBase
   id: MobArcticFox
-  description: They're a fox, of the arctic variety.
+  description: Wears a regal coat of snowy elegance, belying its cold and resourceful nature.
   components:
   - type: Sprite
     drawdepth: Mobs
