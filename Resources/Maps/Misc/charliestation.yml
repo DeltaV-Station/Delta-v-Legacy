@@ -7699,9 +7699,6 @@ entities:
     - pos: -19.5,26.5
       parent: 2
       type: Transform
-    - following:
-      - invalid
-      type: Followed
   - uid: 828
     components:
     - pos: 6.5,17.5
@@ -9368,9 +9365,6 @@ entities:
       pos: -15.5,13.5
       parent: 2
       type: Transform
-    - following:
-      - invalid
-      type: Followed
   - uid: 1126
     components:
     - rot: 3.141592653589793 rad
@@ -9437,9 +9431,6 @@ entities:
     - pos: 7.5,13.5
       parent: 2
       type: Transform
-    - following:
-      - invalid
-      type: Followed
   - uid: 1137
     components:
     - rot: -1.5707963267948966 rad
@@ -10778,9 +10769,6 @@ entities:
       pos: -2.5,15.5
       parent: 2
       type: Transform
-    - following:
-      - invalid
-      type: Followed
   - uid: 1357
     components:
     - rot: 3.141592653589793 rad
@@ -11110,9 +11098,6 @@ entities:
     - pos: 27.5,19.5
       parent: 2
       type: Transform
-    - following:
-      - invalid
-      type: Followed
   - uid: 1413
     components:
     - pos: 28.5,19.5
