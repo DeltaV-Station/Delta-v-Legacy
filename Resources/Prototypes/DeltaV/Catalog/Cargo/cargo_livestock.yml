@@ -1,0 +1,10 @@
+
+- type: cargoProduct
+  id: LivestockCapybara
+  icon:
+    sprite: DeltaV/Mobs/Animals/capybara.rsi
+    state: capybara
+  product: CrateNPCCapybara
+  cost: 1000
+  category: Livestock
+  group: market

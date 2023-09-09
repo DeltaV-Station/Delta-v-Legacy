@@ -1,0 +1,28 @@
+# Base
+- type: entity
+  name: Capybara Spawner
+  id: SpawnMobCapybara
+  parent: MarkerBase
+  components:
+  - type: Sprite
+    layers:
+    - state: green
+    - state: capybara
+      sprite: DeltaV/Mobs/Animals/capybara.rsi
+  - type: ConditionalSpawner
+    prototypes:
+    - MobCapybara
+
+- type: entity
+  name: Orange Cat Spawner
+  id: SpawnMobCatOrange
+  parent: MarkerBase
+  components:
+  - type: Sprite
+    layers:
+    - state: green
+    - state: orange
+      sprite: DeltaV/Mobs/Animals/orange_cat.rsi
+  - type: ConditionalSpawner
+    prototypes:
+    - MobCatOrange
