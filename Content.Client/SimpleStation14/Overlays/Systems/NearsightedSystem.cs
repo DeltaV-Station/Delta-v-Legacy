@@ -2,9 +2,9 @@ using Robust.Client.Graphics;
 using Robust.Client.Player;
 using Robust.Shared.Network;
 using Content.Shared.Tag;
-using Content.Shared.DeltaV.Traits;
+using Content.Shared.SimpleStation14.Traits;
 
-namespace Content.Client.DeltaV.Overlays;
+namespace Content.Client.SimpleStation14.Overlays;
 public sealed class NearsightedSystem : EntitySystem
 {
     [Dependency] private readonly IPlayerManager _player = default!;

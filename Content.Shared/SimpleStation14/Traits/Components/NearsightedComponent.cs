@@ -1,6 +1,6 @@
 using Robust.Shared.GameStates;
 
-namespace Content.Shared.DeltaV.Traits
+namespace Content.Shared.SimpleStation14.Traits
 {
     /// <summary>
     ///     Owner entity cannot see well, without prescription glasses.
