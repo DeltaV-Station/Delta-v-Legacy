@@ -88,9 +88,9 @@
   description: A cyan cap surgeons wear during operations. Keeps their hair from tickling your internal organs.
   components:
   - type: Sprite
-    sprite: DeltaV/Clothing/Head/Hats/surgcap_Cyan.rsi
+    sprite: DeltaV/Clothing/Head/Hats/surgcap_cyan.rsi
   - type: Clothing
-    sprite: DeltaV/Clothing/Head/Hats/surgcap_Cyan.rsi
+    sprite: DeltaV/Clothing/Head/Hats/surgcap_cyan.rsi
 
 - type: entity
   parent: ClothingHeadBase
