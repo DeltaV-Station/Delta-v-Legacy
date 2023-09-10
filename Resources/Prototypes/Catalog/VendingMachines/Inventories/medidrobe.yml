@@ -19,5 +19,19 @@
     ClothingHeadHelmetVoidParamed: 1
     ClothingOuterHardsuitVoidParamed: 1
     UniformScrubsColorGreen: 2
+    ClothingHeadHatSurgcapGreen: 2
     UniformScrubsColorBlue: 2
+    ClothingeadHatSurgcapBlue: 2
     UniformScrubsColorPurple: 2
+    ClothingHeadHatSurgcapPurple: 2
+    UniformScrubsColorBlack: 2
+    ClothingHeadHatSurgcapBlack: 2
+    UniformScrubsColorPink: 2
+    ClothingHeadHatSurgcapPink: 2
+    UniformScrubsColorRainbow: 2
+    ClothingHeadHatSurgcapRainbow: 2
+    UniformScrubsColorWhite: 2
+    ClothingHeadHatSurgcapWhite: 2
+  emaggedInventory:
+    UniformScrubsColorCybersun: 1
+    UniformHeatHatSurgcapCybersun: 1
