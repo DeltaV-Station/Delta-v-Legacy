@@ -21,7 +21,9 @@
     UniformScrubsColorGreen: 2
     ClothingHeadHatSurgcapGreen: 2
     UniformScrubsColorBlue: 2
-    ClothingeadHatSurgcapBlue: 2
+    ClothingHeadHatSurgcapBlue: 2
+    UniformScrubsColorCyan: 2
+    ClothingHeadHatSurgcapCyan: 2
     UniformScrubsColorPurple: 2
     ClothingHeadHatSurgcapPurple: 2
     UniformScrubsColorBlack: 2
@@ -34,4 +36,4 @@
     ClothingHeadHatSurgcapWhite: 2
   emaggedInventory:
     UniformScrubsColorCybersun: 1
-    UniformHeatHatSurgcapCybersun: 1
+    ClothingHeadHatSurgcapCybersun: 1
