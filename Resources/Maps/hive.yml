@@ -546,7 +546,6 @@ entities:
             color: '#FFFFFFFF'
             id: Bot
           decals:
-            8: -4,-3
             16: -15,7
             17: -14,7
             18: -16,7
@@ -572,6 +571,8 @@ entities:
             5016: -59,27
             5017: -58,25
             5018: -58,26
+            5791: -2,-6
+            5793: -3,-6
         - node:
             color: '#DE3A3ABF'
             id: Box
@@ -2253,6 +2254,7 @@ entities:
             5454: -7,21
             5466: 7,17
             5467: 6,17
+            5792: -4,-3
         - node:
             color: '#B02E26BF'
             id: BrickTileWhiteLineN
@@ -2546,8 +2548,6 @@ entities:
             865: -13,-5
             877: -6,-6
             878: -4,-6
-            879: -3,-6
-            880: -2,-6
             895: -1,2
             896: 0,2
             897: -3,2
@@ -55748,6 +55748,12 @@ entities:
     - pos: -25.95963,-15.514336
       parent: 1
       type: Transform
+  - uid: 24317
+    components:
+    - rot: 1.5707963267948966 rad
+      pos: -3.5791306,-3.0892117
+      parent: 1
+      type: Transform
 - proto: ChairPilotSeat
   entities:
   - uid: 4614
@@ -58687,6 +58693,13 @@ entities:
     components:
     - rot: 1.5707963267948966 rad
       pos: -1.5,50.5
+      parent: 1
+      type: Transform
+- proto: ComputerCargoBounty
+  entities:
+  - uid: 1993
+    components:
+    - pos: -3.5,-2.5
       parent: 1
       type: Transform
 - proto: ComputerCargoOrders
@@ -141916,11 +141929,6 @@ entities:
       type: Transform
 - proto: SpawnVehicleATV
   entities:
-  - uid: 1993
-    components:
-    - pos: -3.5,-2.5
-      parent: 1
-      type: Transform
   - uid: 2067
     components:
     - pos: -13.5,-2.5
@@ -141939,6 +141947,11 @@ entities:
   - uid: 15771
     components:
     - pos: -59.5,9.5
+      parent: 1
+      type: Transform
+  - uid: 24316
+    components:
+    - pos: -1.5,-5.5
       parent: 1
       type: Transform
 - proto: SpawnVehicleJanicart
