@@ -1,0 +1,15 @@
+ type: entity
+  parent: BaseItem
+  id: A6MToy
+  name: A6M zero toy
+  description: whirrrrrrrrr taktaktaktaktak BOOM whirrrrrrr.
+  components:
+  - type: Sprite
+    sprite: DeltaV/Objects/fun/a6m
+  - type: PhysicalComposition
+    materialComposition:
+      Plastic: 100
+  - type: StaticPrice
+    price: 75
+
+#add your toys or whatever else below, if you add more combat vehicles then lets convert the sprite of the a6m to state sprites so its less code and rsi clutter
