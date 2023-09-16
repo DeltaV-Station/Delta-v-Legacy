@@ -20,6 +20,9 @@
             "name": "suppressor"
         },
         {
+            "name": "bolt-open"
+        },
+        {
             "name": "inhand-left",
             "directions": 4
         },
