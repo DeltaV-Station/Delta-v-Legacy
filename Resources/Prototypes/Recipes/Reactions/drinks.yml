@@ -740,16 +740,6 @@
     SuiDream: 3
 
 - type: reaction
-  id: BlueCuracao
-  reactants: 
-    Sugar:
-      amount: 1
-    JuiceOrange:
-      amount: 2
-  products:
-    BlueCuracao: 3
-
-- type: reaction
   id: SyndicateBomb
   reactants:
     Beer:
