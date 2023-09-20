@@ -2,7 +2,7 @@
 
 [color=#ff0000]DISCONNECTING FROM OR IGNORING/EVADING ADMIN-HELPS WILL RESULT IN AN APPEAL ONLY BAN.[/color]
 
-[color=#00ff00]Rules Update 16Sep2023 - Added a point to rule 15 about security's ability to implant check detainees. Added a point to rule 2 about the crew hiding the nuke in an impossible-to-see location. Added a point to rule 4 about the practice of Antag Rolling. Moved the point about LOOC & OOC chatting from rule 4 to 3. [/color]
+[color=#00ff00]Rules Update 20Sep2023 - Added a point to rule 15 about security's ability to implant check detainees. Added a point to rule 2 about the crew hiding the nuke in an impossible-to-see location. Added a point to rule 4 about the practice of Antag Rolling. Clarified rule 3 to include using OOC/LOOC and Emotes chats inappropriately. [/color]
 
 [color=#ffff00]Delta-V is a Medium Roleplay server. Try to immerse yourself into your character. This includes doing your job, interacting with your fellow crewmates, and using roleplay as the primary vessel to play the game. MRP places less emphasis on “winning” and more on just telling a story.[/color]
 
@@ -29,7 +29,9 @@ If you have any questions about these rules, please use the admin help (ahelp) m
     - Do not spam.
     - Do not advertise.
     - Do not use netspeak in character (i.e. btw, lmfao).
+    - Do not use the Emotes channel to bypass an inability to speak. This includes examples like "motions for you to put parmesan THEN sauce on the spaghetti," "im friendly," and "huh weird looks like I can't type."
     - Use the LOOC and OOC channels properly. Don’t speak of in-character matters in those channels unless you’re asking questions related to in-game concepts.
+       * DO NOT use in-character channels to bypass a lack of ability to use OOC/LOOC chats (e.g. "Huh, wonder where captain went? *OOC* He probably left to get dinner lol"). This will result in an immediate dewhitelist.
     - Hate speech, slurs and bigotry are [color=#ff0000]not allowed[/color]. Words that are closely tied to real life slurs are [color=#ff0000]not allowed[/color].
     - No racist remarks towards in-game races/morphotypes (i.e. Simulated Racism), while you don’t have to like everybody, you should not be acting upon nor expressing your distaste for other races/morphotypes.
 
@@ -74,6 +76,7 @@ If you have any questions about these rules, please use the admin help (ahelp) m
     - The damage antagonists cause should be roughly proportional to their objectives, and contribute towards achieving them in some way. However antagonists have leniency in regards to what they can and can’t do.  If you are concerned as to whether or not what you're about to do is allowed, feel free to ahelp and ask an admin.
     - Other antagonists are not necessarily your friends. Traitors, rat kings, and possibly even space dragons are free agents, but no one should be working together with xenomorphs or zombies.
     - Exploits, arrivals camping, unnecessary round extensions, and other extremely lame behavior are forbidden.
+    - Ghost roles have their own independent rules that must be followed. [color=#ff0000]Breaking these rules can result in a ban, whitelist removal, or both.[/color]
 
 [color=#a4885c]11.[/color] Psionics
     - Players that have psionic powers are allowed to use them at-will to accomplish their roleplay goals. It should be noted that in-character consequences can happen as a result of their use, including being stripped of psionic powers or even death.
