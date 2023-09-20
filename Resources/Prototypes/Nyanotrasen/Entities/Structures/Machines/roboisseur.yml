@@ -1,0 +1,24 @@
+- type: entity
+  parent: BaseStructure
+  id: Roboisseur
+  name: Mr. Butlertron
+  description: It asks for food to deliver to exotic customers across the cosmos. Maybe it's got a Psionic teleporter?
+  components:
+  - type: Sprite
+    noRot: true
+    drawdepth: Mobs
+    offset: "0.0,0.5"
+    sprite: DeltaV/Structures/Machines/roboisseur.rsi
+    layers:
+    - state: roboisseur-1
+  - type: Roboisseur
+  - type: Speech
+    speechSounds: Pai
+  - type: Appearance
+  - type: Grammar
+    attributes:
+      gender: male
+      proper: true
+  - type: SpriteFade
+  - type: Tag
+    tags: []
