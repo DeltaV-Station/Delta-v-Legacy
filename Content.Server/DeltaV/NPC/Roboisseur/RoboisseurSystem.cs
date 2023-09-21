@@ -17,9 +17,13 @@ namespace Content.Server.Roboisseur.Roboisseur
         [Dependency] private readonly ChatSystem _chat = default!;
         [Dependency] private readonly MaterialStorageSystem _material = default!;
         [Dependency] private readonly AppearanceSystem _appearance = default!;
+
+
         public override void Initialize()
         {
             base.Initialize();
+
+
             SubscribeLocalEvent<RoboisseurComponent, ComponentInit>(OnInit);
             SubscribeLocalEvent<RoboisseurComponent, InteractHandEvent>(OnInteractHand);
             SubscribeLocalEvent<RoboisseurComponent, InteractUsingEvent>(OnInteractUsing);
@@ -34,6 +38,8 @@ namespace Content.Server.Roboisseur.Roboisseur
         public override void Update(float frameTime)
         {
             base.Update(frameTime);
+
+
             foreach (var roboisseur in EntityQuery<RoboisseurComponent>())
             {
                 roboisseur.Accumulator += frameTime;
@@ -172,6 +178,7 @@ namespace Content.Server.Roboisseur.Roboisseur
             return allProtos;
         }
     }
+
     public enum RobossieurVisualLayers : byte
     {
         Angry
