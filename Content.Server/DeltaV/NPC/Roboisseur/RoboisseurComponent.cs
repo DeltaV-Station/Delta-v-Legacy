@@ -26,7 +26,8 @@ namespace Content.Server.Roboisseur.Roboisseur
         [ViewVariables(VVAccess.ReadWrite)]
         public EntityPrototype DesiredPrototype = default!;
 
-        public readonly IReadOnlyList<string> DemandMessages = new[]
+        [DataField("demandMessages")]
+        public IReadOnlyList<string> DemandMessages = new[]
         {
             "roboisseur-request-1",
             "roboisseur-request-2",
@@ -35,20 +36,25 @@ namespace Content.Server.Roboisseur.Roboisseur
             "roboisseur-request-5",
             "roboisseur-request-6"
         };
-        public readonly IReadOnlyList<string> ImpatientMessages = new[]
+
+        [DataField("impatientMessages")]
+        public IReadOnlyList<string> ImpatientMessages = new[]
         {
             "roboisseur-request-impatient-1",
             "roboisseur-request-impatient-2",
             "roboisseur-request-impatient-3",
         };
-        public readonly IReadOnlyList<string> DemandMessagesTier2 = new[]
+
+        [DataField("demandMessagesTier2")]
+        public IReadOnlyList<string> DemandMessagesTier2 = new[]
         {
             "roboisseur-request-second-1",
             "roboisseur-request-second-2",
             "roboisseur-request-second-3"
         };
 
-        public readonly IReadOnlyList<String> RewardMessages = new[]
+        [DataField("rewardMessages")]
+        public IReadOnlyList<String> RewardMessages = new[]
         {
             "roboisseur-thanks-1",
             "roboisseur-thanks-2",
@@ -56,7 +62,9 @@ namespace Content.Server.Roboisseur.Roboisseur
             "roboisseur-thanks-4",
             "roboisseur-thanks-5"
         };
-        public readonly IReadOnlyList<String> RewardMessagesTier2 = new[]
+
+        [DataField("rewardMessagesTier2")]
+        public IReadOnlyList<String> RewardMessagesTier2 = new[]
         {
             "roboisseur-thanks-second-1",
             "roboisseur-thanks-second-2",
@@ -64,13 +72,16 @@ namespace Content.Server.Roboisseur.Roboisseur
             "roboisseur-thanks-second-4",
             "roboisseur-thanks-second-5"
         };
-        public readonly IReadOnlyList<String> RejectMessages = new[]
+
+        [DataField("rejectMessages")]
+        public IReadOnlyList<String> RejectMessages = new[]
         {
             "roboisseur-deny-1",
             "roboisseur-deny-2",
             "roboisseur-deny-3"
         };
 
+        [DataField("tier2Protos")]
         public List<String> Tier2Protos = new()
         {
             "FoodBurgerEmpowered",
@@ -94,6 +105,7 @@ namespace Content.Server.Roboisseur.Roboisseur
             "FoodBurgerBaseball"
         };
 
+        [DataField("tier3Protos")]
         public List<String> Tier3Protos = new()
         {
             "FoodBurgerGhost",
@@ -109,7 +121,8 @@ namespace Content.Server.Roboisseur.Roboisseur
             "FoodBurgerCrazy"
         };
 
-        public readonly IReadOnlyList<String> RobossuierRewards = new[]
+        [DataField("robossuierRewards")]
+        public IReadOnlyList<String> RobossuierRewards = new[]
         {
             "DrinkIceCreamGlass",
             "FoodFrozenPopsicleOrange",
@@ -127,7 +140,8 @@ namespace Content.Server.Roboisseur.Roboisseur
             "FoodFrozenSandwich",
         };
 
-        public readonly IReadOnlyList<String> BlacklistedProtos = new[]
+        [DataField("blacklistedProtos")]
+        public IReadOnlyList<String> BlacklistedProtos = new[]
         {
             "FoodMothPesto",
             "FoodBurgerSpell",

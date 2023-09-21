@@ -18,6 +18,3 @@
     attributes:
       gender: male
       proper: true
-  - type: SpriteFade
-  - type: Tag
-    tags: []
