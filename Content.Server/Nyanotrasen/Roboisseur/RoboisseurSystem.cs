@@ -211,6 +211,8 @@ namespace Content.Server.Roboisseur.Roboisseur
             SubscribeLocalEvent<RoboisseurComponent, InteractHandEvent>(OnInteractHand);
             SubscribeLocalEvent<RoboisseurComponent, InteractUsingEvent>(OnInteractUsing);
         }
+
+
         private void OnInit(EntityUid uid, RoboisseurComponent component, ComponentInit args)
         {
             NextItem(component);
@@ -247,11 +249,12 @@ namespace Content.Server.Roboisseur.Roboisseur
 
         private void RewardServicer(EntityUid uid, RoboisseurComponent component, int tier)
         {
-            Random r = new Random();
+            var r = new Random();
             int rewardToDispense = r.Next(100, 350) + 250 * tier;
 
             _material.SpawnMultipleFromMaterial(rewardToDispense, "Credit", Transform(uid).Coordinates);
-            if(tier > 1){
+            if(tier > 1)
+            {
                 while (tier != 0)
                 {
                     EntityManager.SpawnEntity(_random.Pick(RobossuierRewards), Transform(uid).Coordinates);
@@ -265,25 +268,21 @@ namespace Content.Server.Roboisseur.Roboisseur
         {
             if (!TryComp<ActorComponent>(args.User, out var actor))
                 return;
+
             string message = Loc.GetString(_random.Pick(DemandMessages), ("item", component.DesiredPrototype.Name));
             if (CheckTier(component.DesiredPrototype.ID) > 1)
                 message = Loc.GetString(_random.Pick(DemandMessagesTier2), ("item", component.DesiredPrototype.Name));
+
             _chat.TrySendInGameICMessage(component.Owner, message, InGameICChatType.Speak, false);
         }
 
         private void OnInteractUsing(EntityUid uid, RoboisseurComponent component, InteractUsingEvent args)
         {
-            if (HasComp<MobStateComponent>(args.Used))
-                return;
-
-            if (!TryComp<MetaDataComponent>(args.Used, out var meta))
-                return;
-
-            if (meta.EntityPrototype == null)
+            if (HasComp<MobStateComponent>(args.Used) ||
+                MetaData(args.Used)?.EntityPrototype == null)
                 return;
 
             var validItem = CheckValidity(meta.EntityPrototype, component.DesiredPrototype);
-
             var nextItem = true;
 
             if (!validItem)
@@ -291,18 +290,23 @@ namespace Content.Server.Roboisseur.Roboisseur
                 _chat.TrySendInGameICMessage(uid, Loc.GetString(_random.Pick(RejectMessages)), InGameICChatType.Speak, true);
                 return;
             }
+
             component.Impatient = false;
             EntityManager.QueueDeleteEntity(args.Used);
+
             int tier = CheckTier(component.DesiredPrototype.ID);
+
             string message = Loc.GetString(_random.Pick(RewardMessages));
             if (tier > 1)
                 message = Loc.GetString(_random.Pick(RewardMessagesTier2));
             _chat.TrySendInGameICMessage(uid, message, InGameICChatType.Speak, true);
+
             RewardServicer(args.User, component, tier);
 
             if (nextItem)
                 NextItem(component);
         }
+
         private bool CheckValidity(EntityPrototype given, EntityPrototype target)
         {
             // 1: directly compare Names
@@ -313,6 +317,7 @@ namespace Content.Server.Roboisseur.Roboisseur
 
             return false;
         }
+
         private int CheckTier(String target)
         {
             if (_tier2Protos.Contains(target))
@@ -327,16 +332,18 @@ namespace Content.Server.Roboisseur.Roboisseur
             component.Accumulator = 0;
             component.BarkAccumulator = 0;
             var protoString = GetDesiredItem();
+
             if (_prototypeManager.TryIndex<EntityPrototype>(protoString, out var proto))
                 component.DesiredPrototype = proto;
             else
-                _sawmill.Error("Oracle can't index prototype " + protoString);
+                _sawmill.Error("Roboisseur can't index prototype " + protoString);
         }
 
         private string GetDesiredItem()
         {
             return _random.Pick(GetAllProtos());
         }
+
         public List<string> GetAllProtos()
         {
 
@@ -344,11 +351,11 @@ namespace Content.Server.Roboisseur.Roboisseur
             var allProtos = new List<String>();
 
             foreach (var recipe in allRecipes)
-            {
                 allProtos.Add(recipe.Result);
-            }
+
             foreach (var proto in BlacklistedProtos)
                 allProtos.Remove(proto);
+
             return allProtos;
         }
     }
