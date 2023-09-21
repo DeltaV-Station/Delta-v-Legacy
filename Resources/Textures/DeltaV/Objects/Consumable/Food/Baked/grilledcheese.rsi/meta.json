@@ -9,6 +9,12 @@
   "states": [
     {
       "name": "grilled-cheese-v2"
+    },
+    {
+        "name": "inhand-left"
+    },
+    {
+        "name": "inhand-right"
     }
   ]
 }
