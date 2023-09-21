@@ -5,7 +5,6 @@ namespace Content.Server.Roboisseur.Roboisseur
     [RegisterComponent]
     public sealed class RoboisseurComponent : Component
     {
-
         [ViewVariables]
         [DataField("accumulator")]
         public float Accumulator = 0f;
