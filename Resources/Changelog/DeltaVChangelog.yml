@@ -416,3 +416,66 @@ Entries:
       message: Basic department PDAs can now be obtained from the HOP's Ptech vendor
   id: 56
   time: '2023-09-08T19:01:20.0000000+00:00'
+- author: Colin-Tel
+  changes:
+    - type: Fix
+      message: >-
+        Fixed bug where ordering a crate of adjutant shotguns gives cargo a
+        shotgun and no crate.
+  id: 57
+  time: '2023-09-09T13:21:02.0000000+00:00'
+- author: TadJohnson00
+  changes:
+    - type: Add
+      message: Added arctic foxes to the game. Who knows, maybe you'll see one around!
+  id: 58
+  time: '2023-09-09T13:27:34.0000000+00:00'
+- author: Adrian16199
+  changes:
+    - type: Add
+      message: >-
+        A new barber has been seen nearby of your station! Seems to have a new
+        hairstyle to show.
+  id: 59
+  time: '2023-09-09T13:38:32.0000000+00:00'
+- author: ps3moira
+  changes:
+    - type: Tweak
+      message: Made changes to exterior and Medical Department of Glacier Station.
+  id: 60
+  time: '2023-09-09T20:08:53.0000000+00:00'
+- author: Velcroboy
+  changes:
+    - type: Tweak
+      message: >-
+        Overhauled Bar/Kitchen/Hydro and swapped location with Dorms. Hopefully
+        this livens things up a bit for our service crew members. Please! Report
+        any bugs/issues in the mapping channel in Discord.  
+  id: 61
+  time: '2023-09-14T16:14:37.0000000+00:00'
+- author: Colin-Tel
+  changes:
+    - type: Tweak
+      message: >-
+        Paramedics now spawn with their respective equipment for retrieving
+        crewmates more effectively.
+  id: 62
+  time: '2023-09-19T15:38:37.0000000+00:00'
+- author: JJ
+  changes:
+    - type: Add
+      message: Added recipe for Blue Curacao
+  id: 63
+  time: '2023-09-21T00:12:21.0000000+00:00'
+- author: JJ
+  changes:
+    - type: Add
+      message: Added Grilled Cheese.
+  id: 64
+  time: '2023-09-21T15:57:11.0000000+00:00'
+- author: PHCodes
+  changes:
+    - type: Add
+      message: 'Added Mr. Butlertron, the Roboisseur '
+  id: 65
+  time: '2023-09-22T03:04:34.0000000+00:00'
