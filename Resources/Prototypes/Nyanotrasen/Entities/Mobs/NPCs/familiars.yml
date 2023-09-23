@@ -96,8 +96,8 @@
 - type: entity
   parent: WelderExperimental
   id: WelderIfrit
-  name: 
-  description: The welding hand of an ifrit.
+  name: Tribarine Flame Array
+  description: Orbs of fire that the Tribar can use to weld things.
   components:
   - type: Sprite
     sprite: DeltaV/Objects/Tools/triangle_spice.rsi
