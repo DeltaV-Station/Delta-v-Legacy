@@ -1,23 +1,26 @@
 - type: entity
   parent: SimpleSpaceMobBase
   id: MobIfritFamiliar
-  name: Ifrit
-  description: The mystagogue's servant.
+  name: Tribarine Being
+  description: The mystagogue's servant, summoned from a different spacial dimension. It is difficult to look at and has the tendency to light things on fire.
   components:
   - type: Sprite
     drawdepth: Mobs
-    sprite: Mobs/Aliens/Guardians/guardians.rsi
+    sprite: DeltaV/Mobs/Aliens/Golems/triangle.rsi
     layers:
-      - state: magic_base
+      - state: triangle_base
         map: [ "enum.DamageStateVisualLayers.Base" ]
-      - state: magic_flare
+      - state: triangle_flare
         map: [ "enum.DamageStateVisualLayers.BaseUnshaded" ]
         color: "#40a7d7"
         shader: unshaded
   - type: RandomSprite
     available:
       - enum.DamageStateVisualLayers.BaseUnshaded:
-          magic_flare: Sixteen
+          triangle_flare: Emagged
+  - type: PointLight
+    radius: 2
+    color: "#2F0A28"
   - type: Fixtures
     fixtures:
       fix1:
@@ -93,13 +96,13 @@
 - type: entity
   parent: WelderExperimental
   id: WelderIfrit
-  name: ifrit hand
+  name: 
   description: The welding hand of an ifrit.
   components:
   - type: Sprite
-    sprite: Nyanotrasen/Objects/Tools/ifrit_hand.rsi
+    sprite: DeltaV/Objects/Tools/triangle_spice.rsi
   - type: Item
-    sprite: Nyanotrasen/Objects/Tools/ifrit_hand.rsi
+    sprite: DeltaV/Objects/Tools/triangle_spice.rsi
   - type: SolutionContainerManager
     solutions:
       Welder:

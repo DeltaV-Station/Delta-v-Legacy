@@ -1,14 +1,14 @@
 - type: entity
   id: SpawnPointGhostIfrit
   name: ghost role spawn point
-  suffix: Ifrit
+  suffix: Tribar
   parent: MarkerBase
   noSpawn: true
   components:
   - type: GhostRoleMobSpawner
     prototype: MobIfritFamiliar
   - type: GhostRole
-    name: Mystagogue's Ifrit
+    name: Mystagogue's Tribarine Being
     description: Obey the mystagogue. Defend the oracle.
     rules: You are a servant of the mystagogue. Obey them directly.
   - type: Sprite

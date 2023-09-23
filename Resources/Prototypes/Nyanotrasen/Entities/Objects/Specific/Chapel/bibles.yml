@@ -1,14 +1,14 @@
 - type: entity
   parent: Bible
   id: BibleMystagogue
-  name: book of mysteries
-  description: The mystagogue's holy book.
+  name: field guide to advanced anomalous sciences
+  description: A book issued to all mystagogues, meant to prepare them for some of the more advanced concepts in epistemics. Now including a tutorial on summoning Tribarine Beings!
   components:
   - type: Summonable
     specialItem: SpawnPointGhostIfrit
   - type: Sprite
-    sprite: Nyanotrasen/Objects/Specific/Chapel/holylight.rsi
+    sprite: DeltaV/Objects/Specific/Epistemics/mysta_book.rsi
     state: icon
   - type: Item
     size: 15
-    sprite: Nyanotrasen/Objects/Specific/Chapel/holylight.rsi
+    sprite: DeltaV/Objects/Specific/Epistemics/mysta_book.rsi
