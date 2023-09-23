@@ -109,7 +109,6 @@
       - id: Gauze
       - id: EmergencyMedipen #You never know what people are going to latejoin into
         amount: 6
-      - id: Portafib
 
 - type: entity
   id: ClothingBeltPlantFilled

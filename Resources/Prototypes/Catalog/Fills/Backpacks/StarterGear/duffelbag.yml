@@ -46,6 +46,7 @@
       - id: BoxSurvivalMedical
       - id: CheapRollerBedSpawnFolded
       - id: BodyBag_Folded
+      - id: Portafib
 
 - type: entity
   noSpawn: true
