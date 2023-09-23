@@ -12,6 +12,7 @@
   supervisors: job-supervisors-cmo
   access:
   - Medical
+  - Paramedic
   - Maintenance
   - Service
   - External
