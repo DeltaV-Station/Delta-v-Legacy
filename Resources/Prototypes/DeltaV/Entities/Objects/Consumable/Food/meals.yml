@@ -20,3 +20,28 @@
           Quantity: 6
         - ReagentId: Vitamin
           Quantity: 2
+
+- type: entity
+  name: grille-d cheese
+  parent: FoodMealBase
+  id: FoodMealMetalGrilledCheese
+  description: Two slices of bread cooked in butter with a lofty wedge of SOLID IRON in the middle. Dripping with leftover cheese.
+  components:
+  - type: FlavorProfile
+    flavors:
+      - butter
+      - metallic
+  - type: Sprite
+    sprite: DeltaV/Objects/Consumable/Food/Baked/grilledmetal.rsi
+    state: "grilled-metal"
+  - type: SolutionContainerManager
+    solutions:
+      food:
+        maxVol: 15
+        reagents:
+        - ReagentId: Nutriment
+          Quantity: 6
+        - ReagentId: Vitamin
+          Quantity: 2
+        - ReagentId: SharpMetalBits
+          Quantity: 2

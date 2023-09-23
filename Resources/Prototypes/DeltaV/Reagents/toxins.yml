@@ -1,0 +1,20 @@
+- type: reagent
+  id: SharpMetalBits
+  name: reagent-name-metal-bits
+  group: Toxins
+  desc: reagent-desc-metal-bits
+  physicalDesc: reagent-physical-desc-metallic
+  color: "#85929E"
+  metabolisms:
+    Poison:
+      effects:
+      - !type:PopupMessage
+        type: Local
+        visualType: MediumCaution
+        messages:
+        - "oh-god-you-ate-metal"
+      - !type:HealthChange
+        damage:
+          types:
+            Piercing: 4
+            
