@@ -73,7 +73,7 @@
         prob: 0.1
         orGroup: Surgcaps
       - id: ClothingHeadHatSurgcapCybersun
-        prob: 0.01
+        prob: 0.02
         orGroup: Surgcaps
       - id: UniformScrubsColorBlue
         prob: 0.1
@@ -100,7 +100,7 @@
         prob: 0.1
         orGroup: Surgshrubs
       - id: UniformScrubsColorCybersun
-        prob: 0.01
+        prob: 0.02
         orGroup: Surgshrubs
       - id: NitrousOxideTankFilled
         prob: 0.3
