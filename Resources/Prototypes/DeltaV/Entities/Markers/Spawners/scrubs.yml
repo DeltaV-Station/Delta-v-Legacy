@@ -18,7 +18,6 @@
         - UniformScrubsColorPink
         - UniformScrubsColorRainbow
         - UniformScrubsColorWhite
-      chance: 1
       rarePrototypes:
         - UniformScrubsColorCybersun
       rareChance: 0.01
