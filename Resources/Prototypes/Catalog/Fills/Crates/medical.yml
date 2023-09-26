@@ -74,7 +74,7 @@
       - id: ClothingHeadHatSurgcapRainbow
       - id: ClothingHeadHatSurgcapWhite
       - id: ClothingMaskSterile
-        amount: 2
+        amount: 1
 
 - type: entity
   id: CrateEmergencyBurnKit
