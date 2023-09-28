@@ -461,3 +461,27 @@ Entries:
         crewmates more effectively.
   id: 62
   time: '2023-09-19T15:38:37.0000000+00:00'
+- author: JJ
+  changes:
+    - type: Add
+      message: Added recipe for Blue Curacao
+  id: 63
+  time: '2023-09-21T00:12:21.0000000+00:00'
+- author: JJ
+  changes:
+    - type: Add
+      message: Added Grilled Cheese.
+  id: 64
+  time: '2023-09-21T15:57:11.0000000+00:00'
+- author: PHCodes
+  changes:
+    - type: Add
+      message: 'Added Mr. Butlertron, the Roboisseur '
+  id: 65
+  time: '2023-09-22T03:04:34.0000000+00:00'
+- author: Colin-Tel
+  changes:
+    - type: Tweak
+      message: Adjusted the rules. Rules rool!!1
+  id: 66
+  time: '2023-09-26T16:57:12.0000000+00:00'
