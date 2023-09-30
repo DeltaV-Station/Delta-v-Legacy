@@ -1,43 +1,57 @@
-using Robust.Client.Graphics;
-using Robust.Client.Player;
-using Robust.Shared.Network;
-using Content.Shared.Tag;
+using Content.Client.SimpleStation14.Overlays.Shaders;
+using Content.Shared.Inventory.Events;
 using Content.Shared.SimpleStation14.Traits;
+using Content.Shared.SimpleStation14.Traits.Components;
+using Content.Shared.Tag;
+using Robust.Client.Graphics;
 
-namespace Content.Client.SimpleStation14.Overlays;
+namespace Content.Client.SimpleStation14.Overlays.Systems;
+
 public sealed class NearsightedSystem : EntitySystem
 {
-    [Dependency] private readonly IPlayerManager _player = default!;
     [Dependency] private readonly IOverlayManager _overlayMan = default!;
-    [Dependency] private readonly INetManager _net = default!;
-    [Dependency] private readonly IEntityManager _entityManager = default!;
 
     private NearsightedOverlay _overlay = default!;
-    private NearsightedComponent nearsight = new();
 
     public override void Initialize()
     {
         base.Initialize();
 
-        _overlay = new Overlays.NearsightedOverlay();
+        _overlay = new NearsightedOverlay();
+
+        SubscribeLocalEvent<NearsightedComponent, ComponentStartup>(OnStartup);
+        SubscribeLocalEvent<GotEquippedEvent>(OnEquip);
+        SubscribeLocalEvent<GotUnequippedEvent>(OnUnEquip);
     }
 
-    public override void Update(float frameTime)
-    {
-        base.Update(frameTime);
 
-        foreach (var nearsight in EntityQuery<NearsightedComponent>())
-        {
-            var Tags = EnsureComp<TagComponent>(nearsight.Owner);
-            if (Tags.Tags.Contains("GlassesNearsight")) UpdateShader(nearsight, true);
-            else UpdateShader(nearsight, false);
-        }
+    private void OnStartup(EntityUid uid, NearsightedComponent component, ComponentStartup args)
+    {
+        UpdateShader(component, false);
+    }
+
+    private void OnEquip(GotEquippedEvent args)
+    {
+        if (TryComp<NearsightedComponent>(args.Equipee, out var nearsighted) &&
+            EnsureComp<TagComponent>(args.Equipment).Tags.Contains("GlassesNearsight"))
+            UpdateShader(nearsighted, true);
+    }
+
+    private void OnUnEquip(GotUnequippedEvent args)
+    {
+        if (TryComp<NearsightedComponent>(args.Equipee, out var nearsighted) &&
+            EnsureComp<TagComponent>(args.Equipment).Tags.Contains("GlassesNearsight"))
+            UpdateShader(nearsighted, false);
     }
 
 
     private void UpdateShader(NearsightedComponent component, bool booLean)
     {
-        while (_overlayMan.HasOverlay<NearsightedOverlay>()) _overlayMan.RemoveOverlay(_overlay);
+        while (_overlayMan.HasOverlay<NearsightedOverlay>())
+        {
+            _overlayMan.RemoveOverlay(_overlay);
+        }
+
         component.Glasses = booLean;
         _overlayMan.AddOverlay(_overlay);
     }
