@@ -1,13 +1,12 @@
+using Content.Shared.SimpleStation14.Traits.Components;
 using Robust.Client.GameObjects;
 using Robust.Client.Graphics;
 using Robust.Client.Player;
 using Robust.Shared.Enums;
 using Robust.Shared.Prototypes;
 using Robust.Shared.Timing;
-using Content.Shared.SimpleStation14.Traits;
 
-
-namespace Content.Client.SimpleStation14.Overlays;
+namespace Content.Client.SimpleStation14.Overlays.Shaders;
 
 public sealed class NearsightedOverlay : Overlay
 {
@@ -17,12 +16,15 @@ public sealed class NearsightedOverlay : Overlay
     [Dependency] private readonly IPlayerManager _playerManager = default!;
 
     public override OverlaySpace Space => OverlaySpace.WorldSpace;
-
     private readonly ShaderInstance _nearsightShader;
 
-    public float OxygenLevel = 0f;
-    private float _oldOxygenLevel = 0f;
-    public float outerDarkness = 1f;
+    public float Radius = 0f;
+    private float _oldRadius = 0f;
+    public float Darkness = 1f;
+
+    private float _lerpTime = 0f;
+    private float _lerpDuration = 0.25f;
+
 
     public NearsightedOverlay()
     {
@@ -30,53 +32,65 @@ public sealed class NearsightedOverlay : Overlay
         _nearsightShader = _prototypeManager.Index<ShaderPrototype>("GradientCircleMask").InstanceUnique();
     }
 
+
     protected override void Draw(in OverlayDrawArgs args)
     {
-        if (!_entityManager.TryGetComponent(_playerManager.LocalPlayer?.ControlledEntity, out NearsightedComponent? nearComp)) return;
-        if (_playerManager.LocalPlayer?.ControlledEntity != nearComp.Owner) return;
+        // Check if the player has a NearsightedComponent and is controlling it
+        if (!_entityManager.TryGetComponent(_playerManager.LocalPlayer?.ControlledEntity, out NearsightedComponent? nearComp) ||
+            _playerManager.LocalPlayer?.ControlledEntity != nearComp.Owner)
+            return;
 
-        if (nearComp.Glasses == true)
+        // Set the radius and darkness values based on whether the player is wearing glasses or not
+        if (nearComp.Glasses)
         {
-            OxygenLevel = nearComp.gRadius;
-            outerDarkness = nearComp.gAlpha;
+            Radius = nearComp.gRadius;
+            Darkness = nearComp.gAlpha;
         }
         else
         {
-            OxygenLevel = nearComp.Radius;
-            outerDarkness = nearComp.Alpha;
+            Radius = nearComp.Radius;
+            Darkness = nearComp.Alpha;
         }
 
-        if (!_entityManager.TryGetComponent(_playerManager.LocalPlayer?.ControlledEntity, out EyeComponent? eyeComp)) return;
-        if (args.Viewport.Eye != eyeComp.Eye) return;
+        // Check if the player has an EyeComponent and if the overlay should be drawn for this eye
+        if (!_entityManager.TryGetComponent(_playerManager.LocalPlayer?.ControlledEntity, out EyeComponent? eyeComp) ||
+            args.Viewport.Eye != eyeComp.Eye)
+            return;
+
 
         var viewport = args.WorldAABB;
         var handle = args.WorldHandle;
         var distance = args.ViewportBounds.Width;
 
-        var time = (float) _timing.RealTime.TotalSeconds;
         var lastFrameTime = (float) _timing.FrameTime.TotalSeconds;
 
-        if (!MathHelper.CloseTo(_oldOxygenLevel, OxygenLevel, 0.001f))
+        // If the current radius value is different from the previous one, lerp between them
+        if (!MathHelper.CloseTo(_oldRadius, Radius, 0.001f))
         {
-            var diff = OxygenLevel - _oldOxygenLevel;
-            _oldOxygenLevel += GetDiff(diff, lastFrameTime);
+            _lerpTime += lastFrameTime;
+            var t = MathHelper.Clamp(_lerpTime / _lerpDuration, 0f, 1f); // Calculate lerp time
+            _oldRadius = MathHelper.Lerp(_oldRadius, Radius, t); // Lerp between old and new radius values
         }
+        // If the current radius value is the same as the previous one, reset the lerp time and old radius value
         else
         {
-            _oldOxygenLevel = OxygenLevel;
+            _lerpTime = 0f;
+            _oldRadius = Radius;
         }
 
-        float outerMaxLevel = 0.6f * distance;
-        float outerMinLevel = 0.06f * distance;
-        float innerMaxLevel = 0.02f * distance;
-        float innerMinLevel = 0.02f * distance;
+        // Calculate the outer and inner radii based on the current radius value
+        var outerMaxLevel = 0.6f * distance;
+        var outerMinLevel = 0.06f * distance;
+        var innerMaxLevel = 0.02f * distance;
+        var innerMinLevel = 0.02f * distance;
 
-        var outerRadius = outerMaxLevel - OxygenLevel * (outerMaxLevel - outerMinLevel);
-        var innerRadius = innerMaxLevel - OxygenLevel * (innerMaxLevel - innerMinLevel);
+        var outerRadius = outerMaxLevel - _oldRadius * (outerMaxLevel - outerMinLevel);
+        var innerRadius = innerMaxLevel - _oldRadius * (innerMaxLevel - innerMinLevel);
 
+        // Set the shader parameters and draw the overlay
         _nearsightShader.SetParameter("time", 0.0f);
         _nearsightShader.SetParameter("color", new Vector3(1f, 1f, 1f));
-        _nearsightShader.SetParameter("darknessAlphaOuter", outerDarkness);
+        _nearsightShader.SetParameter("darknessAlphaOuter", Darkness);
         _nearsightShader.SetParameter("innerCircleRadius", innerRadius);
         _nearsightShader.SetParameter("innerCircleMaxRadius", innerRadius);
         _nearsightShader.SetParameter("outerCircleRadius", outerRadius);
@@ -85,17 +99,5 @@ public sealed class NearsightedOverlay : Overlay
         handle.DrawRect(viewport, Color.Black);
 
         handle.UseShader(null);
-    }
-
-    private float GetDiff(float value, float lastFrameTime)
-    {
-        var adjustment = value * 5f * lastFrameTime;
-
-        if (value < 0f)
-            adjustment = Math.Clamp(adjustment, value, -value);
-        else
-            adjustment = Math.Clamp(adjustment, -value, value);
-
-        return adjustment;
     }
 }
