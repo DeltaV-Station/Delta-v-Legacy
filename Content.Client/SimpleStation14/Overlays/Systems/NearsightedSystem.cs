@@ -52,7 +52,7 @@ public sealed class NearsightedSystem : EntitySystem
             _overlayMan.RemoveOverlay(_overlay);
         }
 
-        component.Glasses = booLean;
+        component.Active = booLean;
         _overlayMan.AddOverlay(_overlay);
     }
 }
