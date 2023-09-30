@@ -76,8 +76,9 @@
   - type: Clothing
     sprite: Clothing/Eyes/Glasses/glasses.rsi
   - type: VisionCorrection
-  - type: ClothingGrantTag
-    tag: GlassesNearsight   
+  - type: Tag
+    tags:
+      - GlassesNearsight
 
 - type: entity
   parent: ClothingEyesBase
