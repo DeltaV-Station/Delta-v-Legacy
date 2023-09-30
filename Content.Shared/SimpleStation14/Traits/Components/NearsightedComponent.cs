@@ -1,26 +1,25 @@
 using Robust.Shared.GameStates;
 
-namespace Content.Shared.SimpleStation14.Traits
+namespace Content.Shared.SimpleStation14.Traits.Components;
+
+/// <summary>
+///     Owner entity cannot see well, without prescription glasses.
+/// </summary>
+[RegisterComponent, NetworkedComponent]
+public sealed class NearsightedComponent : Component
 {
-    /// <summary>
-    ///     Owner entity cannot see well, without prescription glasses.
-    /// </summary>
-    [RegisterComponent, NetworkedComponent]
-    public sealed class NearsightedComponent : Component
-    {
-        [DataField("radius"), ViewVariables(VVAccess.ReadWrite)]
-        public float Radius = 0.8f;
+    [DataField("radius"), ViewVariables(VVAccess.ReadWrite)]
+    public float Radius = 0.8f;
 
-        [DataField("alpha"), ViewVariables(VVAccess.ReadWrite)]
-        public float Alpha = 0.995f;
+    [DataField("alpha"), ViewVariables(VVAccess.ReadWrite)]
+    public float Alpha = 0.995f;
 
-        [DataField("gradius"), ViewVariables(VVAccess.ReadWrite)]
-        public float gRadius = 0.45f;
+    [DataField("gradius"), ViewVariables(VVAccess.ReadWrite)]
+    public float gRadius = 0.45f;
 
-        [DataField("galpha"), ViewVariables(VVAccess.ReadWrite)]
-        public float gAlpha = 0.93f;
+    [DataField("galpha"), ViewVariables(VVAccess.ReadWrite)]
+    public float gAlpha = 0.93f;
 
-        [DataField("glasses"), ViewVariables(VVAccess.ReadWrite)]
-        public bool Glasses = false;
-    }
+    [DataField("glasses"), ViewVariables(VVAccess.ReadWrite)]
+    public bool Glasses = false;
 }
