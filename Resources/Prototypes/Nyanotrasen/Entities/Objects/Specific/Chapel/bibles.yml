@@ -1,7 +1,7 @@
 - type: entity
   parent: Bible
   id: BibleMystagogue
-  name: field guide to advanced anomalous sciences
+  name: Field Guide to Advanced Anomalous Sciences
   description: A book issued to all mystagogues, meant to prepare them for some of the more advanced concepts in epistemics. Now including a tutorial on summoning Tribarine Beings!
   components:
   - type: Summonable
