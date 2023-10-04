@@ -11,6 +11,7 @@
     ClothingOuterWinterMusician: 1
     ClothingUniformDressRed: 1
     ClothingMaskJoy: 2
+    ClothingHeadHatFez: 2
     ClothingHeadHatCardborg: 2
     ClothingOuterCardborg: 2
     ClothingHeadHatSombrero: 2
@@ -34,6 +35,7 @@
     ClothingHeadPaperSackSmile: 2
     ClothingHeadRastaHat: 2
     ClothingEyesBlindfold: 1
+    ClothingEyesGlassesOutlawGlasses: 2
     ClothingUniformSchoolGakuranBlack: 2
     UniformSchoolgirlBlack: 1
     UniformSchoolgirlBlue: 1
@@ -59,11 +61,38 @@
     ClothingUniformJumpsuitDameDane: 1
     ClothingShoesDameDane: 1
     ClothingOuterDameDane: 1
+    ClothingShoeSlippersDuck: 1
+    ClothingHeadHatPirateTricord: 1
+    ClothingHeadHatPirate: 1
+    ClothingUniformJumpsuitPirate: 2
+    ClothingOuterCoatPirate: 2
     ClothingUniformJumpsuitSober: 1
     ClothingOuterClownPriest: 1
     ClothingUniformSkirtTurtle: 2
+    ClothingUniformRat: 1
+    UniformJabroni: 1
     ClothingUniformSwimsuitBlue: 2
+    ClothingUniformJumpskirtPerformer: 1
+    ClothingShoesBootsPerformer: 1
     ClothingCostumeBunnySuit: 2
     ClothingHeadHatBunny: 2
+    ClothingHeadHatCatEars: 2
+    ClothingHeadHatWitch1: 1
+    ClothingOuterVestAmongGrande: 1
+    ClothingHeadHatSkeletonmask: 1
+    ClothingOuterSkeletonCostume: 1
+    ClothingHeadHatRichard: 1
+    ClothingMaskBat: 2
+    ClothingMaskJackal: 2
+    ClothingMaskRaven: 2
+    ClothingMaskBear: 2
+    ClothingHeadHatSquid: 2
+    ClothingMaskBee: 2
+    ClothingMaskFox: 2
+    ClothingMaskRat: 2
   emaggedInventory:
+    ClothingOuterArmorTouseiGusoku: 1
+    ClothingHeadHelmetKabuto: 1
     ClothingShoesBling: 1
+    ClothingUniformJumpsuitGalaxyRed: 1
+    ClothingUniformJumpsuitGalaxyBlue: 1

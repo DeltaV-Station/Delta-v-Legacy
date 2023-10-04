@@ -178,6 +178,7 @@
       - id: ClothingHeadHatBeretHoS
       - id: ClothingHeadHatHoshat
       - id: ClothingNeckCloakHos
+      - id: ClothingNeckMantleHOS
       - id: ClothingOuterCoatHoSTrench
       - id: ClothingUniformJumpskirtHoSAlt
       - id: ClothingUniformJumpsuitHoSAlt
@@ -191,7 +192,7 @@
         prob: 0.1
       - id: ClothingOuterHardsuitSecurityRed
       - id: ClothingMaskGasSwat
-      - id: DrinkVacuumFlask
+      - id: DrinkHosFlask
         prob: 0.8
       - id: ClothingBeltSecurityFilled
       - id: ClothingHeadsetAltSecurity

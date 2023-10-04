@@ -4,7 +4,7 @@
     ClothingBackpack: 5
     ClothingBackpackDuffel: 5
     ClothingBackpackSatchel: 3
-    ClothingBackpackSatchelLeather: 2
+    ClothingBackpackSatchelLeather: 3
     ClothingHeadBandBlack: 2
     ClothingHeadBandBlue: 2
     ClothingHeadBandGreen: 2
@@ -39,6 +39,7 @@
     ClothingUniformJumpsuitJeansRed: 2
     ClothingUniformJumpsuitJeansBrown: 2
     ClothingUniformJumpsuitLostTourist: 2
+    ClothingShoesTourist: 2
     ClothingShoesColorBlack: 8
     ClothingShoesColorBrown: 4
     ClothingShoesColorWhite: 3
@@ -47,6 +48,8 @@
     ClothingShoesColorGreen: 2
     ClothingShoesColorOrange: 2
     ClothingShoesColorRed: 2
+    ClothingShoesBootsLaceup: 4
+    ClothingShoesLeather: 2
     ClothingShoesColorPurple: 2
     ClothingHeadHatGreysoft: 8
     ClothingHeadHatMimesoft: 3
@@ -58,6 +61,23 @@
     ClothingHeadHatPurplesoft: 2
     ClothingHeadHatCorpsoft: 2
     ClothingHeadHatBowlerHat: 2
+    ClothingHeadHatFlatBlack: 2
+    ClothingHeadHatFedoraBlack: 2
+    ClothingHeadHatFlatBrown: 2
+    ClothingHeadHatFedoraChoc: 2
+    ClothingHeadHatFedoraWhite: 2
+    ClothingUniformJumpsuitSuitBlack: 2
+    ClothingUniformJumpsuitSuitBlackAlt: 2
+    ClothingUniformJumpsuitSuitBrown: 2
+    ClothingUniformJumpsuitSuitWhite: 2
+    ClothingNeckTieBlack: 2
+    ClothingNeckTieBrown: 2
+    ClothingNeckTieWhite: 2
+    ClothingNeckTieRed: 2
+    ClothingNeckTieBlue: 2
+    ClothingNeckTieGreen: 2
+    ClothingOuterHoodieBlack: 2
+    ClothingOuterHoodieGrey: 2
     ClothingOuterWinterCoat: 2
     ClothingOuterWinterCoatLong: 2
     ClothingOuterWinterCoatPlaid: 2
@@ -66,8 +86,19 @@
     ClothingOuterCoatLettermanRed: 2
     ClothingOuterDenimJacket: 2
     ClothingOuterCorporateJacket: 2
+    ClothingHeadHatTrucker: 2
     ClothingHeadFishCap: 2
     ClothingShoesBootsFishing: 2
-    ClothingHeadTinfoil: 2
-    ClothingHeadRastaHat: 2
     ClothingBeltStorageWaistbag: 3
+    ClothingEyesEyepatch: 2
+    ClothingEyesGlasses: 2
+    ClothingHandsGlovesFingerless: 3
+  emaggedInventory:
+    ClothingHeadHatFlatSyndie: 1
+    ClothingUniformJumpsuitOperative: 1
+    ClothingUniformJumpskirtOperative: 1
+    ClothingUniformJumpsuitSyndieFormalDress: 1
+    ClothingUniformJumpskirtSyndieFormalDress: 1
+    ClothingUniformJumpskirtTacticalMaid: 1
+    ClothingHandsTacticalMaidGloves: 1
+

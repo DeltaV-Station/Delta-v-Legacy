@@ -8,6 +8,7 @@
     contents:
       - id: ClothingHeadsetAltMystagogue
       - id: ClothingOuterHardsuitMystagogue
+      - id: ClothingNeckCloakMystagogue
       - id: PlushieSlime
         prob: 0.1
       - id: DoorRemoteResearch

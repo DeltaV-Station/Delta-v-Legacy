@@ -2,7 +2,7 @@
   parent: ClothingEyesBase
   id: ClothingEyesEyepatch
   name: eyepatch
-  description: Yarr.
+  description: A small patch worn to cover a scar.
   components:
   - type: Sprite
     sprite: Clothing/Eyes/Misc/eyepatch.rsi

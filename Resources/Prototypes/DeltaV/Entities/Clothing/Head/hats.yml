@@ -69,3 +69,21 @@
     damage:
       types:
         Slash: 8
+        
+- type: entity
+  parent: ClothingHeadBase
+  id: ClothingHeadHatSkeletonmask
+  name: skeleton mask
+  description: it's a beautiful day outside.
+  components:
+  - type: Sprite
+    sprite: DeltaV/Clothing/Head/Hats/skeletonmask.rsi
+  - type: Clothing
+    sprite: DeltaV/Clothing/Head/Hats/skeletonmask.rsi
+  - type: TypingIndicatorClothing
+    proto: robot
+  - type: IdentityBlocker
+  - type: IngestionBlocker
+  - type: Tag
+    tags:
+    - HidesHair

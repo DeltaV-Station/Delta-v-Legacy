@@ -1,12 +1,18 @@
 - type: vendingMachineInventory
   id: SalvageEquipmentInventory
   startingInventory:
+    ClothingUniformJumpsuitSalvageSpecialist: 4
+    ClothingBackpackSalvage: 4
+    ClothingBackpackDuffelSalvage: 4
+    ClothingBackpackSatchelSalvage: 4
+    ClothingBeltSalvageWebbing: 4
     Crowbar: 2
     Pickaxe: 4
     OreBag: 4
-    Flare: 4
+    Flare: 6
     FlashlightLantern: 2
     Floodlight: 2
-    HandheldGPSBasic: 2
-    RadioHandheld: 2
+    HandheldGPSBasic: 4
+    RadioHandheld: 4
     WeaponCrusherDagger: 2
+    

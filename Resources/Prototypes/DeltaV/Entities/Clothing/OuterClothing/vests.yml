@@ -37,3 +37,20 @@
         Heat: 0.9
   - type: ExplosionResistance
     damageCoefficient: 0.9
+
+- type: entity
+  parent: ClothingOuterBase
+  id: ClothingOuterVestAmongGrande
+  name: among grande
+  description: Sospechoso...
+  components:
+  - type: ToggleableClothing
+    clothingPrototype: ClothingHeadHatAmongGrande
+  - type: Sprite
+    sprite: DeltaV/Clothing/OuterClothing/Vests/amonggrande.rsi
+  - type: Clothing
+    sprite: DeltaV/Clothing/OuterClothing/Vests/amonggrande.rsi
+  - type: TemperatureProtection
+    coefficient: 0.5    
+  - type: TypingIndicatorClothing
+    proto: lawyer

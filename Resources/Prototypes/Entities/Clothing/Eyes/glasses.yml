@@ -80,8 +80,8 @@
 - type: entity
   parent: ClothingEyesBase
   id: ClothingEyesGlassesOutlawGlasses
-  name: outlaw glasses
-  description: A must for every self-respecting undercover agent.
+  name: silly glasses
+  description: Suddenly you look unrecognizable wearing these.
   components:
   - type: Sprite
     sprite: Clothing/Eyes/Glasses/outlawglasses.rsi
