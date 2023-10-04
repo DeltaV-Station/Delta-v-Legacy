@@ -69,3 +69,14 @@
     sprite: Clothing/Shoes/Misc/damedaneshoes.rsi
   - type: Clothing
     sprite: Clothing/Shoes/Misc/damedaneshoes.rsi
+
+- type: entity
+  parent: ClothingShoesBaseButcherable
+  id: ClothingShoesGreenCrocs
+  name: green crocs
+  description: Statistics say these will last longer than your life.
+  components:
+  - type: Sprite
+    sprite: Clothing/Shoes/Misc/greencrocs.rsi
+  - type: Clothing
+    sprite: Clothing/Shoes/Misc/greencrocs.rsi
