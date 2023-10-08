@@ -13,3 +13,19 @@
 - type: lobbyBackground
   id: Oracle
   background: /Textures/LobbyScreens/oracle.png
+
+- type: lobbyBackground
+  id: CodeDeltaGamma
+  background: /Textures/LobbyScreens/CodeDeltaGamma.png
+
+- type: lobbyBackground
+  id: CupOfVelta
+  background: /Textures/LobbyScreens/CupOfVelta.png
+
+- type: lobbyBackground
+  id: Epistemics
+  background: /Textures/LobbyScreens/Epistemics.png
+
+- type: lobbyBackground
+  id: Singulo
+  background: /Textures/LobbyScreens/Singulo.png
