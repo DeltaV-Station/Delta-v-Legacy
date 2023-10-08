@@ -3,10 +3,6 @@
   background: /Textures/LobbyScreens/2.png
 
 - type: lobbyBackground
-  id: Phil
-  background: /Textures/LobbyScreens/phil.png
-
-- type: lobbyBackground
   id: MedbayMadness
   background: /Textures/LobbyScreens/MedbayMadness.png
 
