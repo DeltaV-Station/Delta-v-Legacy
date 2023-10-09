@@ -15,6 +15,10 @@
   background: /Textures/LobbyScreens/oracle.png
 
 - type: lobbyBackground
+  id: Bar
+  background: /Textures/LobbyScreens/Bar.png
+
+- type: lobbyBackground
   id: CodeDeltaGamma
   background: /Textures/LobbyScreens/CodeDeltaGamma.png
 

@@ -18,6 +18,11 @@
   copyright: "art by user DEminerDG / @desmondeccho on Instagram"
   source: "https://www.instagram.com/desmondeccho/"
 
+- files: ["Bar.png"]
+  license: "CC0-1.0"
+  copyright: "justani on discord / @itjustani on Tumblr"
+  source: "https://itjustani.carrd.co/"
+
 - files: ["CodeDeltaGamma.png"]
   license: "CC0-1.0"
   copyright: "ps3moira @ DeltaV"
@@ -41,4 +46,4 @@
 - files: ["DeltaV__Technological_Progress_by_threlo.png"]
   license: "CC-BY-NC-ND-4.0"
   copyright: "threlo on discord / @threlo on itaku"
-  source: "https://itaku.ee/profile/threlo"
+  source: "https://linktr.ee/threlo"
