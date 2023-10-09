@@ -15,6 +15,10 @@
   background: /Textures/LobbyScreens/oracle.png
 
 - type: lobbyBackground
+  id: aBadShift
+  background: /Textures/LobbyScreens/aBadShift.png
+
+- type: lobbyBackground
   id: Bar
   background: /Textures/LobbyScreens/Bar.png
 
