@@ -11,6 +11,17 @@
 
 - type: entity
   parent: ClothingUniformBase
+  id: ClothingUniformJumpsuitBloodyClothes
+  name: blood soaked clothes
+  description: It's soaked in blood, presumably of Space-Camp goers...
+  components:
+  - type: Sprite
+    sprite: DeltaV/Clothing/Uniforms/Jumpsuit/bloody_clothes.rsi
+  - type: Clothing
+    sprite: DeltaV/Clothing/Uniforms/Jumpsuit/bloody_clothes.rsi
+
+- type: entity
+  parent: ClothingUniformBase
   id: ClothingUniformJumpsuitBoatswain
   name: boatswain's turtleneck
   description: A comfortable rollneck and slacks. Suitable attire for a pipe-smoking bosun.

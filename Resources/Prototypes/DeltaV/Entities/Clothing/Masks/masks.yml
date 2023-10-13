@@ -1,0 +1,20 @@
+- type: entity
+  parent: ClothingMaskPullableBase
+  id: ClothingMaskHockeyBase
+  description: It's a dirty looking hockey mask, with some red markings on it, presumably painted. Whoever wore this was an aggressive player.
+  abstract: true
+  components:
+  - type: IngestionBlocker
+  - type: DiseaseProtection
+    protection: 0.05
+  - type: IdentityBlocker
+
+- type: entity
+  parent: ClothingMaskOniBase
+  id: ClothingMaskHockeyMask
+  name: hockey mask
+  components:
+  - type: Sprite
+    sprite: DeltaV/Clothing/Mask/hockey_mask.rsi
+  - type: Clothing
+    sprite: DeltaV/Clothing/Mask/hockey_mask.rsi
