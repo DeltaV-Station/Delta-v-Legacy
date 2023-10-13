@@ -80,8 +80,6 @@
     sprite: DeltaV/Clothing/Head/Hats/skeletonmask.rsi
   - type: Clothing
     sprite: DeltaV/Clothing/Head/Hats/skeletonmask.rsi
-  - type: TypingIndicatorClothing
-    proto: robot
   - type: IdentityBlocker
   - type: IngestionBlocker
   - type: Tag
