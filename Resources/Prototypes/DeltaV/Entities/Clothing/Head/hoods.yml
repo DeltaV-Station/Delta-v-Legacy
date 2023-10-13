@@ -3,7 +3,7 @@
   id: ClothingHeadHatAmongGrande
   noSpawn: true
   name: among grande hood
-  description: sospechoso...
+  description: Sospechoso...
   components:
   - type: Sprite
     sprite:  DeltaV/Clothing/Head/Hoods/amonggrande.rsi
