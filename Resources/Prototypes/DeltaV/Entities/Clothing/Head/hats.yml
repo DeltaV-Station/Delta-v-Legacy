@@ -74,7 +74,7 @@
   parent: ClothingHeadBase
   id: ClothingHeadHatSkeletonmask
   name: skeleton mask
-  description: it's a beautiful day outside.
+  description: It's a beautiful day outside.
   components:
   - type: Sprite
     sprite: DeltaV/Clothing/Head/Hats/skeletonmask.rsi
