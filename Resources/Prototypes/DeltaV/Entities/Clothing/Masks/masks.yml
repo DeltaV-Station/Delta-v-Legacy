@@ -1,7 +1,7 @@
 - type: entity
   parent: ClothingMaskPullableBase
   id: ClothingMaskHockeyBase
-  description: It's a dirty looking hockey mask, with some red markings on it, presumably painted. Whoever wore this was an aggressive player.
+  description: It's a dirty-looking hockey mask, with some red markings on it, presumably painted. Whoever wore this was an aggressive player.
   abstract: true
   components:
   - type: IngestionBlocker
