@@ -10,7 +10,6 @@
   - type: PointLight
     radius: 1.4
     energy: 2
-    offset: -.1
     color: "#26DEB3"
   - type: Damageable
     damageContainer: Inorganic
