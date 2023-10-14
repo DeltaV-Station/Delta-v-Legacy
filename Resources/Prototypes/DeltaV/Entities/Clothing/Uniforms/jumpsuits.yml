@@ -12,7 +12,7 @@
 - type: entity
   parent: ClothingUniformBase
   id: ClothingUniformJumpsuitBloodyClothes
-  name: blood soaked clothes
+  name: blood-soaked clothes
   description: It's soaked in blood, presumably of Space-Camp goers...
   components:
   - type: Sprite
