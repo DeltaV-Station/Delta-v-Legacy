@@ -8,9 +8,10 @@
   - type: DiseaseProtection
     protection: 0.05
   - type: IdentityBlocker
+  - type: BreathMask
 
 - type: entity
-  parent: ClothingMaskOniBase
+  parent: ClothingMaskHockeyBase
   id: ClothingMaskHockeyMask
   name: hockey mask
   components:
