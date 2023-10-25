@@ -74,7 +74,7 @@ public sealed class EntityHealthBarOverlay : Overlay
             float yOffset;
             if (spriteQuery.TryGetComponent(mob.Owner, out var sprite))
             {
-                yOffset = sprite.Bounds.Height + 15f;
+                yOffset = sprite.Bounds.Height + 20f;
             }
             else
             {
