@@ -19,6 +19,9 @@
 - files: ["i_need_a_computer.ogg"]
   source: "Keanu Reeves, Johnny Mnemonic (1994)"
 
+- files: ["susguyeatscrew.ogg"]
+  source: "Jerma984's Viva Las Vegas Video on Youtube (2019); https://www.youtube.com/watch?v=T4YmdEEl2m0&t=0s"
+
 - files: ["never_trust_a_traitor.ogg"]
   source: "Ian McNeice as Baron Vladimir Harkonnen, Frank Herbert's Dune (2000)"
 
@@ -54,3 +57,6 @@
 
 - files: ["truth_imagination.ogg"]
   source: "Andrew J. Robinson as Elim Garak, Star Trek: Deep Space Nine, S3E20 'Improbable Cause' (1995)"
+  
+  - files: ["safescience.ogg"]
+  source: "J.K. Simmons as Cave Johnson, Portal 2 (2011)"
