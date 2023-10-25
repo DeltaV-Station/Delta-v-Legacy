@@ -1,0 +1,1573 @@
+
+  id: RecipeGrilledCheese
+  Name: Grilled Cheese
+  solids:
+    FoodBreadPlainSlice: 2
+    FoodCheeseSlice: 1
+    FoodButter: 1
+
+  id: RecipeCannabisButter
+  Name: Cannabis Butter Recipe
+  solids:
+    FoodButter: 1
+    LeavesCannabis: 6
+
+  id: RecipeCannabisBrownies
+  Name: Cannabis Brownie Recipe
+  reagents:
+    Flour: 15
+    Sugar: 30
+  solids:
+    FoodCannabisButter: 2
+    FoodSnackChocolateBar: 2
+    FoodEgg: 3
+
+  id: RecipeMoldyBread
+  Name: Moldy Bread Recipe
+  solids:
+    FoodBreadPlain: 1
+    FoodFlyAmanita: 3
+
+  id: RecipeCheeseCurds
+  Name: Cheese Curds Recipe
+  solids:
+    FoodCurdCheese: 1
+
+  id: RecipeBoritoPie
+  Name: Borito Pie Recipe
+  solids:
+    FoodSnackBoritos: 1
+    FoodCheeseSlice: 1
+    FoodChili: 1
+    FoodMeatMeatball: 1
+
+  id: RecipeMothHerbyCheese
+  Name: Herby Cheese Recipe
+  solids:
+    FoodCurdCheese: 1
+    FoodAmbrosiaVulgaris: 1 
+
+  id: RecipeMothMothicSalad
+  Name: Mothic Salad Recipe
+  solids:
+    FoodCabbage: 1
+    FoodOnionRedSlice: 1
+    FoodTomato: 1
+
+  id: RecipeMothTomatoSauceOlive
+  Name: Tomato Sauce Recipe
+  reagents:
+    OilOlive: 5
+    TableSalt: 5
+  solids:
+    FoodTomato: 1
+
+  id: RecipeMothTomatoSauceCorn
+  Name: Tomato Sauce Recipe
+  reagents:
+    OilCorn: 5
+    TableSalt: 5
+  solids:
+    FoodTomato: 1
+
+  id: RecipeMothPesto
+  Name: Pesto Recipe
+  reagents:
+    OilOlive: 5
+    TableSalt: 5
+  solids:
+    FoodGarlic: 1
+
+  id: RecipeMothBechamel
+  Name: Bechamel Recipe
+  reagents:
+    Milk: 5
+    Flour: 5
+    Butter: 5
+
+  id: RecipeMothSqueakingFry
+  Name: Squeaking Stir Fry Recipe
+  reagents:
+    OilOlive: 5
+  solids:
+    FoodTofuSlice: 2
+    FoodOnionSlice: 1
+    FoodChili: 1
+    FoodCarrot: 1
+    FoodCheeseCurds: 1
+
+  id: RecipeMothToastedSeeds
+  Name: Toasted Seeds Recipe
+  reagents:
+    OilOlive: 5
+  solids:
+    WheatSeeds: 1
+    CarrotSeeds: 1
+    PoppySeeds: 1
+
+  id: RecipeMothChiliCabbageWrap
+  Name: Sweet Chili Cabbage Wrap Recipe
+  reagents:
+    Sugar: 5 
+  solids:
+    FoodCheeseSlice: 1 
+    FoodMothSaladBase: 1
+    FoodChili: 1
+    FoodCabbage: 1
+
+  id: RecipeMothBakedCheese
+  Name: Baked Cheese Recipe
+  solids:
+    FoodCheese: 1
+
+  id: RecipeMothBakedCheesePlatter
+  Name: Baked Cheese Platter Recipe
+  solids:
+    FoodMothBakedCheese: 1
+    FoodBreadPlainSlice: 3 
+
+  id: RecipeMothBakedRice
+  Name: Baked Rice Recipe
+  solids:
+    FoodRiceBoiled: 1
+    FoodPotato: 2
+    FoodCabbage: 1
+    FoodChili: 1
+
+  id: RecipeMothGreenLasagne
+  Name: Green Lasagne Recipe
+  solids:
+    FoodNoodlesBoiled: 1
+    FoodCheeseSlice: 1
+    FoodMothBechamel: 1
+    FoodMothPesto: 1
+
+  id: RecipeMothBakedCorn
+  Name: Baked Corn Recipe
+  solids:
+    FoodCorn: 1
+
+  id: RecipeMothButteredBakedCorn
+  Name: Buttered Baked Corn Recipe
+  reagents:
+    Butter: 5
+  solids:
+    FoodMothBakedCorn: 1
+
+  id: RecipeMothMozzarellaSticks
+  Name: Mozzarella Sticks Recipe
+  reagents:
+    TomatoSauce: 10
+  solids:
+    FoodMozzarella: 1
+    FoodBreadPlainSlice: 1
+
+  id: RecipeMothMacBalls
+  Name: Mac Balls Recipe
+  reagents:
+    TomatoSauce: 10
+  solids:
+    FoodDonkpocket: 1 
+    FoodCorn: 1 
+
+  id: RecipeMothCottonSoup
+  Name: Cotton Soup Recipe
+  reagents:
+    Water: 10
+  solids:
+    FoodBowlBig: 1
+    FoodEggplant: 1
+    FoodOnion: 1
+    FoodCarrot: 1
+    FoodMothBakedCorn: 1
+    MaterialCotton1: 1
+
+  id: RecipeMothCheeseSoup
+  Name: Cheese Soup Recipe
+  reagents:
+    Milk: 5
+    Flour: 5
+    Butter: 5
+  solids:
+    FoodBowlBig: 1
+    FoodCheeseSlice: 1
+    FoodPotato: 1
+
+  id: RecipeMothSeedSoup
+  Name: Seed Soup Recipe
+  reagents:
+    Water: 5
+    Vinaigrette: 5
+  solids:
+    FoodBowlBig: 1
+    AmbrosiaVulgarisSeeds: 1
+    PoppySeeds: 1
+    WheatSeeds: 1
+
+  id: RecipeMothEyeballSoup
+  Name: Moth Eyeball Soup Recipe
+  reagents:
+    Water: 10
+  solids:
+    FoodBowlBig: 1
+    OrganMothEyes: 1
+    FoodTomato: 1
+    FoodPotato: 1
+
+  id: RecipeMothBeanStew
+  Name: Bean Stew Recipe
+  reagents:
+    Water: 5
+  solids:
+    FoodBowlBig: 1
+    FoodTinBeansOpen: 1
+    FoodCabbage: 1
+    FoodTomato: 1
+    FoodOnion: 1
+    FoodMothBakedCorn: 1
+
+  id: RecipeMothOatStew
+  Name: Oat Stew Recipe
+  reagents:
+    Water: 5
+    Oats: 5
+  solids:
+    FoodBowlBig: 1
+    FoodCarrot: 2 
+    FoodPotato: 1
+
+  id: RecipeMothHeartburnSoup
+  Name: Heartburn Soup Recipe
+  reagents:
+    Vinegar: 5
+    Milk: 5
+    Cream: 5
+  solids:
+    FoodBowlBig: 1
+    FoodTofuSlice: 1
+    FoodChili: 1
+
+  id: RecipeMothHuaMulanCongee
+  Name: Mulan Congee Recipe
+  solids:
+    FoodRiceBoiled: 1
+    FoodMealFriedegg: 2
+    FoodMeatCutletCooked: 1 
+
+  id: RecipeMothCornmealPorridge
+  Name: Cornmeal Porridge Recipe
+  result: FoodMothCornmealPorridge
+  reagents:
+    Water: 10
+  solids:
+    FoodBowlBig: 1
+    FoodCorn: 1 
+
+  id: RecipeMothCheesyPorridge
+  Name: Cheesy Porridge Recipe
+  result: FoodMothCheesyPorridge
+  reagents:
+    Milk: 5
+    Butter: 5
+  solids:
+    FoodMothCornmealPorridge: 1
+    FoodCurdCheese: 1
+    FoodCheeseSlice: 1
+
+  id: RecipeMothEggplantPolenta
+  Name: Fried Eggplant And Polenta Recipe
+  reagents:
+    TomatoSauce: 5
+  solids:
+    FoodMothCheesyPorridge: 1
+    FoodEggplant: 1
+    FoodBreadPlainSlice: 2
+    FoodMozzarella: 1
+
+  id: RecipeMothVegetarianChili
+  Name: Vegetarian Chili Recipe
+  reagents:
+    Water: 10
+    TableSalt: 5
+  solids:
+    FoodBowlBig: 1
+    FoodTomato: 1
+    FoodChili: 1
+
+  id: RecipeMothCapreseSalad
+  Name: Caprese Salad Recipe
+  reagents:
+    Vinaigrette: 5
+  solids:
+    FoodTomato: 1
+    FoodMozzarella: 1
+    FoodAmbrosiaVulgaris: 1 
+
+  id: RecipeMothFleetSalad
+  Name: Fleet Salad Recipe
+  reagents:
+    Vinaigrette: 5
+  solids:
+    FoodBowlBig: 1
+    FoodMothSaladBase: 1
+    FoodCarrot: 1
+    FoodBreadPlainSlice: 1
+    FoodCheeseSlice: 1 
+
+  id: RecipeMothCottonSalad
+  Name: Cotton Salad Recipe
+  reagents:
+    Vinaigrette: 5
+  solids:
+    FoodBowlBig: 1
+    FoodMothSaladBase: 1
+    MaterialCotton1: 1
+    FoodCarrot: 1
+
+  id: RecipeMothKachumbariSalad
+  Name: Kachumbari Salad Recipe
+  reagents:
+    JuiceLime: 5
+  solids:
+    FoodBowlBig: 1
+    FoodMothSaladBase: 1
+    FoodChili: 1
+    FoodOnionRed: 1
+    FoodAmbrosiaVulgaris: 1 
+
+  id: RecipeMothFirecrackerPizza
+  Name: Firecracker Pizza Recipe
+  reagents:
+    BbqSauce: 10
+  solids:
+    FoodDough: 1
+    FoodCheeseSlice: 1
+    FoodMothBakedCorn: 1
+    FoodChili: 1
+
+  id: RecipeMothFiveCheesePizza
+  Name: Quattro Formaggi Pizza Recipe
+  reagents:
+    TomatoSauce: 10
+  solids:
+    FoodDough: 1
+    FoodMozzarella: 1
+    FoodCheeseSlice: 1
+    FoodCurdCheese: 1
+    FoodCheeseCurds: 1
+
+  id: RecipeMothPestoPizza
+  Name: Pesto Pizza Recipe
+  solids:
+    FoodDough: 1
+    FoodTomato: 2
+    FoodMozzarella: 2
+    FoodMothPesto: 1
+
+  id: RecipeMothCottonPizza
+  Name: Cotton Pizza Recipe
+  reagents:
+    OilCorn: 5
+  solids:
+    FoodDough: 1
+    FoodMozzarella: 1
+    FoodCurdCheese: 1
+    MaterialCotton1: 1
+
+  id: RecipeCorncobPizza
+  Name: Corncob Crust Pizza Recipe
+  solids:
+    FoodDough: 1
+    FoodCorn: 6
+    FoodCheeseSlice: 1
+    FoodTomato: 1
+    FoodButter: 1
+
+  id: RecipeMothCheesecakeBalls
+  Name: Cheesecake Balls Recipe
+  reagents:
+    Sugar: 5
+    Flour: 5
+  solids:
+    FoodCurdCheese: 1
+
+  id: RecipeMothMothmallow
+  Name: Mothmallow Recipe
+  reagents:
+    Sugar: 10
+    Rum: 5
+    MilkSoy: 5
+  solids:
+    FoodSoybeans: 1
+
+  id: RecipeMothMoffin
+  Name: Moffin Recipe
+  reagents:
+    Flour: 5
+    Milk: 5
+    Egg: 6
+  solids:
+    MaterialCloth1: 1
+
+  id: RecipeBun
+  Name: Bun Recipe
+  solids:
+    FoodDoughSlice: 1 
+
+  id: RecipeAppendixBurger
+  Name: Appendix Burger Recipe
+  solids:
+    FoodBreadBun: 1
+    OrganHumanAppendix: 1
+
+  id: RecipeBaconBurger
+  Name: Bacon Burger Recipe
+  solids:
+    FoodBreadBun: 1
+    FoodMeatCutlet: 3 
+    FoodCheeseSlice: 2
+
+  id: RecipeBaseballBurger
+  Name: Baseball Burger Recipe
+  solids:
+    FoodBreadBun: 1
+    BaseBallBat: 1
+
+  id: RecipeBearger
+  Name: Bearger Recipe
+  solids:
+    FoodBreadBun: 1
+    FoodMeatBear: 1
+
+  id: RecipeBigBiteBurger
+  Name: Big Bite Burger Recipe
+  solids:
+    FoodBreadBun: 1
+    FoodMeatPatty: 2
+    FoodCheeseSlice: 1
+    FoodTomato: 1
+    FoodOnionSlice: 2
+
+  id: RecipeBrainBurger
+  Name: Brain Burger Recipe
+  solids:
+    FoodBreadBun: 1
+    OrganHumanBrain: 1
+
+  id: RecipeCatBurger
+  Name: Cat Burger Recipe
+  solids:
+    FoodBreadBun: 1
+    FoodMeat: 1
+    ClothingHeadHatCatEars: 1
+
+  id: RecipeCheeseburger
+  Name: Cheeseburger Recipe
+  solids:
+    FoodBreadBun: 1
+    FoodMeat: 1
+    FoodCheeseSlice: 1
+
+  id: RecipeChickenSandwich
+  Name: Chicken Sandwich Recipe
+  reagents:
+    Mayo: 5
+  solids:
+    FoodBreadBun: 1
+    FoodMeatChicken: 1
+
+  id: RecipeClownBurger
+  Name: Clownburger Recipe
+  solids:
+    FoodBreadBun: 1
+    ClothingMaskClown: 1
+
+  id: RecipeCorgiBurger
+  Name: Corgi Burger Recipe
+  solids:
+    FoodBreadBun: 1
+    FoodMeatCorgi: 1
+
+  id: RecipeCrabBurger
+  Name: Crab Burger Recipe
+  solids:
+    FoodBreadBun: 1
+    FoodMeatCrab: 2
+
+  id: RecipeCrazyHamburger
+  Name: Crazy Hamburger Recipe
+  reagents:
+    OilOlive: 15
+  solids:
+    FoodBreadBun: 1
+    FoodMeat: 2
+    FoodCheeseSlice: 2
+    FoodChili: 1
+    FoodCabbage: 1
+    CrayonGreen: 1
+    Flare: 1
+
+  id: RecipeDuckBurger
+  Name: Duck Sandwich Recipe
+  solids:
+    FoodBreadBun: 1
+    FoodMeatDuck: 1
+    FoodCheeseSlice: 1
+
+  id: RecipeEmpoweredBurger
+  Name: Empowered Burger Recipe
+  solids:
+    FoodBreadBun: 1
+    SheetPlasma1: 2
+
+  id: RecipeCarpBurger
+  Name: Fillet-O-Carp Burger Recipe
+  solids:
+    FoodBreadBun: 1
+    FoodMeatFish: 1
+    FoodCheeseSlice: 1
+
+  id: RecipeFiveBurger
+  Name: Five Alarm Burger Recipe
+  solids:
+    FoodBreadBun: 1
+    FoodMeat: 1
+    FoodChili: 3
+
+  id: RecipeGhostBurger
+  Name: Ghost Burger Recipe
+  solids:
+    FoodBreadBun: 1
+    ClothingOuterGhostSheet: 1 
+
+  id: RecipeHumanBurger
+  Name: Human Burger Recipe
+  solids:
+    FoodBreadBun: 1
+    FoodMeatHuman: 1
+
+  id: RecipeJellyBurger
+  Name: Jelly Burger Recipe
+  solids:
+    FoodBreadBun: 1
+    FoodJellyAmanita: 1
+
+  id: RecipeBurgerMcguffin
+  Name: Mcguffin Recipe
+  solids:
+    FoodBreadBun: 1
+    FoodCheeseSlice: 1
+    FoodEgg: 2
+
+  id: RecipeBurgerMcrib
+  Name: Mcrib Recipe
+  solids:
+    FoodBreadBun: 1
+    FoodMealRibs: 1
+    FoodOnionSlice: 1
+
+  id: RecipeMimeBurger
+  Name: Mime Burger Recipe
+  solids:
+    FoodBreadBun: 1
+    ClothingMaskMime: 1
+
+  id: RecipePlainBurger
+  Name: Plain Burger Recipe
+  solids:
+    FoodBreadBun: 1
+    FoodMeat: 1
+
+  id: RecipeRatBurger
+  Name: Rat Burger Recipe
+  solids:
+    FoodBreadBun: 1
+    FoodMeatRat: 1
+
+  id: RecipeRobotBurger
+  Name: Roburger Recipe
+  solids:
+    FoodBreadBun: 1
+    CapacitorStockPart: 2
+
+  id: RecipeSoylentBurger
+  Name: Soylent Burger Recipe
+  solids:
+    FoodBreadBun: 1
+    FoodCheeseSlice: 2
+    FoodSoybeans: 2 
+
+  id: RecipeSpellBurger
+  Name: Spell Burger Recipe
+  solids:
+    FoodBreadBun: 1
+    ClothingHeadHatWizard: 1
+
+  id: RecipeSuperBiteBurger
+  Name: Super Bite Burger Recipe
+  reagents:
+    TableSalt: 5
+  solids:
+    FoodBreadBun: 1
+    FoodMeatPatty: 3
+    FoodCheeseSlice: 3
+    FoodTomato: 3
+    FoodEgg: 2
+
+  id: RecipeTofuBurger
+  Name: Tofu Burger Recipe
+  solids:
+    FoodBreadBun: 1
+    FoodTofuSlice: 1
+
+  id: RecipeXenoburger
+  Name: Xenoburger Recipe
+  solids:
+    FoodBreadBun: 1
+    FoodMeatXeno: 1
+
+  id: RecipeBananaBread
+  Name: Banana Bread Recipe
+  solids:
+    FoodDough: 1
+    FoodBanana: 1
+
+  id: RecipeCornbread
+  Name: Cornbread Recipe
+  solids:
+    FoodDoughCornmeal: 1
+
+  id: RecipeCreamCheeseBread
+  Name: Cream Cheese Bread Recipe
+  reagents:
+    Milk: 5
+  solids:
+    FoodDough: 1
+    FoodCheeseSlice: 2
+
+  id: RecipeMeatBread
+  Name: Meat Bread Recipe
+  solids:
+    FoodDough: 1
+    FoodMeatCutlet: 2
+    FoodCheeseSlice: 2
+
+  id: RecipeMimanaBread
+  Name: Mimana Bread Recipe
+  reagents:
+    MilkSoy: 5
+    Nothing: 5 
+  solids:
+    FoodDough: 1
+    FoodTofu: 1
+
+  id: RecipeBread
+  Name: Bread Recipe
+  solids:
+    FoodDough: 1
+
+  id: RecipeSausageBread
+  Name: Sausage Bread Recipe
+  solids:
+    FoodDough: 1
+    FoodMeat: 1 
+
+  id: RecipeSpiderMeatBread
+  Name: Spider Meat Bread Recipe
+  result: FoodBreadMeatSpider
+  solids:
+    FoodDough: 1
+    FoodMeatSpiderCutlet: 2
+    FoodCheeseSlice: 2
+
+  id: RecipeTofuBread
+  Name: Tofu Bread Recipe
+  solids:
+    FoodDough: 1
+    FoodTofu: 1
+
+  id: RecipeXenoMeatBread
+  Name: Xeno Meat Bread Recipe
+  solids:
+    FoodDough: 1
+    FoodMeatXenoCutlet: 2
+    FoodCheeseSlice: 2
+
+  id: RecipeBaguette
+  Name: Baguette Recipe
+  reagents:
+    TableSalt: 5
+    Blackpepper: 5
+  solids:
+    FoodDough: 1
+
+  id: RecipeButteredToast
+  Name: Buttered Toast Recipe
+  solids:
+    FoodBreadPlainSlice: 1
+    FoodButter: 1
+
+  id: RecipeFrenchToast
+  Name: French Toast Recipe
+  reagents:
+    Milk: 5
+    Egg: 12
+  solids:
+    FoodBreadPlainSlice: 1
+
+  id: RecipeGarlicBread
+  Name: Garlic Bread Slice Recipe
+  solids:
+    FoodBreadPlainSlice: 1
+    FoodGarlic: 1
+    FoodButter: 1
+
+  id: RecipeJellyToast
+  Name: Jelly Toast Recipe
+  solids:
+    FoodBreadPlainSlice: 1
+    FoodJellyAmanita: 1 
+
+  id: RecipeMoldyBreadSlice
+  Name: Moldy Bread Slice Recipe
+  solids:
+    FoodBreadPlainSlice: 1
+    FoodFlyAmanita: 1
+
+  id: RecipeTwoBreadSlice
+  Name: Two Slice Recipe
+  reagents:
+    Wine: 5
+  solids:
+    FoodBreadPlainSlice: 2
+
+  id: RecipeMargheritaPizza
+  Name: Margherita Pizza Recipe
+  solids:
+    FoodDough: 1
+    FoodMozzarella: 2
+    FoodTomato: 3
+
+  id: RecipeMushroomPizza
+  Name: Mushroom Pizza Recipe
+  solids:
+    FoodDough: 1
+    FoodMushroom: 5
+
+  id: RecipeMeatPizza
+  Name: Meat Pizza Recipe
+  solids:
+    FoodDough: 1
+    FoodMeat: 2
+    FoodCheeseSlice: 1
+    FoodTomato: 1
+
+  id: RecipeVegetablePizza
+  Name: Vegetable Pizza Recipe
+  solids:
+    FoodDough: 1
+    FoodEggplant: 1
+    FoodCarrot: 1
+    FoodCorn: 1
+    FoodTomato: 1
+
+  id: RecipeHawaiianPizza
+  Name: Hawaiian Pizza Recipe
+  solids:
+    FoodDough: 1
+    FoodMeatChickenCutlet: 3
+    FoodPineappleSlice: 5
+
+  id: RecipeDankPizza
+  Name: Dank Pizza Recipe
+  solids:
+    FoodDough: 1
+    FoodAmbrosiaVulgaris: 3
+    FoodCheeseSlice: 1
+    FoodTomato: 1
+
+  id: RecipeDonkpocketPizza
+  Name: Donk-Pocket Pizza Recipe
+  solids:
+    FoodDough: 1
+    FoodDonkpocketWarm: 3
+    FoodCheeseSlice: 1
+    FoodTomato: 1
+
+  id: RecipeBoiledSpaghetti
+  Name: Boiled Spaghetti Recipe
+  reagents:
+    Flour: 15
+    Egg: 6
+  solids:
+    FoodPlate: 1
+    FoodButter: 1
+
+  id: RecipePastaTomato
+  Name: Pasta Tomato Recipe
+  solids:
+    FoodNoodlesBoiled: 1
+    FoodTomato: 2
+
+  id: RecipeMeatballSpaghetti
+  Name: Spaghetti And Meatballs Recipe
+  solids:
+    FoodNoodlesBoiled: 1
+    FoodMeatMeatball: 2
+
+  id: RecipeButterNoodles
+  Name: Butter Noodles Recipe
+  solids:
+    FoodNoodlesBoiled: 1
+    FoodButter: 1
+
+  id: RecipeChowMein
+  Name: Chow Mein Recipe
+  solids:
+    FoodNoodlesBoiled: 1
+    FoodEggplant: 1
+    FoodCarrot: 1
+    FoodCorn: 1
+    FoodEgg: 1
+
+  id: RecipeOatmeal
+  Name: Oatmeal Recipe
+  reagents:
+    Oats: 15
+    Water: 10
+  solids:
+    FoodBowlBig: 1
+
+  id: RecipeBoiledRice
+  Name: Boiled Rice Recipe
+  reagents:
+    Rice: 15
+    Water: 10
+  solids:
+    FoodBowlBig: 1
+
+  id: RecipeRicePudding
+  Name: Rice Pudding Recipe
+  reagents:
+    Rice: 15
+    Milk: 10
+    Sugar: 5
+  solids:
+    FoodBowlBig: 1
+
+  id: RecipeRicePork
+  Name: Rice And Pork Recipe
+  solids:
+    FoodRiceBoiled: 1
+    FoodMeatCutlet: 3
+
+  id: RecipeRiceGumbo
+  Name: Black-Eyed Gumbo Recipe
+  solids:
+    FoodRiceBoiled: 1
+    FoodMeatCutlet: 3
+    FoodChili: 2
+
+  id: RecipeEggRice
+  Name: Egg-Fried Rice Recipe
+  solids:
+    FoodRiceBoiled: 1
+    FoodEgg: 1
+    FoodCarrot: 1
+
+  id: RecipeCopypasta
+  Name: Copypasta Recipe
+  solids:
+    FoodNoodles: 2
+
+  id: RecipeBisque
+  Name: Bisque Recipe
+  reagents:
+    Water: 10
+  solids:
+    FoodBowlBig: 1
+    FoodTomato: 1
+    FoodMushroom: 1
+    FoodMeatFish: 1
+
+  id: RecipeMeatballSoup
+  Name: Meatball Soup Recipe
+  reagents:
+    Water: 10
+  solids:
+    FoodBowlBig: 1
+    FoodMeatMeatball: 1
+    FoodCarrot: 1
+    FoodPotato: 1
+
+  id: RecipeNettleSoup
+  Name: Nettle Soup Recipe
+  reagents:
+    Water: 10
+    Egg: 6
+  solids:
+    FoodBowlBig: 1
+    Nettle: 1
+    FoodPotato: 1
+
+  id: RecipeEyeballSoup
+  Name: Eyeball Soup Recipe
+  reagents:
+    Water: 10
+  solids:
+    FoodBowlBig: 1
+    OrganHumanEyes: 1
+    FoodCarrot: 1
+    FoodPotato: 1
+
+  id: RecipeAmanitaJelly
+  Name: Amanita Jelly Recipe
+  reagents:
+    Water: 5
+    Vodka: 5
+  solids:
+    FoodFlyAmanita: 3
+
+  id: RecipeOnionSoup
+  Name: Onion Soup Recipe
+  reagents:
+    Water: 10
+  solids:
+    FoodBowlBig: 1
+    FoodOnionSlice: 5
+    FoodCheeseSlice: 1
+
+  id: RecipeMushroomSoup
+  Name: Mushroom Soup Recipe
+  reagents:
+    Water: 5
+    Milk: 5
+  solids:
+    FoodBowlBig: 1
+    FoodMushroom: 2
+
+  id: RecipeStewSoup
+  Name: Stew Recipe
+  reagents:
+    Water: 10
+  solids:
+    FoodBowlBig: 1
+    FoodMeatCutlet: 3
+    FoodTomato: 1
+    FoodPotato: 1
+    FoodCarrot: 1
+    FoodEggplant: 1
+    FoodMushroom: 1
+
+  id: RecipeTomatoSoup
+  Name: Tomato Soup Recipe
+  reagents:
+    Water: 10
+  solids:
+    FoodBowlBig: 1
+    FoodTomato: 2
+
+  id: RecipeTomatoBloodSoup
+  Name: Tomato Blood Soup Recipe
+  reagents:
+    Blood: 10
+  solids:
+    FoodBowlBig: 1
+    FoodTomato: 2
+
+  id: RecipeWingFangChuSoup
+  Name: Wing Fang Chu Recipe
+  reagents:
+    Soysauce: 5
+  solids:
+    FoodBowlBig: 1
+    FoodMeatXenoCutlet: 2
+
+  id: RecipeWingFangChuSoupSpider
+  Name: Wing Fang Chu Recipe
+  reagents:
+    Soysauce: 5
+  solids:
+    FoodBowlBig: 1
+    FoodMeatSpider: 2
+
+  id: RecipeVegetableSoup
+  Name: Vegetable Soup Recipe
+  reagents:
+    Water: 5
+  solids:
+    FoodBowlBig: 1
+    FoodCorn: 1
+    FoodCarrot: 1
+    FoodPotato: 1
+    FoodEggplant: 1
+
+  id: RecipeClownTearsSoup
+  Name: Clown Tears Soup Recipe
+  reagents:
+    Water: 10
+  solids:
+    FoodBowlBig: 1
+    FoodBanana: 1
+    ShardGlass: 1
+
+  id: RecipeMonkeysDelightSoup
+  Name: Monkeys Delight Recipe
+  reagents:
+    Flour: 5
+    TableSalt: 1
+    Blackpepper: 1
+  solids:
+    FoodBowlBig: 1
+    FoodBanana: 1
+    MonkeyCube: 1
+
+  id: RecipeChickenNuggetBox
+  Name: Chicken Nugget Box Recipe
+  reagents:
+    Protein: 18
+    Egg: 12
+    Flour: 18
+
+  id: RecipeSalami
+  Name: Salami Recipe
+  reagents:
+    Protein: 18
+    TableSalt: 10
+    Water: 5
+
+  id: RecipeCubanCarp
+  Name: Cuban Carp Recipe
+  solids:
+    FoodBreadPlainSlice: 2
+    FoodCheeseSlice: 2
+    FoodChili: 1
+    FoodMeatFish: 2
+
+  id: RecipeFishChips
+  Name: Fish And Chips Recipe
+  solids:
+    FoodDough: 1
+    FoodPotato: 1
+    FoodMeatFish: 1
+
+  id: RecipeSashimi
+  Name: Sashimi Recipe
+  reagents:
+    TableSalt: 1
+  solids:
+    FoodMeatFish: 2
+
+  id: RecipeMisoColaSoup
+  Name: Salty Sweet Misocola Soup Recipe
+  reagents:
+    Cola: 5
+  solids:
+    FoodSoupMiso: 1
+
+  id: RecipeLoadedBakedPotato
+  Name: Loaded Baked Potato Recipe
+  solids:
+    FoodPotato: 1
+    FoodCheeseSlice: 1
+
+  id: RecipeFries
+  Name: Space Fries Recipe
+  reagents:
+    TableSalt: 5
+  solids:
+    FoodPotato: 1
+
+  id: RecipeCheesyFries
+  Name: Cheesy Fries Recipe
+  reagents:
+    TableSalt: 5
+  solids:
+    FoodPotato: 1
+    FoodCheeseSlice: 1
+
+  id: RecipeCarrotFries
+  Name: Carrot Fries Recipe
+  reagents:
+    TableSalt: 5
+  solids:
+    FoodCarrot: 1
+
+  id: RecipePopcorn
+  Name: Popcorn Recipe
+  solids:
+    FoodCorn: 1
+
+  id: RecipePancake
+  Name: Pancake Recipe
+  reagents:
+    Flour: 5
+    Milk: 5
+    Egg: 6
+
+  id: RecipeWaffles
+  Name: Waffle Recipe
+  reagents:
+    Flour: 5
+    Milk: 5
+    Egg: 6
+    SodaWater: 5
+
+  id: RecipeWaffleSoy
+  Name: Soy Waffle Recipe
+  reagents:
+    Flour: 5
+    MilkSoy: 5
+    Egg: 6
+    SodaWater: 5
+
+  id: RecipeCookie
+  Name: Cookie Recipe
+  reagents:
+    Flour: 5
+    Sugar: 5
+  solids:
+    FoodButter: 1
+    FoodSnackChocolateBar: 1
+
+  id: RecipeSugarCookie
+  Name: Sugar Cookie Recipe
+  reagents:
+    Flour: 5
+    Sugar: 10
+  solids:
+    FoodButter: 1
+
+  id: RecipeRaisinCookie
+  Name: Raisin Cookie Recipe
+  reagents:
+    Flour: 5
+    Sugar: 5
+  solids:
+    FoodSnackRaisins: 1
+
+  id: RecipeCookieOatmeal
+  Name: Oatmeal Cookie Recipe
+  reagents:
+    Oats: 5
+    Sugar: 5
+  solids:
+    FoodButter: 1
+
+  id: RecipeChocolateChipPancake
+  Name: Chocolate Chip Pancake Recipe
+  reagents:
+    Flour: 5
+    Milk: 5
+    Egg: 6
+  solids:
+    FoodSnackChocolateBar: 1
+
+  id: RecipeApplePie
+  Name: Apple Pie
+  solids:
+    FoodDoughPie: 1
+    FoodApple: 3
+    FoodPlateTin: 1
+
+  id: RecipeMeatPie
+  Name: Meat Pie Recipe
+  solids:
+    FoodDoughPie: 1
+    FoodMeat: 3
+    FoodPlateTin: 1
+
+  id: RecipeXenoPie
+  Name: Xeno Pie Recipe
+  solids:
+    FoodDoughPie: 1
+    FoodMeatXeno: 3
+    FoodPlateTin: 1
+
+  id: RecipeAppleCake
+  Name: Apple Cake Recipe
+  solids:
+    FoodCakePlain: 1
+    FoodApple: 3
+
+  id: RecipeCarrotCake
+  Name: Carrot Cake Recipe
+  solids:
+    FoodCakePlain: 1
+    FoodCarrot: 3
+
+  id: RecipeLemonCake
+  Name: Lemon Cake Recipe
+  solids:
+    FoodCakePlain: 1
+    FoodLemon: 3
+
+  id: RecipeOrangeCake
+  Name: Orange Cake Recipe
+  solids:
+    FoodCakePlain: 1
+    FoodOrange: 3
+
+  id: RecipeLimeCake
+  Name: Lime Cake Recipe
+  solids:
+    FoodCakePlain: 1
+    FoodLime: 3
+
+  id: RecipeCheeseCake
+  Name: Cheese Cake Recipe
+  reagents:
+    Cream: 10
+  solids:
+    FoodCakePlain: 1
+    FoodCheeseSlice: 3
+
+  id: RecipeClownCake
+  Name: Clown Cake Recipe
+  solids:
+    ClothingMaskClown: 1
+    FoodCakePlain: 1
+
+  id: RecipeBananaCreamPie
+  Name: Banana Cream Pie
+  solids:
+    FoodDoughPie: 1
+    FoodBanana: 3
+    FoodPlateTin: 1
+
+  id: RecipeCake
+  Name: Cake Recipe
+  solids:
+    FoodCakeBatter: 1
+
+  id: RecipeBirthdayCake
+  Name: Birthday Cake Recipe
+  reagents:
+    Cream: 5
+  solids:
+    FoodCakePlain: 1
+
+  id: RecipeChocolateCake
+  Name: Chocolate Cake Recipe
+  solids:
+    FoodCakePlain: 1
+    FoodSnackChocolateBar: 2
+
+  id: RecipeBrainCake
+  Name: Brain Cake Recipe
+  solids:
+    FoodCakePlain: 1
+    OrganHumanBrain: 1
+
+  id: RecipeAmanitaPie
+  Name: Amanita Pie Recipe
+  solids:
+    FoodDoughPie: 1
+    FoodFlyAmanita: 1
+    FoodPlateTin: 1
+
+  id: RecipeSlimeCake
+  Name: Slime Cake Recipe
+  reagents:
+    Slime: 15
+  solids:
+    FoodCakePlain: 1
+
+  id: RecipeGrapeTart
+  Name: Grape Tart Recipe
+  reagents:
+    Sugar: 5
+    Milk: 5
+  solids:
+    FoodDoughPie: 1
+    FoodGrape: 3
+
+  id: RecipeDumplings
+  Name: Dumplings Recipe
+  reagents:
+    Water: 10
+    UncookedAnimalProteins: 6
+  solids:
+    FoodDoughSlice: 3
+
+  id: RecipeWarmDonkpocket
+  Name: Warm Donk Pocket Recipe
+  solids:
+    FoodDonkpocket: 1
+
+  id: RecipeWarmDankpocket
+  Name: Warm Dank Pocket Recipe
+  solids:
+    FoodDonkpocketDank: 1
+
+  id: RecipeWarmDonkpocketSpicy
+  Name: Warm Spicy Donk-Pocket Recipe
+  solids:
+    FoodDonkpocketSpicy: 1
+
+  id: RecipeWarmDonkpocketTeriyaki
+  Name: Warm Teriyaki-Pocket Recipe
+  solids:
+    FoodDonkpocketTeriyaki: 1
+
+  id: RecipeWarmDonkpocketPizza
+  Name: Warm Pizza-Pocket Recipe
+  solids:
+    FoodDonkpocketPizza: 1
+
+  id: RecipeDonkpocketHonk
+  Name: Warm Honk-Pocket Recipe
+  solids:
+    FoodDonkpocketHonk: 1
+
+  id: RecipeDonkpocketBerry
+  Name: Warm Berry-Pocket Recipe
+  solids:
+    FoodDonkpocketBerry: 1
+
+  id: RecipeDonkpocketGondola
+  Name: Warm Gondola-Pocket Recipe
+  solids:
+    FoodDonkpocketGondola: 1
+
+  id: RecipeHotChili
+  Name: Hot Chili Recipe
+  solids:
+    FoodBowlBig: 1
+    FoodChili: 1
+    FoodMeatCutlet: 1
+    FoodOnionSlice: 1
+    FoodTomato: 1
+
+  id: RecipeColdChili
+  Name: Cold Chili Recipe
+  reagents:
+    Nitrogen: 5
+  solids:
+    FoodSoupChiliHot: 1
+
+  id: RecipeClownTears
+  Name: Clown's Tears Recipe
+  solids:
+    FoodBowlBig: 1
+    FoodOnionSlice: 1
+    FoodTomato: 1
+    BikeHorn: 1
+
+  id: RecipeChiliClown
+  Name: Chili Con Carnival Recipe
+  solids:
+    FoodBowlBig: 1
+    FoodChili: 1
+    FoodMeatCutlet: 1
+    FoodOnionSlice: 1
+    FoodTomato: 1
+    ClothingShoesClown: 1
+
+  id: RecipeQueso
+  Name: Queso Recipe
+  solids:
+    FoodChili: 1
+    FoodCheeseSlice: 2
+
+  id: RecipeRibs
+  Name: Bbq Ribs Recipe
+  reagents:
+    BbqSauce: 5
+  solids:
+    FoodMeat: 2
+    FoodKebabSkewer: 1
+
+  id: RecipeEnchiladas
+  Name: Enchiladas Recipe
+  solids:
+    FoodChili: 2
+    FoodMeatCutlet: 1
+    FoodCorn: 1
+
+  id: RecipeHerbSalad
+  Name: Herb Salad Recipe
+  solids:
+    FoodBowlBig: 1
+    FoodAmbrosiaVulgaris: 3
+    FoodApple: 1
+
+  id: RecipeValidSalad
+  Name: Valid Salad Recipe
+  result: FoodSaladValid
+  solids:
+    FoodBowlBig: 1
+    FoodAmbrosiaVulgaris: 3
+    FoodPotato: 1
+    FoodMeatMeatball: 1
+
+  id: RecipeColeslaw
+  Name: Coleslaw Recipe
+  reagents:
+    Vinaigrette: 5
+  solids:
+    FoodBowlBig: 1
+    FoodOnionRed: 1
+    FoodCabbage: 1
+
+  id: RecipeCaesarSalad
+  Name: Caesar Salad Recipe
+  reagents:
+    OilOlive: 5
+  solids:
+    FoodBowlBig: 1
+    FoodOnionRedSlice: 1
+    FoodBreadPlainSlice: 1
+    FoodMozzarella: 1
+    FoodCabbage: 1
+
+  id: RecipeCitrusSalad
+  Name: Citrus Salad Recipe
+  solids:
+    FoodBowlBig: 1
+    FoodOrange: 1
+    FoodLemon: 1
+    FoodLime: 1
+
+  id: RecipeKimchiSalad
+  Name: Kimchi Salad Recipe
+  reagents:
+    Vinegar: 5
+  solids:
+    FoodBowlBig: 1
+    FoodCarrot: 1
+    FoodCabbage: 1
+    FoodGarlic: 1
+
+  id: RecipeFruitSalad
+  Name: Fruit Salad Recipe
+  solids:
+    FoodBowlBig: 1
+    FoodOrange: 1
+    FoodApple: 1
+    FoodGrape: 1
+    FoodWatermelonSlice: 2
+
+  id: RecipeJungleSalad
+  Name: Jungle Salad Recipe
+  solids:
+    FoodBowlBig: 1
+    FoodBanana: 1
+    FoodApple: 1
+    FoodGrape: 1
+    FoodWatermelonSlice: 2
+
+  id: RecipeWatermelonFruitBowlSalad
+  Name: Watermelon Fruit Bowl Recipe
+  solids:
+    FoodWatermelon: 1
+    FoodApple: 1
+    FoodBanana: 1
+    FoodLemon: 1
+    FoodOrange: 1
+    FoodAmbrosiaVulgaris: 1
+
+  id: RecipeDriedTobacco
+  Name: Dried Tobacco Leaves Recipe
+  solids:
+    LeavesTobacco: 1
+
+  id: RecipeDriedCannabis
+  Name: Dried Cannabis Leaves Recipe
+  solids:
+    LeavesCannabis: 1
+
+  id: RecipeAloeCream
+  Name: Aloe Cream Recipe
+  solids:
+    FoodAloe: 1
+
+  id: RecipeMedicatedSuture
+  Name: Medicated Suture Recipe
+  solids:
+    FoodPoppy: 1
+    Brutepack: 1
+    MaterialCloth1: 1
+  reagents:
+    TranexamicAcid: 50
+    Spaceacillin: 50
+
+  id: RecipeRegenerativeMesh
+  Name: Regenerative Mesh Recipe
+  solids:
+    FoodAloe: 1
+    Ointment: 1
+    MaterialCloth1: 1
+  reagents:
+    Sigynate: 50
+    Dermaline: 50
+
+  id: RecipeSuppermatter
+  Name: Suppermatter Recipe
+  solids:
+    FoodCakeBatter: 2
+  reagents:
+    Sugar: 30
+    Nitrogen: 10
+    Plasma: 10
+
+  id: RecipeMeatKebab
+  Name: Meat Kebab Recipe
+  solids:
+    FoodMeatCutlet: 3
+    FoodKebabSkewer: 1
+
+  id: RecipeHawaiianKebab
+  Name: Hawaiian Kebab Recipe
+  solids:
+    FoodChili: 1
+    FoodMeatCutlet: 1
+    FoodPineappleSlice: 1
+    FoodKebabSkewer: 1
+
+  id: RecipeFiestaKebab
+  Name: Fiesta Kebab Recipe
+  solids:
+    FoodChili: 1
+    FoodCorn: 1
+    FoodMeatCutlet: 1
+    FoodTomato: 1
+    FoodKebabSkewer: 1
+
+  id: RecipeRatKebab
+  Name: Rat Kebab Recipe
+  solids:
+    FoodMeatRat: 1
+    FoodKebabSkewer: 1
+
+  id: RecipeDoubleRatKebab
+  Name: Double Rat Kebab Recipe
+  solids:
+    FoodMeatRat: 2
+    FoodKebabSkewer: 1
+
+  id: RecipeHumanKebab
+  Name: Human Kebab Recipe
+  solids:
+    TorsoHuman: 1
+    FoodKebabSkewer: 1
+
+  id: RecipeLizardKebab
+  Name: Lizard Kebab Recipe
+  solids:
+    FoodMeatLizard: 1
+    FoodKebabSkewer: 1
+
+  id: RecipeFoodMealTaco
+  Name: Taco Recipe
+  solids:
+    FoodDoughSlice: 1
+    FoodTomato: 1
+    FoodOnionSlice: 2
+    FoodCheeseSlice: 1
+    FoodMeatCutlet: 1
+
+  id: RecipeCookedSpaceshroom
+  Name: Cooked Spaceshroom Recipe
+  solids:
+    FoodSpaceshroom: 1

@@ -1,0 +1,1707 @@
+<Document>
+## Starting Out
+This is an extensive list of recipes. How to source them, however, is left as an exercise to the reader.
+
+Mixes are done in a Beaker, foods are cooked in a Microwave. 
+
+Cook times and number of ingredients are also left for the reader to determine. 
+
+This is an automatically generated list. If something in the list looks awkward, please persevere. 
+
+## The Recipes
+
+Grilled Cheese
+<Box>
+<GuideEntityEmbed Entity="FoodBreadPlainSlice"/>
+<GuideEntityEmbed Entity="FoodCheeseSlice"/>
+<GuideEntityEmbed Entity="FoodButter"/>
+</Box>_
+
+
+Cannabis Butter Recipe
+<Box>
+<GuideEntityEmbed Entity="FoodButter"/>
+<GuideEntityEmbed Entity="LeavesCannabis"/>
+</Box>_
+
+
+Cannabis Brownie Recipe
+<Box>
+<GuideEntityEmbed Entity="LargeBeaker" Caption="Flour "/>
+<GuideEntityEmbed Entity="LargeBeaker" Caption="Sugar "/>
+<GuideEntityEmbed Entity="FoodCannabisButter"/>
+<GuideEntityEmbed Entity="FoodSnackChocolateBar"/>
+<GuideEntityEmbed Entity="FoodEgg"/>
+</Box>_
+
+
+Moldy Bread Recipe
+<Box>
+<GuideEntityEmbed Entity="FoodBreadPlain"/>
+<GuideEntityEmbed Entity="FoodFlyAmanita"/>
+</Box>_
+
+
+Cheese Curds Recipe
+<Box>
+<GuideEntityEmbed Entity="FoodCurdCheese"/>
+</Box>_
+
+
+Borito Pie Recipe
+<Box>
+<GuideEntityEmbed Entity="FoodSnackBoritos"/>
+<GuideEntityEmbed Entity="FoodCheeseSlice"/>
+<GuideEntityEmbed Entity="FoodChili"/>
+<GuideEntityEmbed Entity="FoodMeatMeatball"/>
+</Box>_
+
+
+Herby Cheese Recipe
+<Box>
+<GuideEntityEmbed Entity="FoodCurdCheese"/>
+<GuideEntityEmbed Entity="FoodAmbrosiaVulgaris"/>
+</Box>_
+
+
+Mothic Salad Recipe
+<Box>
+<GuideEntityEmbed Entity="FoodCabbage"/>
+<GuideEntityEmbed Entity="FoodOnionRedSlice"/>
+<GuideEntityEmbed Entity="FoodTomato"/>
+</Box>_
+
+
+Tomato Sauce Recipe
+<Box>
+<GuideEntityEmbed Entity="LargeBeaker" Caption="Oil Olive "/>
+<GuideEntityEmbed Entity="LargeBeaker" Caption="Table Salt "/>
+<GuideEntityEmbed Entity="FoodTomato"/>
+</Box>_
+
+
+Tomato Sauce Recipe
+<Box>
+<GuideEntityEmbed Entity="LargeBeaker" Caption="Oil Corn "/>
+<GuideEntityEmbed Entity="LargeBeaker" Caption="Table Salt "/>
+<GuideEntityEmbed Entity="FoodTomato"/>
+</Box>_
+
+
+Pesto Recipe
+<Box>
+<GuideEntityEmbed Entity="LargeBeaker" Caption="Oil Olive "/>
+<GuideEntityEmbed Entity="LargeBeaker" Caption="Table Salt "/>
+<GuideEntityEmbed Entity="FoodGarlic"/>
+</Box>_
+
+
+Bechamel Recipe
+<Box>
+<GuideEntityEmbed Entity="LargeBeaker" Caption="Milk "/>
+<GuideEntityEmbed Entity="LargeBeaker" Caption="Flour "/>
+<GuideEntityEmbed Entity="LargeBeaker" Caption="Butter "/>
+</Box>_
+
+
+Squeaking Stir Fry Recipe
+<Box>
+<GuideEntityEmbed Entity="LargeBeaker" Caption="Oil Olive "/>
+<GuideEntityEmbed Entity="FoodTofuSlice"/>
+<GuideEntityEmbed Entity="FoodOnionSlice"/>
+<GuideEntityEmbed Entity="FoodChili"/>
+<GuideEntityEmbed Entity="FoodCarrot"/>
+<GuideEntityEmbed Entity="FoodCheeseCurds"/>
+</Box>_
+
+
+Toasted Seeds Recipe
+<Box>
+<GuideEntityEmbed Entity="LargeBeaker" Caption="Oil Olive "/>
+<GuideEntityEmbed Entity="WheatSeeds"/>
+<GuideEntityEmbed Entity="CarrotSeeds"/>
+<GuideEntityEmbed Entity="PoppySeeds"/>
+</Box>_
+
+
+Sweet Chili Cabbage Wrap Recipe
+<Box>
+<GuideEntityEmbed Entity="LargeBeaker" Caption="Sugar "/>
+<GuideEntityEmbed Entity="FoodCheeseSlice"/>
+<GuideEntityEmbed Entity="FoodMothSaladBase"/>
+<GuideEntityEmbed Entity="FoodChili"/>
+<GuideEntityEmbed Entity="FoodCabbage"/>
+</Box>_
+
+
+Baked Cheese Recipe
+<Box>
+<GuideEntityEmbed Entity="FoodCheese"/>
+</Box>_
+
+
+Baked Cheese Platter Recipe
+<Box>
+<GuideEntityEmbed Entity="FoodMothBakedCheese"/>
+<GuideEntityEmbed Entity="FoodBreadPlainSlice"/>
+</Box>_
+
+
+Baked Rice Recipe
+<Box>
+<GuideEntityEmbed Entity="FoodRiceBoiled"/>
+<GuideEntityEmbed Entity="FoodPotato"/>
+<GuideEntityEmbed Entity="FoodCabbage"/>
+<GuideEntityEmbed Entity="FoodChili"/>
+</Box>_
+
+
+Green Lasagne Recipe
+<Box>
+<GuideEntityEmbed Entity="FoodNoodlesBoiled"/>
+<GuideEntityEmbed Entity="FoodCheeseSlice"/>
+<GuideEntityEmbed Entity="FoodMothBechamel"/>
+<GuideEntityEmbed Entity="FoodMothPesto"/>
+</Box>_
+
+
+Baked Corn Recipe
+<Box>
+<GuideEntityEmbed Entity="FoodCorn"/>
+</Box>_
+
+
+Buttered Baked Corn Recipe
+<Box>
+<GuideEntityEmbed Entity="LargeBeaker" Caption="Butter "/>
+<GuideEntityEmbed Entity="FoodMothBakedCorn"/>
+</Box>_
+
+
+Mozzarella Sticks Recipe
+<Box>
+<GuideEntityEmbed Entity="LargeBeaker" Caption="Tomato Sauce "/>
+<GuideEntityEmbed Entity="FoodMozzarella"/>
+<GuideEntityEmbed Entity="FoodBreadPlainSlice"/>
+</Box>_
+
+
+Mac Balls Recipe
+<Box>
+<GuideEntityEmbed Entity="LargeBeaker" Caption="Tomato Sauce "/>
+<GuideEntityEmbed Entity="FoodDonkpocket"/>
+<GuideEntityEmbed Entity="FoodCorn"/>
+</Box>_
+
+
+Cotton Soup Recipe
+<Box>
+<GuideEntityEmbed Entity="LargeBeaker" Caption="Water "/>
+<GuideEntityEmbed Entity="FoodBowlBig"/>
+<GuideEntityEmbed Entity="FoodEggplant"/>
+<GuideEntityEmbed Entity="FoodOnion"/>
+<GuideEntityEmbed Entity="FoodCarrot"/>
+<GuideEntityEmbed Entity="FoodMothBakedCorn"/>
+<GuideEntityEmbed Entity="MaterialCotton1"/>
+</Box>_
+
+
+Cheese Soup Recipe
+<Box>
+<GuideEntityEmbed Entity="LargeBeaker" Caption="Milk "/>
+<GuideEntityEmbed Entity="LargeBeaker" Caption="Flour "/>
+<GuideEntityEmbed Entity="LargeBeaker" Caption="Butter "/>
+<GuideEntityEmbed Entity="FoodBowlBig"/>
+<GuideEntityEmbed Entity="FoodCheeseSlice"/>
+<GuideEntityEmbed Entity="FoodPotato"/>
+</Box>_
+
+
+Seed Soup Recipe
+<Box>
+<GuideEntityEmbed Entity="LargeBeaker" Caption="Water "/>
+<GuideEntityEmbed Entity="LargeBeaker" Caption="Vinaigrette "/>
+<GuideEntityEmbed Entity="FoodBowlBig"/>
+<GuideEntityEmbed Entity="AmbrosiaVulgarisSeeds"/>
+<GuideEntityEmbed Entity="PoppySeeds"/>
+<GuideEntityEmbed Entity="WheatSeeds"/>
+</Box>_
+
+
+Moth Eyeball Soup Recipe
+<Box>
+<GuideEntityEmbed Entity="LargeBeaker" Caption="Water "/>
+<GuideEntityEmbed Entity="FoodBowlBig"/>
+<GuideEntityEmbed Entity="OrganMothEyes"/>
+<GuideEntityEmbed Entity="FoodTomato"/>
+<GuideEntityEmbed Entity="FoodPotato"/>
+</Box>_
+
+
+Bean Stew Recipe
+<Box>
+<GuideEntityEmbed Entity="LargeBeaker" Caption="Water "/>
+<GuideEntityEmbed Entity="FoodBowlBig"/>
+<GuideEntityEmbed Entity="FoodTinBeansOpen"/>
+<GuideEntityEmbed Entity="FoodCabbage"/>
+<GuideEntityEmbed Entity="FoodTomato"/>
+<GuideEntityEmbed Entity="FoodOnion"/>
+<GuideEntityEmbed Entity="FoodMothBakedCorn"/>
+</Box>_
+
+
+Oat Stew Recipe
+<Box>
+<GuideEntityEmbed Entity="LargeBeaker" Caption="Water "/>
+<GuideEntityEmbed Entity="LargeBeaker" Caption="Oats "/>
+<GuideEntityEmbed Entity="FoodBowlBig"/>
+<GuideEntityEmbed Entity="FoodCarrot"/>
+<GuideEntityEmbed Entity="FoodPotato"/>
+</Box>_
+
+
+Heartburn Soup Recipe
+<Box>
+<GuideEntityEmbed Entity="LargeBeaker" Caption="Vinegar "/>
+<GuideEntityEmbed Entity="LargeBeaker" Caption="Milk "/>
+<GuideEntityEmbed Entity="LargeBeaker" Caption="Cream "/>
+<GuideEntityEmbed Entity="FoodBowlBig"/>
+<GuideEntityEmbed Entity="FoodTofuSlice"/>
+<GuideEntityEmbed Entity="FoodChili"/>
+</Box>_
+
+
+Mulan Congee Recipe
+<Box>
+<GuideEntityEmbed Entity="FoodRiceBoiled"/>
+<GuideEntityEmbed Entity="FoodMealFriedegg"/>
+<GuideEntityEmbed Entity="FoodMeatCutletCooked"/>
+</Box>_
+
+
+Cornmeal Porridge Recipe
+<Box>
+<GuideEntityEmbed Entity="LargeBeaker" Caption="Water "/>
+<GuideEntityEmbed Entity="FoodBowlBig"/>
+<GuideEntityEmbed Entity="FoodCorn"/>
+</Box>_
+
+
+Cheesy Porridge Recipe
+<Box>
+<GuideEntityEmbed Entity="LargeBeaker" Caption="Milk "/>
+<GuideEntityEmbed Entity="LargeBeaker" Caption="Butter "/>
+<GuideEntityEmbed Entity="FoodMothCornmealPorridge"/>
+<GuideEntityEmbed Entity="FoodCurdCheese"/>
+<GuideEntityEmbed Entity="FoodCheeseSlice"/>
+</Box>_
+
+
+Fried Eggplant And Polenta Recipe
+<Box>
+<GuideEntityEmbed Entity="LargeBeaker" Caption="Tomato Sauce "/>
+<GuideEntityEmbed Entity="FoodMothCheesyPorridge"/>
+<GuideEntityEmbed Entity="FoodEggplant"/>
+<GuideEntityEmbed Entity="FoodBreadPlainSlice"/>
+<GuideEntityEmbed Entity="FoodMozzarella"/>
+</Box>_
+
+
+Vegetarian Chili Recipe
+<Box>
+<GuideEntityEmbed Entity="LargeBeaker" Caption="Water "/>
+<GuideEntityEmbed Entity="LargeBeaker" Caption="Table Salt "/>
+<GuideEntityEmbed Entity="FoodBowlBig"/>
+<GuideEntityEmbed Entity="FoodTomato"/>
+<GuideEntityEmbed Entity="FoodChili"/>
+</Box>_
+
+
+Caprese Salad Recipe
+<Box>
+<GuideEntityEmbed Entity="LargeBeaker" Caption="Vinaigrette "/>
+<GuideEntityEmbed Entity="FoodTomato"/>
+<GuideEntityEmbed Entity="FoodMozzarella"/>
+<GuideEntityEmbed Entity="FoodAmbrosiaVulgaris"/>
+</Box>_
+
+
+Fleet Salad Recipe
+<Box>
+<GuideEntityEmbed Entity="LargeBeaker" Caption="Vinaigrette "/>
+<GuideEntityEmbed Entity="FoodBowlBig"/>
+<GuideEntityEmbed Entity="FoodMothSaladBase"/>
+<GuideEntityEmbed Entity="FoodCarrot"/>
+<GuideEntityEmbed Entity="FoodBreadPlainSlice"/>
+<GuideEntityEmbed Entity="FoodCheeseSlice"/>
+</Box>_
+
+
+Cotton Salad Recipe
+<Box>
+<GuideEntityEmbed Entity="LargeBeaker" Caption="Vinaigrette "/>
+<GuideEntityEmbed Entity="FoodBowlBig"/>
+<GuideEntityEmbed Entity="FoodMothSaladBase"/>
+<GuideEntityEmbed Entity="MaterialCotton1"/>
+<GuideEntityEmbed Entity="FoodCarrot"/>
+</Box>_
+
+
+Kachumbari Salad Recipe
+<Box>
+<GuideEntityEmbed Entity="LargeBeaker" Caption="Juice Lime "/>
+<GuideEntityEmbed Entity="FoodBowlBig"/>
+<GuideEntityEmbed Entity="FoodMothSaladBase"/>
+<GuideEntityEmbed Entity="FoodChili"/>
+<GuideEntityEmbed Entity="FoodOnionRed"/>
+<GuideEntityEmbed Entity="FoodAmbrosiaVulgaris"/>
+</Box>_
+
+
+Firecracker Pizza Recipe
+<Box>
+<GuideEntityEmbed Entity="LargeBeaker" Caption="Bbq Sauce "/>
+<GuideEntityEmbed Entity="FoodDough"/>
+<GuideEntityEmbed Entity="FoodCheeseSlice"/>
+<GuideEntityEmbed Entity="FoodMothBakedCorn"/>
+<GuideEntityEmbed Entity="FoodChili"/>
+</Box>_
+
+
+Quattro Formaggi Pizza Recipe
+<Box>
+<GuideEntityEmbed Entity="LargeBeaker" Caption="Tomato Sauce "/>
+<GuideEntityEmbed Entity="FoodDough"/>
+<GuideEntityEmbed Entity="FoodMozzarella"/>
+<GuideEntityEmbed Entity="FoodCheeseSlice"/>
+<GuideEntityEmbed Entity="FoodCurdCheese"/>
+<GuideEntityEmbed Entity="FoodCheeseCurds"/>
+</Box>_
+
+
+Pesto Pizza Recipe
+<Box>
+<GuideEntityEmbed Entity="FoodDough"/>
+<GuideEntityEmbed Entity="FoodTomato"/>
+<GuideEntityEmbed Entity="FoodMozzarella"/>
+<GuideEntityEmbed Entity="FoodMothPesto"/>
+</Box>_
+
+
+Cotton Pizza Recipe
+<Box>
+<GuideEntityEmbed Entity="LargeBeaker" Caption="Oil Corn "/>
+<GuideEntityEmbed Entity="FoodDough"/>
+<GuideEntityEmbed Entity="FoodMozzarella"/>
+<GuideEntityEmbed Entity="FoodCurdCheese"/>
+<GuideEntityEmbed Entity="MaterialCotton1"/>
+</Box>_
+
+
+Corncob Crust Pizza Recipe
+<Box>
+<GuideEntityEmbed Entity="FoodDough"/>
+<GuideEntityEmbed Entity="FoodCorn"/>
+<GuideEntityEmbed Entity="FoodCheeseSlice"/>
+<GuideEntityEmbed Entity="FoodTomato"/>
+<GuideEntityEmbed Entity="FoodButter"/>
+</Box>_
+
+
+Cheesecake Balls Recipe
+<Box>
+<GuideEntityEmbed Entity="LargeBeaker" Caption="Sugar "/>
+<GuideEntityEmbed Entity="LargeBeaker" Caption="Flour "/>
+<GuideEntityEmbed Entity="FoodCurdCheese"/>
+</Box>_
+
+
+Mothmallow Recipe
+<Box>
+<GuideEntityEmbed Entity="LargeBeaker" Caption="Sugar "/>
+<GuideEntityEmbed Entity="LargeBeaker" Caption="Rum "/>
+<GuideEntityEmbed Entity="LargeBeaker" Caption="Milk Soy "/>
+<GuideEntityEmbed Entity="FoodSoybeans"/>
+</Box>_
+
+
+Moffin Recipe
+<Box>
+<GuideEntityEmbed Entity="LargeBeaker" Caption="Flour "/>
+<GuideEntityEmbed Entity="LargeBeaker" Caption="Milk "/>
+<GuideEntityEmbed Entity="LargeBeaker" Caption="Egg "/>
+<GuideEntityEmbed Entity="MaterialCloth1"/>
+</Box>_
+
+
+Bun Recipe
+<Box>
+<GuideEntityEmbed Entity="FoodDoughSlice"/>
+</Box>_
+
+
+Appendix Burger Recipe
+<Box>
+<GuideEntityEmbed Entity="FoodBreadBun"/>
+<GuideEntityEmbed Entity="OrganHumanAppendix"/>
+</Box>_
+
+
+Bacon Burger Recipe
+<Box>
+<GuideEntityEmbed Entity="FoodBreadBun"/>
+<GuideEntityEmbed Entity="FoodMeatCutlet"/>
+<GuideEntityEmbed Entity="FoodCheeseSlice"/>
+</Box>_
+
+
+Baseball Burger Recipe
+<Box>
+<GuideEntityEmbed Entity="FoodBreadBun"/>
+<GuideEntityEmbed Entity="BaseBallBat"/>
+</Box>_
+
+
+Bearger Recipe
+<Box>
+<GuideEntityEmbed Entity="FoodBreadBun"/>
+<GuideEntityEmbed Entity="FoodMeatBear"/>
+</Box>_
+
+
+Big Bite Burger Recipe
+<Box>
+<GuideEntityEmbed Entity="FoodBreadBun"/>
+<GuideEntityEmbed Entity="FoodMeatPatty"/>
+<GuideEntityEmbed Entity="FoodCheeseSlice"/>
+<GuideEntityEmbed Entity="FoodTomato"/>
+<GuideEntityEmbed Entity="FoodOnionSlice"/>
+</Box>_
+
+
+Brain Burger Recipe
+<Box>
+<GuideEntityEmbed Entity="FoodBreadBun"/>
+<GuideEntityEmbed Entity="OrganHumanBrain"/>
+</Box>_
+
+
+Cat Burger Recipe
+<Box>
+<GuideEntityEmbed Entity="FoodBreadBun"/>
+<GuideEntityEmbed Entity="FoodMeat"/>
+<GuideEntityEmbed Entity="ClothingHeadHatCatEars"/>
+</Box>_
+
+
+Cheeseburger Recipe
+<Box>
+<GuideEntityEmbed Entity="FoodBreadBun"/>
+<GuideEntityEmbed Entity="FoodMeat"/>
+<GuideEntityEmbed Entity="FoodCheeseSlice"/>
+</Box>_
+
+
+Chicken Sandwich Recipe
+<Box>
+<GuideEntityEmbed Entity="LargeBeaker" Caption="Mayo "/>
+<GuideEntityEmbed Entity="FoodBreadBun"/>
+<GuideEntityEmbed Entity="FoodMeatChicken"/>
+</Box>_
+
+
+Clownburger Recipe
+<Box>
+<GuideEntityEmbed Entity="FoodBreadBun"/>
+<GuideEntityEmbed Entity="ClothingMaskClown"/>
+</Box>_
+
+
+Corgi Burger Recipe
+<Box>
+<GuideEntityEmbed Entity="FoodBreadBun"/>
+<GuideEntityEmbed Entity="FoodMeatCorgi"/>
+</Box>_
+
+
+Crab Burger Recipe
+<Box>
+<GuideEntityEmbed Entity="FoodBreadBun"/>
+<GuideEntityEmbed Entity="FoodMeatCrab"/>
+</Box>_
+
+
+Crazy Hamburger Recipe
+<Box>
+<GuideEntityEmbed Entity="LargeBeaker" Caption="Oil Olive "/>
+<GuideEntityEmbed Entity="FoodBreadBun"/>
+<GuideEntityEmbed Entity="FoodMeat"/>
+<GuideEntityEmbed Entity="FoodCheeseSlice"/>
+<GuideEntityEmbed Entity="FoodChili"/>
+<GuideEntityEmbed Entity="FoodCabbage"/>
+<GuideEntityEmbed Entity="CrayonGreen"/>
+<GuideEntityEmbed Entity="Flare"/>
+</Box>_
+
+
+Duck Sandwich Recipe
+<Box>
+<GuideEntityEmbed Entity="FoodBreadBun"/>
+<GuideEntityEmbed Entity="FoodMeatDuck"/>
+<GuideEntityEmbed Entity="FoodCheeseSlice"/>
+</Box>_
+
+
+Empowered Burger Recipe
+<Box>
+<GuideEntityEmbed Entity="FoodBreadBun"/>
+<GuideEntityEmbed Entity="SheetPlasma1"/>
+</Box>_
+
+
+Fillet-O-Carp Burger Recipe
+<Box>
+<GuideEntityEmbed Entity="FoodBreadBun"/>
+<GuideEntityEmbed Entity="FoodMeatFish"/>
+<GuideEntityEmbed Entity="FoodCheeseSlice"/>
+</Box>_
+
+
+Five Alarm Burger Recipe
+<Box>
+<GuideEntityEmbed Entity="FoodBreadBun"/>
+<GuideEntityEmbed Entity="FoodMeat"/>
+<GuideEntityEmbed Entity="FoodChili"/>
+</Box>_
+
+
+Ghost Burger Recipe
+<Box>
+<GuideEntityEmbed Entity="FoodBreadBun"/>
+<GuideEntityEmbed Entity="ClothingOuterGhostSheet"/>
+</Box>_
+
+
+Human Burger Recipe
+<Box>
+<GuideEntityEmbed Entity="FoodBreadBun"/>
+<GuideEntityEmbed Entity="FoodMeatHuman"/>
+</Box>_
+
+
+Jelly Burger Recipe
+<Box>
+<GuideEntityEmbed Entity="FoodBreadBun"/>
+<GuideEntityEmbed Entity="FoodJellyAmanita"/>
+</Box>_
+
+
+Mcguffin Recipe
+<Box>
+<GuideEntityEmbed Entity="FoodBreadBun"/>
+<GuideEntityEmbed Entity="FoodCheeseSlice"/>
+<GuideEntityEmbed Entity="FoodEgg"/>
+</Box>_
+
+
+Mcrib Recipe
+<Box>
+<GuideEntityEmbed Entity="FoodBreadBun"/>
+<GuideEntityEmbed Entity="FoodMealRibs"/>
+<GuideEntityEmbed Entity="FoodOnionSlice"/>
+</Box>_
+
+
+Mime Burger Recipe
+<Box>
+<GuideEntityEmbed Entity="FoodBreadBun"/>
+<GuideEntityEmbed Entity="ClothingMaskMime"/>
+</Box>_
+
+
+Plain Burger Recipe
+<Box>
+<GuideEntityEmbed Entity="FoodBreadBun"/>
+<GuideEntityEmbed Entity="FoodMeat"/>
+</Box>_
+
+
+Rat Burger Recipe
+<Box>
+<GuideEntityEmbed Entity="FoodBreadBun"/>
+<GuideEntityEmbed Entity="FoodMeatRat"/>
+</Box>_
+
+
+Roburger Recipe
+<Box>
+<GuideEntityEmbed Entity="FoodBreadBun"/>
+<GuideEntityEmbed Entity="CapacitorStockPart"/>
+</Box>_
+
+
+Soylent Burger Recipe
+<Box>
+<GuideEntityEmbed Entity="FoodBreadBun"/>
+<GuideEntityEmbed Entity="FoodCheeseSlice"/>
+<GuideEntityEmbed Entity="FoodSoybeans"/>
+</Box>_
+
+
+Spell Burger Recipe
+<Box>
+<GuideEntityEmbed Entity="FoodBreadBun"/>
+<GuideEntityEmbed Entity="ClothingHeadHatWizard"/>
+</Box>_
+
+
+Super Bite Burger Recipe
+<Box>
+<GuideEntityEmbed Entity="LargeBeaker" Caption="Table Salt "/>
+<GuideEntityEmbed Entity="FoodBreadBun"/>
+<GuideEntityEmbed Entity="FoodMeatPatty"/>
+<GuideEntityEmbed Entity="FoodCheeseSlice"/>
+<GuideEntityEmbed Entity="FoodTomato"/>
+<GuideEntityEmbed Entity="FoodEgg"/>
+</Box>_
+
+
+Tofu Burger Recipe
+<Box>
+<GuideEntityEmbed Entity="FoodBreadBun"/>
+<GuideEntityEmbed Entity="FoodTofuSlice"/>
+</Box>_
+
+
+Xenoburger Recipe
+<Box>
+<GuideEntityEmbed Entity="FoodBreadBun"/>
+<GuideEntityEmbed Entity="FoodMeatXeno"/>
+</Box>_
+
+
+Banana Bread Recipe
+<Box>
+<GuideEntityEmbed Entity="FoodDough"/>
+<GuideEntityEmbed Entity="FoodBanana"/>
+</Box>_
+
+
+Cornbread Recipe
+<Box>
+<GuideEntityEmbed Entity="FoodDoughCornmeal"/>
+</Box>_
+
+
+Cream Cheese Bread Recipe
+<Box>
+<GuideEntityEmbed Entity="LargeBeaker" Caption="Milk "/>
+<GuideEntityEmbed Entity="FoodDough"/>
+<GuideEntityEmbed Entity="FoodCheeseSlice"/>
+</Box>_
+
+
+Meat Bread Recipe
+<Box>
+<GuideEntityEmbed Entity="FoodDough"/>
+<GuideEntityEmbed Entity="FoodMeatCutlet"/>
+<GuideEntityEmbed Entity="FoodCheeseSlice"/>
+</Box>_
+
+
+Mimana Bread Recipe
+<Box>
+<GuideEntityEmbed Entity="LargeBeaker" Caption="Milk Soy "/>
+<GuideEntityEmbed Entity="LargeBeaker" Caption="Nothing "/>
+<GuideEntityEmbed Entity="FoodDough"/>
+<GuideEntityEmbed Entity="FoodTofu"/>
+</Box>_
+
+
+Bread Recipe
+<Box>
+<GuideEntityEmbed Entity="FoodDough"/>
+</Box>_
+
+
+Sausage Bread Recipe
+<Box>
+<GuideEntityEmbed Entity="FoodDough"/>
+<GuideEntityEmbed Entity="FoodMeat"/>
+</Box>_
+
+
+Spider Meat Bread Recipe
+<Box>
+<GuideEntityEmbed Entity="FoodDough"/>
+<GuideEntityEmbed Entity="FoodMeatSpiderCutlet"/>
+<GuideEntityEmbed Entity="FoodCheeseSlice"/>
+</Box>_
+
+
+Tofu Bread Recipe
+<Box>
+<GuideEntityEmbed Entity="FoodDough"/>
+<GuideEntityEmbed Entity="FoodTofu"/>
+</Box>_
+
+
+Xeno Meat Bread Recipe
+<Box>
+<GuideEntityEmbed Entity="FoodDough"/>
+<GuideEntityEmbed Entity="FoodMeatXenoCutlet"/>
+<GuideEntityEmbed Entity="FoodCheeseSlice"/>
+</Box>_
+
+
+Baguette Recipe
+<Box>
+<GuideEntityEmbed Entity="LargeBeaker" Caption="Table Salt "/>
+<GuideEntityEmbed Entity="LargeBeaker" Caption="Blackpepper "/>
+<GuideEntityEmbed Entity="FoodDough"/>
+</Box>_
+
+
+Buttered Toast Recipe
+<Box>
+<GuideEntityEmbed Entity="FoodBreadPlainSlice"/>
+<GuideEntityEmbed Entity="FoodButter"/>
+</Box>_
+
+
+French Toast Recipe
+<Box>
+<GuideEntityEmbed Entity="LargeBeaker" Caption="Milk "/>
+<GuideEntityEmbed Entity="LargeBeaker" Caption="Egg "/>
+<GuideEntityEmbed Entity="FoodBreadPlainSlice"/>
+</Box>_
+
+
+Garlic Bread Slice Recipe
+<Box>
+<GuideEntityEmbed Entity="FoodBreadPlainSlice"/>
+<GuideEntityEmbed Entity="FoodGarlic"/>
+<GuideEntityEmbed Entity="FoodButter"/>
+</Box>_
+
+
+Jelly Toast Recipe
+<Box>
+<GuideEntityEmbed Entity="FoodBreadPlainSlice"/>
+<GuideEntityEmbed Entity="FoodJellyAmanita"/>
+</Box>_
+
+
+Moldy Bread Slice Recipe
+<Box>
+<GuideEntityEmbed Entity="FoodBreadPlainSlice"/>
+<GuideEntityEmbed Entity="FoodFlyAmanita"/>
+</Box>_
+
+
+Two Slice Recipe
+<Box>
+<GuideEntityEmbed Entity="LargeBeaker" Caption="Wine "/>
+<GuideEntityEmbed Entity="FoodBreadPlainSlice"/>
+</Box>_
+
+
+Margherita Pizza Recipe
+<Box>
+<GuideEntityEmbed Entity="FoodDough"/>
+<GuideEntityEmbed Entity="FoodMozzarella"/>
+<GuideEntityEmbed Entity="FoodTomato"/>
+</Box>_
+
+
+Mushroom Pizza Recipe
+<Box>
+<GuideEntityEmbed Entity="FoodDough"/>
+<GuideEntityEmbed Entity="FoodMushroom"/>
+</Box>_
+
+
+Meat Pizza Recipe
+<Box>
+<GuideEntityEmbed Entity="FoodDough"/>
+<GuideEntityEmbed Entity="FoodMeat"/>
+<GuideEntityEmbed Entity="FoodCheeseSlice"/>
+<GuideEntityEmbed Entity="FoodTomato"/>
+</Box>_
+
+
+Vegetable Pizza Recipe
+<Box>
+<GuideEntityEmbed Entity="FoodDough"/>
+<GuideEntityEmbed Entity="FoodEggplant"/>
+<GuideEntityEmbed Entity="FoodCarrot"/>
+<GuideEntityEmbed Entity="FoodCorn"/>
+<GuideEntityEmbed Entity="FoodTomato"/>
+</Box>_
+
+
+Hawaiian Pizza Recipe
+<Box>
+<GuideEntityEmbed Entity="FoodDough"/>
+<GuideEntityEmbed Entity="FoodMeatChickenCutlet"/>
+<GuideEntityEmbed Entity="FoodPineappleSlice"/>
+</Box>_
+
+
+Dank Pizza Recipe
+<Box>
+<GuideEntityEmbed Entity="FoodDough"/>
+<GuideEntityEmbed Entity="FoodAmbrosiaVulgaris"/>
+<GuideEntityEmbed Entity="FoodCheeseSlice"/>
+<GuideEntityEmbed Entity="FoodTomato"/>
+</Box>_
+
+
+Donk-Pocket Pizza Recipe
+<Box>
+<GuideEntityEmbed Entity="FoodDough"/>
+<GuideEntityEmbed Entity="FoodDonkpocketWarm"/>
+<GuideEntityEmbed Entity="FoodCheeseSlice"/>
+<GuideEntityEmbed Entity="FoodTomato"/>
+</Box>_
+
+
+Boiled Spaghetti Recipe
+<Box>
+<GuideEntityEmbed Entity="LargeBeaker" Caption="Flour "/>
+<GuideEntityEmbed Entity="LargeBeaker" Caption="Egg "/>
+<GuideEntityEmbed Entity="FoodPlate"/>
+<GuideEntityEmbed Entity="FoodButter"/>
+</Box>_
+
+
+Pasta Tomato Recipe
+<Box>
+<GuideEntityEmbed Entity="FoodNoodlesBoiled"/>
+<GuideEntityEmbed Entity="FoodTomato"/>
+</Box>_
+
+
+Spaghetti And Meatballs Recipe
+<Box>
+<GuideEntityEmbed Entity="FoodNoodlesBoiled"/>
+<GuideEntityEmbed Entity="FoodMeatMeatball"/>
+</Box>_
+
+
+Butter Noodles Recipe
+<Box>
+<GuideEntityEmbed Entity="FoodNoodlesBoiled"/>
+<GuideEntityEmbed Entity="FoodButter"/>
+</Box>_
+
+
+Chow Mein Recipe
+<Box>
+<GuideEntityEmbed Entity="FoodNoodlesBoiled"/>
+<GuideEntityEmbed Entity="FoodEggplant"/>
+<GuideEntityEmbed Entity="FoodCarrot"/>
+<GuideEntityEmbed Entity="FoodCorn"/>
+<GuideEntityEmbed Entity="FoodEgg"/>
+</Box>_
+
+
+Oatmeal Recipe
+<Box>
+<GuideEntityEmbed Entity="LargeBeaker" Caption="Oats "/>
+<GuideEntityEmbed Entity="LargeBeaker" Caption="Water "/>
+<GuideEntityEmbed Entity="FoodBowlBig"/>
+</Box>_
+
+
+Boiled Rice Recipe
+<Box>
+<GuideEntityEmbed Entity="LargeBeaker" Caption="Rice "/>
+<GuideEntityEmbed Entity="LargeBeaker" Caption="Water "/>
+<GuideEntityEmbed Entity="FoodBowlBig"/>
+</Box>_
+
+
+Rice Pudding Recipe
+<Box>
+<GuideEntityEmbed Entity="LargeBeaker" Caption="Rice "/>
+<GuideEntityEmbed Entity="LargeBeaker" Caption="Milk "/>
+<GuideEntityEmbed Entity="LargeBeaker" Caption="Sugar "/>
+<GuideEntityEmbed Entity="FoodBowlBig"/>
+</Box>_
+
+
+Rice And Pork Recipe
+<Box>
+<GuideEntityEmbed Entity="FoodRiceBoiled"/>
+<GuideEntityEmbed Entity="FoodMeatCutlet"/>
+</Box>_
+
+
+Black-Eyed Gumbo Recipe
+<Box>
+<GuideEntityEmbed Entity="FoodRiceBoiled"/>
+<GuideEntityEmbed Entity="FoodMeatCutlet"/>
+<GuideEntityEmbed Entity="FoodChili"/>
+</Box>_
+
+
+Egg-Fried Rice Recipe
+<Box>
+<GuideEntityEmbed Entity="FoodRiceBoiled"/>
+<GuideEntityEmbed Entity="FoodEgg"/>
+<GuideEntityEmbed Entity="FoodCarrot"/>
+</Box>_
+
+
+Copypasta Recipe
+<Box>
+<GuideEntityEmbed Entity="FoodNoodles"/>
+</Box>_
+
+
+Bisque Recipe
+<Box>
+<GuideEntityEmbed Entity="LargeBeaker" Caption="Water "/>
+<GuideEntityEmbed Entity="FoodBowlBig"/>
+<GuideEntityEmbed Entity="FoodTomato"/>
+<GuideEntityEmbed Entity="FoodMushroom"/>
+<GuideEntityEmbed Entity="FoodMeatFish"/>
+</Box>_
+
+
+Meatball Soup Recipe
+<Box>
+<GuideEntityEmbed Entity="LargeBeaker" Caption="Water "/>
+<GuideEntityEmbed Entity="FoodBowlBig"/>
+<GuideEntityEmbed Entity="FoodMeatMeatball"/>
+<GuideEntityEmbed Entity="FoodCarrot"/>
+<GuideEntityEmbed Entity="FoodPotato"/>
+</Box>_
+
+
+Nettle Soup Recipe
+<Box>
+<GuideEntityEmbed Entity="LargeBeaker" Caption="Water "/>
+<GuideEntityEmbed Entity="LargeBeaker" Caption="Egg "/>
+<GuideEntityEmbed Entity="FoodBowlBig"/>
+<GuideEntityEmbed Entity="Nettle"/>
+<GuideEntityEmbed Entity="FoodPotato"/>
+</Box>_
+
+
+Eyeball Soup Recipe
+<Box>
+<GuideEntityEmbed Entity="LargeBeaker" Caption="Water "/>
+<GuideEntityEmbed Entity="FoodBowlBig"/>
+<GuideEntityEmbed Entity="OrganHumanEyes"/>
+<GuideEntityEmbed Entity="FoodCarrot"/>
+<GuideEntityEmbed Entity="FoodPotato"/>
+</Box>_
+
+
+Amanita Jelly Recipe
+<Box>
+<GuideEntityEmbed Entity="LargeBeaker" Caption="Water "/>
+<GuideEntityEmbed Entity="LargeBeaker" Caption="Vodka "/>
+<GuideEntityEmbed Entity="FoodFlyAmanita"/>
+</Box>_
+
+
+Onion Soup Recipe
+<Box>
+<GuideEntityEmbed Entity="LargeBeaker" Caption="Water "/>
+<GuideEntityEmbed Entity="FoodBowlBig"/>
+<GuideEntityEmbed Entity="FoodOnionSlice"/>
+<GuideEntityEmbed Entity="FoodCheeseSlice"/>
+</Box>_
+
+
+Mushroom Soup Recipe
+<Box>
+<GuideEntityEmbed Entity="LargeBeaker" Caption="Water "/>
+<GuideEntityEmbed Entity="LargeBeaker" Caption="Milk "/>
+<GuideEntityEmbed Entity="FoodBowlBig"/>
+<GuideEntityEmbed Entity="FoodMushroom"/>
+</Box>_
+
+
+Stew Recipe
+<Box>
+<GuideEntityEmbed Entity="LargeBeaker" Caption="Water "/>
+<GuideEntityEmbed Entity="FoodBowlBig"/>
+<GuideEntityEmbed Entity="FoodMeatCutlet"/>
+<GuideEntityEmbed Entity="FoodTomato"/>
+<GuideEntityEmbed Entity="FoodPotato"/>
+<GuideEntityEmbed Entity="FoodCarrot"/>
+<GuideEntityEmbed Entity="FoodEggplant"/>
+<GuideEntityEmbed Entity="FoodMushroom"/>
+</Box>_
+
+
+Tomato Soup Recipe
+<Box>
+<GuideEntityEmbed Entity="LargeBeaker" Caption="Water "/>
+<GuideEntityEmbed Entity="FoodBowlBig"/>
+<GuideEntityEmbed Entity="FoodTomato"/>
+</Box>_
+
+
+Tomato Blood Soup Recipe
+<Box>
+<GuideEntityEmbed Entity="LargeBeaker" Caption="Blood "/>
+<GuideEntityEmbed Entity="FoodBowlBig"/>
+<GuideEntityEmbed Entity="FoodTomato"/>
+</Box>_
+
+
+Wing Fang Chu Recipe
+<Box>
+<GuideEntityEmbed Entity="LargeBeaker" Caption="Soysauce "/>
+<GuideEntityEmbed Entity="FoodBowlBig"/>
+<GuideEntityEmbed Entity="FoodMeatXenoCutlet"/>
+</Box>_
+
+
+Wing Fang Chu Recipe
+<Box>
+<GuideEntityEmbed Entity="LargeBeaker" Caption="Soysauce "/>
+<GuideEntityEmbed Entity="FoodBowlBig"/>
+<GuideEntityEmbed Entity="FoodMeatSpider"/>
+</Box>_
+
+
+Vegetable Soup Recipe
+<Box>
+<GuideEntityEmbed Entity="LargeBeaker" Caption="Water "/>
+<GuideEntityEmbed Entity="FoodBowlBig"/>
+<GuideEntityEmbed Entity="FoodCorn"/>
+<GuideEntityEmbed Entity="FoodCarrot"/>
+<GuideEntityEmbed Entity="FoodPotato"/>
+<GuideEntityEmbed Entity="FoodEggplant"/>
+</Box>_
+
+
+Clown Tears Soup Recipe
+<Box>
+<GuideEntityEmbed Entity="LargeBeaker" Caption="Water "/>
+<GuideEntityEmbed Entity="FoodBowlBig"/>
+<GuideEntityEmbed Entity="FoodBanana"/>
+<GuideEntityEmbed Entity="ShardGlass"/>
+</Box>_
+
+
+Monkeys Delight Recipe
+<Box>
+<GuideEntityEmbed Entity="LargeBeaker" Caption="Flour "/>
+<GuideEntityEmbed Entity="LargeBeaker" Caption="Table Salt "/>
+<GuideEntityEmbed Entity="LargeBeaker" Caption="Blackpepper "/>
+<GuideEntityEmbed Entity="FoodBowlBig"/>
+<GuideEntityEmbed Entity="FoodBanana"/>
+<GuideEntityEmbed Entity="MonkeyCube"/>
+</Box>_
+
+
+Chicken Nugget Box Recipe
+<Box>
+<GuideEntityEmbed Entity="LargeBeaker" Caption="Protein "/>
+<GuideEntityEmbed Entity="LargeBeaker" Caption="Egg "/>
+<GuideEntityEmbed Entity="LargeBeaker" Caption="Flour "/>
+</Box>_
+
+
+Salami Recipe
+<Box>
+<GuideEntityEmbed Entity="LargeBeaker" Caption="Protein "/>
+<GuideEntityEmbed Entity="LargeBeaker" Caption="Table Salt "/>
+<GuideEntityEmbed Entity="LargeBeaker" Caption="Water "/>
+</Box>_
+
+
+Cuban Carp Recipe
+<Box>
+<GuideEntityEmbed Entity="FoodBreadPlainSlice"/>
+<GuideEntityEmbed Entity="FoodCheeseSlice"/>
+<GuideEntityEmbed Entity="FoodChili"/>
+<GuideEntityEmbed Entity="FoodMeatFish"/>
+</Box>_
+
+
+Fish And Chips Recipe
+<Box>
+<GuideEntityEmbed Entity="FoodDough"/>
+<GuideEntityEmbed Entity="FoodPotato"/>
+<GuideEntityEmbed Entity="FoodMeatFish"/>
+</Box>_
+
+
+Sashimi Recipe
+<Box>
+<GuideEntityEmbed Entity="LargeBeaker" Caption="Table Salt "/>
+<GuideEntityEmbed Entity="FoodMeatFish"/>
+</Box>_
+
+
+Salty Sweet Misocola Soup Recipe
+<Box>
+<GuideEntityEmbed Entity="LargeBeaker" Caption="Cola "/>
+<GuideEntityEmbed Entity="FoodSoupMiso"/>
+</Box>_
+
+
+Loaded Baked Potato Recipe
+<Box>
+<GuideEntityEmbed Entity="FoodPotato"/>
+<GuideEntityEmbed Entity="FoodCheeseSlice"/>
+</Box>_
+
+
+Space Fries Recipe
+<Box>
+<GuideEntityEmbed Entity="LargeBeaker" Caption="Table Salt "/>
+<GuideEntityEmbed Entity="FoodPotato"/>
+</Box>_
+
+
+Cheesy Fries Recipe
+<Box>
+<GuideEntityEmbed Entity="LargeBeaker" Caption="Table Salt "/>
+<GuideEntityEmbed Entity="FoodPotato"/>
+<GuideEntityEmbed Entity="FoodCheeseSlice"/>
+</Box>_
+
+
+Carrot Fries Recipe
+<Box>
+<GuideEntityEmbed Entity="LargeBeaker" Caption="Table Salt "/>
+<GuideEntityEmbed Entity="FoodCarrot"/>
+</Box>_
+
+
+Popcorn Recipe
+<Box>
+<GuideEntityEmbed Entity="FoodCorn"/>
+</Box>_
+
+
+Pancake Recipe
+<Box>
+<GuideEntityEmbed Entity="LargeBeaker" Caption="Flour "/>
+<GuideEntityEmbed Entity="LargeBeaker" Caption="Milk "/>
+<GuideEntityEmbed Entity="LargeBeaker" Caption="Egg "/>
+</Box>_
+
+
+Waffle Recipe
+<Box>
+<GuideEntityEmbed Entity="LargeBeaker" Caption="Flour "/>
+<GuideEntityEmbed Entity="LargeBeaker" Caption="Milk "/>
+<GuideEntityEmbed Entity="LargeBeaker" Caption="Egg "/>
+<GuideEntityEmbed Entity="LargeBeaker" Caption="Soda Water "/>
+</Box>_
+
+
+Soy Waffle Recipe
+<Box>
+<GuideEntityEmbed Entity="LargeBeaker" Caption="Flour "/>
+<GuideEntityEmbed Entity="LargeBeaker" Caption="Milk Soy "/>
+<GuideEntityEmbed Entity="LargeBeaker" Caption="Egg "/>
+<GuideEntityEmbed Entity="LargeBeaker" Caption="Soda Water "/>
+</Box>_
+
+
+Cookie Recipe
+<Box>
+<GuideEntityEmbed Entity="LargeBeaker" Caption="Flour "/>
+<GuideEntityEmbed Entity="LargeBeaker" Caption="Sugar "/>
+<GuideEntityEmbed Entity="FoodButter"/>
+<GuideEntityEmbed Entity="FoodSnackChocolateBar"/>
+</Box>_
+
+
+Sugar Cookie Recipe
+<Box>
+<GuideEntityEmbed Entity="LargeBeaker" Caption="Flour "/>
+<GuideEntityEmbed Entity="LargeBeaker" Caption="Sugar "/>
+<GuideEntityEmbed Entity="FoodButter"/>
+</Box>_
+
+
+Raisin Cookie Recipe
+<Box>
+<GuideEntityEmbed Entity="LargeBeaker" Caption="Flour "/>
+<GuideEntityEmbed Entity="LargeBeaker" Caption="Sugar "/>
+<GuideEntityEmbed Entity="FoodSnackRaisins"/>
+</Box>_
+
+
+Oatmeal Cookie Recipe
+<Box>
+<GuideEntityEmbed Entity="LargeBeaker" Caption="Oats "/>
+<GuideEntityEmbed Entity="LargeBeaker" Caption="Sugar "/>
+<GuideEntityEmbed Entity="FoodButter"/>
+</Box>_
+
+
+Chocolate Chip Pancake Recipe
+<Box>
+<GuideEntityEmbed Entity="LargeBeaker" Caption="Flour "/>
+<GuideEntityEmbed Entity="LargeBeaker" Caption="Milk "/>
+<GuideEntityEmbed Entity="LargeBeaker" Caption="Egg "/>
+<GuideEntityEmbed Entity="FoodSnackChocolateBar"/>
+</Box>_
+
+
+Apple Pie
+<Box>
+<GuideEntityEmbed Entity="FoodDoughPie"/>
+<GuideEntityEmbed Entity="FoodApple"/>
+<GuideEntityEmbed Entity="FoodPlateTin"/>
+</Box>_
+
+
+Meat Pie Recipe
+<Box>
+<GuideEntityEmbed Entity="FoodDoughPie"/>
+<GuideEntityEmbed Entity="FoodMeat"/>
+<GuideEntityEmbed Entity="FoodPlateTin"/>
+</Box>_
+
+
+Xeno Pie Recipe
+<Box>
+<GuideEntityEmbed Entity="FoodDoughPie"/>
+<GuideEntityEmbed Entity="FoodMeatXeno"/>
+<GuideEntityEmbed Entity="FoodPlateTin"/>
+</Box>_
+
+
+Apple Cake Recipe
+<Box>
+<GuideEntityEmbed Entity="FoodCakePlain"/>
+<GuideEntityEmbed Entity="FoodApple"/>
+</Box>_
+
+
+Carrot Cake Recipe
+<Box>
+<GuideEntityEmbed Entity="FoodCakePlain"/>
+<GuideEntityEmbed Entity="FoodCarrot"/>
+</Box>_
+
+
+Lemon Cake Recipe
+<Box>
+<GuideEntityEmbed Entity="FoodCakePlain"/>
+<GuideEntityEmbed Entity="FoodLemon"/>
+</Box>_
+
+
+Orange Cake Recipe
+<Box>
+<GuideEntityEmbed Entity="FoodCakePlain"/>
+<GuideEntityEmbed Entity="FoodOrange"/>
+</Box>_
+
+
+Lime Cake Recipe
+<Box>
+<GuideEntityEmbed Entity="FoodCakePlain"/>
+<GuideEntityEmbed Entity="FoodLime"/>
+</Box>_
+
+
+Cheese Cake Recipe
+<Box>
+<GuideEntityEmbed Entity="LargeBeaker" Caption="Cream "/>
+<GuideEntityEmbed Entity="FoodCakePlain"/>
+<GuideEntityEmbed Entity="FoodCheeseSlice"/>
+</Box>_
+
+
+Clown Cake Recipe
+<Box>
+<GuideEntityEmbed Entity="ClothingMaskClown"/>
+<GuideEntityEmbed Entity="FoodCakePlain"/>
+</Box>_
+
+
+Banana Cream Pie
+<Box>
+<GuideEntityEmbed Entity="FoodDoughPie"/>
+<GuideEntityEmbed Entity="FoodBanana"/>
+<GuideEntityEmbed Entity="FoodPlateTin"/>
+</Box>_
+
+
+Cake Recipe
+<Box>
+<GuideEntityEmbed Entity="FoodCakeBatter"/>
+</Box>_
+
+
+Birthday Cake Recipe
+<Box>
+<GuideEntityEmbed Entity="LargeBeaker" Caption="Cream "/>
+<GuideEntityEmbed Entity="FoodCakePlain"/>
+</Box>_
+
+
+Chocolate Cake Recipe
+<Box>
+<GuideEntityEmbed Entity="FoodCakePlain"/>
+<GuideEntityEmbed Entity="FoodSnackChocolateBar"/>
+</Box>_
+
+
+Brain Cake Recipe
+<Box>
+<GuideEntityEmbed Entity="FoodCakePlain"/>
+<GuideEntityEmbed Entity="OrganHumanBrain"/>
+</Box>_
+
+
+Amanita Pie Recipe
+<Box>
+<GuideEntityEmbed Entity="FoodDoughPie"/>
+<GuideEntityEmbed Entity="FoodFlyAmanita"/>
+<GuideEntityEmbed Entity="FoodPlateTin"/>
+</Box>_
+
+
+Slime Cake Recipe
+<Box>
+<GuideEntityEmbed Entity="LargeBeaker" Caption="Slime "/>
+<GuideEntityEmbed Entity="FoodCakePlain"/>
+</Box>_
+
+
+Grape Tart Recipe
+<Box>
+<GuideEntityEmbed Entity="LargeBeaker" Caption="Sugar "/>
+<GuideEntityEmbed Entity="LargeBeaker" Caption="Milk "/>
+<GuideEntityEmbed Entity="FoodDoughPie"/>
+<GuideEntityEmbed Entity="FoodGrape"/>
+</Box>_
+
+
+Dumplings Recipe
+<Box>
+<GuideEntityEmbed Entity="LargeBeaker" Caption="Water "/>
+<GuideEntityEmbed Entity="LargeBeaker" Caption="Uncooked Animal Proteins "/>
+<GuideEntityEmbed Entity="FoodDoughSlice"/>
+</Box>_
+
+
+Warm Donk Pocket Recipe
+<Box>
+<GuideEntityEmbed Entity="FoodDonkpocket"/>
+</Box>_
+
+
+Warm Dank Pocket Recipe
+<Box>
+<GuideEntityEmbed Entity="FoodDonkpocketDank"/>
+</Box>_
+
+
+Warm Spicy Donk-Pocket Recipe
+<Box>
+<GuideEntityEmbed Entity="FoodDonkpocketSpicy"/>
+</Box>_
+
+
+Warm Teriyaki-Pocket Recipe
+<Box>
+<GuideEntityEmbed Entity="FoodDonkpocketTeriyaki"/>
+</Box>_
+
+
+Warm Pizza-Pocket Recipe
+<Box>
+<GuideEntityEmbed Entity="FoodDonkpocketPizza"/>
+</Box>_
+
+
+Warm Honk-Pocket Recipe
+<Box>
+<GuideEntityEmbed Entity="FoodDonkpocketHonk"/>
+</Box>_
+
+
+Warm Berry-Pocket Recipe
+<Box>
+<GuideEntityEmbed Entity="FoodDonkpocketBerry"/>
+</Box>_
+
+
+Warm Gondola-Pocket Recipe
+<Box>
+<GuideEntityEmbed Entity="FoodDonkpocketGondola"/>
+</Box>_
+
+
+Hot Chili Recipe
+<Box>
+<GuideEntityEmbed Entity="FoodBowlBig"/>
+<GuideEntityEmbed Entity="FoodChili"/>
+<GuideEntityEmbed Entity="FoodMeatCutlet"/>
+<GuideEntityEmbed Entity="FoodOnionSlice"/>
+<GuideEntityEmbed Entity="FoodTomato"/>
+</Box>_
+
+
+Cold Chili Recipe
+<Box>
+<GuideEntityEmbed Entity="LargeBeaker" Caption="Nitrogen "/>
+<GuideEntityEmbed Entity="FoodSoupChiliHot"/>
+</Box>_
+
+
+Clown's Tears Recipe
+<Box>
+<GuideEntityEmbed Entity="FoodBowlBig"/>
+<GuideEntityEmbed Entity="FoodOnionSlice"/>
+<GuideEntityEmbed Entity="FoodTomato"/>
+<GuideEntityEmbed Entity="BikeHorn"/>
+</Box>_
+
+
+Chili Con Carnival Recipe
+<Box>
+<GuideEntityEmbed Entity="FoodBowlBig"/>
+<GuideEntityEmbed Entity="FoodChili"/>
+<GuideEntityEmbed Entity="FoodMeatCutlet"/>
+<GuideEntityEmbed Entity="FoodOnionSlice"/>
+<GuideEntityEmbed Entity="FoodTomato"/>
+<GuideEntityEmbed Entity="ClothingShoesClown"/>
+</Box>_
+
+
+Queso Recipe
+<Box>
+<GuideEntityEmbed Entity="FoodChili"/>
+<GuideEntityEmbed Entity="FoodCheeseSlice"/>
+</Box>_
+
+
+Bbq Ribs Recipe
+<Box>
+<GuideEntityEmbed Entity="LargeBeaker" Caption="Bbq Sauce "/>
+<GuideEntityEmbed Entity="FoodMeat"/>
+<GuideEntityEmbed Entity="FoodKebabSkewer"/>
+</Box>_
+
+
+Enchiladas Recipe
+<Box>
+<GuideEntityEmbed Entity="FoodChili"/>
+<GuideEntityEmbed Entity="FoodMeatCutlet"/>
+<GuideEntityEmbed Entity="FoodCorn"/>
+</Box>_
+
+
+Herb Salad Recipe
+<Box>
+<GuideEntityEmbed Entity="FoodBowlBig"/>
+<GuideEntityEmbed Entity="FoodAmbrosiaVulgaris"/>
+<GuideEntityEmbed Entity="FoodApple"/>
+</Box>_
+
+
+Valid Salad Recipe
+<Box>
+<GuideEntityEmbed Entity="FoodBowlBig"/>
+<GuideEntityEmbed Entity="FoodAmbrosiaVulgaris"/>
+<GuideEntityEmbed Entity="FoodPotato"/>
+<GuideEntityEmbed Entity="FoodMeatMeatball"/>
+</Box>_
+
+
+Coleslaw Recipe
+<Box>
+<GuideEntityEmbed Entity="LargeBeaker" Caption="Vinaigrette "/>
+<GuideEntityEmbed Entity="FoodBowlBig"/>
+<GuideEntityEmbed Entity="FoodOnionRed"/>
+<GuideEntityEmbed Entity="FoodCabbage"/>
+</Box>_
+
+
+Caesar Salad Recipe
+<Box>
+<GuideEntityEmbed Entity="LargeBeaker" Caption="Oil Olive "/>
+<GuideEntityEmbed Entity="FoodBowlBig"/>
+<GuideEntityEmbed Entity="FoodOnionRedSlice"/>
+<GuideEntityEmbed Entity="FoodBreadPlainSlice"/>
+<GuideEntityEmbed Entity="FoodMozzarella"/>
+<GuideEntityEmbed Entity="FoodCabbage"/>
+</Box>_
+
+
+Citrus Salad Recipe
+<Box>
+<GuideEntityEmbed Entity="FoodBowlBig"/>
+<GuideEntityEmbed Entity="FoodOrange"/>
+<GuideEntityEmbed Entity="FoodLemon"/>
+<GuideEntityEmbed Entity="FoodLime"/>
+</Box>_
+
+
+Kimchi Salad Recipe
+<Box>
+<GuideEntityEmbed Entity="LargeBeaker" Caption="Vinegar "/>
+<GuideEntityEmbed Entity="FoodBowlBig"/>
+<GuideEntityEmbed Entity="FoodCarrot"/>
+<GuideEntityEmbed Entity="FoodCabbage"/>
+<GuideEntityEmbed Entity="FoodGarlic"/>
+</Box>_
+
+
+Fruit Salad Recipe
+<Box>
+<GuideEntityEmbed Entity="FoodBowlBig"/>
+<GuideEntityEmbed Entity="FoodOrange"/>
+<GuideEntityEmbed Entity="FoodApple"/>
+<GuideEntityEmbed Entity="FoodGrape"/>
+<GuideEntityEmbed Entity="FoodWatermelonSlice"/>
+</Box>_
+
+
+Jungle Salad Recipe
+<Box>
+<GuideEntityEmbed Entity="FoodBowlBig"/>
+<GuideEntityEmbed Entity="FoodBanana"/>
+<GuideEntityEmbed Entity="FoodApple"/>
+<GuideEntityEmbed Entity="FoodGrape"/>
+<GuideEntityEmbed Entity="FoodWatermelonSlice"/>
+</Box>_
+
+
+Watermelon Fruit Bowl Recipe
+<Box>
+<GuideEntityEmbed Entity="FoodWatermelon"/>
+<GuideEntityEmbed Entity="FoodApple"/>
+<GuideEntityEmbed Entity="FoodBanana"/>
+<GuideEntityEmbed Entity="FoodLemon"/>
+<GuideEntityEmbed Entity="FoodOrange"/>
+<GuideEntityEmbed Entity="FoodAmbrosiaVulgaris"/>
+</Box>_
+
+
+Dried Tobacco Leaves Recipe
+<Box>
+<GuideEntityEmbed Entity="LeavesTobacco"/>
+</Box>_
+
+
+Dried Cannabis Leaves Recipe
+<Box>
+<GuideEntityEmbed Entity="LeavesCannabis"/>
+</Box>_
+
+
+Aloe Cream Recipe
+<Box>
+<GuideEntityEmbed Entity="FoodAloe"/>
+</Box>_
+
+
+Medicated Suture Recipe
+<Box>
+<GuideEntityEmbed Entity="FoodPoppy"/>
+<GuideEntityEmbed Entity="Brutepack"/>
+<GuideEntityEmbed Entity="MaterialCloth1"/>
+<GuideEntityEmbed Entity="LargeBeaker" Caption="Tranexamic Acid "/>
+<GuideEntityEmbed Entity="LargeBeaker" Caption="Spaceacillin "/>
+</Box>_
+
+
+Regenerative Mesh Recipe
+<Box>
+<GuideEntityEmbed Entity="FoodAloe"/>
+<GuideEntityEmbed Entity="Ointment"/>
+<GuideEntityEmbed Entity="MaterialCloth1"/>
+<GuideEntityEmbed Entity="LargeBeaker" Caption="Sigynate "/>
+<GuideEntityEmbed Entity="LargeBeaker" Caption="Dermaline "/>
+</Box>_
+
+
+Suppermatter Recipe
+<Box>
+<GuideEntityEmbed Entity="FoodCakeBatter"/>
+<GuideEntityEmbed Entity="LargeBeaker" Caption="Sugar "/>
+<GuideEntityEmbed Entity="LargeBeaker" Caption="Nitrogen "/>
+<GuideEntityEmbed Entity="LargeBeaker" Caption="Plasma "/>
+</Box>_
+
+
+Meat Kebab Recipe
+<Box>
+<GuideEntityEmbed Entity="FoodMeatCutlet"/>
+<GuideEntityEmbed Entity="FoodKebabSkewer"/>
+</Box>_
+
+
+Hawaiian Kebab Recipe
+<Box>
+<GuideEntityEmbed Entity="FoodChili"/>
+<GuideEntityEmbed Entity="FoodMeatCutlet"/>
+<GuideEntityEmbed Entity="FoodPineappleSlice"/>
+<GuideEntityEmbed Entity="FoodKebabSkewer"/>
+</Box>_
+
+
+Fiesta Kebab Recipe
+<Box>
+<GuideEntityEmbed Entity="FoodChili"/>
+<GuideEntityEmbed Entity="FoodCorn"/>
+<GuideEntityEmbed Entity="FoodMeatCutlet"/>
+<GuideEntityEmbed Entity="FoodTomato"/>
+<GuideEntityEmbed Entity="FoodKebabSkewer"/>
+</Box>_
+
+
+Rat Kebab Recipe
+<Box>
+<GuideEntityEmbed Entity="FoodMeatRat"/>
+<GuideEntityEmbed Entity="FoodKebabSkewer"/>
+</Box>_
+
+
+Double Rat Kebab Recipe
+<Box>
+<GuideEntityEmbed Entity="FoodMeatRat"/>
+<GuideEntityEmbed Entity="FoodKebabSkewer"/>
+</Box>_
+
+
+Human Kebab Recipe
+<Box>
+<GuideEntityEmbed Entity="TorsoHuman"/>
+<GuideEntityEmbed Entity="FoodKebabSkewer"/>
+</Box>_
+
+
+Lizard Kebab Recipe
+<Box>
+<GuideEntityEmbed Entity="FoodMeatLizard"/>
+<GuideEntityEmbed Entity="FoodKebabSkewer"/>
+</Box>_
+
+
+Taco Recipe
+<Box>
+<GuideEntityEmbed Entity="FoodDoughSlice"/>
+<GuideEntityEmbed Entity="FoodTomato"/>
+<GuideEntityEmbed Entity="FoodOnionSlice"/>
+<GuideEntityEmbed Entity="FoodCheeseSlice"/>
+<GuideEntityEmbed Entity="FoodMeatCutlet"/>
+</Box>_
+
+
+Cooked Spaceshroom Recipe
+<Box>
+<GuideEntityEmbed Entity="FoodSpaceshroom"/>
+</Box>
+
+</Document>
