@@ -506,7 +506,7 @@
   id: MagazineShotgun
 
 - type: Tag
-  id: MagazineUniversalCaselessRifle
+  id: MagazineUniversalMagnum
 
 - type: Tag
   id: MagazineMagnumSubMachineGun

@@ -20,6 +20,9 @@
 		"name": "mag-1"
 	},
 	{
+		"name": "bolt-open"
+	},
+	{
 		"name": "inhand-left",
 		"directions": 4
 	},
