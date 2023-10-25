@@ -650,7 +650,7 @@
 - type: entity
   parent: ClothingHeadBase
   id: ClothingHeadHatTacticalMaidHeadband
-  name: tactical maid headband
+  name: red headband
   description: "A red headband - don't imagine yourself a Rambo and don't pick up a few machine guns."
   components:
   - type: Sprite

@@ -86,7 +86,7 @@
   parent: ClothingUniformBase
   id: ClothingUniformJumpsuitSalvageSpecialist
   name: salvage technician's jumpsuit
-  description: It's a snappy jumpsuit with a sturdy set of overalls. It's very dirty.
+  description: Standard uniform for exploring the unknowns of space and its many deadly inhabitants. It's very dirty and smells of welding fumes.
   components:
   - type: Sprite
     sprite: Clothing/Uniforms/Jumpsuit/salvage.rsi

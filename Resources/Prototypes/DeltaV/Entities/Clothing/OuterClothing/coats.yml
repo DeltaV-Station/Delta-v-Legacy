@@ -90,3 +90,15 @@
       coefficients:
         Slash: 0.9
         Heat: 0.75
+        
+- type: entity
+  parent: ClothingOuterStorageBase
+  id: ClothingOuterSkeletonCostume
+  name: skeleton costume
+  description: Once we're dead, the only thing that's left is bones, hee hee hee!.
+  components:
+  - type: Sprite
+    sprite: DeltaV/Clothing/OuterClothing/Coats/skeletoncostume.rsi
+  - type: Clothing
+    sprite: DeltaV/Clothing/OuterClothing/Coats/skeletoncostume.rsi
+    
