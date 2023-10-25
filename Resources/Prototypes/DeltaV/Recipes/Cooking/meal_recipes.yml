@@ -7,3 +7,14 @@
     FoodBreadPlainSlice: 2
     FoodCheeseSlice: 1
     FoodButter: 1
+
+- type: microwaveMealRecipe
+  id: RecipeGrilledMetal
+  name: grille-d cheese
+  result: FoodMealMetalGrilledCheese
+  time: 10
+  solids:
+    FoodBreadPlainSlice: 2
+    FoodCheeseSlice: 1
+    FoodButter: 1
+    PartRodMetal1: 3
