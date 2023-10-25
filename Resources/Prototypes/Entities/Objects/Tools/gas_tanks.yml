@@ -1,4 +1,4 @@
-﻿- type: entity
+- type: entity
   abstract: true
   parent: BaseItem
   id: GasTankBase
@@ -93,6 +93,38 @@
   - type: Clothing
     sprite: Objects/Tanks/red.rsi
 
+- type: entity
+  parent: OxygenTank
+  id: EmergencyNitrogenTank
+  name: emergency nitrogen tank
+  description: An easily portable tank for emergencies. Contains very little nitrogen, rated for survival use only.
+  components:
+  - type: Sprite
+    sprite: Objects/Tanks/emergency_red.rsi
+  - type: Item
+    size: 10
+    sprite: Objects/Tanks/emergency_red.rsi
+#  - type: GasTank
+#  - outputPressure: 21.3
+#    air:
+#      volume: 2
+#      temprature: 293.15
+#  - type: Clothing
+#    sprite: Objects/Tanks/emergency_red.rsi
+    slots:
+    - Pocket
+    - Belt
+    - Suit Storage
+  - type: MeleeWeapon
+    damage:
+      types:
+        Blunt: 5
+  - type: PhysicalComposition
+    materialComposition:
+      Steel: 100
+# for whatever reason, using the same code as the emergency oxygen tank causes the game to never launch, using only the Clothing tag it, at least boots.
+# I don't know enough to know why it's happening, however me and taro_varne's best guess was that the ID being too similar causes the game to pull both the items?
+# this means that the emergency nitro tank CANNOT be worn on the belt, for some reason, but it's the best I am able to do.
 - type: entity
   parent: OxygenTank
   id: EmergencyOxygenTank

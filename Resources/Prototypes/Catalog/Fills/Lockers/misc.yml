@@ -27,6 +27,12 @@
       - id: OxygenTankFilled
         prob: 0.20
         orGroup: EmergencyTankOrRegularTank
+      - id: EmergencyNitrogenTankFilled
+        prob: 0.80
+        orGroup: EmergencyNitrogenTankorRegularTank
+      - id: NitrogenTankFilled
+        prob: 0.20
+        orGroup: EmergencyNitrogenTankorRegularTank
       - id: ToolboxEmergencyFilled
         prob: 0.4
       - id: MedkitOxygenFilled
@@ -51,6 +57,12 @@
       - id: OxygenTankFilled
         prob: 0.20
         orGroup: EmergencyTankOrRegularTank
+      - id: EmergencyNitrogenTankFilled
+        prob: 0.80
+        orGroup: EmergencyNitrogenTankorRegularTank
+      - id: NitrogenTankFilled
+        prob: 0.20
+        orGroup: EmergencyNitrogenTankorRegularTank
       - id: ToolboxEmergencyFilled
         prob: 0.4
       - id: MedkitOxygenFilled

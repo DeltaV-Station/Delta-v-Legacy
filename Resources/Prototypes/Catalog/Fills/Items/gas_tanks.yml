@@ -113,6 +113,22 @@
           - 0           # oxygen not included
           - 6.154137219 # nitrogen
         temperature: 293.15
+- type: entity
+  id: EmergencyNitrogenTankFilled
+  parent: EmergencyNitrogenTank
+  suffix: Filled
+  name: emergency nitrogen tank
+  components:
+    - type: GasTank
+      outputPressure: 21.3
+      # 38 minutes, hypothetically.
+      air:
+        volume: 6
+        moles:
+         - 0           #oxygen
+         - 0.820551629 #nitrogen
+        temperature: 293.15
+
 
 - type: entity
   id: NitrousOxideTankFilled
