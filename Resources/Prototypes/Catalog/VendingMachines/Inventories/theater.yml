@@ -10,6 +10,7 @@
     ClothingOuterWinterMime: 1
     ClothingOuterWinterMusician: 1
     ClothingUniformDressRed: 1
+    ClothingUniformJumpsuitKilt: 3
     ClothingMaskJoy: 2
     ClothingHeadHatCardborg: 2
     ClothingOuterCardborg: 2
@@ -45,6 +46,7 @@
     UniformSchoolgirlRed: 1
     UniformSchoolgirlDusk: 1
     UniformSchoolgirlBlazerTan: 1
+    ClothingUniformJumpsuitPilgrim: 1
     UniformGeisha: 1
     ClothingKimonoBlue: 2
     ClothingKimonoPink: 2
@@ -67,3 +69,5 @@
     ClothingHeadHatBunny: 2
   emaggedInventory:
     ClothingShoesBling: 1
+    ClothingHeadHelmetKabuto: 1
+    ClothingOuterArmorTouseiGusoku: 1

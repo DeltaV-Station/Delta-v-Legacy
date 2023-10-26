@@ -1,0 +1,13 @@
+- type: entity
+  parent: BaseStorageItem
+  id: PumpkinPail
+  name: pumpkin pail
+  description: A plastic pail that resembles a jack-o'-lantern to hold all your delicious treats! No candy included.
+  components:
+  - type: Sprite
+    sprite: DeltaV/Objects/Storage/pumpkinpail.rsi
+    state: empty-icon
+  - type: Item
+    size: 60
+  - type: Storage
+    capacity: 60

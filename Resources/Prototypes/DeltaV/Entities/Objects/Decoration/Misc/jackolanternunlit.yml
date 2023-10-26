@@ -1,0 +1,32 @@
+- type: entity
+  parent: BaseItem
+  id: UnlitJackoLantern
+  name: jack-o'-lantern
+  description: A carved pumpkin that resembles a smile, not very spooky but somewhat cute.
+  components:
+  - type: Sprite
+    sprite: DeltaV/Objects/Decoration/Misc/jackolanternunlit.rsi
+    state: jackolantern1
+
+- type: entity
+  parent: BaseItem
+  id: UnlitJackoLantern1
+  name: medium-sized jack-o'-lantern
+  description: A carved pumpkin that resembles a smile, not very spooky but somewhat cute.
+  components:
+  - type: Sprite
+    scale: 0.8, 0.8
+    sprite: DeltaV/Objects/Decoration/Misc/jackolanternunlit1.rsi
+    state: jackolantern2
+
+- type: entity
+  parent: BaseItem
+  id: UnlitJackoLantern2
+  name: small-sized jack-o'-lantern
+  description: A carved pumpkin that resembles a smile, not very spooky but somewhat cute.
+  components:
+  - type: Sprite
+    scale: 0.6, 0.6
+    sprite: DeltaV/Objects/Decoration/Misc/jackolanternunlit2.rsi
+    state: jackolantern3
+
