@@ -6,6 +6,9 @@
   abstract: true
   components:
   - type: Food
+  - type: Tag
+    tags:
+      - FoodSnack
   - type: Sprite
     sprite: Objects/Consumable/Food/snacks.rsi
   - type: SolutionContainerManager
@@ -38,6 +41,9 @@
   - type: Item
   - type: Food
     trash: FoodPacketBoritosTrash
+  - type: Tag
+    tags:
+      - FoodSnack
 
 - type: entity
   name: cheesie honkers
@@ -54,6 +60,9 @@
   - type: Item
   - type: Food
     trash: FoodPacketCheesieTrash
+  - type: Tag
+    tags:
+      - FoodSnack
 
 - type: entity
   name: chips
@@ -71,7 +80,10 @@
   - type: Item
   - type: Food
     trash: FoodPacketChipsTrash
-
+  - type: Tag
+    tags:
+      - FoodSnack
+      
 - type: entity
   name: chocolate bar
   parent: BaseItem
@@ -84,6 +96,9 @@
   - type: Item
     heldPrefix: chocolatebar
     size: 3
+  - type: Tag
+    tags:
+      - FoodSnack
   - type: SpawnItemsOnUse
     items:
       - id: FoodPacketChocolateTrash
@@ -128,7 +143,10 @@
       - id: FoodSnackEnergyBar
     sound:
       path: /Audio/Effects/unwrap.ogg
-
+  - type: Tag
+    tags:
+      - FoodSnack
+      
 - type: entity
   name: energy bar
   parent: FoodSnackBase
@@ -177,7 +195,10 @@
   - type: Item
   - type: Food
     trash: FoodPacketRaisinsTrash
-
+  - type: Tag
+    tags:
+      - FoodSnack
+      
 - type: entity
   name: Sus Jerky
   parent: FoodSnackBase
@@ -286,7 +307,10 @@
     size: 1
   - type: Food
     trash: FoodCookieFortune
-
+  - type: Tag
+    tags:
+      - FoodSnack
+      
 - type: entity
   id: FoodSnackNutribrick
   parent: BaseItem
@@ -304,7 +328,10 @@
       - id: FoodSnackNutribrickOpen
     sound:
       path: /Audio/Effects/unwrap.ogg
-
+  - type: Tag
+    tags:
+      - FoodSnack
+      
 - type: entity
   id: FoodSnackNutribrickOpen
   parent: FoodSnackBase

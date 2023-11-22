@@ -22,6 +22,9 @@
   - type: Sprite
     sprite: Objects/Consumable/Food/candy.rsi
     state: lollipop
+  - type: Tag
+    tags:
+      - FoodSnack
 
 - type: entity
   parent: FoodBase
@@ -45,4 +48,7 @@
   - type: Sprite
     sprite: Objects/Consumable/Food/candy.rsi
     state: gumball
+  - type: Tag
+    tags:
+      - FoodSnack
 

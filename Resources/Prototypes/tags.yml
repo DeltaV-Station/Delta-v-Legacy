@@ -333,6 +333,9 @@
   id: FootstepSound
 
 - type: Tag
+  id: FoodSnack
+  
+- type: Tag
   id: ForceFixRotations # fixrotations command WILL target this
 
 - type: Tag

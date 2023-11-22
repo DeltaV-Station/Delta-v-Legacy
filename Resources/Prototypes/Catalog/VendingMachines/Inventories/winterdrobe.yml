@@ -11,10 +11,15 @@
     ClothingNeckScarfStripedPurple: 3
     ClothingOuterWinterCoat: 6
     ClothingOuterCoatBomber: 3
+    ClothingOuterCoatJensen: 3
+    ClothingOuterCoatLeatherJacket: 3
+    ClothingOuterCoatOvercoat: 3
+    ClothingMaskBalaclava: 3
     ClothingHeadHatSantahat: 2
     ClothingHeadHatXmasCrown: 2
 
   emaggedInventory:
     ClothingNeckScarfStripedSyndieGreen: 3
     ClothingNeckScarfStripedSyndieRed: 3
-    ClothingNeckScarfStripedCentcom: 3
+    ClothingOuterCoatSyndieCap: 1
+    ClothingOuterWinterSyndie: 1
